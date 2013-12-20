@@ -3612,6 +3612,8 @@ ID,Block/Item,Mod,Unlocalised name,Class
 28797,Item,HardcoreEnderExpansion,item.endermanRelicRepaired,chylex.hee.item.ItemEndermanRelicRepaired
 28798,Item,HardcoreEnderExpansion,item.endermanRelicShattered,chylex.hee.item.ItemEndermanRelicShattered
 28799,Item,HardcoreEnderExpansion,item.monsterPlacer,chylex.hee.item.ItemSpawnEggs
+28800,Item,HardcoreEnderExpansion,item.endoplasm,net.minecraft.item.Item
+28801,Item,HardcoreEnderExpansion,item.ghostTalisman,net.minecraft.item.Item
 28810,Item,HardcoreEnderExpansion,item.infestationRemedy,chylex.hee.item.ItemInfestationRemedy
 28811,Item,HardcoreEnderExpansion,item.drySplinter,chylex.hee.item.ItemInfestationRemedyIngredient
 28812,Item,HardcoreEnderExpansion,item.infestedBatWing,chylex.hee.item.ItemInfestationRemedyIngredient
@@ -3938,6 +3940,6 @@ ID,Block/Item,Mod,Unlocalised name,Class
 31994,Item,extracells,FluidDisplay - this item is just used to mime fluids!,extracells.items.ItemFluidDisplay
 31995,Item,extracells,item.null,extracells.items.ItemCasing
 31996,Item,Forestry,item.ingotCopper,forestry.core.items.ItemForestry
-31997,Item,HardcoreEnderExpansion,item.endoplasm,net.minecraft.item.Item
-31998,Item,HardcoreEnderExpansion,item.ghostTalisman,net.minecraft.item.Item
+31997,Item,Forestry,item.apatite,forestry.core.items.ItemForestry
+31998,Item,Forestry,item.fertilizerCompound,forestry.core.items.ItemForestry
 31999,Item,Forestry,item.fertilizerBio,forestry.core.items.ItemForestry
