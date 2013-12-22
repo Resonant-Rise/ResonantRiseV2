@@ -556,9 +556,9 @@ ID,Block/Item,Mod,Unlocalised name,Class
 1049,Block,MineFactoryReloaded,tile.mfr.rednet.panel,powercrystals.minefactoryreloaded.block.BlockRedNetPanel
 1110,Block,arsmagica2,tile.arsmagica2:arcanereconstructor,am2.blocks.BlockArcaneReconstructor
 1111,Block,arsmagica2,tile.arsmagica2:blockastralbarrier,am2.blocks.BlockAstralBarrier
-1112,Block,arsmagica2,tile.arsmagica2:aum,am2.blocks.BlockAum
+1112,Block,arsmagica2,tile.arsmagica2:aum,am2.blocks.AMFlower
 1113,Block,arsmagica2,tile.arsmagica2:blockcaster,am2.blocks.BlockCaster
-1114,Block,arsmagica2,tile.arsmagica2:blue_orchid,am2.blocks.BlockBlueOrchid
+1114,Block,arsmagica2,tile.arsmagica2:blue_orchid,am2.blocks.AMFlower
 1115,Block,arsmagica2,tile.arsmagica2:calefactor,am2.blocks.BlockCalefactor
 1116,Block,arsmagica2,tile.arsmagica2:casterRune,am2.blocks.BlockCasterRune
 1117,Block,arsmagica2,tile.arsmagica2:altarOfCreation,am2.blocks.BlockCraftingAltar
@@ -569,7 +569,6 @@ ID,Block/Item,Mod,Unlocalised name,Class
 1122,Block,arsmagica2,tile.arsmagica2:essenceconduit,am2.blocks.BlockEssenceConduit
 1123,Block,arsmagica2,tile.arsmagica2:essencenexus,am2.blocks.BlockEssenceNexus
 1124,Block,arsmagica2,tile.arsmagica2:essence_refiner,am2.blocks.BlockEssenceRefiner
-1125,Block,arsmagica2,tile.arsmagica2:illuminated,am2.blocks.BlockIlluminated
 1126,Block,arsmagica2,tile.arsmagica2:illusionBlock,am2.blocks.IllusionBlock
 1127,Block,arsmagica2,tile.arsmagica2:gold_inlay,am2.blocks.BlockInlay
 1128,Block,arsmagica2,tile.arsmagica2:iron_inlay,am2.blocks.BlockInlay
@@ -599,6 +598,10 @@ ID,Block/Item,Mod,Unlocalised name,Class
 1153,Block,arsmagica2,tile.arsmagica2:witchwoodSingleSlab,am2.blocks.WitchwoodSlabs
 1154,Block,arsmagica2,tile.arsmagica2:stairsWitchwood,am2.blocks.WitchwoodStairs
 1155,Block,arsmagica2,tile.arsmagica2:saplingWitchwood,am2.blocks.WitchwoodSapling
+1156,Block,arsmagica2,tile.arsmagica2:invisibleUtility,am2.blocks.BlockInvisibleUtility
+1157,Block,arsmagica2,tile.arsmagica2:magiciansWorkbench,am2.blocks.BlockMagiciansWorkbench
+1158,Block,arsmagica2,tile.arsmagica2:magic_sigil,am2.blocks.BlockMagicSigil
+1159,Block,arsmagica2,tile.arsmagica2:everstone,am2.blocks.BlockEverstone
 1225,Block,ComputerCraft,tile.cccomputer,dan200.computer.shared.BlockComputerMFR
 1226,Block,ComputerCraft,tile.ccdiskdrive,dan200.computer.shared.BlockPeripheral
 1227,Block,CCTurtle,tile.ccturtle,dan200.turtle.shared.BlockTurtleMFR
@@ -2788,6 +2791,16 @@ ID,Block/Item,Mod,Unlocalised name,Class
 20262,Item,ChargePads,item.upgradeBasicModule,myrathi.ic2.chargepads.item.modules.ItemBasicModule
 20263,Item,ChargePads,item.upgradeEmitterModule,myrathi.ic2.chargepads.item.modules.ItemEmitterModule
 20264,Item,ChargePads,item.upgradeKit,myrathi.ic2.chargepads.item.ItemUpgradeKit
+20316,Item,arsmagica2,item.arsmagica2:sigilstone,am2.items.ItemSigilStone
+20317,Item,arsmagica2,item.arsmagica2:magic_broom,am2.items.ItemMagicBroom
+20318,Item,arsmagica2,item.arsmagica2:arcane_spellbook,am2.items.ItemArcaneGuardianSpellbook
+20319,Item,arsmagica2,item.arsmagica2:winter_arm,am2.items.ItemWinterGuardianArm
+20320,Item,arsmagica2,item.arsmagica2:air_sled,am2.items.ItemAirSled
+20321,Item,arsmagica2,item.arsmagica2:earth_armor,am2.armor.ItemEarthGuardianArmor
+20322,Item,arsmagica2,item.arsmagica2:water_orbs,am2.armor.ItemWaterGuardianOrbs
+20323,Item,arsmagica2,item.arsmagica2:fire_ears,am2.armor.ItemFireGuardianEars
+20324,Item,arsmagica2,item.arsmagica2:workbenchUpgrade,am2.items.ArsMagicaItem
+20325,Item,arsmagica2,item.arsmagica2:bindingCatalyst,am2.items.ItemBindingCatalyst
 20356,Item,arsmagica2,item.arsmagica2:itemOre,am2.items.ItemOre
 20358,Item,arsmagica2,item.arsmagica2:essence,am2.items.ItemEssence
 20359,Item,arsmagica2,item.arsmagica2:spell_book,am2.items.ItemSpellBook

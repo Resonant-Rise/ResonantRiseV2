@@ -1,6 +1,6 @@
 <version>
   <pack>
-    <version>2.6-DEV-002</version>
+    <version>2.6-DEV-003</version>
     <minecraft>1.6.4</minecraft>
     <memory>2048</memory>
     <permgen>256</permgen>
@@ -48,9 +48,9 @@
          version="rv14-finale2"
          website="http://ae-mod.info/" donation="http://ae-mod.info/" 
          description="Zwip." />
-	<mod url="packs/ResonantRise/files/2-STABLE/AM2_1.0.2b.zip" file="AM2_1.0.2b.zip" md5="1ba71fcfed89022233bddc4e09a9d337" download="server"
+	<mod url="packs/ResonantRise/files/2.6/AM2_1.1.0.zip" file="AM2_1.1.0.zip" md5="26435c9824224a73fd5dc40daf41f37b" download="server"
          name="Ars Magica 2 [by Mithion]" optional="no" type="mods" 
-         version="1.0.2b"
+         version="1.1.0"
          website="http://www.minecraftforum.net/topic/2028696-ars-magica-2-162164-" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=AX7QDYVEP7E2J&amp;lc=CA&amp;item_name=Qor%20Concept%20Entertainment&amp;item_number=Ars%20Magica&amp;currency_code=CAD&amp;bn=PP%2dDonationsBF%3abtn_donate_LG%2egif%3aNonHosted" 
          description="This one might creep you out. A comprehensive magic system." />
     <mod url="packs/ResonantRise/files/2-STABLE/Atomic_Science_v1.0.0.160.jar" file="Atomic_Science_v1.0.0.160.jar" md5="13bce66c4cd4cc0e4ae3eed304c03193" download="server"
