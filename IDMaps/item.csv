@@ -911,6 +911,10 @@ ID,Block/Item,Mod,Unlocalised name,Class
 2009,Block,UndergroundBiomes,tile.igneousStone,exterminatorJeff.undergroundBiomes.common.block.BlockIgneousStone
 2010,Block,UndergroundBiomes,tile.metamorphicStone,exterminatorJeff.undergroundBiomes.common.block.BlockMetamorphicStone
 2011,Block,UndergroundBiomes,tile.sedimentaryStone,exterminatorJeff.undergroundBiomes.common.block.BlockSedimentaryStone
+2050,Block,endernet,tile.endernet.enderChatBox,pl.asie.endernet.block.BlockEnderChatBox
+2051,Block,endernet,tile.endernet.enderModem,pl.asie.endernet.block.BlockEnderModem
+2052,Block,endernet,tile.endernet.enderReceiver,pl.asie.endernet.block.BlockEnderReceiver
+2053,Block,endernet,tile.endernet.enderTransmitter,pl.asie.endernet.block.BlockEnderTransmitter
 2130,Block,ProjRed|Exploration,tile.projectred.exploration.ore,mrtjp.projectred.exploration.BlockOre
 2131,Block,ProjRed|Exploration,tile.projectred.exploration.stone,mrtjp.projectred.exploration.BlockSpecialStone
 2132,Block,ProjRed|Illumination,tile.projectred.illumination.lamp,mrtjp.projectred.illumination.BlockLamp
@@ -2566,7 +2570,7 @@ ID,Block/Item,Mod,Unlocalised name,Class
 17277,Item,AWWayofTime,item.fireScribeTool,WayofTime.alchemicalWizardry.FireScribeTool
 17278,Item,AWWayofTime,item.earthScribeTool,WayofTime.alchemicalWizardry.EarthScribeTool
 17279,Item,AWWayofTime,item.airScribeTool,WayofTime.alchemicalWizardry.AirScribeTool
-17280,Item,AWWayofTime,item.weakActivationCrystal,WayofTime.alchemicalWizardry.ActivationCrystal
+17280,Item,AWWayofTime,item.null,WayofTime.alchemicalWizardry.ActivationCrystal
 17281,Item,AWWayofTime,item.magicianBloodOrb,WayofTime.alchemicalWizardry.MagicianBloodOrb
 17282,Item,AWWayofTime,item.sigilOfElementalAffinity,WayofTime.alchemicalWizardry.SigilOfElementalAffinity
 17283,Item,AWWayofTime,item.sigilOfHaste,WayofTime.alchemicalWizardry.SigilOfHaste
@@ -2617,6 +2621,7 @@ ID,Block/Item,Mod,Unlocalised name,Class
 17329,Item,AWWayofTime,item.standardFillingAgent,WayofTime.alchemicalWizardry.StandardFillingAgent
 17330,Item,AWWayofTime,item.enhancedFillingAgent,WayofTime.alchemicalWizardry.EnhancedFillingAgent
 17331,Item,AWWayofTime,item.sanguineHelmet,WayofTime.alchemicalWizardry.ItemSanguineArmour
+17336,Item,AWWayofTime,item.sigilOfMagnetism,WayofTime.alchemicalWizardry.SigilOfMagnetism
 17586,Item,Backpack,item.backpack,backpack.item.ItemBackpack
 17587,Item,Backpack,item.boundLeather,backpack.item.ItemLeather
 17588,Item,Backpack,item.tannedLeather,backpack.item.ItemLeather
