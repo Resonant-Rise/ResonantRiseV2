@@ -1,6 +1,6 @@
 <version>
   <pack>
-    <version>2.6.1.0-EXP</version>
+    <version>2.6.1.1-EXP</version>
     <minecraft>1.6.4</minecraft>
     <memory>2048</memory>
     <permgen>256</permgen>
@@ -62,7 +62,7 @@
          website="http://www.minecraftforum.net/topic/1749374-" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=NS64FL5ZXYG3N&amp;lc=RU&amp;item_name=I%20write%20mods%20for%20minecraft&amp;item_number=minecraft&amp;currency_code=USD&amp;bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted"
          description="Chisel Util Mod" />
     <mod url="packs/ResonantRise/files/2.6/backpack-1.26.29-1.6.x.jar" file="backpack-1.26.29-1.6.x.jar" md5="72f64a21506a64b09cdf8e1ee2409997" download="server"
-         name="Backpacks" version="1.22.25" type="mods" 
+         name="Backpacks" version="1.26.29" type="mods" 
          website="http://www.minecraftforum.net/topic/1492661-15x-16x-backpacks-v-11213/" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=CCEHF29WUSQVJ" 
          description="Baggy leather in your inventory." />
 	<mod url="packs/ResonantRise/files/2-STABLE/Basic_Components_v1.0.0.19.jar" file="Basic_Components_v1.0.0.19.jar" md5="fbcbd5ee2b6a22c2cf4b267e4ab35e23" download="server"
@@ -94,8 +94,8 @@
          version="1.1" 
          website="http://www.bibliocraftmod.com/?page_id=50#bibliowoods"
          description="More wood colors for furniture."  />
-    <mod url="packs/ResonantRise/files/2-STABLE/BigReactors-0.2.10X1.jar" file="BigReactors-0.2.10X1.jar" md5="3acbb78663b757b136990470bc59f9c1" download="server"
-         name="Big Reactors" type="mods" version="0.2.10X1"
+    <mod url="packs/ResonantRise/files/2.6/BigReactors-0.2.10A.jar" file="BigReactors-0.2.10A.jar" md5="6125a5fcf7b835b92ad3febcc8460249" download="server"
+         name="Big Reactors" type="mods" version="0.2.10A"
          website="http://big-reactors.com/"
 		 description="Just in time for the 1.6.4 pack release! \o/" />
 	<mod url="packs/ResonantRise/files/2-STABLE/binnie-mods-1.8-dev2.jar" file="binnie-mods-1.8-dev2.jar" md5="5be11aedf6538573215ab232f64a23b6" download="server"
@@ -148,8 +148,8 @@
 	<mod url="packs/ResonantRise/files/2-STABLE/ComputerCraft1.58.zip" file="ComputerCraft1.58.zip" md5="e2bed275489ffa7741ee247a11dbf142" download="server"
          name="ComputerCraft" type="mods"  version="1.58" website="http://computercraft.info/" donation="http://www.computercraft.info/donate/" 
          description="Lua interpreters in a block." />
-	<mod url="packs/ResonantRise/files/2-STABLE/compactsolars-universal-1.6.4-4.4.19.224.zip" file="compactsolars-universal-1.6.4-4.4.19.224.zip" md5="d54c56c4a0647a5d6b3c4bd831b91cf6" download="server"
-         name="Compact Solars" type="mods" version="4.4.19.224" website="http://files.minecraftforge.net/CompactSolars/" donation="http://www.computercraft.info/donate/" 
+	<mod url="packs/ResonantRise/files/2.6/compactsolars-universal-1.6.4-4.4.19.226.zip" file="compactsolars-universal-1.6.4-4.4.19.226.zip" md5="03ed31508109b416835b94d064e0c02f" download="server"
+         name="Compact Solars" type="mods" version="4.4.19.226" website="http://files.minecraftforge.net/CompactSolars/" donation="http://www.computercraft.info/donate/" 
          description="The dreaded easy power is now in!" />
     <mod url="packs/ResonantRise/files/2-STABLE/DartCraft%20Beta%200.2.14.jar" file="DartCraft Beta 0.2.14.jar" md5="49248e4b2822724c11361559008c8ebe" download="server"
          name="DartCraft" type="mods"  version="0.2.14"
@@ -178,8 +178,8 @@
         name="DenPipes-Forestry" type="mods" version="1.1.8"
         website="http://www.minecraftforum.net/topic/1253666-152forge-denoflions-mods-threads-condensed/" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=INpureProjects%40gmail%2ecom&amp;lc=US&amp;item_name=denoflions%20mods&amp;currency_code=USD&amp;bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted"
         description="Improvements to buildcraft pipes with bees and trees in mind." />
-	<mod url="packs/ResonantRise/files/2-STABLE/dimensional-anchor-57.1.7.jar" file="dimensional-anchor-57.1.7.jar" md5="2aa419abf86231339f7cb18d575aaf9c" download="server"
-         name="Dimensional Anchors" type="mods" version="57.1.7"
+	<mod url="packs/ResonantRise/files/2.6/dimensional-anchor-57.1.9.jar" file="dimensional-anchor-57.1.9.jar" md5="86c967f056192f0cb9b2dee86d966fdf" download="server"
+         name="Dimensional Anchors" type="mods" version="57.1.9"
          website="http://www.minecraftforum.net/topic/1001131-162-immibiss-mods-smp-now-with-857-less-version-numbers-in-this-title/" 
          description="Immibis's chunk loaders. Preferred."  />
     <mod url="packs/ResonantRise/files/2-STABLE/EmasherResource-1.2.1.8.zip" file="EmasherResource-1.2.1.8.zip" md5="e05e3b144ba56e20c08d3de75288c72a" download="server"
@@ -207,8 +207,8 @@
 		name="EnhancedPortals 3" type="mods" version="3.0.0 Beta 2d"
 		website="http://www.minecraftforum.net/topic/2143651-"
 		description="Custom teleportation that looks fancier!" />
-    <mod url="packs/ResonantRise/files/2-STABLE/ExtraCells-1.6.1c.jar" file="ExtraCells-1.6.1c.jar" md5="f7f47ba144f8da8147ddcee0a3a83c10" download="server"
-         name="Extra Cells" depends="Applied Energistics"  type="mods" version="1.6.1c"
+    <mod url="packs/ResonantRise/files/2.6/ExtraCells-1.6.2.jar" file="ExtraCells-1.6.2.jar" md5="83a042f15d7c83e25fdb280b24ed5584" download="server"
+         name="Extra Cells" depends="Applied Energistics"  type="mods" version="1.6.2"
          website="http://www.minecraftforum.net/topic/1801643-m3gas-extracells-appliedenergistics-add-on/"
          description="A massive expansion to Applied Energistics. Store fluids and more."  />
     <mod url="packs/ResonantRise/files/2-STABLE/ExtraTiC-1.6.4-0.7.1.jar" file="ExtraTiC-1.6.4-0.7.1.jar" md5="e9d9354b3e67199c3a069d307e99ddb3" download="server"
