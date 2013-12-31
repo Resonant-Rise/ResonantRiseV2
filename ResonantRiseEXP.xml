@@ -1,6 +1,6 @@
 <version>
   <pack>
-    <version>2.6.1.1-EXP</version>
+    <version>2.6.2.0-EXP</version>
     <minecraft>1.6.4</minecraft>
     <memory>2048</memory>
     <permgen>256</permgen>
@@ -22,12 +22,12 @@
 
   <mods>
     <!-- Forge and MCPC -->
-    <mod url="packs/ResonantRise/files/forgelibs/forge-1.6.4-9.11.1.953-universal.jar" file="forge-1.6.4-9.11.1.953-universal.jar" md5="0bf5250f9ff4b7b0f3bcc41893010781" download="server"
-          name="Forge" type="forge" version="9.11.1.953" website="http://www.minecraftforge.com" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=Z5MLLA62HSUM2" description="The Core." />
+    <mod url="packs/ResonantRise/files/forgelibs/forge-1.6.4-9.11.1.965-universal.jar" file="forge-1.6.4-9.11.1.965-universal.jar" md5="02efbef58dbd39fccead94777b611fce" download="server"
+          name="Forge" type="forge" version="9.11.1.965" website="http://www.minecraftforge.com" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=Z5MLLA62HSUM2" description="The Core." />
     <mod url="packs/ResonantRise/files/forgelibs/ForgeMultipartDebug_1.0.0.227.zip" file="ForgeMultipartDebug_1.0.0.227.zip" md5="7c4433c436966e930d57d739af908a75" download="server"
          name="Forge Multipart [+Libs]" type="extract" extractto="root" version="1.0.0.227" website="http://www.minecraftforum.net/topic/909223-147152-smp-chickenbones-mods/" donation="http://www.chickenbones.craftsaddle.org/Pages/donate.php" description="Forge Multipart done right."  />	 
-    <mod url="packs/ResonantRise/files/forgelibs/mcpc-plus-1.6.4-R2.1-forge953-B179.jar" file="mcpc-plus-1.6.4-R2.1-forge953-B179.jar" md5="f04439a4003ef74a0b749fdd44f22b7e" download="server"
-         name="MCPC+" type="mcpc" version="B179"
+    <mod url="packs/ResonantRise/files/forgelibs/mcpc-plus-1.6.4-R2.1-forge965-B198.jar" file="mcpc-plus-1.6.4-R2.1-forge965-B198.jar" md5="cd852f0de996105c55c6c03dd4325b13" download="server"
+         name="MCPC+" type="mcpc" version="B198"
          website="http://ci.md-5.net/job/MCPC-Plus/"
 		 description="Server superweapon!"
          optional="yes" client="no"/>
@@ -564,9 +564,9 @@
          website="http://forum.industrial-craft.net/index.php?page=Thread&amp;threadID=9205"
          md5="77D5E98B3653843C7E1C1DD7E2086E0E"
          description="Like solar power except with wind." />
-	<mod url="http://adf.ly/acyrl"
-         md5="17BC0161DACD7E10168A26067D9CABF1"
-		 file="Railcraft_1.6.4-8.3.1.0.jar" download="browser" name="Railcraft" type="mods" version="8.3.0.0" website="http://www.railcraft.info/" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=HCQMGHQ4D5GQ4" description="Choo Choo Buckaroo and also boilers." 
+	<mod url="http://adf.ly/ayIcO"
+         md5="16A8A7720B8041BD97D3C723DA5FA21A"
+		 file="Railcraft_1.6.4-8.3.2.0.jar" download="browser" name="Railcraft" type="mods" version="8.3.2.0" website="http://www.railcraft.info/" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=HCQMGHQ4D5GQ4" description="Choo Choo Buckaroo and also boilers." 
          depends="Buildcraft"/>
     <mod url="http://adf.ly/1311628/thaumcraft-4" 
 		 file="Thaumcraft4.0.5b.zip" download="browser" name="Thaumcraft 4" type="mods" version="4.0.5b" website="http://www.minecraftforum.net/topic/2011841-" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=88PFJA73AEFFW&amp;lc=ZA&amp;currency_code=USD&amp;bn=PP%2dDonationsBF%3abtn_donate_LG%2egif%3aNonHosted" description="This one won't creep you out, kids."
