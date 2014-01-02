@@ -1,6 +1,6 @@
 <version>
   <pack>
-    <version>2.6.3.0-EXP</version>
+    <version>2.6.3.1-EXP</version>
     <minecraft>1.6.4</minecraft>
     <memory>2048</memory>
     <permgen>256</permgen>
@@ -174,8 +174,8 @@
          name="DenPipes-Forestry" type="mods" version="1.1.8"
          website="http://www.minecraftforum.net/topic/1253666-152forge-denoflions-mods-threads-condensed/" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=INpureProjects%40gmail%2ecom&amp;lc=US&amp;item_name=denoflions%20mods&amp;currency_code=USD&amp;bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted"
          description="Improvements to buildcraft pipes with bees and trees in mind." />
-    <mod url="packs/ResonantRise/files/2-STABLE/dimensional-anchor-57.1.7.jar" file="dimensional-anchor-57.1.7.jar" md5="2aa419abf86231339f7cb18d575aaf9c" download="server"
-         name="Dimensional Anchors" type="mods" version="57.1.7"
+    <mod url="packs/ResonantRise/files/2.6/dimensional-anchor-57.1.9.jar" file="dimensional-anchor-57.1.9.jar" md5="86c967f056192f0cb9b2dee86d966fdf" download="server"
+         name="Dimensional Anchors" type="mods" version="57.1.9"
          website="http://www.minecraftforum.net/topic/1001131-162-immibiss-mods-smp-now-with-857-less-version-numbers-in-this-title/"
          description="Immibis's chunk loaders. Preferred."  />
     <mod url="packs/ResonantRise/files/2-STABLE/EmasherResource-1.2.1.8.zip" file="EmasherResource-1.2.1.8.zip" md5="e05e3b144ba56e20c08d3de75288c72a" download="server"
@@ -284,9 +284,9 @@
     <mod url="packs/ResonantRise/files/2-STABLE/infinitubes-57.0.5.jar" file="infinitubes-57.0.5.jar" md5="0bbd903117ed9142e687f4e4de462520" download="server"
          name="Infinitubes" depends="ImmibisCore"  type="mods"
          version="57.0.5" website="http://www.minecraftforum.net/topic/1001131-162-immibiss-mods-smp-now-with-857-less-version-numbers-in-this-title/" description="Immibis's exceptionally powerful IKEA-esque item transport." />
-    <mod url="packs/ResonantRise/files/2-STABLE/ironchest-universal-1.6.4-5.4.1.649.zip" file="ironchest-universal-1.6.4-5.4.1.649.zip" md5="2675aa3370448254e880bb069c6f06c6" download="server"
+    <mod url="packs/ResonantRise/files/2.6/ironchest-universal-1.6.4-5.4.1.663.zip" file="ironchest-universal-1.6.4-5.4.1.663.zip" md5="421e3f53c1df9442af3cdac0936dcbb5" download="server"
          name="Iron Chests"  type="mods"
-         version="5.4.1.649"
+         version="5.4.1.663"
          website="http://www.minecraftforum.net/topic/981855-15-and-up-forge-universalironchests-50-minecraft-15-update/"
          description="The Best Chest Upgrades" />
     <mod url="packs/ResonantRise/files/2-STABLE/JABBA_1.0.3.zip" file="JABBA_1.0.3.zip" md5="142b9440b195d15c6f918155b8050027" download="server"
