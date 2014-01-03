@@ -1,6 +1,6 @@
 <version>
   <pack>
-    <version>2.6-DEV-012</version>
+    <version>2.6-DEV-013</version>
     <minecraft>1.6.4</minecraft>
     <memory>2048</memory>
     <permgen>256</permgen>
@@ -440,8 +440,8 @@
          name="Reliquary"  type="mods" version="1.1.1"
          website="https://github.com/TrainerGuy22/Reliquary"
          description="Xenophobic legacies in a compelling collection."  />
-    <mod url="packs/ResonantRise/files/2.6/RemoteIO-universal-1.6.4-1.9.0-b12.jar" file="RemoteIO-universal-1.6.4-1.9.0-b12.jar" md5="56467280507123d24503932aca82881e" download="server"
-		 name="Remote IO" version="1.9.0-b12" type="mods"
+    <mod url="packs/ResonantRise/files/2.6/RemoteIO-universal-1.6.4-1.9.1-b14.jar" file="RemoteIO-universal-1.6.4-1.9.1-b14.jar" md5="2af0f37d1efe35d0210f8ab8d998d3fa" download="server"
+		 name="Remote IO" version="1.9.1-b14" type="mods"
 		 website="http://www.minecraftforum.net/topic/2038242-"
 		 donation="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=K78KZ37HLU4X2&amp;lc=US&amp;item_name=dmillerw%27s%20Mods&amp;currency_code=USD&amp;bn=PP%2dDonationsBF%3abtn_donate_SM%2egif%3aNonHosted" authors="dmillerw"
 		 description="The Remote IO&apos;s can be linked to any block with an inventory... imagine this: four separate quarries all outputting into a unique Remote IO linked to a single chest. Gone are the days of pipes! You are also able to link the Remote IO to machines and even use them with fluids! " />
@@ -469,10 +469,15 @@
          name="Super Crafting Frame" type="mods" version="1.6.2.7"
          website="http://www.minecraftforum.net/topic/1870830-"
          description="Item frames are slightly less useless." />
-    <mod url="packs/ResonantRise/files/2-STABLE/ThaumicTinkerer 2.0-47.jar" file="ThaumicTinkerer 2.0-47.jar" md5="c7b4112d6e0a9f7e0836c7e296668d89" download="server"
+    <mod url="packs/ResonantRise/files/2.6/ThaumicTinkerer 2.1-58.jar" file="ThaumicTinkerer 2.1-58.jar" md5="240b71aa3fd357bd5a2fc25b80c28c8d" download="server"
          name="Thaumic Tinkerer" type="mods"
-         version="2.0-47" depends="Thaumcraft 4"
+         version="2.1-58" depends="Thaumcraft 4"
          website="http://www.minecraftforum.net/topic/1813058-" description="Because Thaumcraft has a dearth of content."
+         />
+	<mod url="packs/ResonantRise/files/2.6/ThaumicTinkererKAMI_j6.jar" file="ThaumicTinkererKAMI_j6.jar" md5="03bea04d5b4db84e77c027c3c5c21466" download="server"
+         name="Thaumic Tinkerer KAMI" type="mods"
+         version="n/a" depends="Thaumic Tinkerer" optional="yes"
+         website="http://www.minecraftforum.net/topic/1813058-" description="PHENOMENAL COSMIC POWER. Strictly optional."
          />
     <mod url="packs/ResonantRise/files/2-STABLE/ThermalExpansion-3.0.0.0.jar" file="ThermalExpansion-3.0.0.0.jar" md5="6ce4b126f7e1ac7fb82a42ab9b5b0220" download="server"
          name="Thermal Expansion" type="mods" depends="CoFH Core" version="3.0.0.0"
