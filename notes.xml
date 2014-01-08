@@ -40,7 +40,12 @@
          name="Nether Ores" type="mods" 
          version="2.1.5-76" website="http://www.minecraftforum.net/topic/1629898-151152-powercrystals-mods-the-updates-never-stop/" description=""  />
     
-    <mod url="packs/ResonantRise/files/TickProfiler-1.5.2-1.0.0.42.jar" file="TickProfiler-1.5.2-1.0.0.42.jar" md5="183120d4fed94151487c6f1e3f420104" download="server"
+    <mod url="packs/ResonantRise/files/2.6/Resonant-Induction-0.3.0.291.jar" file="Resonant-Induction-0.3.0.291.jar" md5="0f6d70d9ce4135da61add5fc9a067fec" download="server"
+		 name="Resonant Induction" version="0.3.0.291" type="mods"
+		 website="http://calclavia.com/resonant-induction/" donation="http://www.universalelectricity.com"
+		 description="Universal electricial induction! Tesla coils!" />
+	
+	<mod url="packs/ResonantRise/files/TickProfiler-1.5.2-1.0.0.42.jar" file="TickProfiler-1.5.2-1.0.0.42.jar" md5="183120d4fed94151487c6f1e3f420104" download="server"
          name="TickProfiler" type="mods" version="1.0.0.42"
          website="https://github.com/nallar/TickProfiler"
          description="Find out what's slow, and where." />
