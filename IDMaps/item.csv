@@ -615,9 +615,6 @@ ID,Block/Item,Mod,Unlocalised name,Class
 1228,Block,CCTurtle,tile.ccturtle,dan200.turtle.shared.BlockTurtleExpandedMFR
 1229,Block,ComputerCraft,tile.cccable,dan200.computer.shared.BlockCable
 1230,Block,CCTurtle,tile.ccturtle,dan200.turtle.shared.BlockTurtleAdvancedMFR
-1250,Block,JAKJ_RedstoneInMotion,tile.JAKJ_RedstoneInMotion_CarriageDrive,JAKJ.RedstoneInMotion.CarriageDrive
-1251,Block,JAKJ_RedstoneInMotion,tile.JAKJ_RedstoneInMotion_Carriage,JAKJ.RedstoneInMotion.Carriage
-1252,Block,JAKJ_RedstoneInMotion,tile.JAKJ_RedstoneInMotion_Spectre,JAKJ.RedstoneInMotion.Spectre
 1275,Block,Mystcraft,tile.myst.bookstand,com.xcompwiz.mystcraft.block.BlockBookstand
 1276,Block,Mystcraft,tile.myst.crystal,com.xcompwiz.mystcraft.block.BlockCrystal
 1277,Block,Mystcraft,tile.myst.lectern,com.xcompwiz.mystcraft.block.BlockLectern
@@ -3165,8 +3162,6 @@ ID,Block/Item,Mod,Unlocalised name,Class
 22574,Item,BiblioWoodsForestry,item.seatBack,jds.bibliocraft.forestrywood.items.ItemSeatBackF5
 23256,Item,endgame,item.staticQuestCreator,uk.co.shadeddimensions.endgame.item.ItemStaticQuestCreator
 23257,Item,endgame,item.questTracker,uk.co.shadeddimensions.endgame.item.ItemQuestTracker
-23356,Item,JAKJ_RedstoneInMotion,item.JAKJ_RedstoneInMotion_SimpleItemSet,JAKJ.RedstoneInMotion.SimpleItemSet
-23357,Item,JAKJ_RedstoneInMotion,item.JAKJ_RedstoneInMotion_ToolItemSet,JAKJ.RedstoneInMotion.ToolItemSet
 23776,Item,EnhancedPortals3,item.ep3.wrench,uk.co.shadeddimensions.ep3.item.ItemWrench
 23777,Item,EnhancedPortals3,item.ep3.goggles,uk.co.shadeddimensions.ep3.item.ItemGoggles
 23778,Item,EnhancedPortals3,item.ep3.paintbrush,uk.co.shadeddimensions.ep3.item.ItemPaintbrush
