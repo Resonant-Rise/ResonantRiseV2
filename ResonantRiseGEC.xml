@@ -1,6 +1,6 @@
 <version>
   <pack>
-    <version>2.6-DEV-019</version>
+    <version>2.6-DEV-020</version>
     <minecraft>1.6.4</minecraft>
     <memory>2048</memory>
     <permgen>256</permgen>
