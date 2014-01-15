@@ -428,10 +428,6 @@ ID,Block/Item,Mod,Unlocalised name,Class
 607,Block,ImmibisCore,tile.null,mods.immibis.ccperiphs.lan.BlockLANWire
 615,Block,ImmibisCore,tile.null,mods.immibis.tubestuff.BlockTubestuff
 616,Block,ImmibisCore,tile.null,mods.immibis.tubestuff.BlockStorage
-650,Block,endgame,tile.leaderboard,uk.co.shadeddimensions.endgame.block.BlockLeaderboard
-651,Block,endgame,tile.survivalQuest,uk.co.shadeddimensions.endgame.block.BlockSurvivalQuest
-652,Block,endgame,tile.staticSurvivalQuest,uk.co.shadeddimensions.endgame.block.BlockStaticSurvivalQuest
-653,Block,endgame,tile.staticQuest,uk.co.shadeddimensions.endgame.block.BlockStaticQuest
 701,Block,EnderIO,tile.enderIO:blockEnderIo,crazypants.enderio.enderface.BlockEnderIO
 702,Block,EnderIO,tile.enderIO:blockConduitBundle,crazypants.enderio.conduit.BlockConduitBundle
 703,Block,EnderIO,tile.enderIO:blockConduitFacade,crazypants.enderio.conduit.facade.BlockConduitFacade
@@ -3209,8 +3205,6 @@ ID,Block/Item,Mod,Unlocalised name,Class
 22572,Item,BiblioWoodsForestry,item.seatBack,jds.bibliocraft.forestrywood.items.ItemSeatBackF3
 22573,Item,BiblioWoodsForestry,item.seatBack,jds.bibliocraft.forestrywood.items.ItemSeatBackF4
 22574,Item,BiblioWoodsForestry,item.seatBack,jds.bibliocraft.forestrywood.items.ItemSeatBackF5
-23256,Item,endgame,item.staticQuestCreator,uk.co.shadeddimensions.endgame.item.ItemStaticQuestCreator
-23257,Item,endgame,item.questTracker,uk.co.shadeddimensions.endgame.item.ItemQuestTracker
 23776,Item,EnhancedPortals3,item.ep3.wrench,uk.co.shadeddimensions.ep3.item.ItemWrench
 23777,Item,EnhancedPortals3,item.ep3.goggles,uk.co.shadeddimensions.ep3.item.ItemGoggles
 23778,Item,EnhancedPortals3,item.ep3.paintbrush,uk.co.shadeddimensions.ep3.item.ItemPaintbrush

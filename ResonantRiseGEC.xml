@@ -1,6 +1,6 @@
 <version>
   <pack>
-    <version>2.6-DEV-022</version>
+    <version>2.6-DEV-023</version>
     <minecraft>1.6.4</minecraft>
     <memory>2048</memory>
     <permgen>256</permgen>
@@ -89,8 +89,8 @@
          name="Big Reactors" type="mods" version="0.2.14A"
          website="http://big-reactors.com/"
          description="Just in time for the 1.6.4 pack release! \o/" />
-    <mod url="packs/ResonantRise/files/2.6/binnie-mods-1.8-pre1.jar" file="binnie-mods-1.8-pre1.jar" md5="25c32434af65cb6e9a9963e70bb8f2a8" download="server"
-         name="Binnie's Mods" type="mods" version="1.8-pre1"
+    <mod url="packs/ResonantRise/files/2.6/binnie-mods-1.8.0.jar" file="binnie-mods-1.8.0.jar" md5="67177d94f61104076432cf277631209a" download="server"
+         name="Binnie's Mods" type="mods" version="1.8.0"
          website="http://www.minecraftforum.net/topic/1324321-" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=KQWXKT6KK7SH4"
          description="Extensions for Forestry" />
     <mod url="packs/ResonantRise/files/2.6/BiomesOPlenty-universal-1.6.4-1.2.1.416.jar" file="BiomesOPlenty-universal-1.6.4-1.2.1.416.jar" md5="9c37429db3fe052f07b6671656b2b649" download="server"
