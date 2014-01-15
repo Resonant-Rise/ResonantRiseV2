@@ -492,11 +492,6 @@
          name="Sync" version="2.1.1" optional="yes"
          type="mods"
          website="http://ichun.us/mods/sync/" donation="http://pitchinbox.com/redirect.php?id=5757827081" authors="iChun" description="This mod provides clones, or as we like to call it, 'shells'. These shells are basically a new individual, with their own inventory, experience level, and even gamemode." />
-        <mod url="packs/ResonantRise/files/2.6/ThaumicTinkererKAMI_j6.jar" file="ThaumicTinkererKAMI_j6.jar" md5="03bea04d5b4db84e77c027c3c5c21466" download="server"
-         name="Thaumic Tinkerer KAMI" type="mods"
-         version="n/a" depends="Thaumic Tinkerer" optional="yes"
-         website="http://www.minecraftforum.net/topic/1813058-" description="PHENOMENAL COSMIC POWER. Strictly optional."
-         />
 	<mod url="packs/ResonantRise/files/2.6/ThaumicTinkerer 2.1-66.jar" file="ThaumicTinkerer 2.1-66.jar" md5="e63f229867af1df7000c19eb93f070bd" download="server"
          name="Thaumic Tinkerer" type="mods"
          version="2.1-66" depends="Thaumcraft 4"
