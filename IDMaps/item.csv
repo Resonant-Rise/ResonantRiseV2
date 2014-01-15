@@ -630,6 +630,9 @@ ID,Block/Item,Mod,Unlocalised name,Class
 1302,Block,chococraft,tile.item.strawBlock,chococraft.common.items.BlockStraw
 1311,Block,StevesFactoryManager,tile.BlockMachineManagerName,vswe.stevesfactory.blocks.BlockManager
 1312,Block,StevesFactoryManager,tile.BlockCableName,vswe.stevesfactory.blocks.BlockCable
+1313,Block,StevesFactoryManager,tile.BlockCableRelayName,vswe.stevesfactory.blocks.BlockCableRelay
+1314,Block,StevesFactoryManager,tile.BlockCableOutputName,vswe.stevesfactory.blocks.BlockCableOutput
+1315,Block,StevesFactoryManager,tile.BlockCableInputName,vswe.stevesfactory.blocks.BlockCableInput
 1345,Block,Sync,tile.Sync_ShellConstructor,sync.common.block.BlockDualVertical
 1352,Block,EnhancedPortals3,tile.ep3.decoration,uk.co.shadeddimensions.ep3.block.BlockDecoration
 1353,Block,EnhancedPortals3,tile.ep3.stabilizer,uk.co.shadeddimensions.ep3.block.BlockStabilizer
@@ -802,8 +805,10 @@ ID,Block/Item,Mod,Unlocalised name,Class
 1730,Block,Metallurgy3Machines,tile.Metallurgy:machines/enchanter/Enchanter,rebelkeithy.mods.metallurgy.machines.enchanter.BlockMetallurgyEnchantmentTable
 1753,Block,MagicBees,tile.effectJar,magicbees.block.BlockEffectJar
 1754,Block,MagicBees,tile.hive,magicbees.block.BlockHive
+1852,Block,witchery,tile.witcheryCrystalBall,com.emoniph.witchery.blocks.BlockCrystalBall
+1853,Block,witchery,tile.witcheryBloodRose,com.emoniph.witchery.blocks.BlockBloodRose
 1854,Block,witchery,tile.witcheryGrassper,com.emoniph.witchery.blocks.BlockGrassper
-1855,Block,witchery,tile.witcheryEnderBramble,com.emoniph.witchery.blocks.BlockEnderBramble
+1855,Block,witchery,tile.witcheryBramble,com.emoniph.witchery.blocks.BlockBramble
 1856,Block,witchery,tile.witcheryCritterSnare,com.emoniph.witchery.blocks.BlockCritterSnare
 1857,Block,witchery,tile.witcheryStatueGoddess,com.emoniph.witchery.blocks.BlockStatueGoddess
 1858,Block,witchery,tile.witcheryLeechChest,com.emoniph.witchery.blocks.BlockLeechChest
@@ -1110,6 +1115,17 @@ ID,Block/Item,Mod,Unlocalised name,Class
 2415,Block,CarpentersBlocks,tile.blockCarpentersTorch,carpentersblocks.block.BlockCarpentersTorch
 2416,Block,CarpentersBlocks,tile.blockCarpentersSafe,carpentersblocks.block.BlockCarpentersSafe
 2417,Block,CarpentersBlocks,tile.blockCarpentersFlowerPot,carpentersblocks.block.BlockCarpentersFlowerPot
+2451,Block,EE3,tile.ee3:calcinator,com.pahimar.ee3.block.BlockCalcinator
+2452,Block,EE3,tile.ee3:aludel,com.pahimar.ee3.block.BlockAludelBase
+2453,Block,EE3,tile.ee3:glassBell,com.pahimar.ee3.block.BlockGlassBell
+2454,Block,EE3,tile.ee3:alchemicalChest,com.pahimar.ee3.block.BlockAlchemicalChest
+2455,Block,EE3,tile.ee3:alchemicalFuelBlock,com.pahimar.ee3.block.BlockAlchemicalFuel
+2456,Block,EE3,tile.ee3:chalk,com.pahimar.ee3.block.BlockChalk
+2457,Block,EE3,tile.ee3:null,com.pahimar.ee3.block.BlockAlchemySquare
+2458,Block,EE3,tile.ee3:researchStation,com.pahimar.ee3.block.BlockResearchStation
+2460,Block,EE3,tile.ee3:infusedCloth,com.pahimar.ee3.block.BlockInfusedCloth
+2461,Block,EE3,tile.ee3:infusedWood,com.pahimar.ee3.block.BlockInfusedWood
+2462,Block,EE3,tile.ee3:infusedPlanks,com.pahimar.ee3.block.BlockInfusedPlanks
 2477,Block,powersuits,tile.tinkerTable,net.machinemuse.powersuits.block.BlockTinkerTable
 2478,Block,powersuits,tile.luxCapacitor,net.machinemuse.powersuits.block.BlockLuxCapacitor
 2500,Block,ExtraUtilities,tile.extrautils:angelBlock,extrautils.block.BlockAngelBlock
@@ -1333,6 +1349,7 @@ ID,Block/Item,Mod,Unlocalised name,Class
 3006,Block,Mekanism,tile.ObsidianTNT,mekanism.common.block.BlockObsidianTNT
 3007,Block,Mekanism,tile.OreBlock,mekanism.common.block.BlockOre
 3008,Block,Mekanism,tile.MachineBlock2,mekanism.common.block.BlockMachine
+3009,Block,Mekanism,tile.CardboardBox,mekanism.common.block.BlockCardboardBox
 3160,Block,gascraft,tile.chimney,emasher.gas.block.BlockDuct
 3161,Block,gascraft,tile.naturalGas,emasher.gas.block.BlockNaturalGas
 3162,Block,gascraft,tile.gasPocket,emasher.gas.block.BlockMineGas
@@ -1360,8 +1377,6 @@ ID,Block/Item,Mod,Unlocalised name,Class
 3197,Block,TConstruct,tile.metal.molten.nickel,tconstruct.blocks.TConstructFluid
 3198,Block,TConstruct,tile.metal.molten.shiny,tconstruct.blocks.TConstructFluid
 3199,Block,TConstruct,tile.metal.molten.invar,tconstruct.blocks.TConstructFluid
-3200,Block,ResonantInduction|Core,tile.multiBlock,calclavia.lib.multiblock.link.BlockMulti
-3201,Block,ResonantInduction|Core,tile.null,resonantinduction.core.resource.fluid.BlockFluidMixture
 3205,Block,TConstruct,tile.metal.molten.aluminum,tconstruct.blocks.TConstructFluid
 3206,Block,TConstruct,tile.metal.molten.cobalt,tconstruct.blocks.TConstructFluid
 3207,Block,TConstruct,tile.metal.molten.ardite,tconstruct.blocks.TConstructFluid
@@ -1535,6 +1550,10 @@ ID,Block/Item,Mod,Unlocalised name,Class
 3415,Block,ResonantInduction|Mechanical,tile.resonantinduction:rejector,resonantinduction.mechanical.logistic.BlockRejector
 3416,Block,ResonantInduction|Mechanical,tile.resonantinduction:tank,resonantinduction.mechanical.fluid.tank.BlockTank
 3422,Block,ResonantInduction|Mechanical,tile.resonantinduction:manipulator,resonantinduction.mechanical.logistic.BlockManipulator
+3423,Block,ResonantInduction|Core,tile.null,resonantinduction.core.resource.fluid.BlockFluidMixture
+3424,Block,ResonantInduction|Mechanical,tile.resonantinduction:ReleaseValve,resonantinduction.mechanical.fluid.valve.BlockReleaseValve
+3425,Block,ResonantInduction|Core,tile.multiBlock,calclavia.lib.multiblock.link.BlockMulti
+3426,Block,ResonantInduction|Electrical,tile.resonantinduction:encoder,resonantinduction.electrical.encoder.BlockEncoder
 3500,Block,JABBA,tile.BetterBarrel,mcp.mobius.betterbarrels.common.BlockBarrel
 3501,Block,JABBA,tile.MiniBarrel (WIP),mcp.mobius.betterbarrels.common.BlockMiniBarrel
 3502,Block,JABBA,tile.Barrel Shelf (WIP),mcp.mobius.betterbarrels.common.BlockBarrelShelf
@@ -1543,7 +1562,6 @@ ID,Block/Item,Mod,Unlocalised name,Class
 3558,Block,SuperCraftingFrame,tile.CraftingFrame,edgarallen.scf.content.BlockCraftingFrame
 3559,Block,SuperCraftingFrame,tile.SuperItemFrame,edgarallen.scf.content.BlockSuperItemFrame
 3600,Block,gendustry,tile.gendustry.mutagen,net.bdew.gendustry.mutagen.BlockMutagen
-3601,Block,gendustry,tile.test.power.emitter,net.bdew.gendustry.test.PowerEmitterBlock
 3602,Block,gendustry,tile.gendustry.mutagen.producer,net.bdew.gendustry.machines.mproducer.BlockMutagenProducer
 3603,Block,gendustry,tile.gendustry.mutatron,net.bdew.gendustry.machines.mutatron.BlockMutatron
 3604,Block,gendustry,tile.gendustry.apiary,net.bdew.gendustry.machines.apiary.BlockApiary
@@ -1556,26 +1574,26 @@ ID,Block/Item,Mod,Unlocalised name,Class
 3653,Block,remoteIO,tile.skylight,com.dmillerw.remoteIO.block.BlockSkylight
 3654,Block,remoteIO,tile.remoteInventory,com.dmillerw.remoteIO.block.BlockRemoteInventory
 3768,Block,AtomicScience,tile.atomicscience:radioactive,calclavia.lib.prefab.block.BlockRadioactive
-3769,Block,AtomicScience,tile.atomicscience:centrifuge,atomicscience.fenlie.BlockCentrifuge
-3770,Block,AtomicScience,tile.atomicscience:fissionReactor,atomicscience.fenlie.BFissionReactor
+3769,Block,AtomicScience,tile.atomicscience:centrifuge,atomicscience.fission.process.BlockCentrifuge
+3770,Block,AtomicScience,tile.atomicscience:fissionReactor,atomicscience.fission.reactor.BlockFissionReactor
 3771,Block,AtomicScience,tile.atomicscience:turbine,atomicscience.jiqi.BTurbine
-3772,Block,AtomicScience,tile.atomicscience:nuclearBoiler,atomicscience.fenlie.BNuclearBoiler
-3774,Block,AtomicScience,tile.atomicscience:controlRod,atomicscience.fenlie.BControlRod
+3772,Block,AtomicScience,tile.atomicscience:nuclearBoiler,atomicscience.fission.process.BlockNuclearBoiler
+3774,Block,AtomicScience,tile.atomicscience:controlRod,atomicscience.fission.reactor.BlockControlRod
 3775,Block,AtomicScience,tile.atomicscience:thermometer,atomicscience.jiqi.BlockThermometer
 3776,Block,AtomicScience,tile.atomicscience:fusionReactor,atomicscience.hecheng.BFusionReactor
-3777,Block,AtomicScience,tile.atomicscience:plasma,atomicscience.hecheng.BDengLiZiTi
+3777,Block,AtomicScience,tile.atomicscience:plasma,atomicscience.hecheng.BlockPlasma
 3778,Block,AtomicScience,tile.atomicscience:electromagnet,atomicscience.hecheng.BElectromagnet
 3779,Block,AtomicScience,tile.atomicscience:chemicalExtractor,atomicscience.jiqi.BChemicalExtractor
-3780,Block,AtomicScience,tile.atomicscience:siren,atomicscience.fenlie.BSiren
+3780,Block,AtomicScience,tile.atomicscience:siren,atomicscience.fission.reactor.BlockSiren
 3781,Block,AtomicScience,tile.atomicscience:electromagnetGlass,atomicscience.hecheng.BElectromagnetGlass
 3782,Block,AtomicScience,tile.atomicscience:funnel,atomicscience.jiqi.BFunnel
 3783,Block,AtomicScience,tile.atomicscience:accelerator,atomicscience.particle.accelerator.BlockAccelerator
 3784,Block,AtomicScience,tile.atomicscience:instantBuilder,atomicscience.jiqi.BlockInstantBuilder
 3785,Block,AtomicScience,tile.atomicscience:fulmination,atomicscience.particle.fulmination.BlockFulmination
 3786,Block,AtomicScience,tile.atomicscience:atomicAssembler,atomicscience.jiqi.BAtomicAssembler
-3788,Block,AtomicScience,tile.atomicscience:toxicWaste,atomicscience.fenlie.BlockToxicWaste
-3789,Block,AtomicScience,tile.atomicscience:reactorTap,atomicscience.fenlie.BReactorDrain
-3790,Block,AtomicScience,tile.atomicscience:oreUranium,atomicscience.fenlie.BUraniumOre
+3788,Block,AtomicScience,tile.atomicscience:toxicWaste,atomicscience.fission.reactor.BlockToxicWaste
+3789,Block,AtomicScience,tile.atomicscience:reactorTap,atomicscience.fission.reactor.BlockReactorDrain
+3790,Block,AtomicScience,tile.atomicscience:oreUranium,atomicscience.fission.BlockUraniumOre
 3902,Block,HardcoreEnderExpansion,tile.mobSpawner,chylex.hee.block.BlockCustomSpawner
 3903,Block,HardcoreEnderExpansion,tile.laserBeam,chylex.hee.block.BlockLaserBeam
 3904,Block,HardcoreEnderExpansion,tile.endermanHead,chylex.hee.block.BlockEndermanHead
@@ -2005,6 +2023,7 @@ ID,Block/Item,Mod,Unlocalised name,Class
 9319,Item,factorization,item.factorization:logic_matrix_controller,factorization.shared.ItemCraftingComponent
 9320,Item,factorization,item.factorization:socket/,factorization.sockets.ItemSocketPart
 9321,Item,factorization,item.factorization:servo/instruction_plate,factorization.shared.ItemCraftingComponent
+9322,Item,factorization,item.factorization:servo/commenter,factorization.servo.ItemCommenter
 9656,Item,ForestryExtras,item.DraconicGrafter,mods.ForestryExtras.gadgets.DraconicGrafter
 9657,Item,ForestryExtras,item.LegendaryGrafter,mods.ForestryExtras.gadgets.LegandaryGrafter
 9660,Item,ForestryExtras,item.AlumiteFrame,mods.ForestryExtras.frames.AlumiteFrame
@@ -2189,6 +2208,8 @@ ID,Block/Item,Mod,Unlocalised name,Class
 11482,Item,Mekanism,item.Balloon,mekanism.common.item.ItemBalloon
 11483,Item,Mekanism,item.null,mekanism.common.item.ItemShard
 11485,Item,Mekanism,item.CompressedRedstone,mekanism.common.item.ItemMekanism
+11486,Item,Mekanism,item.Sawdust,mekanism.common.item.ItemMekanism
+11487,Item,Mekanism,item.Salt,mekanism.common.item.ItemMekanism
 11490,Item,Mekanism,item.WalkieTalkie,mekanism.common.item.ItemWalkieTalkie
 11556,Item,MekanismGenerators,item.SolarPanel,mekanism.common.item.ItemMekanism
 11557,Item,MekanismGenerators,item.BioFuel,mekanism.common.item.ItemMekanism
@@ -2519,18 +2540,21 @@ ID,Block/Item,Mod,Unlocalised name,Class
 14023,Item,AtomicScience,item.atomicscience:hazmatMask,atomicscience.jiqi.ItHeYi
 14024,Item,AtomicScience,item.atomicscience:thermometer,atomicscience.jiqi.ItWenDuBiao
 14025,Item,AtomicScience,item.atomicscience:cellEmpty,atomicscience.wujian.ItCell
-14027,Item,AtomicScience,item.atomicscience:rodFissileFuel,atomicscience.wujian.ItFenLie
+14027,Item,AtomicScience,item.atomicscience:rodFissileFuel,atomicscience.wujian.ItemFissileFuel
 14028,Item,AtomicScience,item.atomicscience:cellDeuterium,atomicscience.wujian.ItCell
-14029,Item,AtomicScience,item.atomicscience:strangeMatter,atomicscience.fenlie.ItGuaiWuSu
+14029,Item,AtomicScience,item.atomicscience:strangeMatter,atomicscience.particle.accelerator.ItGuaiWuSu
 14030,Item,AtomicScience,item.atomicscience:antimatter,atomicscience.particle.fulmination.ItemAntimatter
-14032,Item,AtomicScience,item.atomicscience:yellowcake,atomicscience.fenlie.ItFuShe
-14033,Item,AtomicScience,item.atomicscience:uranium,atomicscience.fenlie.ItYou
+14032,Item,AtomicScience,item.atomicscience:yellowcake,atomicscience.fission.ItemRadioactive
+14033,Item,AtomicScience,item.atomicscience:uranium,atomicscience.fission.ItemUranium
 14037,Item,AtomicScience,item.atomicscience:rodBreederFuel,atomicscience.wujian.ItHuanYuan
-14038,Item,AtomicScience,item.atomicscience:bucketToxicWaste,net.minecraft.item.ItemBucket
+14038,Item,AtomicScience,item.atomicscience:cellWater,atomicscience.wujian.ItCell
+14039,Item,AtomicScience,item.atomicscience:bucketToxicWaste,net.minecraft.item.ItemBucket
 14100,Item,ResonantInduction|Electrical,item.resonantinduction:wire,resonantinduction.electrical.wire.ItemWire
 14101,Item,ResonantInduction|Electrical,item.resonantinduction:multimeter,resonantinduction.electrical.multimeter.ItemMultimeter
 14102,Item,ResonantInduction|Electrical,item.resonantinduction:transformer,resonantinduction.electrical.transformer.ItemTransformer
-14103,Item,ResonantInduction|Core,item.resonantinduction:dust,resonantinduction.core.resource.item.ItemDust
+14104,Item,ResonantInduction|Mechanical,item.resonantinduction:gear,resonantinduction.mechanical.gear.ItemGear
+14105,Item,ResonantInduction|Core,item.resonantinduction:oreDust,resonantinduction.core.resource.item.ItemDust
+14106,Item,ResonantInduction|Mechanical,item.resonantinduction:PipeGuage,resonantinduction.mechanical.item.ItemPipeGauge
 14228,Item,CalclaviaCore,item.calclavia:multitool,calclavia.components.ItemMultitool
 14229,Item,CalclaviaCore,item.calclavia:motor,calclavia.components.ItemBase
 14230,Item,CalclaviaCore,item.calclavia:circuitBasic,calclavia.components.ItemBase
@@ -3015,7 +3039,7 @@ ID,Block/Item,Mod,Unlocalised name,Class
 20406,Item,arsmagica2,item.arsmagica2:manafocus,am2.items.ItemFocusMana
 20407,Item,arsmagica2,item.arsmagica2:chargefocus,am2.items.ItemFocusCharge
 20409,Item,arsmagica2,item.arsmagica2:affinity_tome,am2.items.ItemAffinityBook
-20410,Item,ResonantInduction|Archaic,item.imprint,resonantinduction.archaic.imprint.ItemBlockImprint
+20414,Item,ResonantInduction|Archaic,item.resonantinduction:imprint,resonantinduction.archaic.imprint.ItemBlockImprint
 20421,Item,arsmagica2,item.arsmagica2:mana_scepter,am2.items.ItemManaScepter
 20422,Item,arsmagica2,item.arsmagica2:keystone,am2.items.ItemKeystone
 20424,Item,arsmagica2,item.arsmagica2:red_chalk,am2.items.ItemChalk
@@ -3514,6 +3538,12 @@ ID,Block/Item,Mod,Unlocalised name,Class
 26964,Item,Metallurgy3Base,item.Metallurgy:Fantasy/Black SteelChest,rebelkeithy.mods.metallurgy.core.metalsets.ItemMetallurgyArmor
 26965,Item,Metallurgy3Base,item.Metallurgy:Fantasy/Black SteelLegs,rebelkeithy.mods.metallurgy.core.metalsets.ItemMetallurgyArmor
 26966,Item,Metallurgy3Base,item.Metallurgy:Fantasy/Black SteelBoots,rebelkeithy.mods.metallurgy.core.metalsets.ItemMetallurgyArmor
+27000,Item,EE3,item.ee3:shardMinium,com.pahimar.ee3.item.ItemMiniumShard
+27001,Item,EE3,item.ee3:stoneInert,com.pahimar.ee3.item.ItemInertStone
+27002,Item,EE3,item.ee3:stoneMinium,com.pahimar.ee3.item.ItemMiniumStone
+27003,Item,EE3,item.ee3:stonePhilosophers,com.pahimar.ee3.item.ItemPhilosophersStone
+27004,Item,EE3,item.ee3:alchemicalDust,com.pahimar.ee3.item.ItemAlchemicalDust
+27005,Item,EE3,item.ee3:alchemicalBag,com.pahimar.ee3.item.ItemAlchemicalBag
 27006,Item,Metallurgy3Base,item.CarmotDust,rebelkeithy.mods.metallurgy.core.metalsets.ItemMetallurgy
 27007,Item,Metallurgy3Base,item.CarmotIngot,rebelkeithy.mods.metallurgy.core.metalsets.ItemMetallurgy
 27008,Item,Metallurgy3Base,item.CarmotPick,rebelkeithy.mods.keithyutils.items.CustomItemPickaxe
