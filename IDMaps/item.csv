@@ -3205,6 +3205,15 @@ ID,Block/Item,Mod,Unlocalised name,Class
 22572,Item,BiblioWoodsForestry,item.seatBack,jds.bibliocraft.forestrywood.items.ItemSeatBackF3
 22573,Item,BiblioWoodsForestry,item.seatBack,jds.bibliocraft.forestrywood.items.ItemSeatBackF4
 22574,Item,BiblioWoodsForestry,item.seatBack,jds.bibliocraft.forestrywood.items.ItemSeatBackF5
+23000,Item,EE3,item.ee3:shardMinium,com.pahimar.ee3.item.ItemMiniumShard
+23001,Item,EE3,item.ee3:stoneInert,com.pahimar.ee3.item.ItemInertStone
+23002,Item,EE3,item.ee3:stoneMinium,com.pahimar.ee3.item.ItemMiniumStone
+23003,Item,EE3,item.ee3:stonePhilosophers,com.pahimar.ee3.item.ItemPhilosophersStone
+23004,Item,EE3,item.ee3:alchemicalDust,com.pahimar.ee3.item.ItemAlchemicalDust
+23005,Item,EE3,item.ee3:alchemicalBag,com.pahimar.ee3.item.ItemAlchemicalBag
+23006,Item,EE3,item.ee3:chalk,com.pahimar.ee3.item.ItemChalk
+23007,Item,EE3,item.ee3:diviningRod,com.pahimar.ee3.item.ItemDiviningRod
+23008,Item,EE3,item.ee3:null,com.pahimar.ee3.item.ItemAlchemicalFuel
 23776,Item,EnhancedPortals3,item.ep3.wrench,uk.co.shadeddimensions.ep3.item.ItemWrench
 23777,Item,EnhancedPortals3,item.ep3.goggles,uk.co.shadeddimensions.ep3.item.ItemGoggles
 23778,Item,EnhancedPortals3,item.ep3.paintbrush,uk.co.shadeddimensions.ep3.item.ItemPaintbrush
@@ -3532,12 +3541,6 @@ ID,Block/Item,Mod,Unlocalised name,Class
 26964,Item,Metallurgy3Base,item.Metallurgy:Fantasy/Black SteelChest,rebelkeithy.mods.metallurgy.core.metalsets.ItemMetallurgyArmor
 26965,Item,Metallurgy3Base,item.Metallurgy:Fantasy/Black SteelLegs,rebelkeithy.mods.metallurgy.core.metalsets.ItemMetallurgyArmor
 26966,Item,Metallurgy3Base,item.Metallurgy:Fantasy/Black SteelBoots,rebelkeithy.mods.metallurgy.core.metalsets.ItemMetallurgyArmor
-27000,Item,EE3,item.ee3:shardMinium,com.pahimar.ee3.item.ItemMiniumShard
-27001,Item,EE3,item.ee3:stoneInert,com.pahimar.ee3.item.ItemInertStone
-27002,Item,EE3,item.ee3:stoneMinium,com.pahimar.ee3.item.ItemMiniumStone
-27003,Item,EE3,item.ee3:stonePhilosophers,com.pahimar.ee3.item.ItemPhilosophersStone
-27004,Item,EE3,item.ee3:alchemicalDust,com.pahimar.ee3.item.ItemAlchemicalDust
-27005,Item,EE3,item.ee3:alchemicalBag,com.pahimar.ee3.item.ItemAlchemicalBag
 27006,Item,Metallurgy3Base,item.CarmotDust,rebelkeithy.mods.metallurgy.core.metalsets.ItemMetallurgy
 27007,Item,Metallurgy3Base,item.CarmotIngot,rebelkeithy.mods.metallurgy.core.metalsets.ItemMetallurgy
 27008,Item,Metallurgy3Base,item.CarmotPick,rebelkeithy.mods.keithyutils.items.CustomItemPickaxe
