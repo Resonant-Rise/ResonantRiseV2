@@ -1641,6 +1641,11 @@ ID,Block/Item,Mod,Unlocalised name,Class
 4079,Block,eng_toolbox,tile.emasher_EU_adapter,emasher.sockets.pipes.BlockEUAdapter
 4080,Block,TrussMod,tile.TrussMod:BlockMotor,rainwarrior.trussmod.BlockMotor
 4081,Block,TrussMod,tile.TrussMod:BlockFrame,rainwarrior.trussmod.BlockFrame
+4083,Block,GregsLighting,tile.gcewing_lighting:ic2ElectricFloodlightOn,gcewing.lighting.ic2.BlockFloodlightIC2.On
+4084,Block,GregsLighting,tile.gcewing_lighting:ic2ElectricFloodlight,gcewing.lighting.ic2.BlockFloodlightIC2.Off
+4085,Block,GregsLighting,tile.gcewing_lighting:floodlight,gcewing.lighting.BlockFloodlight
+4086,Block,GregsLighting,tile.gcewing_lighting:floodlightBeam,gcewing.lighting.BlockFloodlightBeam
+4087,Block,GregsLighting,tile.gcewing_lighting:carbideFloodlight,gcewing.lighting.BlockFloodlightCarbide
 4088,Block,RedstonePasteMod,tile.redstonePaste,fyber.redstonepastemod.BlockRedstonePaste
 4089,Block,ExtraUtilities,tile.extrautils:dark_portal,extrautils.block.BlockPortal
 4090,Block,OpenBlocks,tile.openblocks.fan,openblocks.common.block.BlockFan
@@ -1886,7 +1891,7 @@ ID,Block/Item,Mod,Unlocalised name,Class
 7779,Item,Railcraft,item.railcraft.cart.track.relayer,mods.railcraft.common.carts.ItemCart
 7780,Item,Railcraft,item.railcraft.cart.undercutter,mods.railcraft.common.carts.ItemCart
 7781,Item,Railcraft,item.railcraft.cart.work,mods.railcraft.common.carts.ItemCart
-7782,Item,Railcraft,item.railcraft.dust,mods.railcraft.common.items.ItemDust
+7782,Item,rcdusts,item.railcraft.dust,mods.railcraft.common.items.ItemDust
 7783,Item,Railcraft,item.railcraft.fuel.coke,mods.railcraft.common.items.ItemRailcraft
 7784,Item,Railcraft,item.railcraft.upgrade.lapotron,mods.railcraft.common.items.ItemRailcraft
 7785,Item,Railcraft,item.railcraft.ingot,mods.railcraft.common.items.ItemIngot
@@ -1924,6 +1929,7 @@ ID,Block/Item,Mod,Unlocalised name,Class
 7817,Item,Railcraft,item.railcraft.tool.crowbar.magic,mods.railcraft.common.plugins.thaumcraft.ItemCrowbarMagic
 7821,Item,Railcraft,item.railcraft.tool.surveyor,mods.railcraft.common.blocks.signals.ItemSignalBlockSurveyor
 7822,Item,Railcraft,item.railcraft.tool.whistle.tuner,mods.railcraft.common.items.ItemWhistleTuner
+7900,Item,rcdusts,item.Copper Dust,rcDusts.items.ItemDust
 8067,Item,Chisel,item.chisel,info.jbcs.minecraft.chisel.ItemChisel
 8068,Item,Chisel,item.Chisel:iceshard,net.minecraft.item.Item
 8069,Item,Chisel,item.Chisel:cloudinabottle,info.jbcs.minecraft.chisel.ItemCloudInABottle
@@ -3238,6 +3244,13 @@ ID,Block/Item,Mod,Unlocalised name,Class
 24157,Item,awger_Punt,item.Punt,mods.awger.punt.ItemPunt
 24158,Item,awger_Whitehall,item.Whitehall,mods.awger.whitehall.ItemWhitehall
 24159,Item,awger_Hoy,item.Hoy,mods.awger.hoy.ItemHoy
+24456,Item,GregsLighting,item.gcewing_lighting:bonemealAndCharcoal,net.minecraft.item.Item
+24457,Item,GregsLighting,item.gcewing_lighting:calciumCarbide,net.minecraft.item.Item
+24458,Item,GregsLighting,item.gcewing_lighting:gasNozzle,net.minecraft.item.Item
+24459,Item,GregsLighting,item.gcewing_lighting:gaslightMantle,net.minecraft.item.Item
+24460,Item,GregsLighting,item.gcewing_lighting:glowingIngot,net.minecraft.item.Item
+24461,Item,GregsLighting,item.gcewing_lighting:glowstoneBulb,net.minecraft.item.Item
+24462,Item,GregsLighting,item.gcewing_lighting:ic2FilamentAssembly,net.minecraft.item.Item
 24857,Item,chococraft,item.chocoboSaddle,chococraft.common.items.ChocoboItem
 24858,Item,chococraft,item.gysahl_seeds,chococraft.common.items.ItemGysahlSeeds
 24859,Item,chococraft,item.gysahl_loverly,chococraft.common.items.ChocoboItem
@@ -3870,6 +3883,7 @@ ID,Block/Item,Mod,Unlocalised name,Class
 28814,Item,HardcoreEnderExpansion,item.corporealMirageOrb,chylex.hee.item.ItemCorporealMirageOrb
 28815,Item,HardcoreEnderExpansion,item.null,chylex.hee.item.ItemPotionOfInstability
 28816,Item,HardcoreEnderExpansion,item.stardust,chylex.hee.item.ItemStardust
+28817,Item,HardcoreEnderExpansion,item.spectralWand,chylex.hee.item.ItemSpectralWand
 29256,Item,Mariculture,item.materials,mariculture.core.items.ItemMaterial
 29257,Item,Mariculture,item.craftingItems,mariculture.core.items.ItemCrafting
 29258,Item,Mariculture,item.bait,mariculture.fishery.items.ItemBait
