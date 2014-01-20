@@ -5,9 +5,9 @@
 ####################
 
 compatibility {
-    D:"BuildCraft Conversion Ratio"=112560.0
-    D:"IndustrialCraft Conversion Ratio"=281400.0
-    D:"Thermal Expansion Conversion Ratio"=11256.0
+    D:"BuildCraft Conversion Ratio"=56280.0
+    D:"IndustrialCraft Conversion Ratio"=140700.0
+    D:"Thermal Expansion Conversion Ratio"=5628.0
 }
 
 
