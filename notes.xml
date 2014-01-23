@@ -9,12 +9,7 @@
          website="http://www.minecraftforum.net/topic/1650007-152universal-dimensional-doors-v141-eyes-in-the-darkupdatedagain/" 
          description="Machin Shin, anyone?" /> 
 
-    <mod url="packs/ResonantRise/files/GregsLighting-1.8.4-mc1.5.1.jar" file="GregsLighting-1.8.4-mc1.5.1.jar" md5="05ca4b99595a8617440019f0ca056cf5" download="server"
-         name="Gregs Lighting"  type="mods" version="1.8.4" 
-         website="http://www.cosc.canterbury.ac.nz/greg.ewing/minecraft/mods/GregsLighting/" description=""  /> -->
-<!--
-
-    	<mod url="packs/ResonantRise/files/2.3/Artifice-1.1.3-200.jar" file="Artifice-1.1.3-200.jar" md5="eefb2a83f7f5afff4be1bd17ca9db56b" download="server"
+    <mod url="packs/ResonantRise/files/2.3/Artifice-1.1.3-200.jar" file="Artifice-1.1.3-200.jar" md5="eefb2a83f7f5afff4be1bd17ca9db56b" download="server"
          name="Artifice" type="mods" 
          version="1.1.3-200"
          website="http://www.minecraftforum.net/topic/1860869-15x162-artifice-we-have-the-technology/" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=UKPDHJ4J7RJC6&amp;lc=US&amp;item_name=Shukaro%27s%20Mods&amp;currency_code=USD&amp;bn=PP%2dDonationsBF%3abtn_donate_LG%2egif%3aNonHosted"
@@ -25,15 +20,6 @@
          website="http://www.computercraft.info/forums2/index.php?/topic/5996-151152-cc-152153-openccsensors/" 
          description="" type="mods"/>
 
-    <mod url="packs/ResonantRise/files/NetherOres-2.1.5-76.jar" file="NetherOres-2.1.5-76.jar" md5="0087015c1fc1c0fab2e35137d8cc9205" download="server"
-         name="Nether Ores" type="mods" 
-         version="2.1.5-76" website="http://www.minecraftforum.net/topic/1629898-151152-powercrystals-mods-the-updates-never-stop/" description=""  />
-    
-    <mod url="packs/ResonantRise/files/2.6/Resonant-Induction-0.3.0.291.jar" file="Resonant-Induction-0.3.0.291.jar" md5="0f6d70d9ce4135da61add5fc9a067fec" download="server"
-		 name="Resonant Induction" version="0.3.0.291" type="mods"
-		 website="http://calclavia.com/resonant-induction/" donation="http://www.universalelectricity.com"
-		 description="Universal electricial induction! Tesla coils!" />
-	
 	<mod url="packs/ResonantRise/files/TickProfiler-1.5.2-1.0.0.42.jar" file="TickProfiler-1.5.2-1.0.0.42.jar" md5="183120d4fed94151487c6f1e3f420104" download="server"
          name="TickProfiler" type="mods" version="1.0.0.42"
          website="https://github.com/nallar/TickProfiler"
