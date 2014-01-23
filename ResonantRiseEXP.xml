@@ -360,7 +360,7 @@
 		 website="http://www.minecraftforum.net/topic/2287651-" description="Unofficial fork of the long-lost addon suite for MPS!"  />
 	<mod name="Mouse Tweaks" version="2.3.4"
 		 url="packs/ResonantRise/files/2.6/[1.6.4] Mouse Tweaks 2.3.4.zip" file="[1.6.4] Mouse Tweaks 2.3.4.zip" md5="079fdcddbf1009ab37d21c8f1a80ef02" download="server"
-		 type="mods" website="http://www.minecraftforum.net/topic/1518185-" authors="YaLTeR"
+		 type="mods" authors="YaLTeR"
 		 website="http://www.minecraftforum.net/topic/1518185-"
 		 description="Useful mouse controls!" />
 	<mod url="packs/ResonantRise/files/2-STABLE/mystcraft-uni-1.6.4-0.10.11.00.zip" file="mystcraft-uni-1.6.4-0.10.11.00.zip" md5="af42012a6782cbf7afac5ec42d17d05e" download="server"
