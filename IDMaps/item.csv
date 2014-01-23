@@ -413,12 +413,11 @@ ID,Block/Item,Mod,Unlocalised name,Class
 545,Block,Mariculture,tile.highPressureWater,mariculture.core.blocks.BlockPressuredWater
 550,Block,Mariculture,tile.customRFBlock,mariculture.factory.blocks.BlockCustomPower
 551,Block,Mariculture,tile.moltenRutile,mariculture.core.blocks.BlockFluids
-580,Block,OpenPeripheral,tile.openperipheral.glassesbridge,openperipheral.glasses.block.BlockGlassesBridge
-581,Block,OpenPeripheral,tile.openperipheral.proxyblock,openperipheral.core.block.BlockProxy
-582,Block,OpenPeripheral,tile.openperipheral.playerinventory,openperipheral.core.block.BlockPlayerInventory
-583,Block,OpenPeripheral,tile.openperipheral.ticketmachine,openperipheral.core.block.BlockTicketMachine
-584,Block,OpenPeripheral,tile.openperipheral.sensor,openperipheral.sensor.block.BlockSensor
-585,Block,OpenPeripheral,tile.openperipheral.robot,openperipheral.robots.block.BlockRobot
+580,Block,OpenPeripheral,tile.openperipheral.glassesbridge,openperipheral.addons.glasses.BlockGlassesBridge
+581,Block,OpenPeripheral,tile.openperipheral.peripheralproxy,openperipheral.addons.peripheralproxy.BlockPeripheralProxy
+582,Block,OpenPeripheral,tile.openperipheral.playerinventory,openperipheral.addons.pim.BlockPIM
+583,Block,OpenPeripheral,tile.openperipheral.sensor,openperipheral.addons.sensors.BlockSensor
+584,Block,OpenPeripheral,tile.openperipheral.ticketmachine,openperipheral.addons.ticketmachine.BlockTicketMachine
 600,Block,AdvancedMachines,tile.null,mods.immibis.am2.BlockAM2
 602,Block,ImmibisCore,tile.dimanchor,mods.immibis.chunkloader.BlockChunkLoader
 603,Block,InfiniTubes,tile.infinitubes.conduit,mods.immibis.infinitubes.InfiniTubeBlock
@@ -428,6 +427,9 @@ ID,Block/Item,Mod,Unlocalised name,Class
 607,Block,ImmibisCore,tile.null,mods.immibis.ccperiphs.lan.BlockLANWire
 615,Block,ImmibisCore,tile.null,mods.immibis.tubestuff.BlockTubestuff
 616,Block,ImmibisCore,tile.null,mods.immibis.tubestuff.BlockStorage
+625,Block,AdvancedMachines,tile.advmachine.arraycable,mods.immibis.am2.arrays.ArrayCableBlock
+626,Block,AdvancedMachines,tile.advmachine.arraycontroller,mods.immibis.am2.arrays.ArrayControllerBlock
+627,Block,AdvancedMachines,tile.null,mods.immibis.am2.arrays.ArrayGeneratorBlock
 701,Block,EnderIO,tile.enderIO:blockEnderIo,crazypants.enderio.enderface.BlockEnderIO
 702,Block,EnderIO,tile.enderIO:blockConduitBundle,crazypants.enderio.conduit.BlockConduitBundle
 703,Block,EnderIO,tile.enderIO:blockConduitFacade,crazypants.enderio.conduit.facade.BlockConduitFacade
@@ -605,6 +607,7 @@ ID,Block/Item,Mod,Unlocalised name,Class
 1159,Block,arsmagica2,tile.arsmagica2:everstone,am2.blocks.BlockEverstone
 1160,Block,arsmagica2,tile.arsmagica2:keystoneTrapdoor,am2.blocks.BlockKeystoneTrapdoor
 1161,Block,arsmagica2,tile.arsmagica2:keystoneDoor,am2.blocks.BlockKeystoneDoor
+1162,Block,arsmagica2,tile.arsmagica2:slipstreamGenerator,am2.blocks.BlockSlipstreamGenerator
 1225,Block,ComputerCraft,tile.cccomputer,dan200.computer.shared.BlockComputerMFR
 1226,Block,ComputerCraft,tile.ccdiskdrive,dan200.computer.shared.BlockPeripheral
 1227,Block,CCTurtle,tile.ccturtle,dan200.turtle.shared.BlockTurtleMFR
@@ -626,9 +629,10 @@ ID,Block/Item,Mod,Unlocalised name,Class
 1302,Block,chococraft,tile.item.strawBlock,chococraft.common.items.BlockStraw
 1311,Block,StevesFactoryManager,tile.BlockMachineManagerName,vswe.stevesfactory.blocks.BlockManager
 1312,Block,StevesFactoryManager,tile.BlockCableName,vswe.stevesfactory.blocks.BlockCable
-1313,Block,StevesFactoryManager,tile.BlockCableRelayName,vswe.stevesfactory.blocks.BlockCableRelay
+1313,Block,StevesFactoryManager,tile.null,vswe.stevesfactory.blocks.BlockCableRelay
 1314,Block,StevesFactoryManager,tile.BlockCableOutputName,vswe.stevesfactory.blocks.BlockCableOutput
 1315,Block,StevesFactoryManager,tile.BlockCableInputName,vswe.stevesfactory.blocks.BlockCableInput
+1316,Block,StevesFactoryManager,tile.BlockCableCreativeName,vswe.stevesfactory.blocks.BlockCableCreative
 1345,Block,Sync,tile.Sync_ShellConstructor,sync.common.block.BlockDualVertical
 1352,Block,EnhancedPortals3,tile.ep3.decoration,uk.co.shadeddimensions.ep3.block.BlockDecoration
 1353,Block,EnhancedPortals3,tile.ep3.stabilizer,uk.co.shadeddimensions.ep3.block.BlockStabilizer
@@ -801,6 +805,7 @@ ID,Block/Item,Mod,Unlocalised name,Class
 1730,Block,Metallurgy3Machines,tile.Metallurgy:machines/enchanter/Enchanter,rebelkeithy.mods.metallurgy.machines.enchanter.BlockMetallurgyEnchantmentTable
 1753,Block,MagicBees,tile.effectJar,magicbees.block.BlockEffectJar
 1754,Block,MagicBees,tile.hive,magicbees.block.BlockHive
+1851,Block,witchery,tile.witcheryPlacedItem,com.emoniph.witchery.blocks.BlockPlacedItem
 1852,Block,witchery,tile.witcheryCrystalBall,com.emoniph.witchery.blocks.BlockCrystalBall
 1853,Block,witchery,tile.witcheryBloodRose,com.emoniph.witchery.blocks.BlockBloodRose
 1854,Block,witchery,tile.witcheryGrassper,com.emoniph.witchery.blocks.BlockGrassper
@@ -1127,7 +1132,6 @@ ID,Block/Item,Mod,Unlocalised name,Class
 2460,Block,EE3,tile.ee3:infusedCloth,com.pahimar.ee3.block.BlockInfusedCloth
 2461,Block,EE3,tile.ee3:infusedWood,com.pahimar.ee3.block.BlockInfusedWood
 2462,Block,EE3,tile.ee3:infusedPlanks,com.pahimar.ee3.block.BlockInfusedPlanks
-2467,Block,CalclaviaCore,tile.multiBlock,calclavia.lib.multiblock.fake.BlockMultiFake
 2477,Block,powersuits,tile.tinkerTable,net.machinemuse.powersuits.block.BlockTinkerTable
 2478,Block,powersuits,tile.luxCapacitor,net.machinemuse.powersuits.block.BlockLuxCapacitor
 2500,Block,ExtraUtilities,tile.extrautils:angelBlock,extrautils.block.BlockAngelBlock
@@ -1163,7 +1167,6 @@ ID,Block/Item,Mod,Unlocalised name,Class
 2541,Block,OpenBlocks,tile.openblocks.guide,openblocks.common.block.BlockGuide
 2542,Block,OpenBlocks,tile.openblocks.elevator,openblocks.common.block.BlockElevator
 2543,Block,OpenBlocks,tile.openblocks.heal,openblocks.common.block.BlockHeal
-2544,Block,OpenBlocks,tile.openblocks.lightbox,openblocks.common.block.BlockLightbox
 2545,Block,OpenBlocks,tile.openblocks.target,openblocks.common.block.BlockTarget
 2546,Block,OpenBlocks,tile.openblocks.grave,openblocks.common.block.BlockGrave
 2547,Block,OpenBlocks,tile.openblocks.flag,openblocks.common.block.BlockFlag
@@ -1193,6 +1196,7 @@ ID,Block/Item,Mod,Unlocalised name,Class
 2572,Block,OpenBlocks,tile.openblocks.canvasglass,openblocks.common.block.BlockCanvasGlass
 2573,Block,OpenBlocks,tile.openblocks.projector,openblocks.common.block.BlockProjector
 2574,Block,OpenBlocks,tile.openblocks.drawingtable,openblocks.common.block.BlockDrawingTable
+2577,Block,OpenBlocks,tile.openblocks.radio,openblocks.common.block.BlockRadio
 2600,Block,Thaumcraft,tile.blockAiry,thaumcraft.common.blocks.BlockAiry
 2601,Block,Thaumcraft,tile.blockArcaneDoor,thaumcraft.common.blocks.BlockArcaneDoor
 2602,Block,Thaumcraft,tile.blockArcaneFurnace,thaumcraft.common.blocks.BlockArcaneFurnace
@@ -1558,6 +1562,7 @@ ID,Block/Item,Mod,Unlocalised name,Class
 3434,Block,ResonantInduction|Archaic,tile.resonantinduction:hotPlate,resonantinduction.archaic.firebox.BlockHotPlate
 3435,Block,ResonantInduction|Archaic,tile.resonantinduction:imprinter,resonantinduction.archaic.imprint.BlockImprinter
 3436,Block,ResonantInduction|Archaic,tile.resonantinduction:turntable,resonantinduction.archaic.blocks.BlockTurntable
+3490,Block,CalclaviaCore,tile.multiBlock,calclavia.lib.multiblock.fake.BlockMultiFake
 3500,Block,JABBA,tile.BetterBarrel,mcp.mobius.betterbarrels.common.BlockBarrel
 3501,Block,JABBA,tile.MiniBarrel (WIP),mcp.mobius.betterbarrels.common.BlockMiniBarrel
 3502,Block,JABBA,tile.Barrel Shelf (WIP),mcp.mobius.betterbarrels.common.BlockBarrelShelf
@@ -1730,10 +1735,8 @@ ID,Block/Item,Mod,Unlocalised name,Class
 5280,Item,Forestry,item.gearTin,forestry.core.items.ItemForestry
 5281,Item,Forestry,item.hardenedMachine,forestry.core.items.ItemForestry
 5282,Item,Forestry,item.iodineCapsule,forestry.core.items.ItemForestry
-5311,Item,OpenPeripheral,item.openperipheral.glasses,openperipheral.core.item.ItemGlasses
-5312,Item,OpenPeripheral,item.openperipheral.remote,openperipheral.core.item.ItemRemote
-5313,Item,OpenPeripheral,item.null,openperipheral.core.item.ItemGeneric
-5314,Item,OpenPeripheral,item.openperipheral.robot,openperipheral.core.item.ItemRobot
+5311,Item,OpenPeripheral,item.openperipheral.glasses,openperipheral.addons.glasses.ItemGlasses
+5313,Item,OpenPeripheral,item.openperipheral.generic,openperipheral.addons.ItemOPGeneric
 5356,Item,Metallurgy3Base,item.Metallurgy:Vanilla/IronDust,rebelkeithy.mods.metallurgy.core.metalsets.ItemMetallurgy
 5357,Item,Metallurgy3Base,item.Metallurgy:Vanilla/GoldDust,rebelkeithy.mods.metallurgy.core.metalsets.ItemMetallurgy
 5401,Item,CarpentersBlocks,item.itemCarpentersHammer,carpentersblocks.item.ItemCarpentersHammer
@@ -2220,6 +2223,7 @@ ID,Block/Item,Mod,Unlocalised name,Class
 11486,Item,Mekanism,item.Sawdust,mekanism.common.item.ItemMekanism
 11487,Item,Mekanism,item.Salt,mekanism.common.item.ItemMekanism
 11488,Item,Mekanism,item.BrineBucket,mekanism.common.item.ItemMekanism
+11489,Item,Mekanism,item.null,mekanism.common.item.ItemCrystal
 11490,Item,Mekanism,item.WalkieTalkie,mekanism.common.item.ItemWalkieTalkie
 11556,Item,MekanismGenerators,item.SolarPanel,mekanism.common.item.ItemMekanism
 11557,Item,MekanismGenerators,item.BioFuel,mekanism.common.item.ItemMekanism
@@ -2564,8 +2568,9 @@ ID,Block/Item,Mod,Unlocalised name,Class
 14102,Item,ResonantInduction|Electrical,item.resonantinduction:transformer,resonantinduction.electrical.transformer.ItemTransformer
 14104,Item,ResonantInduction|Mechanical,item.resonantinduction:gear,resonantinduction.mechanical.gear.ItemGear
 14105,Item,ResonantInduction|Core,item.resonantinduction:oreDust,resonantinduction.core.resource.item.ItemOreResource
-14106,Item,ResonantInduction|Mechanical,item.resonantinduction:PipeGuage,resonantinduction.mechanical.item.ItemPipeGauge
+14106,Item,ResonantInduction|Core,item.resonantinduction:oreRubble,resonantinduction.core.resource.item.ItemOreResource
 14108,Item,ResonantInduction|Core,item.resonantinduction:oreRefinedDust,resonantinduction.core.resource.item.ItemOreResource
+14112,Item,ResonantInduction|Electrical,item.resonantinduction:disk,resonantinduction.electrical.encoder.ItemDisk
 14114,Item,ResonantInduction|Mechanical,item.resonantinduction:pipe,resonantinduction.mechanical.fluid.pipe.ItemPipe
 14115,Item,ResonantInduction|Archaic,item.resonantinduction:imprint,resonantinduction.archaic.imprint.ItemBlockImprint
 14228,Item,CalclaviaCore,item.calclavia:multitool,calclavia.components.ItemMultitool
@@ -2644,18 +2649,18 @@ ID,Block/Item,Mod,Unlocalised name,Class
 14375,Item,TConstruct,item.tconstruct.exoShoes,tconstruct.items.armor.ExoArmor
 14756,Item,TMechworks,item.lengthwire,tmechworks.items.LengthWire
 14757,Item,TMechworks,item.spoolwire,tmechworks.items.SpoolOfWire
-15231,Item,OpenBlocks,item.null,openblocks.common.item.ItemHangGlider
-15232,Item,OpenBlocks,item.null,openblocks.common.item.ItemGeneric
-15233,Item,OpenBlocks,item.null,openblocks.common.item.ItemLuggage
-15234,Item,OpenBlocks,item.null,openblocks.common.item.ItemSonicGlasses
-15235,Item,OpenBlocks,item.openblocks.imagination,openblocks.common.item.ItemImaginationGlasses
-15236,Item,OpenBlocks,item.openblocks.imagination,openblocks.common.item.ItemImaginationGlasses.ItemCrayonGlasses
-15237,Item,OpenBlocks,item.openblocks.imagination,openblocks.common.item.ItemImaginationGlasses
-15238,Item,OpenBlocks,item.openblocks.imagination,openblocks.common.item.ItemImaginationGlasses
+15231,Item,OpenBlocks,item.openblocks.hangglider,openblocks.common.item.ItemHangGlider
+15232,Item,OpenBlocks,item.openblocks.generic,openblocks.common.item.ItemOBGeneric
+15233,Item,OpenBlocks,item.openblocks.luggage,openblocks.common.item.ItemLuggage
+15234,Item,OpenBlocks,item.openblocks.sonicglasses,openblocks.common.item.ItemSonicGlasses
+15235,Item,OpenBlocks,item.openblocks.glasses.pencil,openblocks.common.item.ItemImaginationGlasses
+15236,Item,OpenBlocks,item.openblocks.glasses.crayon,openblocks.common.item.ItemImaginationGlasses.ItemCrayonGlasses
+15237,Item,OpenBlocks,item.openblocks.glasses.technicolor,openblocks.common.item.ItemImaginationGlasses
+15238,Item,OpenBlocks,item.openblocks.glasses.admin,openblocks.common.item.ItemImaginationGlasses
 15239,Item,OpenBlocks,item.openblocks.crane_control,openblocks.common.item.ItemCraneControl
 15240,Item,OpenBlocks,item.openblocks.crane_backpack,openblocks.common.item.ItemCraneBackpack
-15241,Item,OpenBlocks,item.null,openblocks.common.item.ItemSlimalyzer
-15242,Item,OpenBlocks,item.null,openblocks.common.item.ItemFilledBucket
+15241,Item,OpenBlocks,item.openblocks.slimalyzer,openblocks.common.item.ItemSlimalyzer
+15242,Item,OpenBlocks,item.openblocks.filledbucket,openblocks.common.item.ItemFilledBucket
 15243,Item,OpenBlocks,item.openblocks.sleepingbag,openblocks.common.item.ItemSleepingBag
 15244,Item,OpenBlocks,item.openblocks.paintbrush,openblocks.common.item.ItemPaintBrush
 15245,Item,OpenBlocks,item.openblocks.stencil,openblocks.common.item.ItemStencil
@@ -2663,6 +2668,10 @@ ID,Block/Item,Mod,Unlocalised name,Class
 15247,Item,OpenBlocks,item.openblocks.height_map,openblocks.common.item.ItemHeightMap
 15248,Item,OpenBlocks,item.openblocks.empty_map,openblocks.common.item.ItemEmptyMap
 15249,Item,OpenBlocks,item.openblocks.cartographer,openblocks.common.item.ItemCartographer
+15250,Item,OpenBlocks,item.openblocks.tasty_clay,openblocks.common.item.ItemTastyClay
+15251,Item,OpenBlocks,item.openblocks.golden_eye,openblocks.common.item.ItemGoldenEye
+15252,Item,OpenBlocks,item.openblocks.genericUnstackable,openblocks.common.item.ItemOBGenericUnstackable
+15253,Item,OpenBlocks,item.openblocks.cursor,openblocks.common.item.ItemCursor
 15446,Item,GraviGun,item.GraviGun,gravigun.common.item.ItemGraviGun
 15457,Item,PortalGun,item.PortalGunBlue,portalgun.common.item.ItemPortalGunBlue
 15458,Item,PortalGun,item.PortalGunOrange,portalgun.common.item.ItemPortalGunOrange
