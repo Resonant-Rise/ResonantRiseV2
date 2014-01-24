@@ -1,6 +1,6 @@
 <version>
   <pack>
-    <version>2.6-DEV-027</version>
+    <version>2.6-DEV-028</version>
     <minecraft>1.6.4</minecraft>
     <memory>2048</memory>
     <permgen>256</permgen>
@@ -358,11 +358,6 @@
          name="Modular Powersuits Addons" type="mods" version="1.6.4-884"
 		 depends="Modular Powersuits" optional="yes"
 		 website="http://www.minecraftforum.net/topic/2287651-" description="Unofficial fork of the long-lost addon suite for MPS!"  />
-	<mod name="Mouse Tweaks" version="2.3.4"
-		 url="packs/ResonantRise/files/2.6/[1.6.4] Mouse Tweaks 2.3.4.zip" file="[1.6.4] Mouse Tweaks 2.3.4.zip" md5="079fdcddbf1009ab37d21c8f1a80ef02" download="server"
-		 type="mods" authors="YaLTeR"
-		 website="http://www.minecraftforum.net/topic/1518185-"
-		 description="Useful mouse controls!" />
 	<mod url="packs/ResonantRise/files/2-STABLE/mystcraft-uni-1.6.4-0.10.11.00.zip" file="mystcraft-uni-1.6.4-0.10.11.00.zip" md5="af42012a6782cbf7afac5ec42d17d05e" download="server"
          name="MystCraft" type="mods" optional="yes" selected="yes" version="0.10.11.00"
          website="http://binarymage.com/"
@@ -583,7 +578,12 @@
          version="2.0.16"
          website="http://www.minecraftforum.net/topic/1570989-152-forge-mapwriter-an-open-source-mini-map/"
          description="A nice, open source map writer." />
-    <mod url="packs/ResonantRise/files/2-STABLE/NEIPlugins-1.1.0.6.jar" file="NEIPlugins-1.1.0.6.jar" md5="f005f1044b4fd706fef4858caef7db03" download="server"
+    <mod name="Mouse Tweaks" version="2.3.4"
+		 url="packs/ResonantRise/files/2.6/[1.6.4] Mouse Tweaks 2.3.4.zip" file="[1.6.4] Mouse Tweaks 2.3.4.zip" md5="079fdcddbf1009ab37d21c8f1a80ef02" download="server"
+		 type="mods" authors="YaLTeR" server="no"
+		 website="http://www.minecraftforum.net/topic/1518185-"
+		 description="Useful mouse controls!" />
+	<mod url="packs/ResonantRise/files/2-STABLE/NEIPlugins-1.1.0.6.jar" file="NEIPlugins-1.1.0.6.jar" md5="f005f1044b4fd706fef4858caef7db03" download="server"
          name="NEI Plugins" type="mods" server= "no" version="1.1.0.6"
          website="https://bitbucket.org/mistaqur/nei_plugins/wiki/Home"
          description="Even more improvments to Applied Energistics." />
