@@ -4,12 +4,12 @@
 #Needs at least 20 blocks underground, so it not recommended to use in biomes with height lower than 25
 
 #biomes = Plains, Ice Plains, Forest, Desert
-biomes = Plains, Ice Plains, Forest, Desert
+biomes = Forest, AutumnHills, BambooForest, BirchForest, BorealForest, Chaparral, CherryBlossomGrove, ConiferousForest, DeadForest, DeciduousForest, FungiForest, MapleWoods, SeasonalForest, Shield, SpruceWoods, Timber, Woodland
 
 #chance: define the ratio at wich the dungeon spawns, if set to 0 the dungeon will be disabled.
 #The formula goes like that: every 5 chunks there is 1 between the number set to chance probabilities to spawn a dungeon.
 
-chance = 50
+chance = 100
 
 #mob: defines the mob spawned in that dungeon
 mob = default

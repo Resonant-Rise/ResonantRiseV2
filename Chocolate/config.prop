@@ -15,15 +15,15 @@ netherMountains = 0
 mineshafts = 0
 #IDs
 #First item ID
-itemID = 8000
+itemID = 7844
 #First block ID
-blockID = 588
+blockID = 590
 
 #Dungeons exporter.
 #Set to 1 to enable dungeons exporter.
 exporterEnabled = 0
 #Exporter block starting id, uses 5 IDs(Only required if the exporter is enabled)
-exporterBlockID = 251
+exporterBlockID = 210
 
 #Misc.
 #Number of mobs spawned on one use spawners, if set to less than 0 will spawn only vanilla monsters.

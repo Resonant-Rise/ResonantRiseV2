@@ -5,7 +5,14 @@
 #item_damage: items metadata, by default 0
 #item_weight: the chance for the item to spawn (by default 1= uncommon, 100= common)
 
-apple = 260,5,0,100
-melon = 360,6,0,50
-steak = 363,8,0,70
-potato = 392,3,0,30
+saddle = 329,1,0,10
+iron = 265,3,0,10
+gold = 266,3,0,5
+wheat = 296,9,0,30
+clock= 347,1,0,10
+gunpowder = 289,3,0,80
+leather= 334,5,0,80
+torch = 50,10,0,100
+arrow= 262,16,0,80
+cocoa= 351,2,3,10
+cookie= 357,3,0,20

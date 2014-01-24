@@ -1,5 +1,5 @@
-biomes = Ocean
-chance = 45
+biomes = Ocean, Oceanic Abyss
+chance = 100
 mob = triton
 icon = 10
 builder = skyscraperGrid
