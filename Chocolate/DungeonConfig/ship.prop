@@ -2,12 +2,12 @@
 #biomes = Ocean
 #Spawns at layer 63(Overworld water layer)
 
-biomes = Ocean, Oceanic Abyss
+biomes = Ocean, Oceanic Abyss, Kelp Forest, KelpForest
 
 #chance define the ratio at wich the dungeon spawn, if set to 0 the dungeon will be disabled.
 #The formula goes like that: every 5 chunks there is 1 between the number set to chance probabilities to spawn a dungeon.
 
-chance = 100
+chance = 55
 
 #mob: defines the mob spawned in that dungeon, if the mob can't be fount the mod will spawn a mob based on distance from spawn
 mob = pirate

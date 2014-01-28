@@ -1,7 +1,7 @@
 # For more configurations about dungeons look at dungeonConfig folder
 
 #Minimum separation between dungeons (sepration defined in chunks)
-dungeonSeparation = 5
+dungeonSeparation = 6
 # Chunk caves, are caves/structures generated on each chunk(if the chunk is viable)set 0 to disable, 1 to enable
 
 # Jungle caves, located around layer 40 in jugle biomes

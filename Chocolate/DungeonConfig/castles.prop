@@ -4,12 +4,12 @@
 #Needs at least 20 blocks underground, so it not recommended to use in biomes with height lower than 25
 
 #biomes = Plains, Ice Plains, Forest, Desert
-biomes = Forest, AutumnHills, BambooForest, BirchForest, BorealForest, Chaparral, CherryBlossomGrove, ConiferousForest, DeadForest, DeciduousForest, FungiForest, MapleWoods, SeasonalForest, Shield, SpruceWoods, Timber, Woodland
+biomes = Forest, AutumnHills, BambooForest, BirchForest, BorealForest, Chaparral, CherryBlossomGrove, ConiferousForest, DeadForest, DeciduousForest, FungiForest, MapleWoods, SeasonalForest, Shield, SpruceWoods, Timber, Woodland, WitchwoodForest
 
 #chance: define the ratio at wich the dungeon spawns, if set to 0 the dungeon will be disabled.
 #The formula goes like that: every 5 chunks there is 1 between the number set to chance probabilities to spawn a dungeon.
 
-chance = 100
+chance = 20
 
 #mob: defines the mob spawned in that dungeon
 mob = default
@@ -24,12 +24,12 @@ builder = castle
 
 doorWidth = 2
 doorHeight = 3
-maxSize = 60
+maxSize = 40
 floorHeight = 6
 baseFloors = 2
-maxFloors = 6
+maxFloors = 7
 keepBaseFloors = 2
-keepFloors = 6
+keepFloors = 7
 roomSize = 10
 
 #wallBlock

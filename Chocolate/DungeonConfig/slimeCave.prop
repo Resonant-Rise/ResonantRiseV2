@@ -3,7 +3,7 @@ biomes = *
 
 #chance define the ratio at wich the dungeon spawn, if set to 0 the dungeon will be disabled.
 #The formula goes like that: every 5 chunks there is 1 between the number set to chance probabilities to spawn a dungeon.
-chance = 400
+chance = 20
 
 #mob: defines the mob spawned in that dungeon (this dungeon ignores this line)
 mob = ogre
@@ -25,6 +25,6 @@ builder = emptyCave
 size = 48
 height = 15
 caveBlock = 0
-posY = 5
+posY = 9
 spawnBoss = true
 boss = 1

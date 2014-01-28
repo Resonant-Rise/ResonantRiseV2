@@ -2,12 +2,12 @@
 #biomes = Taiga
 #Will spawn in the highest position
 
-biomes = Taiga, Badlands, Crag, Deadlands, Mountain, MysticGrove, OminousWoods, Sludgepit, Thicket, Volcano, Wasteland
+biomes = Badlands, Crag, Deadlands, Mountain, MysticGrove, OminousWoods, Sludgepit, Thicket, Volcano, Wasteland
 
 #chance define the ratio at wich the dungeon spawn, if set to 0 the dungeon will be disabled.
 #The formula goes like that: every 5 chunks there is 1 between the number set to chance probabilities to spawn a dungeon.
 
-chance = 100
+chance = 60
 
 #mob: defines the mob spawned in that dungeon
 mob = default
