@@ -7,7 +7,7 @@ biomes = Swampland, Bayou, Bog, DeadSwamp, Fen, LushSwamp, Mangrove, Quagmire, R
 #chance define the ratio at wich the dungeon spawn, if set to 0 the dungeon will be disabled.
 #The formula goes like that: every 5 chunks there is 1 between the number set to chance probabilities to spawn a dungeon.
 
-chance = 55
+chance = 65
 
 #mob: defines the mob spawned in that dungeon
 mob = triton
@@ -26,7 +26,7 @@ builder = emptyCave
 #spawnBoss: if true a boss will be spawned in the cave
 #boss: the boss to spawn: 0=Spider; 1=slime; 2=Monking; 3=Turtle; 4=ice Bull
 
-size = 30
+size = 40
 height = 12
 caveBlock = 9
 posY = 40
