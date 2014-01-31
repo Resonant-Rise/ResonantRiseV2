@@ -3,7 +3,59 @@
     <!-- TODO MODS -->
     <!-- 
 
-    <mod url="packs/ResonantRise/files/DimensionalDoors-1.5.2R1.4.1RC1-195.zip" file="DimensionalDoors-1.5.2R1.4.1RC1-195.zip" md5="e3fb5800a3cf792e6c96e118b7784b95" download="server"
+	<mod url="packs/ResonantRise/files/2-STABLE/Aere%200.0.3a.zip" file="Aere 0.0.3a.zip" md5="4de05588481113f063265842dda3ca10" download="server"
+         name="Aere" type="mods" version="0.0.3a" website="http://www.resonant-rise.com" description="Our new compatibility mod."  />
+
+	<mod url="packs/ResonantRise/files/2-STABLE/chargepads-1.6.2-universal-3.0.0.94-experimental.jar" file="chargepads-1.6.2-universal-3.0.0.94-experimental.jar" md5="43a76c4fe40c29bb0743d9c0f2f715fe" download="server"
+         name="Charge Pads" type="mods" version="3.0.0.94-exp"
+         website="http://forum.industrial-craft.net/index.php?page=Thread&amp;threadID=7892"
+         description="Your skin's galvanic response is pretty good I guess." />
+		 
+	<mod url="packs/ResonantRise/files/2.6/compactsolars-universal-1.6.4-4.4.19.266.zip" file="compactsolars-universal-1.6.4-4.4.19.266.zip" md5="4037095113db2e666cb97ded61a1b62c" download="server"
+         name="Compact Solars" type="mods" version="4.4.19.266" website="http://files.minecraftforge.net/CompactSolars/" donation="http://www.computercraft.info/donate/"
+         description="The dreaded easy power is now in!" />
+		 
+	<mod url="packs/ResonantRise/files/2-STABLE/mod_zGraviSuite_1_9_8_MC_1_6_4_IC_EXP.zip" file="mod_zGraviSuite_1_9_8_MC_1_6_4_IC_EXP.zip" md5="a74da90012db6f06303e3c1428f99066" download="server"
+         name="Gravitation Suite" depends="IndustrialCraft2"  type="mods"
+         version="1.9.8-EXP"
+         website="http://forum.industrial-craft.net/index.php?page=Thread&amp;threadID=6915"
+         description="Gravity Suit in flight. Afternoon delight."  />
+		 
+	<mod url="packs/ResonantRise/files/2-STABLE/ic2lib.zip" file="ic2lib.zip" md5="b35c3a9adb4e2f1856d543cec73c18f8" download="server"
+         name="IC2 Lib"  type="extract" extractto="root" version="2.0.307"
+         website="http://www.industrial-craft.net/"
+         description="Oh hey!"  />
+		 
+	<mod url="packs/ResonantRise/files/2.6/advanced-machines-57.3.1.jar" file="advanced-machines-57.3.1.jar" md5="cb23b206e9098ce27ca50a4514fcd9cb" download="server"
+         name="Immibis' Advanced Machines"  type="mods"
+         version="57.3.1" website="http://www.minecraftforum.net/topic/1001131-162-immibiss-mods-smp-now-with-857-less-version-numbers-in-this-title/" description="Classic extension to IC2, now without bugs." />
+	
+	<mod url="packs/ResonantRise/files/2.6/industrialcraft-2_2.0.376-experimental.jar" file="industrialcraft-2_2.0.376-experimental.jar" md5="7f0575c7f25805ce87d08dcd4b9bdbd8" download="server"
+         name="IndustrialCraft2"  type="mods" version="2.0.376"
+         website="http://www.industrial-craft.net/" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=RHLW3YE3T848Q"
+         description="HEYOOOOO!"  />
+		 
+	<mod url="packs/ResonantRise/files/2-STABLE/IC2NuclearControl-1.6.2e-ic2-experimental.zip" file="IC2NuclearControl-1.6.2e-ic2-experimental.zip" md5="e70955cad99fa6b4cd0f66de357bacb3" download="server"
+         name="Nuclear Control" type="mods" version="1.6.2e-exp"
+         website="http://forum.industrial-craft.net/index.php?page=Thread&amp;threadID=5915"
+         description="Thermal controls for IC2 nukes" />
+	
+	<mod  url="https://github.com/Aroma1997/CompactWindmillsDist/raw/master/1.6.4/1.0.2.3/CompactWindmills%20MC.1.6.4%20v.1.0.2.3.jar"
+          file="CompactWindmills+MC.1.6.4+v.1.0.2.3.jar"
+          download="direct"
+          name="CompactWindmills"
+          type="mods"
+          version="1.0.2.3"
+          website="http://forum.industrial-craft.net/index.php?page=Thread&amp;threadID=9205"
+          md5="77D5E98B3653843C7E1C1DD7E2086E0E"
+          description="Like solar power except with wind." />
+	
+    <mod url="packs/ResonantRise/files/2-STABLE/simple-recycling-57.1.0.jar" file="simple-recycling-57.1.0.jar" md5="1394ae168c158d7d0141c0f949c6fde5" download="server"
+         name="Simple Recycling" type="mods" version="57.1.0"
+         website="http://www.minecraftforum.net/topic/1001131-"
+         description="Greg-free and easy." />
+	
+	<mod url="packs/ResonantRise/files/DimensionalDoors-1.5.2R1.4.1RC1-195.zip" file="DimensionalDoors-1.5.2R1.4.1RC1-195.zip" md5="e3fb5800a3cf792e6c96e118b7784b95" download="server"
          name="Dimensional Doors"  type="mods"  
          version="1.4.1RC1-195" 
          website="http://www.minecraftforum.net/topic/1650007-152universal-dimensional-doors-v141-eyes-in-the-darkupdatedagain/" 
@@ -20,6 +72,11 @@
          website="http://www.computercraft.info/forums2/index.php?/topic/5996-151152-cc-152153-openccsensors/" 
          description="" type="mods"/>
 
+	<mod url="packs/ResonantRise/files/2.6/Resonant-Induction-0.3.1.66.jar" file="Resonant-Induction-0.3.1.66.jar" md5="64f3f31b50f52054b7c30c8214b4e70c" download="server"
+		 name="Resonant Induction" version="0.3.1.66" type="mods"
+		 website="http://calclavia.com/resonant-induction/" donation="http://www.universalelectricity.com"
+		 description="Universal electricial induction! Tesla coils!" />
+		
 	<mod url="packs/ResonantRise/files/TickProfiler-1.5.2-1.0.0.42.jar" file="TickProfiler-1.5.2-1.0.0.42.jar" md5="183120d4fed94151487c6f1e3f420104" download="server"
          name="TickProfiler" type="mods" version="1.0.0.42"
          website="https://github.com/nallar/TickProfiler"
