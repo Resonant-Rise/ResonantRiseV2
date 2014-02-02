@@ -832,7 +832,7 @@ ID,Block/Item,Mod,Unlocalised name,Class
 1909,Block,DartCraft,tile.forceFrame,bluedart.block.BlockStorage
 1911,Block,DartCraft,tile.null,bluedart.block.BlockLiquidForce
 1912,Block,DartCraft,tile.forceTorch,bluedart.block.BlockForceTorch
-1913,Block,DartCraft,tile.dartMachine,bluedart.block.BlockMachine
+1914,Block,DartCraft,tile.dartMachine,bluedart.block.BlockMachine
 1917,Block,BiomesOPlenty,tile.bop.overgrownNetherrack,biomesoplenty.blocks.BlockOvergrownNetherrack
 1919,Block,BiomesOPlenty,tile.bop.turnip,biomesoplenty.blocks.BlockTurnip
 1920,Block,BiomesOPlenty,tile.bop.plants,biomesoplenty.blocks.BlockBOPPlant
@@ -1567,9 +1567,7 @@ ID,Block/Item,Mod,Unlocalised name,Class
 3490,Block,CalclaviaCore,tile.multiBlock,calclavia.lib.multiblock.fake.BlockMultiBlockPart
 3491,Block,CalclaviaCore,tile.calclavia:creativeBuilder,calclavia.components.creative.BlockCreativeBuilder
 3492,Block,CalclaviaCore,tile.calclavia:infiniteBlock,calclavia.components.creative.BlockInfinite
-3500,Block,JABBA,tile.BetterBarrel,mcp.mobius.betterbarrels.common.BlockBarrel
-3501,Block,JABBA,tile.MiniBarrel (WIP),mcp.mobius.betterbarrels.common.BlockMiniBarrel
-3502,Block,JABBA,tile.Barrel Shelf (WIP),mcp.mobius.betterbarrels.common.BlockBarrelShelf
+3500,Block,JABBA,tile.blockbarrel,mcp.mobius.betterbarrels.common.blocks.BlockBarrel
 3540,Block,HexWool,tile.hexwool.block.coloredWool,com.techjar.hexwool.block.BlockColoredWool
 3541,Block,HexWool,tile.hexwool.block.woolColorizer,com.techjar.hexwool.block.BlockWoolColorizer
 3558,Block,SuperCraftingFrame,tile.CraftingFrame,edgarallen.scf.content.BlockCraftingFrame
@@ -1591,23 +1589,22 @@ ID,Block/Item,Mod,Unlocalised name,Class
 3653,Block,remoteIO,tile.skylight,com.dmillerw.remoteIO.block.BlockSkylight
 3654,Block,remoteIO,tile.remoteInventory,com.dmillerw.remoteIO.block.BlockRemoteInventory
 3768,Block,AtomicScience,tile.atomicscience:radioactive,calclavia.lib.prefab.block.BlockRadioactive
-3769,Block,AtomicScience,tile.atomicscience:centrifuge,atomicscience.fission.process.BlockCentrifuge
+3769,Block,AtomicScience,tile.atomicscience:centrifuge,atomicscience.process.fission.BlockCentrifuge
 3770,Block,AtomicScience,tile.atomicscience:fissionReactor,atomicscience.fission.reactor.BlockFissionReactor
-3771,Block,AtomicScience,tile.atomicscience:turbine,atomicscience.jiqi.BlockTurbine
-3772,Block,AtomicScience,tile.atomicscience:nuclearBoiler,atomicscience.fission.process.BlockNuclearBoiler
+3771,Block,AtomicScience,tile.atomicscience:turbine,atomicscience.process.turbine.BlockElectricTurbine
+3772,Block,AtomicScience,tile.atomicscience:nuclearBoiler,atomicscience.process.fission.BlockNuclearBoiler
 3774,Block,AtomicScience,tile.atomicscience:controlRod,atomicscience.fission.reactor.BlockControlRod
-3775,Block,AtomicScience,tile.atomicscience:thermometer,atomicscience.jiqi.BlockThermometer
-3776,Block,AtomicScience,tile.atomicscience:fusionReactor,atomicscience.hecheng.BFusionReactor
-3777,Block,AtomicScience,tile.atomicscience:plasma,atomicscience.hecheng.BlockPlasma
-3778,Block,AtomicScience,tile.atomicscience:electromagnet,atomicscience.hecheng.BElectromagnet
-3779,Block,AtomicScience,tile.atomicscience:chemicalExtractor,atomicscience.jiqi.BChemicalExtractor
-3780,Block,AtomicScience,tile.atomicscience:siren,atomicscience.fission.reactor.BlockSiren
-3781,Block,AtomicScience,tile.atomicscience:electromagnetGlass,atomicscience.hecheng.BElectromagnetGlass
-3782,Block,AtomicScience,tile.atomicscience:funnel,atomicscience.jiqi.BFunnel
+3775,Block,AtomicScience,tile.atomicscience:thermometer,atomicscience.process.sensor.BlockThermometer
+3776,Block,AtomicScience,tile.atomicscience:fusionReactor,atomicscience.fusion.BlockFusionReactor
+3777,Block,AtomicScience,tile.atomicscience:plasma,atomicscience.fusion.BlockPlasma
+3778,Block,AtomicScience,tile.atomicscience:electromagnet,atomicscience.fusion.BlockElectromagnet
+3779,Block,AtomicScience,tile.atomicscience:chemicalExtractor,atomicscience.process.BlockChemicalExtractor
+3780,Block,AtomicScience,tile.atomicscience:siren,atomicscience.process.sensor.BlockSiren
+3781,Block,AtomicScience,tile.atomicscience:electromagnetGlass,atomicscience.fusion.BlockElectromagnetGlass
+3782,Block,AtomicScience,tile.atomicscience:funnel,atomicscience.process.turbine.BlockASFunnel
 3783,Block,AtomicScience,tile.atomicscience:accelerator,atomicscience.particle.accelerator.BlockAccelerator
-3784,Block,AtomicScience,tile.atomicscience:instantBuilder,atomicscience.jiqi.BlockInstantBuilder
 3785,Block,AtomicScience,tile.atomicscience:fulmination,atomicscience.particle.fulmination.BlockFulmination
-3786,Block,AtomicScience,tile.atomicscience:atomicAssembler,atomicscience.jiqi.BAtomicAssembler
+3786,Block,AtomicScience,tile.atomicscience:quantumAssembler,atomicscience.particle.quantum.BlockQuantumAssembler
 3788,Block,AtomicScience,tile.atomicscience:toxicWaste,atomicscience.fission.reactor.BlockToxicWaste
 3789,Block,AtomicScience,tile.atomicscience:reactorTap,atomicscience.fission.reactor.BlockReactorDrain
 3790,Block,AtomicScience,tile.atomicscience:oreUranium,atomicscience.fission.BlockUraniumOre
@@ -1909,12 +1906,13 @@ ID,Block/Item,Mod,Unlocalised name,Class
 7473,Item,Growthcraft|Grapes,item.grc.grapes,growthcraft.grapes.ItemGrapes
 7475,Item,Growthcraft,item.grc.rope,growthcraft.core.item.ItemRope
 7493,Item,EnderStorage,item.enderpouch,codechicken.enderstorage.storage.item.ItemEnderPouch
-7500,Item,JABBA,item.Generic capacity upgrade,mcp.mobius.betterbarrels.common.items.ItemCapaUpg
-7501,Item,JABBA,item.ItemBarrelSticker,mcp.mobius.betterbarrels.common.items.ItemBarrelSticker
-7502,Item,JABBA,Dolly,mcp.mobius.betterbarrels.common.items.ItemBarrelMover
-7503,Item,JABBA,item.B-Space Tuning Fork (WIP),mcp.mobius.betterbarrels.common.items.ItemTuningFork
-7504,Item,JABBA,item.B-Space Interface (WIP),mcp.mobius.betterbarrels.common.items.ItemBSpaceInterface
-7505,Item,JABBA,item.Locking planks (WIP),mcp.mobius.betterbarrels.common.items.ItemBarrelLocker
+7500,Item,JABBA,item.item.upgrade.structural.generic,mcp.mobius.betterbarrels.common.items.upgrades.ItemUpgradeStructural
+7501,Item,JABBA,item.upgrade.side.generic,mcp.mobius.betterbarrels.common.items.upgrades.ItemUpgradeSide
+7502,Item,JABBA,item.dolly.normal.empty,mcp.mobius.betterbarrels.common.items.dolly.ItemBarrelMover
+7503,Item,JABBA,item.fork,mcp.mobius.betterbarrels.common.items.ItemTuningFork
+7513,Item,JABBA,item.upgrade.core.generic,mcp.mobius.betterbarrels.common.items.upgrades.ItemUpgradeCore
+7514,Item,JABBA,item.hammer,mcp.mobius.betterbarrels.common.items.ItemBarrelHammer
+7515,Item,JABBA,item.dolly.diamond.empty,mcp.mobius.betterbarrels.common.items.dolly.ItemDiamondMover
 7756,Item,Railcraft,item.railcraft.armor.goggles,mods.railcraft.common.items.ItemGoggles
 7757,Item,Railcraft,item.railcraft.armor.overalls,mods.railcraft.common.items.ItemOveralls
 7758,Item,Railcraft,item.railcraft.emblem,mods.railcraft.common.emblems.ItemEmblem
@@ -2327,6 +2325,7 @@ ID,Block/Item,Mod,Unlocalised name,Class
 11488,Item,Mekanism,item.BrineBucket,mekanism.common.item.ItemMekanism
 11489,Item,Mekanism,item.null,mekanism.common.item.ItemCrystal
 11490,Item,Mekanism,item.WalkieTalkie,mekanism.common.item.ItemWalkieTalkie
+11555,Item,Mekanism,item.FrictionBoots,mekanism.common.item.ItemFrictionBoots
 11556,Item,MekanismGenerators,item.SolarPanel,mekanism.common.item.ItemMekanism
 11557,Item,MekanismGenerators,item.BioFuel,mekanism.common.item.ItemMekanism
 11558,Item,Mekanism,item.ElectrolyticCore,mekanism.common.item.ItemMekanism
@@ -2650,20 +2649,19 @@ ID,Block/Item,Mod,Unlocalised name,Class
 13810,Item,Forestry,item.cratedCoal,forestry.core.items.ItemCrated
 13811,Item,Forestry,item.cratedSeeds,forestry.core.items.ItemCrated
 13812,Item,Forestry,item.cratedSaplings,forestry.core.items.ItemCrated
-14020,Item,AtomicScience,item.atomicscience:hazmatBoots,atomicscience.jiqi.ItemHazmat
-14021,Item,AtomicScience,item.atomicscience:hazmatLeggings,atomicscience.jiqi.ItemHazmat
-14022,Item,AtomicScience,item.atomicscience:hazmatBody,atomicscience.jiqi.ItemHazmat
-14023,Item,AtomicScience,item.atomicscience:hazmatMask,atomicscience.jiqi.ItemHazmat
-14024,Item,AtomicScience,item.atomicscience:thermometer,atomicscience.jiqi.ItWenDuBiao
-14025,Item,AtomicScience,item.atomicscience:cellEmpty,atomicscience.wujian.ItCell
-14027,Item,AtomicScience,item.atomicscience:rodFissileFuel,atomicscience.wujian.ItemFissileFuel
-14028,Item,AtomicScience,item.atomicscience:cellDeuterium,atomicscience.wujian.ItCell
-14029,Item,AtomicScience,item.atomicscience:strangeMatter,atomicscience.particle.accelerator.ItGuaiWuSu
+14020,Item,AtomicScience,item.atomicscience:hazmatBoots,atomicscience.process.ItemHazmat
+14021,Item,AtomicScience,item.atomicscience:hazmatLeggings,atomicscience.process.ItemHazmat
+14022,Item,AtomicScience,item.atomicscience:hazmatBody,atomicscience.process.ItemHazmat
+14023,Item,AtomicScience,item.atomicscience:hazmatMask,atomicscience.process.ItemHazmat
+14024,Item,AtomicScience,item.atomicscience:thermometer,atomicscience.process.sensor.ItemThermometer
+14025,Item,AtomicScience,item.atomicscience:cellEmpty,atomicscience.base.ItemCell
+14027,Item,AtomicScience,item.atomicscience:rodFissileFuel,atomicscience.fission.ItemFissileFuel
+14028,Item,AtomicScience,item.atomicscience:cellDeuterium,atomicscience.base.ItemCell
 14030,Item,AtomicScience,item.atomicscience:antimatter,atomicscience.particle.fulmination.ItemAntimatter
 14032,Item,AtomicScience,item.atomicscience:yellowcake,atomicscience.fission.ItemRadioactive
 14033,Item,AtomicScience,item.atomicscience:uranium,atomicscience.fission.ItemUranium
-14037,Item,AtomicScience,item.atomicscience:rodBreederFuel,atomicscience.wujian.ItHuanYuan
-14038,Item,AtomicScience,item.atomicscience:cellWater,atomicscience.wujian.ItCell
+14037,Item,AtomicScience,item.atomicscience:rodBreederFuel,atomicscience.fission.ItemBreederFuel
+14038,Item,AtomicScience,item.atomicscience:cellWater,atomicscience.base.ItemCell
 14039,Item,AtomicScience,item.atomicscience:bucketToxicWaste,net.minecraft.item.ItemBucket
 14228,Item,CalclaviaCore,item.calclavia:multitool,calclavia.components.ItemMultitool
 14229,Item,CalclaviaCore,item.calclavia:motor,calclavia.components.ItemBase
