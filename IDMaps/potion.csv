@@ -62,3 +62,5 @@ ID,Unlocalised name,Class
 103,Inhibit,WayofTime.alchemicalWizardry.PotionInhibit
 104,Flight,WayofTime.alchemicalWizardry.PotionFlight
 105,Reciprocation,WayofTime.alchemicalWizardry.PotionReciprocation
+110,grc.potion.tipsy,growthcraft.cellar.potion.PotionCellar
+256,Delirium,pixlepix.minechem.common.PotionProvider
