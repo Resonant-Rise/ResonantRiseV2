@@ -1,6 +1,6 @@
 <version>
   <pack>
-    <version>2.6-DEV-036</version>
+    <version>2.6-DEV-037</version>
     <minecraft>1.6.4</minecraft>
     <memory>2048</memory>
     <permgen>256</permgen>
@@ -183,12 +183,7 @@
          name="Dimensional Anchors" type="mods" version="57.1.92"
          website="http://www.minecraftforum.net/topic/1001131-162-immibiss-mods-smp-now-with-857-less-version-numbers-in-this-title/"
          description="Immibis's chunk loaders. Preferred."  />
-    <mod name="Dynamic Liquid Tanks 2" version="0.0.6"
-		 url="packs/ResonantRise/files/2.6/DynamicTanks2_v0.0.6.jar" file="DynamicTanks2_v0.0.6.jar" md5="fb30fb6ae042b171f910964c81809060" download="server"
-		 type="mods"
-		 website="http://www.minecraftforum.net/topic/2176690-"
-		 description="Tanks of any shape, disguised as any object!" />
-	<mod url="packs/ResonantRise/files/2.6/EmasherResource-1.2.2.0.zip" file="EmasherResource-1.2.2.0.zip" md5="1fbe2930ce6ecf3418b626cfc886b4fc" download="server"
+    <mod url="packs/ResonantRise/files/2.6/EmasherResource-1.2.2.0.zip" file="EmasherResource-1.2.2.0.zip" md5="1fbe2930ce6ecf3418b626cfc886b4fc" download="server"
          name="EmasherResource" type="mods" version="1.2.2.0"
          website="http://emashersmods.wikispaces.com"
          description="Build big or build tiny." />
@@ -213,10 +208,6 @@
          name="EnhancedPortals 3" type="mods" version="3.0.0 Beta 4"
          website="http://www.minecraftforum.net/topic/2143651-"
          description="Custom teleportation that looks fancier!" />
-    <mod url="packs/ResonantRise/files/2.6/EquivalentExchange3-1.6.4-pre2a.57.jar" file="EquivalentExchange3-1.6.4-pre2a.57.jar" md5="c7f135490d549dd9c8b497c1687def3a" download="server"
-         name="Equivalent Exchange 3"  type="mods" version="pre2a.57"
-         website="http://www.minecraftforum.net/topic/1540010-" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=XMS4GNHLGURU8&amp;lc=CA&amp;item_name=Equivalent%20Exchange&amp;currency_code=CAD&amp;bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted"
-         description="Equivalently overpowered compared to past versions?"  /> 
 	<mod url="packs/ResonantRise/files/2.6/ExtraCells-1.6.7d.jar" file="ExtraCells-1.6.7d.jar" md5="5a03accfd78334a5c1fbc43a07d2b2f8" download="server"
          name="Extra Cells" depends="Applied Energistics"  type="mods" version="1.6.7d"
          website="http://www.minecraftforum.net/topic/1801643-m3gas-extracells-appliedenergistics-add-on/"
@@ -352,8 +343,8 @@
          name="Magic Bees" type="mods" version="2.1.11"
          website="http://www.minecraftforum.net/topic/1627856-magic-bees-magic-themed-bees-for-forestry-the-successor-to-thaumicbees/"
          description="Bees in the trap." />
-    <mod url="packs/ResonantRise/files/2.6/Mariculture-1.6.4-v1.2.0.zip" file="Mariculture-1.6.4-v1.2.0.zip" md5="7af9f6fec00c8aba63529add4e3d12f7" download="server"
-         name="Mariculture" version="1.2.0"
+    <mod url="packs/ResonantRise/files/2.6/Mariculture-1.6.4-v1.2.0a.zip" file="Mariculture-1.6.4-v1.2.0a.zip" md5="9b76853045ad5fe2f0fde0ad30f24872" download="server"
+         name="Mariculture" version="1.2.0a"
          website="http://www.minecraftforum.net/topic/2049315-" description="If you're looking for me, look under the sea, because that is where you'll find me." type="mods" />
     <mod url="packs/ResonantRise/files/2.6/Mekanism-6.0.0.220.jar" file="Mekanism-6.0.0.220.jar" md5="61ad66f4dd5a42d0bebbc31412c635ed" download="server"
          name="Mekanism" type="mods" version="6.0.0.220" website="http://universalelectricity.com/mekanism" donation="http://universalelectricity.com/mekanism"
