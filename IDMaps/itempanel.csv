@@ -1,1 +1,28 @@
 Item ID,Item meta,Has NBT,Display Name
+2477,0,false,Power Armor Tinker Table
+2478,0,false,Lux Capacitor
+25026,0,false,Wiring
+25026,1,false,Solenoid
+25026,2,false,Servo Motor
+25026,3,false,Glider Wing
+25026,4,false,Ion Thruster
+25026,5,false,LV Capacitor
+25026,6,false,MV Capacitor
+25026,7,false,HV Capacitor
+25026,8,false,Parachute
+25026,9,false,Basic Plating
+25026,10,false,Advanced Plating
+25026,11,false,Force Field Emitter
+25026,12,false,Hologram Emitter
+25026,13,false,Carbon Myofiber
+25026,14,false,Control Circuit
+25026,15,false,Myofiber Gel
+25026,16,false,Artificial Muscle
+25026,17,false,Solar Panel
+25026,18,false,Magnet
+25026,19,false,Computer Chip
+25027,0,true,Power Armor Helmet
+25028,0,true,Power Armor Chestplate
+25029,0,true,Power Armor Leggings
+25030,0,true,Power Armor Boots
+25031,0,true,Power Fist

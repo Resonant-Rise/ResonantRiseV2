@@ -57,6 +57,11 @@ ID,Unlocalised name,Type,Min Level,Max Level,Class
 55,enchantment.Radium Chloride Coated,weapon,1,10,pixlepix.minechem.common.coating.EnchantmentCoated
 56,enchantment.Caulerpenyne Coated,weapon,1,10,pixlepix.minechem.common.coating.EnchantmentCoated
 57,enchantment.L-hyoscyamine Coated,weapon,1,10,pixlepix.minechem.common.coating.EnchantmentCoated
+66,enchantment.cluster,digger,1,4,com.spiteful.forbidden.enchantments.EnchantmentCluster
+67,enchantment.pigbane,weapon,1,5,com.spiteful.forbidden.enchantments.EnchantmentPigBane
+68,enchantment.greedy,weapon,1,1,com.spiteful.forbidden.enchantments.EnchantmentGreedy
+69,enchantment.consuming,digger,1,1,com.spiteful.forbidden.enchantments.EnchantmentConsuming
+70,enchantment.educational,weapon,1,5,com.spiteful.forbidden.enchantments.EnchantmentEducational
 100,enchantment.magicresist,armor,1,5,am2.enchantments.EnchantMagicResist
 104,enchantment.soulbound,all,1,1,am2.enchantments.EnchantmentSoulbound
 136,enchantment.tfFireReact,armor,1,1,twilightforest.EnchantmentTFFireReact
@@ -83,6 +88,8 @@ ID,Unlocalised name,Type,Min Level,Max Level,Class
 213,enchantment.resurrection,all,1,3,mariculture.magic.enchantments.EnchantmentResurrection
 214,enchantment.speed,all,1,5,mariculture.magic.enchantments.EnchantmentSpeed
 215,enchantment.spiderman,all,1,1,mariculture.magic.enchantments.EnchantmentSpider
+216,enchantment.luck,all,1,5,mariculture.magic.enchantments.EnchantmentLuck
+217,enchantment.stepUp,all,1,3,mariculture.magic.enchantments.EnchantmentStepUp
 220,enchantment.ttinkerer:ascentBoost,armor_legs,1,4,vazkii.tinkerer.common.enchantment.EnchantmentAscentBoost
 221,enchantment.ttinkerer:slowFall,armor_feet,1,3,vazkii.tinkerer.common.enchantment.EnchantmentSlowFall
 222,enchantment.ttinkerer:autoSmelt,digger,1,1,vazkii.tinkerer.common.enchantment.EnchantmentAutoSmelt
