@@ -283,11 +283,11 @@
 		 website="http://www.minecraftforum.net/topic/1510394-"
 		 description="Wine tasting?" />
 	<mod name="GrowthCraft [Hops]" version="2.0.4" type="mods"
-		 url="packs/ResonantRise/files/2.6/growthcraft-rice-1.6.4-2.0.4.zip" file="growthcraft-rice-1.6.4-2.0.4.zip" md5="851d49f03e9c9b68ff513208001ccad0" download="server"
+		 url="packs/ResonantRise/files/2.6/growthcraft-hops-1.6.4-2.0.4.zip" file="growthcraft-hops-1.6.4-2.0.4.zip" md5="f42c0a3dfcc9d88bfa7f5cff2c80b219" download="server"
 		 website="http://www.minecraftforum.net/topic/1510394-"
 		 description="GLORIOUS DWARVEN ALE." />
-	<mod name="GrowthCraft [Rice]" version="2.0.3" type="mods"
-		 url="packs/ResonantRise/files/2.6/growthcraft-rice-1.6.4-2.0.3.zip" file="growthcraft-rice-1.6.4-2.0.3.zip" md5="b8f1df6443c3622a5100af3715a6da76" download="server"
+	<mod name="GrowthCraft [Rice]" version="2.0.4" type="mods"
+		 url="packs/ResonantRise/files/2.6/growthcraft-rice-1.6.4-2.0.4.zip" file="growthcraft-rice-1.6.4-2.0.4.zip" md5="851d49f03e9c9b68ff513208001ccad0" download="server"
 		 website="http://www.minecraftforum.net/topic/1510394-"
 		 description="JAPANESE BEER." />
 	<mod url="packs/ResonantRise/files/2.6/HardcoreEnderExpansion_1.3.3.zip" file="HardcoreEnderExpansion_1.3.3.zip" md5="435c4846044c542901dc86219c737e84" download="server"
