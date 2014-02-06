@@ -15,6 +15,11 @@
          name="Compact Solars" type="mods" version="4.4.19.266" website="http://files.minecraftforge.net/CompactSolars/" donation="http://www.computercraft.info/donate/"
          description="The dreaded easy power is now in!" />
 		 
+	<mod url="packs/ResonantRise/files/2.6/ForestryExtras v0.6.4.zip" file="ForestryExtras v0.6.4.zip" md5="94a07810f17c69283009ef55aae2416a" download="server"
+		 name="Forestry Extras" version="v0.6.4" type="mods"
+		 website="http://www.minecraftforum.net/topic/1997248-" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=YLHAXD4EZBWCE" authors="Wasliebob"
+		 description="Forestry Addon" />
+	
 	<mod url="packs/ResonantRise/files/2-STABLE/mod_zGraviSuite_1_9_8_MC_1_6_4_IC_EXP.zip" file="mod_zGraviSuite_1_9_8_MC_1_6_4_IC_EXP.zip" md5="a74da90012db6f06303e3c1428f99066" download="server"
          name="Gravitation Suite" depends="IndustrialCraft2"  type="mods"
          version="1.9.8-EXP"
