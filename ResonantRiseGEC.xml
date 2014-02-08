@@ -1,6 +1,6 @@
 <version>
   <pack>
-    <version>2.6-DEV-038</version>
+    <version>2.6-DEV-039</version>
     <minecraft>1.6.4</minecraft>
     <memory>2048</memory>
     <permgen>256</permgen>
@@ -229,8 +229,8 @@
          website="http://forum.feed-the-beast.com/threads/myrathis-mod-compendium.18505/"
          description="Signs on every surface."
          />
-    <mod name="Forbidden Magic" version="pr0.23"
-		 url="packs/ResonantRise/files/2.6/ForbiddenMagic pr0.23.jar" file="ForbiddenMagic pr0.23.jar" md5="3cbb64ad71f5b9c868b4887fbcee5957" download="server"
+    <mod name="Forbidden Magic" version="pr0.231"
+		 url="packs/ResonantRise/files/2.6/ForbiddenMagic pr0.231.jar" file="ForbiddenMagic pr0.231.jar" md5="e6943619fe1ba378f634413b6822bc81" download="server"
 		 type="mods"
 		 website="http://www.minecraftforum.net/topic/2305054-"
 		 description="Magic on the shadier side of the street for Thaumcraft!" />
