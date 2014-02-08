@@ -348,8 +348,8 @@
          name="Magic Bees" type="mods" version="2.1.11"
          website="http://www.minecraftforum.net/topic/1627856-magic-bees-magic-themed-bees-for-forestry-the-successor-to-thaumicbees/"
          description="Bees in the trap." />
-    <mod url="packs/ResonantRise/files/2.6/Mariculture-1.6.4-v1.2.0c.zip" file="Mariculture-1.6.4-v1.2.0c.zip" md5="47e6a901577668c0e6e593d5a3cc538c" download="server"
-         name="Mariculture" version="1.2.0c"
+    <mod url="packs/ResonantRise/files/2.6/Mariculture-1.6.4-1.2.0d.jar" file="Mariculture-1.6.4-1.2.0d.jar" md5="2ace10eebde47030694273e6fcba2417" download="server"
+         name="Mariculture" version="1.2.0d"
          website="http://www.minecraftforum.net/topic/2049315-" description="If you're looking for me, look under the sea, because that is where you'll find me." type="mods" />
     <mod url="packs/ResonantRise/files/2.6/Mekanism-6.0.0.233.jar" file="Mekanism-6.0.0.233.jar" md5="db3772f8ab0dd347c0ec0af78f0f3308" download="server"
          name="Mekanism" type="mods" version="6.0.0.233" website="http://universalelectricity.com/mekanism" donation="http://universalelectricity.com/mekanism"
