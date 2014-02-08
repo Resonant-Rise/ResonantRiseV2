@@ -22,6 +22,9 @@ ID,Unlocalised name,Class
 21,potion.radiation,calclavia.lib.prefab.poison.PotionRadiation
 22,potion.absorption,net.minecraft.potion.PotionAbsoption
 23,potion.saturation,net.minecraft.potion.PotionHealth
+24,potion.toxin,icbm.explosion.potion.PoisonToxin
+25,potion.virus,icbm.explosion.potion.PoisonContagion
+26,potion.frostBite,icbm.explosion.potion.PoisonFrostBite
 30,potion.fluxtaint,thaumcraft.common.items.PotionFluxTaint
 32,Water Breathing,am2.buffs.ArsMagicaPotion
 33,Flight,am2.buffs.ArsMagicaPotion
