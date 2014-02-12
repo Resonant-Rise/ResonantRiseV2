@@ -1,6 +1,6 @@
 <version>
   <pack>
-    <version>2.6.13.3-EXP</version>
+    <version>2.6.13.4-EXP</version>
     <minecraft>1.6.4</minecraft>
     <memory>2048</memory>
     <permgen>256</permgen>
@@ -348,8 +348,8 @@
          name="Magic Bees" type="mods" version="2.1.11"
          website="http://www.minecraftforum.net/topic/1627856-magic-bees-magic-themed-bees-for-forestry-the-successor-to-thaumicbees/"
          description="Bees in the trap." />
-    <mod url="packs/ResonantRise/files/2.6/Mariculture-1.6.4-1.2.0e.jar" file="Mariculture-1.6.4-1.2.0e.jar" md5="11b3755dd7df2e2bab0a7cd5946b4a06" download="server" 
-         name="Mariculture" version="1.2.0e"
+    <mod url="packs/ResonantRise/files/2.6/Mariculture-1.6.4-1.2.0f.jar" file="Mariculture-1.6.4-1.2.0f.jar" md5="85ed407c476973b5e4dde23bf2a1bff0" download="server" 
+         name="Mariculture" version="1.2.0f"
          website="http://www.minecraftforum.net/topic/2049315-" description="If you're looking for me, look under the sea, because that is where you'll find me." type="mods" />
     <mod url="packs/ResonantRise/files/2.6/Mekanism-6.0.0.233.jar" file="Mekanism-6.0.0.233.jar" md5="db3772f8ab0dd347c0ec0af78f0f3308" download="server"
          name="Mekanism" type="mods" version="6.0.0.233" website="http://universalelectricity.com/mekanism" donation="http://universalelectricity.com/mekanism"
@@ -563,8 +563,8 @@
          version="0.1.3"
          website="http://www.minecraftforum.net/topic/1659892-15xtinkers-construct/" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=56Q7K92KRPW2N&amp;lc=US&amp;item_name=Tinkers%20Construct&amp;bn=PP%2dDonationsBF%3abtn_donate_LG%2egif%3aNonHosted"
          description="Dat Torque" />
-    <mod name="Totemic" version="0.0.8b"
-		 url="packs/ResonantRise/files/2.6/Totemic-0.0.8b.jar" file="Totemic-0.0.8b.jar" md5="e16b70a07970a1e25d9ccaa96d84054c" download="server"
+    <mod name="Totemic" version="0.1.0"
+		 url="packs/ResonantRise/files/2.6/Totemic-0.1.0.jar" file="Totemic-0.1.0.jar" md5="90edb393501092b611207678b847e2d0" download="server" 
 		 type="mods"
 		 website="http://forum.feed-the-beast.com/threads/totemic-discussion-magical-totems.39825/"
 		 description="Magic with totem focuses!" />
