@@ -56,6 +56,9 @@ ID,Unlocalised name,Class
 68,Gravity Well,am2.buffs.ArsMagicaPotion
 69,Levitation,am2.buffs.ArsMagicaPotion
 70,Clarity,am2.buffs.ArsMagicaPotion
+80,rtImbue.imbuePoison,lumien.randomthings.PotionEffects.ImbuePoison
+81,rtImbue.imbueWeakness,lumien.randomthings.PotionEffects.ImbueWeakness
+82,rtImbue.imbueWither,lumien.randomthings.PotionEffects.ImbueWither
 100,Drowning,WayofTime.alchemicalWizardry.PotionDrowning
 101,Boost,WayofTime.alchemicalWizardry.PotionBoost
 102,Whirlwind,WayofTime.alchemicalWizardry.PotionProjectileProtect
