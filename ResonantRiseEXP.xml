@@ -558,6 +558,15 @@
          name="Sync" version="2.1.1" optional="yes"
          type="mods"
          website="http://ichun.us/mods/sync/" donation="http://pitchinbox.com/redirect.php?id=5757827081" authors="iChun" description="This mod provides clones, or as we like to call it, 'shells'. These shells are basically a new individual, with their own inventory, experience level, and even gamemode." />
+	<mod url="packs/ResonantRise/files/2-STABLE/Thaumcraft4.0.5b.zip" file="Thaumcraft4.0.5b.zip" md5="c83fdf939e5f229260e7d0a785b86b12" download="server" 
+         name="Thaumcraft 4"
+         type="mods"
+         version="4.0.5b"
+		 authors="Azanor"
+         website="http://www.minecraftforum.net/topic/2011841-"
+         donation="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=88PFJA73AEFFW&amp;lc=ZA&amp;currency_code=USD&amp;bn=PP%2dDonationsBF%3abtn_donate_LG%2egif%3aNonHosted"
+         description="This one won't creep you out, kids."
+         />
 	<mod url="packs/ResonantRise/files/2.6/ThaumicTinkerer-2.1-74.jar" file="ThaumicTinkerer-2.1-74.jar" md5="6b24168c6b6eff1dd813f24595f97457" download="server"
          name="Thaumic Tinkerer" type="mods"
          version="2.1-74" depends="Thaumcraft 4"
@@ -671,16 +680,6 @@
          donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=HCQMGHQ4D5GQ4"
          description="Choo Choo Buckaroo and also boilers."
          depends="Buildcraft"/>
-    <mod url="http://adf.ly/1311628/thaumcraft-4"
-         file="Thaumcraft4.0.5b.zip"
-         download="browser"
-         name="Thaumcraft 4"
-         type="mods"
-         version="4.0.5b"
-         website="http://www.minecraftforum.net/topic/2011841-"
-         donation="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=88PFJA73AEFFW&amp;lc=ZA&amp;currency_code=USD&amp;bn=PP%2dDonationsBF%3abtn_donate_LG%2egif%3aNonHosted"
-         description="This one won't creep you out, kids."
-         />
     <mod url="http://adf.ly/Zvi5J"
          md5="F36991512E147B9A1CABE1A0E8FF9049"
          file="twilightforest-1.20.3.jar"
