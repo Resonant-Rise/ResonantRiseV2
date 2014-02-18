@@ -24,14 +24,38 @@
     <!-- Forge and MCPC -->
     <mod url="packs/ResonantRise/files/forgelibs/forge-1.6.4-9.11.1.965-universal.jar" file="forge-1.6.4-9.11.1.965-universal.jar" md5="02efbef58dbd39fccead94777b611fce" download="server"
          name="Forge" type="forge" version="9.11.1.965" website="http://www.minecraftforge.com" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=Z5MLLA62HSUM2" description="The Core." />
-    <mod url="packs/ResonantRise/files/forgelibs/ForgeMultipartDebug_1.0.0.240.zip" file="ForgeMultipartDebug_1.0.0.240.zip" md5="5927b1ff1d3c450456b04e04049b9362" download="server"
-         name="Forge Multipart [+Libs]" type="extract" extractto="root" version="1.0.0.240" website="http://www.minecraftforum.net/topic/909223-147152-smp-chickenbones-mods/" donation="http://www.chickenbones.craftsaddle.org/Pages/donate.php" description="Forge Multipart done right."  />
     <mod url="packs/ResonantRise/files/forgelibs/mcpc-plus-1.6.4-R2.1-forge965-B223.jar" file="mcpc-plus-1.6.4-R2.1-forge965-B223.jar" md5="351205a77c43cd957f8dbc3f6440cc24" download="server"
          name="MCPC+" type="mcpc" version="B223"
          website="http://ci.md-5.net/job/MCPC-Plus/"
          description="Server superweapon!"
          optional="yes" client="no"/>
-
+	
+	<!-- Dependencies (as classed by ATL) -->
+	<mod name="CodeChickenLib" version="1.0.0.49"
+		 url="packs/ResonantRise/files/deps/CodeChickenLib-universal-1.6.4-1.0.0.49.jar" file="CodeChickenLib-universal-1.6.4-1.0.0.49.jar" md5="c2a65f80746754076a346f601bb39fae" download="server"
+		 type="dependency"
+		 website="http://www.minecraftforum.net/topic/909223-" donation="http://www.chickenbones.craftsaddle.org/Pages/donate.php"
+		 authors="ChickenBones" description="Needed for ChickenBones mods" />
+	<mod name="ForgeMultipart" version="1.0.0.240"
+		 url="packs/ResonantRise/files/deps/ForgeMultipart-universal-1.6.4-1.0.0.240.jar" file="ForgeMultipart-universal-1.6.4-1.0.0.240.jar" md5="c7ea2ee4ff190127b9b01ca9facbd203" download="server"
+		 type="dependency"
+		 website="https://github.com/Chicken-Bones/ForgeMultipart" donation="http://www.chickenbones.craftsaddle.org/Pages/donate.php"
+		 authors="ChickenBones" description="Open source library for facilitation of multiple functional parts in the one block space." />
+	<mod name="World Core" version="1.1.0.17"
+		 url="packs/ResonantRise/files/deps/WorldCore-universal-1.6.4-1.1.0.17.jar" file="WorldCore-universal-1.6.4-1.1.0.17.jar" md5="1d0a8311356503492eb95a9abd214069" download="server"
+		 type="dependency"
+		 website="http://www.minecraftforge.net/forum/index.php/board,106.0.html" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=U58BHXTK8LLRQ&amp;lc=US&amp;item_name=Biomes%20O%27%20Plenty&amp;currency_code=USD&amp;bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted"
+		 authors="Adubbz,Amnet,ted80,Forstride" description="Needed for Biomes O Plenty" />
+	
+	<mod name="CQ Libs" version="2.07"
+		 url="packs/ResonantRise/files/bd2libs/bd2_files.zip" file="bd2_files.zip" md5="a7322933982c1a1993c17e5fa851a3cf" download="server"
+		 type="extract" extractto="root" website="http://www.minecraftforum.net/topic/746330-" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=marsalada_saladamar%40hotmail%2ecom&amp;lc=US&amp;no_note=0&amp;currency_code=USD&amp;bn=PP%2dDonationsBF%3abtn_donate_SM%2egif%3aNonHostedGuest" authors="Chocolatin"
+		 description="Data and resources for Chocolate Quest." />
+	<mod url="packs/ResonantRise/files/2-STABLE/denLibFiles.zip" file="denLibFiles.zip" md5="40bc48b1c3c81a51bcb27b03e5bc5e32" download="server"
+         name="denLib Utils" type="extract" extractto="root" version="n/a"
+		 website="http://www.minecraftforum.net/topic/1253666-152forge-denoflions-mods-threads-condensed/" description="Because waiting five seconds is for suckers."  />
+	
+	
     <!-- Mods (Alphabetized) -->
     <mod url="packs/ResonantRise/files/2.6/buildcraft-Z-additional-buildcraft-objects-1.0.7.560.jar" file="buildcraft-Z-additional-buildcraft-objects-1.0.7.560.jar" md5="60d11a5149f41a61b5f150014882bac6" download="server" 
          name="Additional BuildCraft Objects" type="mods" version="1.0.7.560"
@@ -146,10 +170,6 @@
 		 url="packs/ResonantRise/files/2.6/BetterDungeons207.zip" file="BetterDungeons207.zip" md5="8e67289320f739972685096e8b65b193" download="server"
 		 type="mods" website="http://www.minecraftforum.net/topic/746330-" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=marsalada_saladamar%40hotmail%2ecom&amp;lc=US&amp;no_note=0&amp;currency_code=USD&amp;bn=PP%2dDonationsBF%3abtn_donate_SM%2egif%3aNonHostedGuest" authors="Chocolatin"
 		 description="The star of the RR 2.7 show! Finally some real adventures!" />
-	<mod name="CQ Libs" version="2.07"
-		 url="packs/ResonantRise/files/bd2libs/bd2_files.zip" file="bd2_files.zip" md5="a7322933982c1a1993c17e5fa851a3cf" download="server"
-		 type="extract" extractto="root" website="http://www.minecraftforum.net/topic/746330-" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=marsalada_saladamar%40hotmail%2ecom&amp;lc=US&amp;no_note=0&amp;currency_code=USD&amp;bn=PP%2dDonationsBF%3abtn_donate_SM%2egif%3aNonHostedGuest" authors="Chocolatin"
-		 description="Data and resources for Chocolate Quest." />
 	<mod url="packs/ResonantRise/files/2-STABLE/CodeChickenCore%200.9.0.7.jar" file="CodeChickenCore 0.9.0.7.jar" md5="f81ca854f4455259d066708fa729d18c" download="server"
          name="CodeChickenCore" type="mods"
          version="0.9.0.7" website="http://www.minecraftforum.net/topic/909223-147152-smp-chickenbones-mods/" donation="http://www.chickenbones.craftsaddle.org/Pages/donate.php" description="Core of Chickenbones mods" />
@@ -178,8 +198,6 @@
          name="denLib" type="mods" version="3.1.35"
          website="http://www.minecraftforum.net/topic/1253666-152forge-denoflions-mods-threads-condensed/" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=INpureProjects%40gmail%2ecom&amp;lc=US&amp;item_name=denoflions%20mods&amp;currency_code=USD&amp;bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted"
          description="Library pack for denoflions' mods." />
-    <mod url="packs/ResonantRise/files/2-STABLE/denLibFiles.zip" file="denLibFiles.zip" md5="40bc48b1c3c81a51bcb27b03e5bc5e32" download="server"
-         name="denLib Utils" type="extract" extractto="root" version="n/a" website="http://www.minecraftforum.net/topic/1253666-152forge-denoflions-mods-threads-condensed/" description="Because waiting five seconds is for suckers."  />
     <mod url="packs/ResonantRise/files/2-STABLE/DenPipes-1.6.4-2.1.18.jar" file="DenPipes-1.6.4-2.1.18.jar" md5="25e8d825ec6eaf26073d1ffa4f46d34d" download="server"
          name="DenPipes" type="mods" version="2.1.18"
          website="http://www.minecraftforum.net/topic/1253666-152forge-denoflions-mods-threads-condensed/" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=INpureProjects%40gmail%2ecom&amp;lc=US&amp;item_name=denoflions%20mods&amp;currency_code=USD&amp;bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted"
