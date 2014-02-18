@@ -55,12 +55,7 @@
           md5="77D5E98B3653843C7E1C1DD7E2086E0E"
           description="Like solar power except with wind." />
 	
-    <mod url="packs/ResonantRise/files/2-STABLE/simple-recycling-57.1.0.jar" file="simple-recycling-57.1.0.jar" md5="1394ae168c158d7d0141c0f949c6fde5" download="server"
-         name="Simple Recycling" type="mods" version="57.1.0"
-         website="http://www.minecraftforum.net/topic/1001131-"
-         description="Greg-free and easy." />
-	
-	<mod url="packs/ResonantRise/files/DimensionalDoors-1.5.2R1.4.1RC1-195.zip" file="DimensionalDoors-1.5.2R1.4.1RC1-195.zip" md5="e3fb5800a3cf792e6c96e118b7784b95" download="server"
+    <mod url="packs/ResonantRise/files/DimensionalDoors-1.5.2R1.4.1RC1-195.zip" file="DimensionalDoors-1.5.2R1.4.1RC1-195.zip" md5="e3fb5800a3cf792e6c96e118b7784b95" download="server"
          name="Dimensional Doors"  type="mods"  
          version="1.4.1RC1-195" 
          website="http://www.minecraftforum.net/topic/1650007-152universal-dimensional-doors-v141-eyes-in-the-darkupdatedagain/" 
