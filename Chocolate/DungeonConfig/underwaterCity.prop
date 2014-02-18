@@ -1,5 +1,5 @@
 biomes = Ocean, Coral Reef, CoralReef
-chance = 35
+chance = 3
 mob = triton
 icon = 10
 builder = skyscraperGrid

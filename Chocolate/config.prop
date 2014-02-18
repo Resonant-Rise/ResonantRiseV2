@@ -1,7 +1,7 @@
 # For more configurations about dungeons look at dungeonConfig folder
 
 #Minimum separation between dungeons (sepration defined in chunks)
-dungeonSeparation = 4
+dungeonSeparation = 28
 # Chunk caves, are caves/structures generated on each chunk(if the chunk is viable)set 0 to disable, 1 to enable
 
 # Jungle caves, located around layer 40 in jugle biomes
@@ -37,5 +37,5 @@ disableItemsToSpawnDungeons = false
 #enableCapsulesInSurvival: if true the capsule station blick will be craftable or sold by villagers
 enableCapsulesInSurvival = true
 #registerModItemsToChests, if set to false items from this mod will won't be automatically added to chest lists
-registerModItemsToChests = true
+registerModItemsToChests = false
 overridePlayerModel = false
