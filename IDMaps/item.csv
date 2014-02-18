@@ -5,7 +5,7 @@ ID,Block/Item,Mod,Unlocalised name,Class
 4,Block,Minecraft,tile.stonebrick,net.minecraft.block.Block
 5,Block,Minecraft,tile.wood,net.minecraft.block.BlockWood
 6,Block,Minecraft,tile.sapling,net.minecraft.block.BlockSapling
-7,Block,Minecraft,tile.bedrock,net.minecraft.block.Block
+7,Block,ThaumicTinkerer,tile.bedrock,vazkii.tinkerer.common.block.kami.BlockBedrockKAMI
 8,Block,Minecraft,tile.water,net.minecraft.block.BlockFlowing
 9,Block,Minecraft,tile.water,net.minecraft.block.BlockStationary
 10,Block,Minecraft,tile.lava,net.minecraft.block.BlockFlowing
@@ -440,6 +440,7 @@ ID,Block/Item,Mod,Unlocalised name,Class
 719,Block,EnderIO,tile.enderio.blockCrusher,crazypants.enderio.machine.crusher.BlockCrusher
 720,Block,EnderIO,tile.enderio.blockHyperCube,crazypants.enderio.machine.hypercube.BlockHyperCube
 721,Block,EnderIO,tile.enderio.blockPowerMonitor,crazypants.enderio.machine.monitor.BlockPowerMonitor
+722,Block,EnderIO,tile.enderio.blockTravelPlatform,crazypants.enderio.teleport.BlockTravelAnchor
 900,Block,AppliedEnergistics,tile.null,appeng.common.base.AppEngMultiBlock
 901,Block,AppliedEnergistics,tile.null,appeng.common.base.AppEngMultiBlock
 902,Block,AppliedEnergistics,tile.null,appeng.common.base.AppEngMultiBlock
@@ -590,14 +591,14 @@ ID,Block/Item,Mod,Unlocalised name,Class
 1317,Block,StevesFactoryManager,tile.null,vswe.stevesfactory.blocks.BlockCableIntake
 1318,Block,StevesFactoryManager,tile.sfm.BlockCableBUD,vswe.stevesfactory.blocks.BlockCableBUD
 1319,Block,StevesFactoryManager,tile.sfm.BlockCableBreaker,vswe.stevesfactory.blocks.BlockCableBreaker
-1320,Block,StevesFactoryManager,tile.sfm.BlockCableCluster,vswe.stevesfactory.blocks.BlockCableCluster
-1321,Block,StevesFactoryManager,tile.sfm.BlockCableCamouflage,vswe.stevesfactory.blocks.BlockCableCamouflages
+1320,Block,StevesFactoryManager,tile.null,vswe.stevesfactory.blocks.BlockCableCluster
+1321,Block,StevesFactoryManager,tile.null,vswe.stevesfactory.blocks.BlockCableCamouflages
 1345,Block,Sync,tile.Sync_ShellConstructor,sync.common.block.BlockDualVertical
-1352,Block,EnhancedPortals3,tile.ep3.decoration,uk.co.shadeddimensions.ep3.block.BlockDecoration
-1353,Block,EnhancedPortals3,tile.ep3.stabilizer,uk.co.shadeddimensions.ep3.block.BlockStabilizer
-1354,Block,EnhancedPortals3,tile.ep3.portalFrame,uk.co.shadeddimensions.ep3.block.BlockFrame
-1355,Block,EnhancedPortals3,tile.ep3.portal,uk.co.shadeddimensions.ep3.block.BlockPortal
-1356,Block,EnhancedPortals3,tile.ep3.crafting,uk.co.shadeddimensions.ep3.block.BlockCrafting
+1352,Block,EnhancedPortals3,tile.decoration,uk.co.shadeddimensions.ep3.block.BlockDecoration
+1353,Block,EnhancedPortals3,tile.stabilizer,uk.co.shadeddimensions.ep3.block.BlockStabilizer
+1354,Block,EnhancedPortals3,tile.frame,uk.co.shadeddimensions.ep3.block.BlockFrame
+1355,Block,EnhancedPortals3,tile.portal,uk.co.shadeddimensions.ep3.block.BlockPortal
+1356,Block,EnhancedPortals3,tile.crafting,uk.co.shadeddimensions.ep3.block.BlockCrafting
 1376,Block,Forestry,tile.for.lepidopterology,forestry.core.gadgets.BlockBase
 1377,Block,Forestry,tile.for.arboriculture,forestry.core.gadgets.BlockBase
 1378,Block,Forestry,tile.candle,forestry.apiculture.gadgets.BlockCandle
@@ -1143,6 +1144,7 @@ ID,Block/Item,Mod,Unlocalised name,Class
 2572,Block,OpenBlocks,tile.openblocks.canvasglass,openblocks.common.block.BlockCanvasGlass
 2573,Block,OpenBlocks,tile.openblocks.projector,openblocks.common.block.BlockProjector
 2574,Block,OpenBlocks,tile.openblocks.drawingtable,openblocks.common.block.BlockDrawingTable
+2577,Block,OpenBlocks,tile.openblocks.radio,openblocks.common.block.BlockRadio
 2600,Block,Thaumcraft,tile.blockAiry,thaumcraft.common.blocks.BlockAiry
 2601,Block,Thaumcraft,tile.blockArcaneDoor,thaumcraft.common.blocks.BlockArcaneDoor
 2602,Block,Thaumcraft,tile.blockArcaneFurnace,thaumcraft.common.blocks.BlockArcaneFurnace
@@ -1169,6 +1171,7 @@ ID,Block/Item,Mod,Unlocalised name,Class
 2623,Block,Thaumcraft,tile.blockWoodenDevice,thaumcraft.common.blocks.BlockWoodenDevice
 2624,Block,Thaumcraft,tile.blockManaPod,thaumcraft.common.blocks.BlockManaPod
 2625,Block,Thaumcraft,tile.blockTube,thaumcraft.common.blocks.BlockTube
+2626,Block,Thaumcraft,tile.blockWarded,thaumcraft.common.blocks.BlockWarded
 2640,Block,ForbiddenMagic,tile.ArcaneCake,com.spiteful.forbidden.blocks.BlockArcaneCake
 2641,Block,ForbiddenMagic,tile.InkFlower,com.spiteful.forbidden.blocks.BlockBlackFlower
 2642,Block,ForbiddenMagic,tile.WrathCage,com.spiteful.forbidden.blocks.BlockWrathCage
@@ -1188,6 +1191,10 @@ ID,Block/Item,Mod,Unlocalised name,Class
 2664,Block,ThaumicTinkerer,tile.ttinkerer:aspectAnalyzer,vazkii.tinkerer.common.block.BlockAspectAnalyzer
 2665,Block,ThaumicTinkerer,tile.ttinkerer:platform,vazkii.tinkerer.common.block.BlockPlatform
 2666,Block,ThaumicTinkerer,tile.ttinkerer:warpGate,vazkii.tinkerer.common.block.kami.BlockWarpGate
+2667,Block,ThaumicTinkerer,tile.ttinkerer:portal,vazkii.tinkerer.common.block.kami.BlockBedrockPortal
+2668,Block,ThaumicTinkerer,tile.ttinkerer:golemConnector,vazkii.tinkerer.common.block.BlockGolemConnector
+2669,Block,ThaumicTinkerer,tile.ttinkerer:Levitational Locomotive,vazkii.tinkerer.common.block.mobilizer.BlockMobilizer
+2670,Block,ThaumicTinkerer,tile.ttinkerer:Levitational Locomotive Relay,vazkii.tinkerer.common.block.mobilizer.BlockMobilizerRelay
 2680,Block,AdvancedThaumaturgy,tile.at.ventilator,net.ixios.advancedthaumaturgy.blocks.BlockFluxDissipator
 2683,Block,AdvancedThaumaturgy,tile.at.modifier,net.ixios.advancedthaumaturgy.blocks.BlockNodeModifier
 2684,Block,AdvancedThaumaturgy,tile.at.fertilizer,net.ixios.advancedthaumaturgy.blocks.BlockThaumicFertilizer
@@ -1562,6 +1569,7 @@ ID,Block/Item,Mod,Unlocalised name,Class
 3652,Block,remoteIO,tile.sideProxy,com.dmillerw.remoteIO.block.BlockSideProxy
 3653,Block,remoteIO,tile.skylight,com.dmillerw.remoteIO.block.BlockSkylight
 3654,Block,remoteIO,tile.remoteInventory,com.dmillerw.remoteIO.block.BlockRemoteInventory
+3655,Block,remoteIO,tile.turtleBridge,com.dmillerw.remoteIO.block.BlockTurtleBridge
 3680,Block,Agriculture,tile.agriculture:brewer,com.teammetallurgy.agriculture.machines.brewer.BlockBrewer
 3681,Block,Agriculture,tile.agriculture:cinnamon,com.teammetallurgy.agriculture.crops.BlockSpice
 3682,Block,Agriculture,tile.agriculture:counter,com.teammetallurgy.agriculture.machines.counter.BlockCounter
@@ -1693,9 +1701,10 @@ ID,Block/Item,Mod,Unlocalised name,Class
 3951,Block,totemic,tile.chlorophyllSolidifier,totemic_commons.pokefenn.block.BlockChlorophyllSolidifier
 3954,Block,totemic,tile.totemSocket,totemic_commons.pokefenn.block.BlockTotemSocket
 3957,Block,totemic,tile.totemIntelligence,totemic_commons.pokefenn.block.BlockTotemIntelligence
-3958,Block,totemic,tile.totemDraining,totemic_commons.pokefenn.block.BlockTotemDraining
 3959,Block,totemic,tile.totemWoods,totemic_commons.pokefenn.block.BlockTotemWoods
 3960,Block,totemic,tile.fluidChlorophyll,totemic_commons.pokefenn.block.BlockChlorophyll
+3962,Block,totemic,tile.totemLeaves,totemic_commons.pokefenn.block.BlockTotemLeaves
+3963,Block,totemic,tile.totemSapling,totemic_commons.pokefenn.block.BlockTotemSapling
 3980,Block,RandomThings,tile.itemcollector,lumien.randomthings.Blocks.BlockItemCollector
 3981,Block,RandomThings,tile.playerinterface,lumien.randomthings.Blocks.BlockPlayerInterface
 3982,Block,RandomThings,tile.blockDetector,lumien.randomthings.Blocks.BlockBlockDetector
@@ -2243,6 +2252,7 @@ ID,Block/Item,Mod,Unlocalised name,Class
 8793,Item,EnderIO,item.enderio.itemMJReader,crazypants.enderio.machine.monitor.ItemMJReader
 8794,Item,EnderIO,item.enderIO:itemItemConduit,crazypants.enderio.conduit.item.ItemItemConduit
 8795,Item,EnderIO,item.enderIO:itemMaterial,crazypants.enderio.material.ItemMaterial
+8796,Item,EnderIO,item.enderio.itemTravelStaff,crazypants.enderio.teleport.ItemTravelStaff
 8956,Item,Mystcraft,item.myst.agebook,com.xcompwiz.mystcraft.item.ItemAgebook
 8957,Item,Mystcraft,item.myst.linkbook,com.xcompwiz.mystcraft.item.ItemLinkbook
 8958,Item,Mystcraft,item.myst.notebook,com.xcompwiz.mystcraft.item.ItemNotebook
@@ -2330,6 +2340,7 @@ ID,Block/Item,Mod,Unlocalised name,Class
 10566,Item,Additional-Buildcraft-Objects,item.PipeItemsStripes,buildcraft.transport.ItemPipe
 10656,Item,Additional-Buildcraft-Objects,item.PipePowerSwitch,buildcraft.transport.ItemPipe
 10658,Item,Additional-Buildcraft-Objects,item.PipePowerDistribution,buildcraft.transport.ItemPipe
+10659,Item,Additional-Buildcraft-Objects,item.PipePowerDirected,buildcraft.transport.ItemPipe
 10661,Item,Additional-Buildcraft-Objects,item.PipeFluidsPump,buildcraft.transport.ItemPipe
 10666,Item,Forestry,item.PipeItemsPropolis,buildcraft.transport.ItemPipe
 10876,Item,witchery,item.witchHand,com.emoniph.witchery.item.ItemWitchHand
@@ -2771,7 +2782,7 @@ ID,Block/Item,Mod,Unlocalised name,Class
 14037,Item,AtomicScience,item.atomicscience:breederFuel,atomicscience.fission.ItemBreederFuel
 14038,Item,AtomicScience,item.atomicscience:cellWater,atomicscience.base.ItemCell
 14039,Item,AtomicScience,item.atomicscience:bucketToxicWaste,net.minecraft.item.ItemBucket
-14228,Item,CalclaviaCore,item.calclavia:multitool,calclavia.components.ItemMultitool
+14226,Item,CalclaviaCore,item.calclavia:screwdriver,calclavia.components.ItemScrewdriver
 14229,Item,CalclaviaCore,item.calclavia:motor,calclavia.components.ItemBase
 14230,Item,CalclaviaCore,item.calclavia:circuitBasic,calclavia.components.ItemBase
 14231,Item,CalclaviaCore,item.calclavia:circuitAdvanced,calclavia.components.ItemBase
@@ -2870,6 +2881,8 @@ ID,Block/Item,Mod,Unlocalised name,Class
 15251,Item,OpenBlocks,item.openblocks.golden_eye,openblocks.common.item.ItemGoldenEye
 15252,Item,OpenBlocks,item.openblocks.genericUnstackable,openblocks.common.item.ItemOBGenericUnstackable
 15253,Item,OpenBlocks,item.openblocks.cursor,openblocks.common.item.ItemCursor
+15254,Item,OpenBlocks,item.openblocks.tuned_crystal,openblocks.common.item.ItemTunedCrystal
+15255,Item,OpenBlocks,item.openblocks.info_book,openblocks.common.item.ItemInfoBook
 15446,Item,GraviGun,item.GraviGun,gravigun.common.item.ItemGraviGun
 15457,Item,PortalGun,item.PortalGunBlue,portalgun.common.item.ItemPortalGunBlue
 15458,Item,PortalGun,item.PortalGunOrange,portalgun.common.item.ItemPortalGunOrange
@@ -3046,6 +3059,8 @@ ID,Block/Item,Mod,Unlocalised name,Class
 18275,Item,Thaumcraft,item.FocusFrost,thaumcraft.common.items.wands.foci.ItemFocusFrost
 18276,Item,Thaumcraft,item.FocusPortableHole,thaumcraft.common.items.wands.foci.ItemFocusPortableHole
 18277,Item,Thaumcraft,item.FocusPech,thaumcraft.common.items.wands.foci.ItemFocusPech
+18278,Item,Thaumcraft,item.FocusWarding,thaumcraft.common.items.wands.foci.ItemFocusWarding
+18279,Item,Thaumcraft,item.FocusPrimal,thaumcraft.common.items.wands.foci.ItemFocusPrimal
 18286,Item,Thaumcraft,item.ItemGolemPlacer,thaumcraft.common.entities.golems.ItemGolemPlacer
 18287,Item,Thaumcraft,item.ItemGolemCore,thaumcraft.common.entities.golems.ItemGolemCore
 18288,Item,Thaumcraft,item.ItemGolemDecoration,thaumcraft.common.entities.golems.ItemGolemDecoration
@@ -3078,6 +3093,14 @@ ID,Block/Item,Mod,Unlocalised name,Class
 18332,Item,Thaumcraft,item.ItemChestplateRobe,thaumcraft.common.items.armor.ItemRobeArmor
 18333,Item,Thaumcraft,item.ItemLeggingsRobe,thaumcraft.common.items.armor.ItemRobeArmor
 18334,Item,Thaumcraft,item.ItemBootsRobe,thaumcraft.common.items.armor.ItemRobeArmor
+18335,Item,Thaumcraft,item.ItemBowBone,thaumcraft.common.items.equipment.ItemBowBone
+18336,Item,Thaumcraft,item.ItemResonator,thaumcraft.common.items.relics.ItemResonator
+18337,Item,Thaumcraft,item.ItemHelmetRunic,thaumcraft.common.items.armor.ItemRunicArmor
+18338,Item,Thaumcraft,item.ItemChestplateRunic,thaumcraft.common.items.armor.ItemRunicArmor
+18339,Item,Thaumcraft,item.ItemLeggingsRunic,thaumcraft.common.items.armor.ItemRunicArmor
+18340,Item,Thaumcraft,item.ItemBootsRunic,thaumcraft.common.items.armor.ItemRunicArmor
+18341,Item,Thaumcraft,item.ItemGogglesRunic,thaumcraft.common.items.armor.ItemRunicGoggles
+18342,Item,Thaumcraft,item.ItemBootsTravellerRunic,thaumcraft.common.items.armor.ItemRunicBootsTraveller
 18356,Item,Thaumcraft,item.ItemResource,thaumcraft.common.items.ItemResource
 18357,Item,Thaumcraft,item.ItemNuggetChicken,thaumcraft.common.items.ItemNuggetEdible
 18358,Item,Thaumcraft,item.ItemNuggetBeef,thaumcraft.common.items.ItemNuggetEdible
@@ -3136,10 +3159,10 @@ ID,Block/Item,Mod,Unlocalised name,Class
 18793,Item,AdvancedThaumaturgy,item.null,net.ixios.advancedthaumaturgy.items.ItemPommel
 18794,Item,AdvancedThaumaturgy,item.at.voidcage,net.ixios.advancedthaumaturgy.items.ItemFocusVoidCage
 18795,Item,AdvancedThaumaturgy,item.at.etherealjar,net.ixios.advancedthaumaturgy.items.ItemEtherealJar
-18806,Item,ThaumicTinkerer,item.ttinkerer:darkQuartz,vazkii.tinkerer.common.item.ItemMod
+18806,Item,ThaumicTinkerer,item.ttinkerer:darkQuartzItem,vazkii.tinkerer.common.item.ItemMod
 18807,Item,ThaumicTinkerer,item.ttinkerer:connector,vazkii.tinkerer.common.item.ItemConnector
-18808,Item,ThaumicTinkerer,item.ttinkerer:gaseousLight,vazkii.tinkerer.common.item.ItemGas
-18809,Item,ThaumicTinkerer,item.ttinkerer:gaseousShadow,vazkii.tinkerer.common.item.ItemGas
+18808,Item,ThaumicTinkerer,item.ttinkerer:gaseousLightItem,vazkii.tinkerer.common.item.ItemGas
+18809,Item,ThaumicTinkerer,item.ttinkerer:gaseousShadowItem,vazkii.tinkerer.common.item.ItemGas
 18810,Item,ThaumicTinkerer,item.ttinkerer:gasRemover,vazkii.tinkerer.common.item.ItemGasRemover
 18811,Item,ThaumicTinkerer,item.ttinkerer:spellCloth,vazkii.tinkerer.common.item.ItemSpellCloth
 18812,Item,ThaumicTinkerer,item.ttinkerer:focusFlight,vazkii.tinkerer.common.item.foci.ItemFocusFlight
@@ -3520,17 +3543,16 @@ ID,Block/Item,Mod,Unlocalised name,Class
 22572,Item,BiblioWoodsForestry,item.seatBack,jds.bibliocraft.forestrywood.items.ItemSeatBackF3
 22573,Item,BiblioWoodsForestry,item.seatBack,jds.bibliocraft.forestrywood.items.ItemSeatBackF4
 22574,Item,BiblioWoodsForestry,item.seatBack,jds.bibliocraft.forestrywood.items.ItemSeatBackF5
-23776,Item,EnhancedPortals3,item.ep3.wrench,uk.co.shadeddimensions.ep3.item.ItemWrench
-23777,Item,EnhancedPortals3,item.ep3.goggles,uk.co.shadeddimensions.ep3.item.ItemGoggles
-23778,Item,EnhancedPortals3,item.ep3.paintbrush,uk.co.shadeddimensions.ep3.item.ItemPaintbrush
-23779,Item,EnhancedPortals3,item.ep3.locationCard,uk.co.shadeddimensions.ep3.item.ItemLocationCard
-23780,Item,EnhancedPortals3,item.ep3.synchronizer,uk.co.shadeddimensions.ep3.item.ItemSynchronizer
-23781,Item,EnhancedPortals3,item.ep3.entityCard,uk.co.shadeddimensions.ep3.item.ItemEntityCard
-23782,Item,EnhancedPortals3,item.ep3.handheldScanner,uk.co.shadeddimensions.ep3.item.ItemHandheldScanner
-23783,Item,EnhancedPortals3,item.ep3.miscItems,uk.co.shadeddimensions.ep3.item.ItemMisc
-23784,Item,EnhancedPortals3,item.ep3.portalModule,uk.co.shadeddimensions.ep3.item.ItemPortalModule
-23785,Item,EnhancedPortals3,item.ep3.inPlaceUpgrade,uk.co.shadeddimensions.ep3.item.ItemUpgrade
-23786,Item,EnhancedPortals3,item.ep3.guide,uk.co.shadeddimensions.ep3.item.ItemGuide
+23776,Item,EnhancedPortals3,item.wrench,uk.co.shadeddimensions.ep3.item.ItemWrench
+23777,Item,EnhancedPortals3,item.glasses,uk.co.shadeddimensions.ep3.item.ItemGoggles
+23778,Item,EnhancedPortals3,item.nanobrush,uk.co.shadeddimensions.ep3.item.ItemPaintbrush
+23779,Item,EnhancedPortals3,item.locationCard,uk.co.shadeddimensions.ep3.item.ItemLocationCard
+23781,Item,EnhancedPortals3,item.entityCard,uk.co.shadeddimensions.ep3.item.ItemEntityCard
+23782,Item,EnhancedPortals3,item.scanner,uk.co.shadeddimensions.ep3.item.ItemHandheldScanner
+23783,Item,EnhancedPortals3,item.miscItems,uk.co.shadeddimensions.ep3.item.ItemMisc
+23784,Item,EnhancedPortals3,item.portalModule,uk.co.shadeddimensions.ep3.item.ItemPortalModule
+23785,Item,EnhancedPortals3,item.upgrade,uk.co.shadeddimensions.ep3.item.ItemUpgrade
+23786,Item,EnhancedPortals3,item.guide,uk.co.shadeddimensions.ep3.item.ItemGuide
 24157,Item,awger_Punt,item.Punt,mods.awger.punt.ItemPunt
 24158,Item,awger_Whitehall,item.Whitehall,mods.awger.whitehall.ItemWhitehall
 24159,Item,awger_Hoy,item.Hoy,mods.awger.hoy.ItemHoy
@@ -3545,9 +3567,11 @@ ID,Block/Item,Mod,Unlocalised name,Class
 24501,Item,totemic,item.null,totemic_commons.pokefenn.item.ItemSubItems
 24503,Item,totemic,item.totemic:bucketChlorophyll,totemic_commons.pokefenn.fluid.ItemBucketChlorophyll
 24504,Item,totemic,item.totemic:chlorophyllCrystal,totemic_commons.pokefenn.item.ItemChlorophyllCrystal
-24506,Item,totemic,item.null,totemic_commons.pokefenn.item.ItemTotemWhittlingKnife
+24505,Item,totemic,item.totemic:totemicStaff,totemic_commons.pokefenn.item.ItemTotemicStaff
+24506,Item,totemic,item.totemic:totemWhittlingKnife,totemic_commons.pokefenn.item.ItemTotemWhittlingKnife
 24507,Item,totemic,item.null,totemic_commons.pokefenn.item.ItemTotems
 24511,Item,totemic,item.totemic:blazingChlorophyllCrystal,totemic_commons.pokefenn.item.ItemBlazingChlorophyllCrystal
+24512,Item,totemic,item.totemic:infusedTotemicStaff,totemic_commons.pokefenn.item.ItemInfusedTotemicStaff
 24857,Item,chococraft,item.chocoboSaddle,chococraft.common.items.ChocoboItem
 24858,Item,chococraft,item.gysahl_seeds,chococraft.common.items.ItemGysahlSeeds
 24859,Item,chococraft,item.gysahl_loverly,chococraft.common.items.ChocoboItem
@@ -4166,7 +4190,7 @@ ID,Block/Item,Mod,Unlocalised name,Class
 28790,Item,HardcoreEnderExpansion,item.enderPearl,chylex.hee.item.ItemEnhancedEnderPearl
 28791,Item,HardcoreEnderExpansion,item.enhancedBrewingStand,chylex.hee.item.ItemEnhancedBrewingStand
 28792,Item,HardcoreEnderExpansion,item.altarNexus,net.minecraft.item.Item
-28793,Item,HardcoreEnderExpansion,item.lorePage,chylex.hee.item.ItemLorePage
+28793,Item,HardcoreEnderExpansion,item.lorePage,chylex.hee.item.ItemAdventurersDiary
 28796,Item,HardcoreEnderExpansion,item.bucketEnderGoo,net.minecraft.item.ItemBucket
 28797,Item,HardcoreEnderExpansion,item.endermanRelicRepaired,chylex.hee.item.ItemEndermanRelicRepaired
 28798,Item,HardcoreEnderExpansion,item.endermanRelicShattered,chylex.hee.item.ItemEndermanRelicShattered
@@ -4182,6 +4206,9 @@ ID,Block/Item,Mod,Unlocalised name,Class
 28816,Item,HardcoreEnderExpansion,item.stardust,chylex.hee.item.ItemStardust
 28817,Item,HardcoreEnderExpansion,item.spectralWand,chylex.hee.item.ItemSpectralWand
 28836,Item,HardcoreEnderExpansion,item.record,chylex.hee.item.ItemMusicDisk
+28837,Item,HardcoreEnderExpansion,item.enderCompendium,chylex.hee.item.ItemEnderCompendium
+28838,Item,HardcoreEnderExpansion,item.knowledgeFragment,chylex.hee.item.ItemKnowledgeFragment
+28839,Item,HardcoreEnderExpansion,item.minionContainer,chylex.hee.item.ItemMinionContainer
 29256,Item,Mariculture,item.materials,mariculture.core.items.ItemMaterial
 29257,Item,Mariculture,item.craftingItems,mariculture.core.items.ItemCrafting
 29258,Item,Mariculture,item.bait,mariculture.fishery.items.ItemBait
