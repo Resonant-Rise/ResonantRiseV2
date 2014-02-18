@@ -1730,8 +1730,17 @@ ID,Block/Item,Mod,Unlocalised name,Class
 4016,Block,standardcrops,tile.CropStrawberry,magicalcrops.standardCrops.CropStrawberry
 4017,Block,standardcrops,tile.CropSweetcorn,magicalcrops.standardCrops.CropSweetcorn
 4018,Block,standardcrops,tile.CropTomato,magicalcrops.standardCrops.CropTomato
+4020,Block,Vending,tile.vendingMachine,info.jbcs.minecraft.vending.BlockVendingMachine
+4021,Block,Vending,tile.vendingMachineAdvanced,info.jbcs.minecraft.vending.BlockVendingMachine
+4030,Block,dynamictanks,tile.dynamictanks.block.controller,doc.mods.dynamictanks.block.BlockTankController
+4031,Block,dynamictanks,tile.dynamictanks.block.tank,doc.mods.dynamictanks.block.BlockTank
+4032,Block,dynamictanks,tile.dynamictanks.block.upgradeModule,doc.mods.dynamictanks.block.BlockUpgrade
 4040,Block,TMechworks,tile.tmechworks.dynamo,tmechworks.blocks.DynamoBlock
 4041,Block,TMechworks,tile.tmechworks.redstoneMachine,tmechworks.blocks.RedstoneMachine
+4060,Block,switches,tile.switch,myrathi.switches.block.BlockSwitch
+4061,Block,switches,tile.switch,myrathi.switches.block.BlockSwitch
+4062,Block,switches,tile.switch,myrathi.switches.block.BlockSwitch
+4063,Block,switches,tile.switch,myrathi.switches.block.BlockSwitch
 4068,Block,eng_toolbox,tile.emasher_mini_portal,emasher.sockets.pipes.BlockMiniPortal
 4069,Block,TrussMod,tile.TrussMod:BlockMovingStrip,rainwarrior.trussmod.BlockMovingStrip
 4070,Block,eng_toolbox,tile.modular_socket,emasher.sockets.BlockSocket
@@ -1759,6 +1768,10 @@ ID,Block/Item,Mod,Unlocalised name,Class
 4095,Block,TConstruct,tile.metal.molten.electrum,tconstruct.blocks.TConstructFluid
 4097,Item,madscience,item.gmoMonsterPlacer,madscience.items.GeneticallyModifiedMonsterPlacer
 4099,Item,madscience,item.memoryMonsterPlacer,madscience.metaitems.CombinedMemoryMonsterPlacer
+4100,Item,Vending,item.Vending:wrench,net.minecraft.item.Item
+4110,Item,dynamictanks,item.null,doc.mods.dynamictanks.items.HammerItem
+4111,Item,dynamictanks,item.null,doc.mods.dynamictanks.items.IronPlateItem
+4112,Item,dynamictanks,item.null,doc.mods.dynamictanks.items.UpgradeItems
 4361,Item,AppliedEnergistics,AppEng.Items.*,appeng.common.base.AppEngMultiItem
 4362,Item,AppliedEnergistics,item.null,appeng.common.base.AppEngMaterials
 4363,Item,AppliedEnergistics,item.AppEng.Tools.EntropyAccelerator,appeng.tools.toolEntropyAccelerator
@@ -1776,6 +1789,8 @@ ID,Block/Item,Mod,Unlocalised name,Class
 4397,Item,extracells,item.null,extracells.items.ItemStorageComponent
 4398,Item,extracells,item.null,extracells.items.ItemSecureStoragePhysicalEncrypted
 4399,Item,extracells,item.null,extracells.items.ItemSecureStoragePhysicalDecrypted
+4400,Item,extracells,item.null,extracells.items.ItemCasing
+4401,Item,extracells,FluidDisplay - this item is just used to mime fluids!,extracells.items.ItemFluidDisplay
 4402,Item,extracells,item.null,extracells.items.ItemStorageFluid
 4426,Item,eng_toolbox,item.socket_remote,emasher.sockets.items.ItemSocketRemote
 4427,Item,eng_toolbox,item.socket_module,emasher.sockets.items.ItemModule
@@ -2253,6 +2268,7 @@ ID,Block/Item,Mod,Unlocalised name,Class
 8794,Item,EnderIO,item.enderIO:itemItemConduit,crazypants.enderio.conduit.item.ItemItemConduit
 8795,Item,EnderIO,item.enderIO:itemMaterial,crazypants.enderio.material.ItemMaterial
 8796,Item,EnderIO,item.enderio.itemTravelStaff,crazypants.enderio.teleport.ItemTravelStaff
+8797,Item,EnderIO,item.enderIO:itemMeConduit,crazypants.enderio.conduit.me.ItemMeConduit
 8956,Item,Mystcraft,item.myst.agebook,com.xcompwiz.mystcraft.item.ItemAgebook
 8957,Item,Mystcraft,item.myst.linkbook,com.xcompwiz.mystcraft.item.ItemLinkbook
 8958,Item,Mystcraft,item.myst.notebook,com.xcompwiz.mystcraft.item.ItemNotebook
@@ -4284,8 +4300,6 @@ ID,Block/Item,Mod,Unlocalised name,Class
 29997,Item,StevesCarts,item.SC2:unknownmodule,vswe.stevescarts.Items.ItemCartModule
 29998,Item,StevesCarts,item.SC2:unknowncomponent,vswe.stevescarts.Items.ItemCartComponent
 29999,Item,StevesCarts,item.SC2:ModularCart,vswe.stevescarts.Items.ItemCarts
-31994,Item,extracells,FluidDisplay - this item is just used to mime fluids!,extracells.items.ItemFluidDisplay
-31995,Item,extracells,item.null,extracells.items.ItemCasing
 31996,Item,Forestry,item.ingotCopper,forestry.core.items.ItemForestry
 31997,Item,Forestry,item.apatite,forestry.core.items.ItemForestry
 31998,Item,Forestry,item.fertilizerCompound,forestry.core.items.ItemForestry
