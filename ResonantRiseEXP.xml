@@ -1,6 +1,6 @@
 <version>
   <pack>
-    <version>2.6.15.0-EXP</version>
+    <version>2.6.15.1-EXP</version>
     <minecraft>1.6.4</minecraft>
     <memory>2048</memory>
     <permgen>256</permgen>
@@ -81,8 +81,8 @@
          version="1.1.2b"
          website="http://www.minecraftforum.net/topic/2028696-ars-magica-2-162164-" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=AX7QDYVEP7E2J&amp;lc=CA&amp;item_name=Qor%20Concept%20Entertainment&amp;item_number=Ars%20Magica&amp;currency_code=CAD&amp;bn=PP%2dDonationsBF%3abtn_donate_LG%2egif%3aNonHosted"
          description="This one might creep you out. A comprehensive magic system." />
-    <mod url="packs/ResonantRise/files/2.6/Atomic-Science-1.1.0.45-core.jar" file="Atomic-Science-1.1.0.45-core.jar" md5="9c46e46ab89b466f7e6de9b25470bea5" download="server" 
-         name="Atomic Science" type="mods" version="1.1.0.45"
+    <mod url="packs/ResonantRise/files/2.6/Atomic-Science-1.1.0.44-core.jar" file="Atomic-Science-1.1.0.44-core.jar" md5="2a1e69a04931eeb7895a590da8b88f20" download="server" 
+         name="Atomic Science" type="mods" version="1.1.0.44"
          website="http://universalelectricity.com/" donation="http://universalelectricity.com/"
          description="Nuclear steam power!" />
     <mod url="packs/ResonantRise/files/2-STABLE/autoutils-1.6.4-1.0.1.jar" file="autoutils-1.6.4-1.0.1.jar" md5="a1ba0914e3b6047906214f3b63ba59d6" download="server"
@@ -141,8 +141,8 @@
          name="Buildcraft" type="mods"  version="4.2.2"
          website="http://www.mod-buildcraft.com/" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=KQWXKT6KK7SH4"
          description="Burning oil forever." />
-    <mod url="packs/ResonantRise/files/2.6/Calclavia Core-1.1.1.154-main.jar" file="Calclavia Core-1.1.1.154-main.jar" md5="f7b95cf8c55bb8eb6953525e6ffcca38" download="server" 
-         name="Calclavia Core" type="mods" version="1.1.1.154"
+    <mod url="packs/ResonantRise/files/2.6/Calclavia Core-1.1.1.151-main.jar" file="Calclavia Core-1.1.1.151-main.jar" md5="686d028045a63d362b6c15d40656ebd0" download="server" 
+         name="Calclavia Core" type="mods" version="1.1.1.151"
          website="http://calclavia.com/calclavia-core/" donation="http://universalelectricity.com/"
          description="Base for all UE crafting."
          />
@@ -398,8 +398,8 @@
          name="Metallurgy" type="mods" version="3.3.2"
          website="http://www.minecraftforum.net/topic/744918-15x162forgesmp-metallurgy-putting-the-mine-back-in-minecraft/" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=Shadowclaimer2%40gmail%2ecom&amp;lc=US&amp;item_name=Metallurgy%20Software%EF%BF%BDcy_code=USD&amp;bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted"
          description="A bit of this, a bit of that." />
-    <mod url="packs/ResonantRise/files/2.6/Modular-Force-Field-System-3.6.2.34-core.jar" file="Modular-Force-Field-System-3.6.2.34-core.jar" md5="5b56d16bc47fd965edcd605411492f89" download="server" 
-         name="MFFS" type="mods" version="3.6.2.34"
+    <mod url="packs/ResonantRise/files/2.6/Modular-Force-Field-System-3.6.2.32-core.jar" file="Modular-Force-Field-System-3.6.2.32-core.jar" md5="04b7a09f6036d42063a3ce7c2c16d542" download="server" 
+         name="MFFS" type="mods" version="3.6.2.32"
          website="http://www.minecraftforum.net/topic/1703498-" donation="http://universalelectricity.com/mffs/"
          description="Calclavia's Forcefield System." />
     <mod name="MineChem" version="5.0.3"
@@ -644,8 +644,8 @@
          name="Underground Biomes" type="mods" optional="yes" version="0.4.2c"
          website="http://www.minecraftforum.net/topic/1593704-"
          description="Turn that featureless grey stone into a horde of difficult-to-sort stones!" />
-    <mod url="packs/ResonantRise/files/2.6/Universal-Electricity-3.1.0.50-core.jar" file="Universal-Electricity-3.1.0.50-core.jar" md5="2d9794583160e6b68a4e231b23dbb938" download="server" 
-         name="Universal Electricity API" type="mods" version="3.1.0.50"
+    <mod url="packs/ResonantRise/files/2.6/Universal-Electricity-3.0.1.49-core.jar" file="Universal-Electricity-3.0.1.49-core.jar" md5="9e4287c2ce3941253645a561538ee46f" download="server" 
+         name="Universal Electricity API" type="mods" version="3.0.1.49"
          website="http://universalelectricity.com/" donation="http://universalelectricity.com/"
          description="Base for all UE mods."
          fileprefix="00000_" />
