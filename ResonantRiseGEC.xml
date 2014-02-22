@@ -1,6 +1,6 @@
 <version>
   <pack>
-    <version>2.6-DEV-050</version>
+    <version>2.6-DEV-051</version>
     <minecraft>1.6.4</minecraft>
     <memory>2048</memory>
     <permgen>256</permgen>
@@ -250,8 +250,8 @@
          website="http://forum.feed-the-beast.com/threads/myrathis-mod-compendium.18505/"
          description="Signs on every surface."
          />
-    <mod name="Forbidden Magic" version="pr0.24"
-		 url="packs/ResonantRise/files/2.6/ForbiddenMagic pr0.24.jar" file="ForbiddenMagic pr0.24.jar" md5="e1ddae4577d549bbea81044e10a21c9d" download="server"
+    <mod name="Forbidden Magic" version="pr0.3"
+		 url="packs/ResonantRise/files/2.6/ForbiddenMagic pr0.3.jar" file="ForbiddenMagic pr0.3.jar" md5="f776a24e6a032ac99311101cca1dd835" download="server" 
 		 type="mods"
 		 website="http://www.minecraftforum.net/topic/2305054-"
 		 description="Magic on the shadier side of the street for Thaumcraft!" />
@@ -373,15 +373,15 @@
     <mod url="packs/ResonantRise/files/2.6/Mariculture-1.6.4-1.2.0i.jar" file="Mariculture-1.6.4-1.2.0i.jar" md5="3d551937d3aa12d9a003e7bcb90e954e" download="server" 
          name="Mariculture" version="1.2.0i"
          website="http://www.minecraftforum.net/topic/2049315-" description="If you're looking for me, look under the sea, because that is where you'll find me." type="mods" />
-    <mod url="packs/ResonantRise/files/2.6/Mekanism-6.0.1.13.jar" file="Mekanism-6.0.1.13.jar" md5="f1b15818be90110adcceb36135434012" download="server" 
-         name="Mekanism" type="mods" version="6.0.1.13" website="http://universalelectricity.com/mekanism" donation="http://universalelectricity.com/mekanism"
+    <mod url="packs/ResonantRise/files/2.6/Mekanism-6.0.2.17.jar" file="Mekanism-6.0.2.17.jar" md5="cc80b87d7ec7090862079472355df65f" download="server"
+         name="Mekanism" type="mods" version="6.0.2.17" website="http://universalelectricity.com/mekanism" donation="http://universalelectricity.com/mekanism"
 		 description="Osmium also cures light wounds."  />
-    <mod url="packs/ResonantRise/files/2.6/MekanismGenerators-6.0.1.13.jar" file="MekanismGenerators-6.0.1.13.jar" md5="1adcf735482f2d111f8fc42ec8f55c86" download="server" 
-         name="Mekanism Generators" type="mods" version="6.0.1.13"
+    <mod url="packs/ResonantRise/files/2.6/MekanismGenerators-6.0.2.17.jar" file="MekanismGenerators-6.0.2.17.jar" md5="19cdce6e56484c764277cd90f015f21f" download="server"
+		 name="Mekanism Generators" type="mods" version="6.0.2.17"
 		 depends="Mekanism"
 		 website="http://universalelectricity.com/mekanism" donation="http://universalelectricity.com/mekanism" description="Infinite water is infinite power!" />
-    <mod url="packs/ResonantRise/files/2.6/MekanismTools-6.0.1.13.jar" file="MekanismTools-6.0.1.13.jar" md5="3dc9da93db24e77310c91fb8e629a17a" download="server" 
-         name="Mekanism Tools" type="mods" version="6.0.1.13"
+    <mod url="packs/ResonantRise/files/2.6/MekanismTools-6.0.2.17.jar" file="MekanismTools-6.0.2.17.jar" md5="c993be952d42f4f203ddf347a127d0e2" download="server" 
+         name="Mekanism Tools" type="mods" version="6.0.2.17"
          depends="Mekanism"
 		 website="http://universalelectricity.com/mekanism" donation="http://universalelectricity.com/mekanism" description="Paxel perfect." />
     <mod url="packs/ResonantRise/files/2.6/Metallurgy-1.6.4-3.3.2.jar" file="Metallurgy-1.6.4-3.3.2.jar" md5="65d79483f757cc4170f25461e811e6a9" download="server"
@@ -724,9 +724,9 @@
          description="A whole new world."  />
 	
 	<!-- Remote Downloads (Client Mods) -->
-	<mod url="http://journeymap.techbrew.net/download" file="JourneyMap3.3.0_Unlimited_MC1.6.4.jar" md5="0D2A929609693E1C22309ECC125D10A5" download="browser"
+	<mod url="http://journeymap.techbrew.net/download" file="JourneyMap3.3.1_Unlimited_MC1.6.4.jar" md5="2FE010ADC66E24A11207144BDD40FC66" download="browser"
          name="JourneyMap"  type="mods" server="no" optional="yes" selected="yes" recommended="yes" group="Cartographer"
-         version="3.3.0"
+         version="3.3.1"
          website="http://journeymap.techbrew.net/" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=D5KK9FRAQG6DE"
          description="Pair this with Rei's or Zan's Minimap for best results!" />
 	
