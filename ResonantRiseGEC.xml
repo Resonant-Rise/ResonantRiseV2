@@ -1,6 +1,6 @@
 <version>
   <pack>
-    <version>2.6-DEV-048</version>
+    <version>2.6-DEV-049</version>
     <minecraft>1.6.4</minecraft>
     <memory>2048</memory>
     <permgen>256</permgen>
@@ -66,11 +66,6 @@
 		 type="mods"
 		 website="http://www.minecraftforum.net/topic/2079654-"
 		 description="High-end tweaks and additions for Thaumcraft!" />
-	<mod name="Agriculture" version="1.2.13"
-		 url="packs/ResonantRise/files/2.6/Agriculture-1.6.4-1.2.13.jar" file="Agriculture-1.6.4-1.2.13.jar" md5="b15b09c322a888550b5a19bef706c01e" download="server" 
-		 type="mods"
-		 website="http://www.minecraftforum.net/topic/1961353-"
-		 description="Cultural farming!" />
 	<mod url="packs/ResonantRise/files/2-STABLE/appeng-rv14-finale3-mc16x.jar" file="appeng-rv14-finale3-mc16x.jar" md5="d10ac60e48a192760e76c1de3b0c73ed" download="server"
          name="Applied Energistics" optional="no" type="mods"
          version="rv14-finale3"
@@ -93,11 +88,6 @@
          name="Backpacks" version="1.26.29" type="mods"
          website="http://www.minecraftforum.net/topic/1492661-15x-16x-backpacks-v-11213/" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=CCEHF29WUSQVJ"
          description="Baggy leather in your inventory." />
-    <mod name="BackTools" version="2.0.1"
-		 url="packs/ResonantRise/files/2.6/BackTools2.0.1.zip" file="BackTools2.0.1.zip" md5="dce0115472a8f9577ed3c5bdb8090ecf" download="server"
-		 type="mods"
-		 website="http://ichun.us/mods/back-tools/" donation="http://pitchinbox.com/redirect.php?id=5757827081" authors="iChun"
-		 description="Dat back swagger, son." />
 	<mod url="packs/ResonantRise/files/2.6/bdlib-mc164-1.1.0.21.jar" file="bdlib-mc164-1.1.0.21.jar" md5="5f04c3670a6215a75f0552263cbf6899" download="server"
          name="BDLib" type="mods" version="1.1.0.21"
          website="http://bdew.net/gendustry"
@@ -321,8 +311,8 @@
 		 url="packs/ResonantRise/files/2.6/growthcraft-rice-1.6.4-2.0.4.zip" file="growthcraft-rice-1.6.4-2.0.4.zip" md5="851d49f03e9c9b68ff513208001ccad0" download="server"
 		 website="http://www.minecraftforum.net/topic/1510394-"
 		 description="JAPANESE BEER." />
-	<mod url="packs/ResonantRise/files/2.6/HardcoreEnderExpansion_1.4.zip" file="HardcoreEnderExpansion_1.4.zip" md5="f5a52ab972648a25987d0e0b930a6e96" download="server" 
-         name="Hardcore Ender Expansion" type="mods" version="1.4"
+	<mod url="packs/ResonantRise/files/2.6/HardcoreEnderExpansion_1.4.1.zip" file="HardcoreEnderExpansion_1.4.1.zip" md5="c501feafe9203cdfb8266b955661ed29" download="server" 
+         name="Hardcore Ender Expansion" type="mods" version="1.4.1"
          website="http://hardcore-enderdragon.wikia.com/wiki/Home"
          description="The Ender Dragon Is Not Happy With You."
          />
@@ -433,8 +423,8 @@
     <mod url="packs/ResonantRise/files/2-STABLE/Natura_mc1.6.X_2.1.14.jar" file="Natura_mc1.6.X_2.1.14.jar" md5="0b0712e9741829681964e5ab682c74f1" download="server"
          name="Natura"  type="mods"
          version="2.1.14" website="http://www.minecraftforum.net/topic/1753754-15xnatura/" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=56Q7K92KRPW2N&amp;lc=US&amp;item_name=Tinkers%20Construct&amp;bn=PP%2dDonationsBF%3abtn_donate_LG%2egif%3aNonHosted" description="Just enough worldgen to make vanilla worth living."  />
-    <mod url="packs/ResonantRise/files/2.6/neiaddons-mc164-1.10.3.61.jar" file="neiaddons-mc164-1.10.3.61.jar" md5="39b6206beeb5ceeea7fbb5631a001adc" download="server" 
-         name="NEI Addons" type="mods" version="1.10.3.61"
+    <mod url="packs/ResonantRise/files/2.6/neiaddons-mc164-1.10.4.64.jar" file="neiaddons-mc164-1.10.4.64.jar" md5="24415916c79eda9ba4363544f67d071f" download="server" 
+         name="NEI Addons" type="mods" version="1.10.4.64"
          website="http://www.minecraftforum.net/topic/1803460-nei-addons-v181-with-forestry-2280-support/"
          description="Non-critical UI improvements." />
     <mod url="packs/ResonantRise/files/2-STABLE/NetherOres-2.2.1-14.jar" file="NetherOres-2.2.1-14.jar" md5="3bb3bba8316b3999eab6f3e15ae4e44d" download="server"
@@ -459,8 +449,8 @@
          name="OpenBlocks" type="mods" version="1.2.5"
          website="http://openmods.info/"
          description="An amazing open source mode that does amazing things." />
-	<mod name="OpenComponents" version="dev26"
-		 url="packs/ResonantRise/files/2.6/OpenComponents-MC1.6.4-dev26.jar" file="OpenComponents-MC1.6.4-dev26.jar" md5="b0730ca2c593d66e2418e66496b634f0" download="server" 
+	<mod name="OpenComponents" version="dev27"
+		 url="packs/ResonantRise/files/2.6/OpenComponents-MC1.6.4-dev27.jar" file="OpenComponents-MC1.6.4-dev27.jar" md5="e239b6b36dcfa3c41866da2c748ac505" download="server" 
 		 type="mods"
 		 website="http://www.minecraftforum.net/topic/2201440-"
 		 description="Companion interface extension for OpenComputers." />
@@ -544,8 +534,8 @@
          name="Reliquary"  type="mods" version="1.1.1"
          website="https://github.com/TrainerGuy22/Reliquary"
          description="Xenophobic legacies in a compelling collection."  />
-    <mod url="packs/ResonantRise/files/2.6/RemoteIO-universal-1.6.4-1.10.jar" file="RemoteIO-universal-1.6.4-1.10.jar" md5="e341a8209d4d69a657289384efe710f3" download="server" 
-         name="Remote IO" version="1.10" type="mods"
+    <mod url="packs/ResonantRise/files/2.6/RemoteIO-universal-1.6.4-1.11.jar" file="RemoteIO-universal-1.6.4-1.11.jar" md5="37794b9ada73c7ee03b0214e92caa4f0" download="server" 
+         name="Remote IO" version="1.11" type="mods"
          website="http://www.minecraftforum.net/topic/2038242-"
          donation="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=K78KZ37HLU4X2&amp;lc=US&amp;item_name=dmillerw%27s%20Mods&amp;currency_code=USD&amp;bn=PP%2dDonationsBF%3abtn_donate_SM%2egif%3aNonHosted" authors="dmillerw"
                  description="The Remote IO&apos;s can be linked to any block with an inventory... imagine this: four separate quarries all outputting into a unique Remote IO linked to a single chest. Gone are the days of pipes! You are also able to link the Remote IO to machines and even use them with fluids! " />
@@ -577,8 +567,8 @@
          version="2.0.0.b10"
          website="http://www.minecraftforum.net/topic/680276-16-steves-carts-2-v200a123/" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=Z7NBL3BRBCNFC"
          description="Choo choooooooo!" />
-    <mod name="Steve's Factory Manager" version="A72"
-		 url="packs/ResonantRise/files/2.6/StevesFactoryManagerA72.zip" file="StevesFactoryManagerA72.zip" md5="b5772c3ecc99593ff88abe617b1e92b9" download="server" 
+    <mod name="Steve's Factory Manager" version="A78"
+		 url="packs/ResonantRise/files/2.6/StevesFactoryManagerA78.zip" file="StevesFactoryManagerA78.zip" md5="ecd8c165792ff674bcbfa72474f37d95" download="server" 
 		 type="mods" website="http://stevesfactorymanager.wikispaces.com/"
 		 description="ComputerCraft, you're no longer the only programmable automation game in town."/>
     <mod url="packs/ResonantRise/files/2-STABLE/SuperCraftingFrame-1.6.2.7.jar" file="SuperCraftingFrame-1.6.2.7.jar" md5="5241bc98632201d64b0112e16e31e6b6" download="server"
@@ -594,15 +584,15 @@
          name="Sync" version="2.1.1" optional="yes"
          type="mods"
          website="http://ichun.us/mods/sync/" donation="http://pitchinbox.com/redirect.php?id=5757827081" authors="iChun" description="This mod provides clones, or as we like to call it, 'shells'. These shells are basically a new individual, with their own inventory, experience level, and even gamemode." />
-	<mod url="packs/ResonantRise/files/2.6/Thaumcraft4.1.0b.zip" file="Thaumcraft4.1.0b.zip" md5="29c897e72638ece82aced57ba9259a5b" download="server"  
-         name="Thaumcraft 4" version="4.1.0b"
+	<mod url="packs/ResonantRise/files/2.6/Thaumcraft4.1.0e.zip" file="Thaumcraft4.1.0e.zip" md5="fba24bccf31c3a2c3f2a6fd20f30e63c" download="server" 
+         name="Thaumcraft 4" version="4.1.0e"
          type="mods" fileprefix="00001_"
          website="http://www.minecraftforum.net/topic/2011841-" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=88PFJA73AEFFW&amp;lc=ZA&amp;currency_code=USD&amp;bn=PP%2dDonationsBF%3abtn_donate_LG%2egif%3aNonHosted"
          authors="Azanor" description="This one won't creep you out, kids."
          />
-	<mod url="packs/ResonantRise/files/2.6/ThaumicTinkerer-2.3-96.jar" file="ThaumicTinkerer-2.3-96.jar" md5="fbfb2b3b58f67cfa38145cea439a2a6f" download="server" 
+	<mod url="packs/ResonantRise/files/2.6/ThaumicTinkerer-2.3-100.jar" file="ThaumicTinkerer-2.3-100.jar" md5="0d6b7787734b8d0ea3360086e9112d74" download="server" 
          name="Thaumic Tinkerer" type="mods"
-         version="2.3-96" depends="Thaumcraft 4"
+         version="2.3-100" depends="Thaumcraft 4"
          website="http://www.minecraftforum.net/topic/1813058-" description="Because Thaumcraft has a dearth of content."
          />
 	<mod url="packs/ResonantRise/files/2.6/ThaumicTinkererKAMI_j6.jar" file="ThaumicTinkererKAMI_j6.jar" md5="03bea04d5b4db84e77c027c3c5c21466" download="server"
@@ -654,8 +644,8 @@
 		 type="mods"
 		 website="http://www.minecraftforum.net/topic/1747810-"
 		 authors="AUTOMATIC_MAIDEN" description="Adds a vending block that lets you sell items." />
-	<mod url="packs/ResonantRise/files/2.6/Waila_1.4.5a.zip" file="Waila_1.4.5a.zip" md5="c78224ace097c36f36c8d35ff1a6c292" download="server" 
-         name="Waila" type="mods" version="1.4.5" fileprefix="00000_"
+	<mod url="packs/ResonantRise/files/2.6/Waila_1.5.1.zip" file="Waila_1.5.1.zip" md5="5c73495d0ee987afe59dde8ba34cef63" download="server" 
+         name="Waila" type="mods" version="1.5.1" fileprefix="00000_"
          website="http://www.minecraftforum.net/topic/1846244-152-waila-134-block-and-mod-info-ingame/"
          donation="http://profmobius.blogspot.fr/"
          description="What am I looking at?" />
@@ -693,8 +683,8 @@
          version="3.4_01"
          website="http://www.minecraftforum.net/topic/482147-"
          description="Multiple minimap options ahoy!" />
-    <mod name="Schematica" version="1.5.3.61"
-		 url="packs/ResonantRise/files/2.6/[1.6.4]Schematica-1.5.3.61.jar" file="[1.6.4]Schematica-1.5.3.61.jar" md5="3ec10ea858bb94743e2d5bfaefa2bd14" download="server"
+    <mod name="Schematica" version="1.5.3.62"
+		 url="packs/ResonantRise/files/2.6/[1.6.4]Schematica-1.5.3.62.jar" file="[1.6.4]Schematica-1.5.3.62.jar" md5="cbf33448e9e3ed476b72277129289a8e" download="server" 
 		 type="mods" server="no" optional="yes"
 		 website="http://www.minecraftforum.net/topic/1468779-" authors="Lunatrius"
 		 description="Import and export Minecraft schematic files in Minecraft!" />

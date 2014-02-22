@@ -3,9 +3,21 @@
     <!-- TODO MODS -->
     <!-- 
 
+	<mod name="Agriculture" version="1.2.13"
+		 url="packs/ResonantRise/files/2.6/Agriculture-1.6.4-1.2.13.jar" file="Agriculture-1.6.4-1.2.13.jar" md5="b15b09c322a888550b5a19bef706c01e" download="server" 
+		 type="mods"
+		 website="http://www.minecraftforum.net/topic/1961353-"
+		 description="Cultural farming!" />
+	
 	<mod url="packs/ResonantRise/files/2-STABLE/Aere%200.0.3a.zip" file="Aere 0.0.3a.zip" md5="4de05588481113f063265842dda3ca10" download="server"
          name="Aere" type="mods" version="0.0.3a" website="http://www.resonant-rise.com" description="Our new compatibility mod."  />
 
+	<mod name="BackTools" version="2.0.1"
+		 url="packs/ResonantRise/files/2.6/BackTools2.0.1.zip" file="BackTools2.0.1.zip" md5="dce0115472a8f9577ed3c5bdb8090ecf" download="server"
+		 type="mods"
+		 website="http://ichun.us/mods/back-tools/" donation="http://pitchinbox.com/redirect.php?id=5757827081" authors="iChun"
+		 description="Dat back swagger, son." />	 
+		 
 	<mod url="packs/ResonantRise/files/2-STABLE/chargepads-1.6.2-universal-3.0.0.94-experimental.jar" file="chargepads-1.6.2-universal-3.0.0.94-experimental.jar" md5="43a76c4fe40c29bb0743d9c0f2f715fe" download="server"
          name="Charge Pads" type="mods" version="3.0.0.94-exp"
          website="http://forum.industrial-craft.net/index.php?page=Thread&amp;threadID=7892"
