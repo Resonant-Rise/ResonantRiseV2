@@ -404,8 +404,8 @@ ID,Block/Item,Mod,Unlocalised name,Class
 580,Block,OpenPeripheral,tile.openperipheral.glassesbridge,openperipheral.addons.glasses.BlockGlassesBridge
 581,Block,OpenPeripheral,tile.openperipheral.peripheralproxy,openperipheral.addons.peripheralproxy.BlockPeripheralProxy
 582,Block,OpenPeripheral,tile.openperipheral.playerinventory,openperipheral.addons.pim.BlockPIM
-583,Block,OpenPeripheral,tile.openperipheral.sensor,openperipheral.addons.sensors.BlockSensor
-584,Block,OpenPeripheral,tile.openperipheral.ticketmachine,openperipheral.addons.ticketmachine.BlockTicketMachine
+583,Block,OpenPeripheral,tile.openperipheral.ticketmachine,openperipheral.addons.ticketmachine.BlockTicketMachine
+584,Block,OpenPeripheral,tile.openperipheral.sensor,openperipheral.addons.sensors.BlockSensor
 590,Block,BetterDungeons,tile.CapsuleStation,chocolate.mods.BD.block.BlockCapsule
 591,Block,BetterDungeons,tile.BetterDungeonSpawner,chocolate.mods.BD.block.BlockMobSpawner
 592,Block,BetterDungeons,tile.BannerHolder,chocolate.mods.BD.block.BlockBannerStand
@@ -1570,17 +1570,6 @@ ID,Block/Item,Mod,Unlocalised name,Class
 3653,Block,remoteIO,tile.skylight,com.dmillerw.remoteIO.block.BlockSkylight
 3654,Block,remoteIO,tile.remoteInventory,com.dmillerw.remoteIO.block.BlockRemoteInventory
 3655,Block,remoteIO,tile.turtleBridge,com.dmillerw.remoteIO.block.BlockTurtleBridge
-3680,Block,Agriculture,tile.agriculture:brewer,com.teammetallurgy.agriculture.machines.brewer.BlockBrewer
-3681,Block,Agriculture,tile.agriculture:cinnamon,com.teammetallurgy.agriculture.crops.BlockSpice
-3682,Block,Agriculture,tile.agriculture:counter,com.teammetallurgy.agriculture.machines.counter.BlockCounter
-3683,Block,Agriculture,tile.agriculture:frier,com.teammetallurgy.agriculture.machines.frier.BlockFrier
-3684,Block,Agriculture,tile.agriculture:icebox,com.teammetallurgy.agriculture.machines.icebox.BlockIcebox
-3685,Block,Agriculture,tile.agriculture:oven,com.teammetallurgy.agriculture.machines.oven.BlockOven
-3686,Block,Agriculture,tile.agriculture:peanut,com.teammetallurgy.agriculture.crops.BlockPeanut
-3687,Block,Agriculture,tile.agriculture:processor,com.teammetallurgy.agriculture.machines.processor.BlockProcessor
-3688,Block,Agriculture,tile.agriculture:salt,com.teammetallurgy.agriculture.BlockSalt
-3689,Block,Agriculture,tile.agriculture:strawberry,com.teammetallurgy.agriculture.crops.BlockStrawberry
-3690,Block,Agriculture,tile.agriculture:vanilla,com.teammetallurgy.agriculture.crops.BlockSpice
 3701,Block,magicalcrops,tile.BlockInfusedClay,magicalcrops.blocks.BlockInfusedClay
 3702,Block,magicalcrops,tile.BlockLightBlock,magicalcrops.blocks.BlockLightBlock
 3703,Block,magicalcrops,tile.BlockInfusedWool,magicalcrops.blocks.BlockInfusedWool
@@ -1932,8 +1921,6 @@ ID,Block/Item,Mod,Unlocalised name,Class
 5404,Item,CarpentersBlocks,item.itemCarpentersBed,carpentersblocks.item.ItemCarpentersBed
 5756,Item,UndergroundBiomes,item.ligniteCoal,exterminatorJeff.undergroundBiomes.common.item.ItemLigniteCoal
 5757,Item,UndergroundBiomes,item.fossilPiece,exterminatorJeff.undergroundBiomes.common.item.ItemFossilPiece
-5800,Item,Agriculture,item.null,com.teammetallurgy.agriculture.SuperItem
-5801,Item,Agriculture,item.null,com.teammetallurgy.agriculture.SuperItem
 6256,Item,DartCraft,item.gemForce,bluedart.item.DartItem
 6257,Item,DartCraft,item.ingotForce,bluedart.item.DartItem
 6258,Item,DartCraft,item.goldenPower,bluedart.item.DartItem
@@ -3169,6 +3156,8 @@ ID,Block/Item,Mod,Unlocalised name,Class
 18669,Item,ForbiddenMagic,item.MorphShovel,com.spiteful.forbidden.items.ItemMorphShovel
 18670,Item,ForbiddenMagic,item.MorphAxe,com.spiteful.forbidden.items.ItemMorphAxe
 18671,Item,ForbiddenMagic,item.WandCaps,com.spiteful.forbidden.items.ItemWandCaps
+18672,Item,ForbiddenMagic,item.GluttonyShard,com.spiteful.forbidden.items.ItemGluttonyShard
+18673,Item,ForbiddenMagic,item.Bloodwell,com.spiteful.forbidden.items.ItemBloodwell
 18789,Item,AdvancedThaumaturgy,item.at.mercurialrod,net.ixios.advancedthaumaturgy.items.ItemMercurialCore
 18790,Item,AdvancedThaumaturgy,item.at.mercurialwand,net.ixios.advancedthaumaturgy.items.ItemMercurialWand
 18791,Item,AdvancedThaumaturgy,item.null,net.ixios.advancedthaumaturgy.items.ItemInfusedThaumium

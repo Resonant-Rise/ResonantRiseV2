@@ -1,1 +1,105 @@
 Item ID,Item meta,Has NBT,Display Name
+2640,0,false,Thaumic Cake
+2650,0,false,Dynamism Tablet
+2651,0,false,Block of Smokey Quartz
+2651,1,false,Chiseled Smokey Quartz Block
+2651,2,false,Pillar Smokey Quartz Block
+2652,0,false,Smokey Quartz Slab
+2653,0,false,Smokey Quartz Slab
+2654,0,false,Smokey Quartz Stairs
+2655,0,false,Osmotic Enchanter
+2656,0,false,Essentia Funnel
+2657,0,false,tile.ttinkerer:gaseousLight.name
+2658,0,false,tile.ttinkerer:gaseousShadow.name
+2659,0,false,Transvector Interface
+2660,0,false,Kinetic Attractor
+2660,1,false,Corporeal Attractor
+2662,0,false,Transvector Dislocator
+2663,0,false,Thaumic Restorer
+2664,0,false,Aspectalyzer
+2665,0,false,Ethereal Platform
+2666,0,false,Celestial Gateway
+2667,0,false,Bedrock Portal
+2668,0,false,Golem Connector
+2669,0,false,Levitational Locomotive
+2670,0,false,Levitational Locomotive Relay
+2684,0,false,Thaumic Fertilizer
+7127,30,false,Thaumic AspectSink module
+13209,0,true,Thaumic Flowers Pollination Serum
+14307,0,true,Thaumium Pickaxe
+14308,0,true,Thaumium Shovel
+14309,0,true,Thaumium Hatchet
+14311,0,true,Thaumium Broadsword
+14312,0,true,Thaumium Longsword
+14313,0,true,Thaumium Rapier
+14314,0,true,Thaumium Frying Pan
+14315,0,true,Thaumium Battlesign
+14316,0,true,Thaumium Mattock
+14317,0,true,Thaumium Lumber Axe
+14319,0,true,Thaumium Shortbow
+14321,0,true,Thaumium Dagger
+14322,0,true,Thaumium Chisel
+14323,0,true,Thaumium Scythe
+14324,0,true,Thaumium Cleaver
+14325,0,true,Thaumium Excavator
+14326,0,true,Thaumium Hammer
+14327,0,true,Thaumium Battleaxe
+14328,0,true,Thaumium Cutlass
+14329,0,true,Thaumium Arrow
+15758,0,true,Gene Sample
+18425,0,false,Wand Focus: Distortion
+18456,0,false,Ichor
+18456,1,false,Ichorcloth
+18456,2,false,Ichorium
+18456,3,false,Ichorium Nugget
+18456,4,false,Ichorium Cap
+18456,5,false,Ichorcloth Strapped Silverwood Wand Core
+18456,6,false,Nether Shard
+18456,7,false,Ender Shard
+18457,0,false,Ichorcloth Cowl
+18458,0,false,Ichorcloth Robe
+18459,0,false,Ichorcloth Leggings
+18460,0,false,Ichorcloth Boots
+18461,0,false,Cowl of the Abyssal Depths
+18462,0,false,Robes of the Stratosphere
+18463,0,false,Leggings of the Burning Mantle
+18464,0,false,Boots of the Horizontal Shield
+18465,0,false,Feline Amulet
+18466,0,false,Ichorium Pickaxe
+18467,0,false,Ichorium Shovel
+18468,0,false,Ichorium Axe
+18469,0,false,Ichorium Sword
+18470,0,false,Awakened Ichorium Pickaxe
+18471,0,false,Awakened Ichorium Shovel
+18472,0,false,Awakened Ichorium Axe
+18473,0,false,Awakened Ichorium Sword
+18474,0,false,Bottomless Pouch
+18475,0,true,Black Hole Talisman
+18476,0,true,Worldshaper's Looking Glass
+18477,0,false,Wand Focus: Shadowbeam
+18478,0,false,Wand Focus: Experience Drain
+18479,0,false,Protoclay
+18480,0,false,Celestial Pearl
+18481,0,false,Wand Focus: Celestial Recall
+18660,0,false,Thaumic Cake
+18665,0,true,Thaumic Slime Imprinted Crystal
+18806,0,false,Smokey Quartz
+18807,0,false,Transvector Binder
+18808,0,false,Gaseous Illuminae
+18809,0,false,Gaseous Tenebrae
+18810,0,false,Fume Dissipator
+18811,0,false,Spellbinding Cloth
+18812,0,false,Wand Focus: Uprising
+18813,0,false,Wand Focus: Dislocation
+18814,0,true,Talisman of Remedium
+18815,0,false,Hyperenergetic Nitor
+18816,0,false,Wand Focus: Telekinesis
+18817,0,true,Soul Mould
+18818,0,true,Talisman of Withhold
+18819,0,false,Wand Focus: Efreet's Flame
+18820,0,false,Wand Focus: Mending
+18821,0,false,Wand Focus: Ender Rift
+18822,0,false,Cursed Spirit's Blade
+18823,0,false,Helmet of Revealing
+18824,0,false,Infused Scribing Tools (NYI)
+18826,0,true,Tome of Knowledge Sharing
