@@ -1,6 +1,6 @@
 <version>
   <pack>
-    <version>2.6-DEV-051</version>
+    <version>2.6-DEV-052</version>
     <minecraft>1.6.4</minecraft>
     <memory>2048</memory>
     <permgen>256</permgen>
@@ -590,9 +590,9 @@
          website="http://www.minecraftforum.net/topic/2011841-" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=88PFJA73AEFFW&amp;lc=ZA&amp;currency_code=USD&amp;bn=PP%2dDonationsBF%3abtn_donate_LG%2egif%3aNonHosted"
          authors="Azanor" description="This one won't creep you out, kids."
          />
-	<mod url="packs/ResonantRise/files/2.6/ThaumicTinkerer-2.3-101.jar" file="ThaumicTinkerer-2.3-101.jar" md5="36cd8339abbd40f39b1775c936a2d823" download="server"
+	<mod url="packs/ResonantRise/files/2.6/ThaumicTinkerer-2.3-103.jar" file="ThaumicTinkerer-2.3-103.jar" md5="422340989ecf9b522872a3acb185774b" download="server" 
          name="Thaumic Tinkerer" type="mods"
-         version="2.3-101" depends="Thaumcraft 4"
+         version="2.3-103" depends="Thaumcraft 4"
          website="http://www.minecraftforum.net/topic/1813058-" description="Because Thaumcraft has a dearth of content."
          />
 	<mod url="packs/ResonantRise/files/2.6/ThaumicTinkererKAMI_j6.jar" file="ThaumicTinkererKAMI_j6.jar" md5="03bea04d5b4db84e77c027c3c5c21466" download="server"
