@@ -1,6 +1,6 @@
 <version>
   <pack>
-    <version>2.6-DEV-053</version>
+    <version>2.6-DEV-054</version>
     <minecraft>1.6.4</minecraft>
     <memory>2048</memory>
     <permgen>256</permgen>
@@ -61,11 +61,6 @@
          name="Additional BuildCraft Objects" type="mods" version="1.0.7.560"
          website="http://www.minecraftforum.net/topic/682821-"
          description="More pipes, more tools." />
-    <mod name="Advanced Thaumaturgy" version="0.0.20"
-		 url="packs/ResonantRise/files/2.6/AdvancedThaumaturgy-1.6.4-0.0.20.jar" file="AdvancedThaumaturgy-1.6.4-0.0.20.jar" md5="2c22dc700ad9b12c265101a44505f3fa" download="server" 
-		 type="mods"
-		 website="http://www.minecraftforum.net/topic/2079654-"
-		 description="High-end tweaks and additions for Thaumcraft!" />
 	<mod url="packs/ResonantRise/files/2-STABLE/appeng-rv14-finale3-mc16x.jar" file="appeng-rv14-finale3-mc16x.jar" md5="d10ac60e48a192760e76c1de3b0c73ed" download="server"
          name="Applied Energistics" optional="no" type="mods"
          version="rv14-finale3"
@@ -200,11 +195,6 @@
          name="Dimensional Anchors" type="mods" version="57.1.95"
          website="http://www.minecraftforum.net/topic/1001131-162-immibiss-mods-smp-now-with-857-less-version-numbers-in-this-title/"
          description="Immibis's chunk loaders. Preferred."  />
-    <mod name="Dynamic Liquid Tanks 2" version="0.0.7"
-		 url="packs/ResonantRise/files/2.6/DynamicTanks2_v0.0.7.jar" file="DynamicTanks2_v0.0.7.jar" md5="8b845d630aa88ec2296257b701fc74c9" download="server"
-		 type="mods"
-		 website="http://www.minecraftforum.net/topic/2176690-"
-		 description="Store a fluid in a tank of any shape and any size!" />
 	<mod url="packs/ResonantRise/files/2.6/EmasherResource-1.2.3.0.zip" file="EmasherResource-1.2.3.0.zip" md5="eaea1d112608e22f3e051f820d6623f8" download="server" 
          name="EmasherResource" type="mods" version="1.2.3.0"
          website="http://emashersmods.wikispaces.com"
@@ -295,10 +285,6 @@
 		 url="packs/ResonantRise/files/2.6/growthcraft-core-1.6.4-2.0.4.zip" file="growthcraft-core-1.6.4-2.0.4.zip" md5="13009f3254fd1192b32cefdd3ee2dec2" download="server"
 		 website="http://www.minecraftforum.net/topic/1510394-"
 		 description="Farmhouse core files." />
-	<mod name="GrowthCraft [Fishtrap]" version="2.0.4" type="mods"
-		 url="packs/ResonantRise/files/2.6/growthcraft-fishtrap-1.6.4-2.0.4.zip" file="growthcraft-fishtrap-1.6.4-2.0.4.zip" md5="9db62fb829470c1e2d164a60a8de1dda" download="server"
-		 website="http://www.minecraftforum.net/topic/1510394-"
-		 description="The fish autofarm you've all been waiting for." />
 	<mod name="GrowthCraft [Grapes]" version="2.0.4" type="mods"
 		 url="packs/ResonantRise/files/2.6/growthcraft-grapes-1.6.4-2.0.4.zip" file="growthcraft-grapes-1.6.4-2.0.4.zip" md5="cda720f2a8b4fd7350657c95d9ec8036" download="server"
 		 website="http://www.minecraftforum.net/topic/1510394-"
@@ -683,11 +669,6 @@
          version="3.4_01"
          website="http://www.minecraftforum.net/topic/482147-"
          description="Multiple minimap options ahoy!" />
-    <mod name="Schematica" version="1.5.3.62"
-		 url="packs/ResonantRise/files/2.6/[1.6.4]Schematica-1.5.3.62.jar" file="[1.6.4]Schematica-1.5.3.62.jar" md5="cbf33448e9e3ed476b72277129289a8e" download="server" 
-		 type="mods" server="no" optional="yes"
-		 website="http://www.minecraftforum.net/topic/1468779-" authors="Lunatrius"
-		 description="Import and export Minecraft schematic files in Minecraft!" />
 	<mod url="packs/ResonantRise/files/2-STABLE/1.6.4_TabbyChat_1.10.00.litemod" file="1.6.4_TabbyChat_1.10.00.litemod" md5="3f0fcb6f395045f1510140489658fddf" download="server"
          name="TabbyChat" type="mods" server="no" version="1.10.00"
          website="http://www.minecraftforum.net/topic/1540451-" donation="http://www.minecraftforum.net/topic/1540451-"
