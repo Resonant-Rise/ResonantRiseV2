@@ -18,7 +18,7 @@ ID,Block/Item,Mod,Unlocalised name,Class
 17,Block,Minecraft,tile.log,net.minecraft.block.BlockLog
 18,Block,Minecraft,tile.leaves,net.minecraft.block.BlockLeaves
 19,Block,Minecraft,tile.sponge,net.minecraft.block.BlockSponge
-20,Block,RandomThings,tile.glass,lumien.randomthings.Blocks.BlockColoredGlass
+20,Block,Minecraft,tile.glass,net.minecraft.block.BlockGlass
 21,Block,Minecraft,tile.oreLapis,net.minecraft.block.BlockOre
 22,Block,Minecraft,tile.blockLapis,net.minecraft.block.Block
 23,Block,Minecraft,tile.dispenser,net.minecraft.block.BlockDispenser
@@ -1218,6 +1218,11 @@ ID,Block/Item,Mod,Unlocalised name,Class
 2668,Block,ThaumicTinkerer,tile.ttinkerer:golemConnector,vazkii.tinkerer.common.block.BlockGolemConnector
 2669,Block,ThaumicTinkerer,tile.ttinkerer:Levitational Locomotive,vazkii.tinkerer.common.block.mobilizer.BlockMobilizer
 2670,Block,ThaumicTinkerer,tile.ttinkerer:Levitational Locomotive Relay,vazkii.tinkerer.common.block.mobilizer.BlockMobilizerRelay
+2680,Block,AdvancedThaumaturgy,tile.null,net.ixios.advancedthaumaturgy.blocks.BlockMinilith
+2683,Block,AdvancedThaumaturgy,tile.at.modifier,net.ixios.advancedthaumaturgy.blocks.BlockNodeModifier
+2684,Block,AdvancedThaumaturgy,tile.at.fertilizer,net.ixios.advancedthaumaturgy.blocks.BlockThaumicFertilizer
+2685,Block,AdvancedThaumaturgy,tile.at.creativenode,net.ixios.advancedthaumaturgy.blocks.BlockCreativeNode
+2689,Block,AdvancedThaumaturgy,tile.at.etherealjar,net.ixios.advancedthaumaturgy.blocks.BlockEtherealJar
 2701,Block,ThermalExpansion,tile.thermalexpansion.ore,thermalexpansion.block.simple.BlockOre
 2702,Block,ThermalExpansion,tile.thermalexpansion.machine,thermalexpansion.block.machine.BlockMachine
 2703,Block,ThermalExpansion,tile.thermalexpansion.device,thermalexpansion.block.device.BlockDevice
@@ -3225,6 +3230,14 @@ ID,Block/Item,Mod,Unlocalised name,Class
 18671,Item,ForbiddenMagic,item.WandCaps,com.spiteful.forbidden.items.ItemWandCaps
 18672,Item,ForbiddenMagic,item.GluttonyShard,com.spiteful.forbidden.items.ItemGluttonyShard
 18673,Item,ForbiddenMagic,item.Bloodwell,com.spiteful.forbidden.items.ItemBloodwell
+18789,Item,AdvancedThaumaturgy,item.at.mercurialrod,net.ixios.advancedthaumaturgy.items.ItemMercurialRodBase
+18790,Item,AdvancedThaumaturgy,item.null,net.ixios.advancedthaumaturgy.items.ItemMercurialWand
+18791,Item,AdvancedThaumaturgy,item.null,net.ixios.advancedthaumaturgy.items.ItemInfusedThaumium
+18794,Item,AdvancedThaumaturgy,item.at.voidcage,net.ixios.advancedthaumaturgy.items.ItemFocusVoidCage
+18795,Item,AdvancedThaumaturgy,item.at.etherealjar,net.ixios.advancedthaumaturgy.items.ItemEtherealJar
+18796,Item,AdvancedThaumaturgy,item.at.aerosphere,net.ixios.advancedthaumaturgy.items.ItemAeroSphere
+18797,Item,AdvancedThaumaturgy,item.at.arcanecrystal,net.ixios.advancedthaumaturgy.items.ItemArcaneCrystal
+18798,Item,AdvancedThaumaturgy,item.at.endstonechunk,net.ixios.advancedthaumaturgy.items.ItemEndstoneChunk
 18806,Item,ThaumicTinkerer,item.ttinkerer:darkQuartzItem,vazkii.tinkerer.common.item.ItemMod
 18807,Item,ThaumicTinkerer,item.ttinkerer:connector,vazkii.tinkerer.common.item.ItemConnector
 18808,Item,ThaumicTinkerer,item.ttinkerer:gaseousLightItem,vazkii.tinkerer.common.item.ItemGas

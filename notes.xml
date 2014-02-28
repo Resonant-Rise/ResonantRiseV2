@@ -29,12 +29,6 @@
 		 website="http://www.minecraftforum.net/topic/1468779-" authors="Lunatrius"
 		 description="Import and export Minecraft schematic files in Minecraft!" />
 	
-	<mod name="Advanced Thaumaturgy" version="0.0.20"
-		 url="packs/ResonantRise/files/2.6/AdvancedThaumaturgy-1.6.4-0.0.20.jar" file="AdvancedThaumaturgy-1.6.4-0.0.20.jar" md5="2c22dc700ad9b12c265101a44505f3fa" download="server" 
-		 type="mods"
-		 website="http://www.minecraftforum.net/topic/2079654-"
-		 description="High-end tweaks and additions for Thaumcraft!" />
-		 
 	<mod name="BackTools" version="2.0.1"
 		 url="packs/ResonantRise/files/2.6/BackTools2.0.1.zip" file="BackTools2.0.1.zip" md5="dce0115472a8f9577ed3c5bdb8090ecf" download="server"
 		 type="mods"

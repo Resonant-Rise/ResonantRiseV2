@@ -1,6 +1,6 @@
 <version>
   <pack>
-    <version>2.6-DEV-054</version>
+    <version>2.6-DEV-055</version>
     <minecraft>1.6.4</minecraft>
     <memory>2048</memory>
     <permgen>256</permgen>
@@ -66,6 +66,11 @@
 		 type="mods"
 		 website="http://ag.teamdna.de/"
 		 description="Custom eldritch horrors of your very own! (Or custom mobs if you're the more boring type.)" />
+	<mod name="Advanced Thaumaturgy" version="0.0.22-PR1"
+		 url="packs/ResonantRise/files/2.6/AdvancedThaumaturgy-1.6.4-0.0.22-PR1.jar" file="AdvancedThaumaturgy-1.6.4-0.0.22-PR1.jar" md5="283449e3998d7b345f9ad7b06d21a2f9" download="server" 
+		 type="mods"
+		 website="http://www.minecraftforum.net/topic/2079654-"
+		 description="High-end tweaks and additions for Thaumcraft!" />
 	<mod url="packs/ResonantRise/files/2-STABLE/appeng-rv14-finale3-mc16x.jar" file="appeng-rv14-finale3-mc16x.jar" md5="d10ac60e48a192760e76c1de3b0c73ed" download="server"
          name="Applied Energistics" optional="no" type="mods"
          version="rv14-finale3"
