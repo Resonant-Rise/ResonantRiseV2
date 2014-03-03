@@ -1699,12 +1699,12 @@ ID,Block/Item,Mod,Unlocalised name,Class
 3907,Block,HardcoreEnderExpansion,tile.spookyLeaves,chylex.hee.block.BlockSpookyLeaves
 3908,Block,HardcoreEnderExpansion,tile.spookyLog,chylex.hee.block.BlockSpookyLog
 3909,Block,HardcoreEnderExpansion,tile.crossedDecoration,chylex.hee.block.BlockCrossedDecoration
-3910,Block,HardcoreEnderExpansion,tile.endStoneTerrain,chylex.hee.block.BlockEndstoneTerrain
+3910,Block,HardcoreEnderExpansion,tile.end_stone_terrain,chylex.hee.block.BlockEndstoneTerrain
 3911,Block,HardcoreEnderExpansion,tile.instabilityOrbOre,chylex.hee.block.BlockInstabilityOrbOre
 3912,Block,HardcoreEnderExpansion,tile.igneousRockOre,chylex.hee.block.BlockIgneousRockOre
 3913,Block,HardcoreEnderExpansion,tile.endPowderOre,chylex.hee.block.BlockEndPowderOre
 3914,Block,HardcoreEnderExpansion,tile.brewingStand,chylex.hee.block.BlockEnhancedBrewingStand
-3915,Block,HardcoreEnderExpansion,tile.essenceAltar,chylex.hee.block.BlockEssenceAltar
+3915,Block,HardcoreEnderExpansion,tile.HardcoreEnderExpansion:essence_altar,chylex.hee.block.BlockEssenceAltar
 3916,Block,HardcoreEnderExpansion,tile.obsidianSpecial,chylex.hee.block.BlockObsidianSpecial
 3917,Block,HardcoreEnderExpansion,tile.obsidianSpecial,chylex.hee.block.BlockObsidianSpecial
 3918,Block,HardcoreEnderExpansion,tile.obsidianStairs,chylex.hee.block.BlockObsidianStairs
