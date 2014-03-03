@@ -3509,6 +3509,7 @@ ID,Block/Item,Mod,Unlocalised name,Class
 21525,Item,madscience,item.genomeWolf,madscience.items.genomes.GenomeWolf
 21526,Item,madscience,item.genomeZombie,madscience.items.genomes.GenomeZombie
 21527,Item,madscience,item.genomeMonsterPlacer,madscience.items.CombinedGenomeMonsterPlacer
+21534,Item,madscience,item.needleEmpty,madscience.items.NeedleEmptyItem
 21535,Item,madscience,item.needleCaveSpider,madscience.items.needles.NeedleCaveSpider
 21536,Item,madscience,item.needleChicken,madscience.items.needles.NeedleChicken
 21537,Item,madscience,item.needleCow,madscience.items.needles.NeedleCow
