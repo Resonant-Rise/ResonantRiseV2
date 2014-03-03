@@ -612,6 +612,7 @@ ID,Block/Item,Mod,Unlocalised name,Class
 1319,Block,StevesFactoryManager,tile.sfm.BlockCableBreaker,vswe.stevesfactory.blocks.BlockCableBreaker
 1320,Block,StevesFactoryManager,tile.null,vswe.stevesfactory.blocks.BlockCableCluster
 1321,Block,StevesFactoryManager,tile.null,vswe.stevesfactory.blocks.BlockCableCamouflages
+1322,Block,StevesFactoryManager,tile.sfm.BlockCableSign,vswe.stevesfactory.blocks.BlockCableSign
 1345,Block,Sync,tile.Sync_ShellConstructor,sync.common.block.BlockDualVertical
 1352,Block,EnhancedPortals3,tile.decoration,uk.co.shadeddimensions.ep3.block.BlockDecoration
 1353,Block,EnhancedPortals3,tile.stabilizer,uk.co.shadeddimensions.ep3.block.BlockStabilizer
@@ -1219,9 +1220,11 @@ ID,Block/Item,Mod,Unlocalised name,Class
 2669,Block,ThaumicTinkerer,tile.ttinkerer:Levitational Locomotive,vazkii.tinkerer.common.block.mobilizer.BlockMobilizer
 2670,Block,ThaumicTinkerer,tile.ttinkerer:Levitational Locomotive Relay,vazkii.tinkerer.common.block.mobilizer.BlockMobilizerRelay
 2680,Block,AdvancedThaumaturgy,tile.null,net.ixios.advancedthaumaturgy.blocks.BlockMicrolith
+2681,Block,AdvancedThaumaturgy,tile.null,net.ixios.advancedthaumaturgy.blocks.BlockAltarDeployer
 2683,Block,AdvancedThaumaturgy,tile.at.modifier,net.ixios.advancedthaumaturgy.blocks.BlockNodeModifier
 2684,Block,AdvancedThaumaturgy,tile.at.fertilizer,net.ixios.advancedthaumaturgy.blocks.BlockThaumicFertilizer
 2685,Block,AdvancedThaumaturgy,tile.at.creativenode,net.ixios.advancedthaumaturgy.blocks.BlockCreativeNode
+2686,Block,AdvancedThaumaturgy,tile.at.essentiaengine,net.ixios.advancedthaumaturgy.blocks.BlockEssentiaEngine
 2689,Block,AdvancedThaumaturgy,tile.at.etherealjar,net.ixios.advancedthaumaturgy.blocks.BlockEtherealJar
 2701,Block,ThermalExpansion,tile.thermalexpansion.ore,thermalexpansion.block.simple.BlockOre
 2702,Block,ThermalExpansion,tile.thermalexpansion.machine,thermalexpansion.block.machine.BlockMachine
