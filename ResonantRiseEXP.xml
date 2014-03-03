@@ -1,6 +1,6 @@
 <version>
   <pack>
-    <version>2.6.17.2-EXP-RC</version>
+    <version>2.6.17.3-EXP-RC</version>
     <minecraft>1.6.4</minecraft>
     <memory>2048</memory>
     <permgen>256</permgen>
@@ -66,8 +66,8 @@
 		 type="mods"
 		 website="http://ag.teamdna.de/"
 		 description="Custom eldritch horrors of your very own! (Or custom mobs if you're the more boring type.)" />
-	<mod name="Advanced Thaumaturgy" version="0.0.23"
-		 url="packs/ResonantRise/files/2.6/AdvancedThaumaturgy-1.6.4-0.0.23.jar" file="AdvancedThaumaturgy-1.6.4-0.0.23.jar" md5="57477967e4c604f3acd9e3e36c339df7" download="server" 
+	<mod name="Advanced Thaumaturgy" version="0.0.25"
+		 url="packs/ResonantRise/files/2.6/AdvancedThaumaturgy-1.6.4-0.0.25.jar" file="AdvancedThaumaturgy-1.6.4-0.0.25.jar" md5="e2bef7c0f47f34558e1a786ac52a8812" download="server" 
 		 type="mods"
 		 website="http://www.minecraftforum.net/topic/2079654-"
 		 description="High-end tweaks and additions for Thaumcraft!" />
@@ -209,8 +209,8 @@
          name="EmasherResource" type="mods" version="1.2.3.3"
          website="http://emashersmods.wikispaces.com"
          description="Build big or build tiny." />
-    <mod url="packs/ResonantRise/files/2.6/EnderIO-1.6.4-0.11.1.315.jar" file="EnderIO-1.6.4-0.11.1.315.jar" md5="c1bca336b341f4ff1f83ff35999e19d8" download="server" 
-         name="EnderIO" type="mods" version="0.11.1.315"
+    <mod url="packs/ResonantRise/files/2.6/EnderIO-1.6.4-0.11.2.325.jar" file="EnderIO-1.6.4-0.11.2.325.jar" md5="8d8ae0d114aef0e50e13eb1f08785f61" download="server" 
+         name="EnderIO" type="mods" version="0.11.2.325"
          website="http://www.minecraftforum.net/topic/1937619-"
          description="An alternative, awesome, universal, concealable pipes for everything." />
     <mod url="packs/ResonantRise/files/2.6/EnderNet-rc1.jar" file="EnderNet-rc1.jar" md5="7d38974b1d4fcd7e192fafbce8103dac" download="server"
@@ -250,8 +250,8 @@
          website="http://forum.feed-the-beast.com/threads/myrathis-mod-compendium.18505/"
          description="Signs on every surface."
          />
-    <mod name="Forbidden Magic" version="pr0.3"
-		 url="packs/ResonantRise/files/2.6/ForbiddenMagic pr0.3.jar" file="ForbiddenMagic pr0.3.jar" md5="f776a24e6a032ac99311101cca1dd835" download="server" 
+    <mod name="Forbidden Magic" version="pr0.31"
+		 url="packs/ResonantRise/files/2.6/ForbiddenMagic pr0.31.jar" file="ForbiddenMagic pr0.31.jar" md5="ffb806def952daa51d574f21bf2ec8b4" download="server" 
 		 type="mods"
 		 website="http://www.minecraftforum.net/topic/2305054-"
 		 description="Magic on the shadier side of the street for Thaumcraft!" />
@@ -388,8 +388,8 @@
          name="MFFS" type="mods" version="3.6.2.45"
          website="http://www.minecraftforum.net/topic/1703498-" donation="http://universalelectricity.com/mffs/"
          description="Calclavia's Forcefield System." />
-    <mod name="MineChem" version="5.0.3"
-		 url="packs/ResonantRise/files/2.6/Minechem-5.0.3.jar" file="Minechem-5.0.3.jar" md5="98b6df7b54e28aa421bd4068fda7a190" download="server" 
+    <mod name="MineChem" version="5.0.4"
+		 url="packs/ResonantRise/files/2.6/Minechem-5.0.4.jar" file="Minechem-5.0.4.jar" md5="a92694e7c048c94f757039b61d915e5f" download="server" 
 		 type="mods"
 		 website="http://www.minechemmod.com/joomla/" authors="pixlepix"
 		 description="Chemical industry in Minecraft!" />
@@ -563,8 +563,8 @@
          version="2.0.0.b10"
          website="http://www.minecraftforum.net/topic/680276-16-steves-carts-2-v200a123/" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=Z7NBL3BRBCNFC"
          description="Choo choooooooo!" />
-    <mod name="Steve's Factory Manager" version="A80"
-		 url="packs/ResonantRise/files/2.6/StevesFactoryManagerA80.zip" file="StevesFactoryManagerA80.zip" md5="46cf7df4973160a4f04cc927b8d20cd9" download="server" 
+    <mod name="Steve's Factory Manager" version="A81"
+		 url="packs/ResonantRise/files/2.6/StevesFactoryManagerA81.zip" file="StevesFactoryManagerA81.zip" md5="4dc6b592337ec2e0b87657f7021991af" download="server" 
 		 type="mods" website="http://stevesfactorymanager.wikispaces.com/"
 		 description="ComputerCraft, you're no longer the only programmable automation game in town."/>
     <mod url="packs/ResonantRise/files/2-STABLE/SuperCraftingFrame-1.6.2.7.jar" file="SuperCraftingFrame-1.6.2.7.jar" md5="5241bc98632201d64b0112e16e31e6b6" download="server"
