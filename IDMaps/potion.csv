@@ -20,8 +20,9 @@ ID,Unlocalised name,Class
 19,potion.poison,net.minecraft.potion.Potion
 20,potion.wither,net.minecraft.potion.Potion
 21,potion.radiation,calclavia.lib.prefab.poison.PotionRadiation
-22,batFlight,totemic_commons.pokefenn.potion.PotionBatFlying
+22,potion.absorption,net.minecraft.potion.PotionAbsoption
 23,potion.saturation,net.minecraft.potion.PotionHealth
+25,batFlight,totemic_commons.pokefenn.potion.PotionBatFlying
 30,potion.fluxtaint,thaumcraft.common.items.PotionFluxTaint
 32,Water Breathing,am2.buffs.ArsMagicaPotion
 33,Flight,am2.buffs.ArsMagicaPotion
