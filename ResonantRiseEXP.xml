@@ -1,6 +1,6 @@
 <version>
   <pack>
-    <version>2.6.17.3-EXP-RC</version>
+    <version>2.6.17.4-EXP-RR</version>
     <minecraft>1.6.4</minecraft>
     <memory>2048</memory>
     <permgen>256</permgen>
@@ -209,8 +209,8 @@
          name="EmasherResource" type="mods" version="1.2.3.3"
          website="http://emashersmods.wikispaces.com"
          description="Build big or build tiny." />
-    <mod url="packs/ResonantRise/files/2.6/EnderIO-1.6.4-0.11.2.325.jar" file="EnderIO-1.6.4-0.11.2.325.jar" md5="8d8ae0d114aef0e50e13eb1f08785f61" download="server" 
-         name="EnderIO" type="mods" version="0.11.2.325"
+    <mod url="packs/ResonantRise/files/2.6/EnderIO-1.6.4-0.11.3.330.jar" file="EnderIO-1.6.4-0.11.3.330.jar" md5="ab8411e763d747a9d846ba1f2e6b4a79" download="server" 
+         name="EnderIO" type="mods" version="0.11.3.330"
          website="http://www.minecraftforum.net/topic/1937619-"
          description="An alternative, awesome, universal, concealable pipes for everything." />
     <mod url="packs/ResonantRise/files/2.6/EnderNet-rc1.jar" file="EnderNet-rc1.jar" md5="7d38974b1d4fcd7e192fafbce8103dac" download="server"
@@ -241,8 +241,8 @@
          name="Extra Utilities"  type="mods" version="1.0.3a"
          website="http://www.minecraftforum.net/topic/1776056-15xforge-extra-utilities-v024d/" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=AAJGAD54WB7RQ"
          description="Angel Blocks? Angel Blocks!" />
-    <mod url="packs/ResonantRise/files/2.6/Factorization-0.8.33.jar" file="Factorization-0.8.33.jar" md5="101959076cc7c460120e9bebcb84d3f2" download="server" 
-         name="Factorization" type="mods" version="0.8.33"
+    <mod url="packs/ResonantRise/files/2.6/Factorization-0.8.34.jar" file="Factorization-0.8.34.jar" md5="87941dcfbff76e94bb4a9fd1f5099d6f" download="server" 
+         name="Factorization" type="mods" version="0.8.34"
          website="http://www.minecraftforum.net/topic/1351802-"
          description="Unquantifably Awesome. Power that munches and crunches better than Gurgi ever could." />
     <mod url="packs/ResonantRise/files/2-STABLE/flatsigns-1.6.2-universal-1.4.0.15.jar" file="flatsigns-1.6.2-universal-1.4.0.15.jar" md5="581bf79ecbda0132101ffcd0ba165fa0" download="server"
@@ -483,27 +483,27 @@
          name="PowerCrystals Core [Skyboy Fork]" type="mods" version="1.1.8-9"
          website="http://www.minecraftforum.net/topic/2016680-162164-"
          description="Originally by PowerCrystals" />
-    <mod url="packs/ResonantRise/files/2-STABLE/ProjectRedBase-1.6.4-4.2.2.19.jar" file="ProjectRedBase-1.6.4-4.2.2.19.jar" md5="b980fad71dd0dc377e66045db698ec71" download="server"
-         name="Project Red: Base" type="mods" version="4.2.2.19"
+    <mod url="packs/ResonantRise/files/2.6/ProjectRedBase-1.6.4-4.3.0.24.jar" file="ProjectRedBase-1.6.4-4.3.0.24.jar" md5="f3d3afce29b889a501db1a9aabecce87" download="server" 
+         name="Project Red: Base" type="mods" version="4.3.0.24"
          website="http://projectred.endermedia.org/" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;amp;hosted_button_id=8PG9EUSGL5Z9N"
          description="RedPower2 Clone" />
-    <mod url="packs/ResonantRise/files/2-STABLE/ProjectRedCompat-1.6.4-4.2.2.19.jar" file="ProjectRedCompat-1.6.4-4.2.2.19.jar" md5="36b4d92ef35918b363898b41335778a5" download="server"
-         name="Project Red: Compat" type="mods" version="4.2.2.19"
+    <mod url="packs/ResonantRise/files/2.6/ProjectRedCompat-1.6.4-4.3.0.24.jar" file="ProjectRedCompat-1.6.4-4.3.0.24.jar" md5="a62bc026fb66a01f53d8bf7068af664c" download="server" 
+         name="Project Red: Compat" type="mods" version="4.3.0.24"
          website="http://projectred.endermedia.org/" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;amp;hosted_button_id=8PG9EUSGL5Z9N"
          description="RedPower2 Clone" />
-    <mod url="packs/ResonantRise/files/2-STABLE/ProjectRedIntegration-1.6.4-4.2.2.19.jar" file="ProjectRedIntegration-1.6.4-4.2.2.19.jar" md5="b6d4b9082b0f00d37f3705663c1fc5c7" download="server"
-         name="Project Red: Integration" type="mods" version="4.2.2.19"
+    <mod url="packs/ResonantRise/files/2.6/ProjectRedIntegration-1.6.4-4.3.0.24.jar" file="ProjectRedIntegration-1.6.4-4.3.0.24.jar" md5="8b95f4effc58ebdf044470ac21bba9b6" download="server" 
+         name="Project Red: Integration" type="mods" version="4.3.0.24"
          website="http://projectred.endermedia.org/" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;amp;hosted_button_id=8PG9EUSGL5Z9N"
          description="RedPower2 Clone" />
-    <mod url="packs/ResonantRise/files/2-STABLE/ProjectRedLighting-1.6.4-4.2.2.19.jar" file="ProjectRedLighting-1.6.4-4.2.2.19.jar" md5="7d02992161fced5098cd825a3dc4d991" download="server"
-         name="Project Red: Lighting" type="mods" version="4.2.2.19"
+    <mod url="packs/ResonantRise/files/2.6/ProjectRedLighting-1.6.4-4.3.0.24.jar" file="ProjectRedLighting-1.6.4-4.3.0.24.jar" md5="a3369d01848854b4778cbbc697b4dc1e" download="server" 
+         name="Project Red: Lighting" type="mods" version="4.3.0.24"
          website="http://projectred.endermedia.org/" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;amp;hosted_button_id=8PG9EUSGL5Z9N"
          description="RedPower2 Clone" />
-    <mod url="packs/ResonantRise/files/2-STABLE/ProjectRedMechanical-1.6.4-4.2.2.19.jar" file="ProjectRedMechanical-1.6.4-4.2.2.19.jar" md5="3a524f87599a3b9b5e8c9f7a9c5df8a0" download="server"
-         name="Project Red: Mechanical" type="mods" version="4.2.2.19"
+    <mod url="packs/ResonantRise/files/2.6/ProjectRedMechanical-BETA-1.6.4-4.3.0.24.jar" file="ProjectRedMechanical-BETA-1.6.4-4.3.0.24.jar" md5="c48a1784300ebd0fc7000f841c0c4260" download="server" 
+         name="Project Red: Mechanical" type="mods" version="4.3.0.24"
          website="http://projectred.endermedia.org/" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;amp;hosted_button_id=8PG9EUSGL5Z9N"
          description="RedPower2 Clone" />
-    <mod url="packs/ResonantRise/files/2-STABLE/ProjectRedWorld-1.6.4-4.2.2.19.jar" file="ProjectRedWorld-1.6.4-4.2.2.19.jar" md5="086448d857d4cf3d95bf43de09170e0e" download="server"
+    <mod url="packs/ResonantRise/files/2.6/ProjectRedWorld-1.6.4-4.3.0.24.jar" file="ProjectRedWorld-1.6.4-4.3.0.24.jar" md5="0a942cdc698a6d57f7c031ffa94ca32e" download="server" 
          name="Project Red: World" type="mods" version="4.2.2.19"
          website="http://projectred.endermedia.org/" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;amp;hosted_button_id=8PG9EUSGL5Z9N"
          description="RedPower2 Clone" />
