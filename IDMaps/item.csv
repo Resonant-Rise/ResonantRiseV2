@@ -931,11 +931,12 @@ ID,Block/Item,Mod,Unlocalised name,Class
 2051,Block,endernet,tile.endernet.enderModem,pl.asie.endernet.block.BlockEnderModem
 2052,Block,endernet,tile.endernet.enderReceiver,pl.asie.endernet.block.BlockEnderReceiver
 2053,Block,endernet,tile.endernet.enderTransmitter,pl.asie.endernet.block.BlockEnderTransmitter
+2129,Block,ProjRed|Expansion,tile.projectred.expansion.machine1,mrtjp.projectred.expansion.BlockMachine
 2130,Block,ProjRed|Exploration,tile.projectred.exploration.ore,mrtjp.projectred.exploration.BlockOre
 2131,Block,ProjRed|Exploration,tile.projectred.exploration.stone,mrtjp.projectred.exploration.BlockSpecialStone
 2132,Block,ProjRed|Illumination,tile.projectred.illumination.lamp,mrtjp.projectred.illumination.BlockLamp
-2133,Block,ProjRed|Compatibility,tile.projectred.compatibility.liqredstone,mrtjp.projectred.compatibility.LiquidFiniteSubstance
-2134,Block,ProjRed|Compatibility,tile.projectred.compatibility.liqcondredmetal,mrtjp.projectred.compatibility.LiquidFiniteSubstance
+2133,Block,ProjRed|Compatibility,tile.projectred.compatibility.liqredstone,mrtjp.projectred.compatibility.tconstruct.LiquidFiniteSubstance
+2134,Block,ProjRed|Compatibility,tile.projectred.compatibility.liqcondredmetal,mrtjp.projectred.compatibility.tconstruct.LiquidFiniteSubstance
 2135,Block,ProjRed|Exploration,tile.projectred.exploration.stonewalls,mrtjp.projectred.exploration.BlockSpecialStoneWall
 2136,Block,ProjRed|Exploration,tile.projectred.exploration.dyeleaf,mrtjp.projectred.exploration.BlockStainedLeaf
 2137,Block,ProjRed|Exploration,tile.projectred.exploration.dyesapling,mrtjp.projectred.exploration.BlockStainedSapling
@@ -2378,6 +2379,7 @@ ID,Block/Item,Mod,Unlocalised name,Class
 9320,Item,factorization,item.factorization:socket/,factorization.sockets.ItemSocketPart
 9321,Item,factorization,item.factorization:servo/instruction_plate,factorization.shared.ItemCraftingComponent
 9322,Item,factorization,item.factorization:servo/commenter,factorization.servo.ItemCommenter
+9323,Item,factorization,item.factorization:docbook,factorization.docs.ItemDocBook
 9801,Item,LiquidXP,item.liquidxp.bucket,mods.immibis.lxp.BucketItem
 9803,Item,LiquidXP,item.null,mods.immibis.lxp.MedallionItem
 9804,Item,ImmibisCore,item.null,mods.immibis.ccperiphs.ItemComponent
