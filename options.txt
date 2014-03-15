@@ -12,7 +12,7 @@ anaglyph3d:false
 advancedOpengl:false
 fpsLimit:0
 difficulty:2
-fancyGraphics:false
+fancyGraphics:true
 ao:0
 clouds:false
 skin:Default
