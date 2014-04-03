@@ -387,6 +387,8 @@ ID,Block/Item,Mod,Unlocalised name,Class
 515,Block,Mariculture,tile.glassBlocks,mariculture.core.blocks.BlockGlass
 516,Block,Mariculture,tile.coral,mariculture.world.BlockCoral
 517,Block,Mariculture,tile.airBlocks,mariculture.core.blocks.BlockAir
+518,Block,Mariculture,tile.pearlBlock,mariculture.core.blocks.BlockPearlBrick
+519,Block,Mariculture,tile.limestone,mariculture.core.blocks.BlockLimestone
 520,Block,Mariculture,tile.customFlooring,mariculture.factory.blocks.BlockCustomFlooring
 521,Block,Mariculture,tile.customBlock,mariculture.factory.blocks.BlockCustomBlock
 522,Block,Mariculture,tile.customStairs,mariculture.factory.blocks.BlockCustomStairs
@@ -402,11 +404,6 @@ ID,Block/Item,Mod,Unlocalised name,Class
 557,Block,Mariculture,tile.tankBlocks,mariculture.core.blocks.BlockTank
 558,Block,Mariculture,tile.groundBlocks,mariculture.core.blocks.BlockGround
 568,Block,Mariculture,tile.transparentBlocks,mariculture.core.blocks.BlockTransparent
-580,Block,OpenPeripheral,tile.openperipheral.glassesbridge,openperipheral.addons.glasses.BlockGlassesBridge
-581,Block,OpenPeripheral,tile.openperipheral.peripheralproxy,openperipheral.addons.peripheralproxy.BlockPeripheralProxy
-582,Block,OpenPeripheral,tile.openperipheral.playerinventory,openperipheral.addons.pim.BlockPIM
-583,Block,OpenPeripheral,tile.openperipheral.ticketmachine,openperipheral.addons.ticketmachine.BlockTicketMachine
-584,Block,OpenPeripheral,tile.openperipheral.sensor,openperipheral.addons.sensors.BlockSensor
 590,Block,BetterDungeons,tile.CapsuleStation,chocolate.mods.BD.block.BlockCapsule
 591,Block,BetterDungeons,tile.BetterDungeonSpawner,chocolate.mods.BD.block.BlockMobSpawner
 592,Block,BetterDungeons,tile.BannerHolder,chocolate.mods.BD.block.BlockBannerStand
@@ -582,12 +579,12 @@ ID,Block/Item,Mod,Unlocalised name,Class
 1160,Block,arsmagica2,tile.arsmagica2:keystoneTrapdoor,am2.blocks.BlockKeystoneTrapdoor
 1161,Block,arsmagica2,tile.arsmagica2:keystoneDoor,am2.blocks.BlockKeystoneDoor
 1162,Block,arsmagica2,tile.arsmagica2:slipstreamGenerator,am2.blocks.BlockSlipstreamGenerator
-1225,Block,ComputerCraft,tile.cccomputer,dan200.computer.shared.BlockComputerMFR
-1226,Block,ComputerCraft,tile.ccdiskdrive,dan200.computer.shared.BlockPeripheral
-1227,Block,CCTurtle,tile.ccturtle,dan200.turtle.shared.BlockTurtleMFR
-1228,Block,CCTurtle,tile.ccturtle,dan200.turtle.shared.BlockTurtleExpandedMFR
-1229,Block,ComputerCraft,tile.cccable,dan200.computer.shared.BlockCable
-1230,Block,CCTurtle,tile.ccturtle,dan200.turtle.shared.BlockTurtleAdvancedMFR
+1225,Block,ComputerCraft,tile.cccomputer,dan200.computercraft.shared.computer.blocks.BlockComputer
+1226,Block,ComputerCraft,tile.ccperipheral,dan200.computercraft.shared.peripheral.common.BlockPeripheral
+1227,Block,ComputerCraft,tile.ccturtle,dan200.computercraft.shared.turtle.blocks.BlockTurtle
+1228,Block,ComputerCraft,tile.ccturtle,dan200.computercraft.shared.turtle.blocks.BlockTurtle
+1229,Block,ComputerCraft,tile.cccable,dan200.computercraft.shared.peripheral.common.BlockCable
+1230,Block,ComputerCraft,tile.ccturtle,dan200.computercraft.shared.turtle.blocks.BlockTurtle
 1275,Block,Mystcraft,tile.myst.bookstand,com.xcompwiz.mystcraft.block.BlockBookstand
 1276,Block,Mystcraft,tile.myst.crystal,com.xcompwiz.mystcraft.block.BlockCrystal
 1277,Block,Mystcraft,tile.myst.lectern,com.xcompwiz.mystcraft.block.BlockLectern
@@ -1225,7 +1222,7 @@ ID,Block/Item,Mod,Unlocalised name,Class
 2669,Block,ThaumicTinkerer,tile.ttinkerer:Levitational Locomotive,vazkii.tinkerer.common.block.mobilizer.BlockMobilizer
 2670,Block,ThaumicTinkerer,tile.ttinkerer:Levitational Locomotive Relay,vazkii.tinkerer.common.block.mobilizer.BlockMobilizerRelay
 2680,Block,AdvancedThaumaturgy,tile.null,net.ixios.advancedthaumaturgy.blocks.BlockMicrolith
-2681,Block,AdvancedThaumaturgy,tile.null,net.ixios.advancedthaumaturgy.blocks.BlockAltarDeployer
+2681,Block,AdvancedThaumaturgy,tile.at.altrdeployer,net.ixios.advancedthaumaturgy.blocks.BlockAltarDeployer
 2683,Block,AdvancedThaumaturgy,tile.at.modifier,net.ixios.advancedthaumaturgy.blocks.BlockNodeModifier
 2684,Block,AdvancedThaumaturgy,tile.at.fertilizer,net.ixios.advancedthaumaturgy.blocks.BlockThaumicFertilizer
 2685,Block,AdvancedThaumaturgy,tile.at.creativenode,net.ixios.advancedthaumaturgy.blocks.BlockCreativeNode
@@ -1593,13 +1590,19 @@ ID,Block/Item,Mod,Unlocalised name,Class
 3581,Block,OpenComputers,tile.null,li.cil.oc.common.block.SimpleRedstoneDelegator
 3582,Block,OpenComputers,tile.null,li.cil.oc.common.block.SpecialDelegator
 3583,Block,OpenComputers,tile.null,null
-3600,Block,gendustry,tile.gendustry.mutagen,net.bdew.gendustry.mutagen.BlockMutagen
+3600,Block,gendustry,tile.gendustry.mutagen,net.bdew.gendustry.fluids.BlockFluid
 3602,Block,gendustry,tile.gendustry.mutagen.producer,net.bdew.gendustry.machines.mproducer.BlockMutagenProducer
 3603,Block,gendustry,tile.gendustry.mutatron,net.bdew.gendustry.machines.mutatron.BlockMutatron
 3604,Block,gendustry,tile.gendustry.apiary,net.bdew.gendustry.machines.apiary.BlockApiary
 3605,Block,gendustry,tile.gendustry.imprinter,net.bdew.gendustry.machines.imprinter.BlockImprinter
 3606,Block,gendustry,tile.gendustry.sampler,net.bdew.gendustry.machines.sampler.BlockSampler
 3607,Block,gendustry,tile.gendustry.mutatron.adv,net.bdew.gendustry.machines.advmutatron.BlockMutatronAdv
+3608,Block,gendustry,tile.gendustry.liquiddna,net.bdew.gendustry.fluids.BlockFluid
+3609,Block,gendustry,tile.gendustry.protein,net.bdew.gendustry.fluids.BlockFluid
+3610,Block,gendustry,tile.gendustry.liquifier,net.bdew.gendustry.machines.liquifier.BlockLiquifier
+3611,Block,gendustry,tile.gendustry.extractor,net.bdew.gendustry.machines.extractor.BlockExtractor
+3612,Block,gendustry,tile.gendustry.transposer,net.bdew.gendustry.machines.transposer.BlockTransposer
+3613,Block,gendustry,tile.gendustry.replicator,net.bdew.gendustry.machines.replicator.BlockReplicator
 3650,Block,remoteIO,tile.io,com.dmillerw.remoteIO.block.BlockIO
 3651,Block,remoteIO,tile.machine,com.dmillerw.remoteIO.block.BlockMachine
 3652,Block,remoteIO,tile.sideProxy,com.dmillerw.remoteIO.block.BlockSideProxy
@@ -1947,11 +1950,11 @@ ID,Block/Item,Mod,Unlocalised name,Class
 5000,Item,RedstonePasteMod,item.stickyComparator,fyber.redstonepastemod.ItemStickyComparator
 5001,Item,RedstonePasteMod,item.stickyRepeater,fyber.redstonepastemod.ItemStickyRepeater
 5254,Item,Growthcraft|Cellar,item.grc.chievItemDummy,growthcraft.cellar.ItemChievDummy
-5256,Item,ComputerCraft,item.ccdisk,dan200.computer.shared.ItemDisk
-5257,Item,ComputerCraft,item.ccdisk,dan200.computer.shared.ItemDiskExpanded
-5258,Item,ComputerCraft,item.ccprintout,dan200.computer.shared.ItemPrintout
-5259,Item,ComputerCraft,item.ccprogramdisk,dan200.computer.shared.ItemTreasureDisk
-5260,Item,Forestry,item.ingotTin,forestry.core.items.ItemForestry
+5256,Item,ComputerCraft,item.ccdisk,dan200.computercraft.shared.media.items.ItemDiskLegacy
+5257,Item,ComputerCraft,item.ccdisk,dan200.computercraft.shared.media.items.ItemDiskExpanded
+5258,Item,ComputerCraft,item.ccprintout,dan200.computercraft.shared.media.items.ItemPrintout
+5259,Item,ComputerCraft,item.ccprogramdisk,dan200.computercraft.shared.media.items.ItemTreasureDisk
+5260,Item,ComputerCraft,item.ccpocketcomputer,dan200.computercraft.shared.pocket.items.ItemPocketComputer
 5261,Item,Forestry,item.ingotBronze,forestry.core.items.ItemForestry
 5263,Item,Forestry,item.wrench,forestry.core.items.ItemWrench
 5264,Item,Forestry,item.gearBronze,forestry.core.items.ItemForestry
@@ -1969,8 +1972,6 @@ ID,Block/Item,Mod,Unlocalised name,Class
 5280,Item,Forestry,item.gearTin,forestry.core.items.ItemForestry
 5281,Item,Forestry,item.hardenedMachine,forestry.core.items.ItemForestry
 5282,Item,Forestry,item.iodineCapsule,forestry.core.items.ItemForestry
-5311,Item,OpenPeripheral,item.openperipheral.glasses,openperipheral.addons.glasses.ItemGlasses
-5313,Item,OpenPeripheral,item.openperipheral.generic,openperipheral.addons.ItemOPGeneric
 5356,Item,Metallurgy3Base,item.Metallurgy:Vanilla/IronDust,rebelkeithy.mods.metallurgy.core.metalsets.ItemMetallurgy
 5357,Item,Metallurgy3Base,item.Metallurgy:Vanilla/GoldDust,rebelkeithy.mods.metallurgy.core.metalsets.ItemMetallurgy
 5401,Item,CarpentersBlocks,item.itemCarpentersHammer,carpentersblocks.item.ItemCarpentersHammer
@@ -2946,6 +2947,7 @@ ID,Block/Item,Mod,Unlocalised name,Class
 14373,Item,TConstruct,item.tconstruct.exoChest,tconstruct.items.armor.ExoArmor
 14374,Item,TConstruct,item.tconstruct.exoPants,tconstruct.items.armor.ExoArmor
 14375,Item,TConstruct,item.tconstruct.exoShoes,tconstruct.items.armor.ExoArmor
+14376,Item,TConstruct,item.tconstruct.modifier.creative,tconstruct.items.CreativeModifier
 14756,Item,TMechworks,item.lengthwire,tmechworks.items.LengthWire
 14757,Item,TMechworks,item.spoolwire,tmechworks.items.SpoolOfWire
 15231,Item,OpenBlocks,item.openblocks.hangglider,openblocks.common.item.ItemHangGlider
@@ -2989,8 +2991,8 @@ ID,Block/Item,Mod,Unlocalised name,Class
 15657,Item,PortalGun,item.record,portalgun.common.item.ItemRecords
 15658,Item,PortalGun,item.record,portalgun.common.item.ItemRecords
 15659,Item,PortalGun,item.record,portalgun.common.item.ItemRecords
-15756,Item,gendustry,item.gendustry.mutagen.bucket,net.bdew.gendustry.mutagen.ItemMutagenBucket
-15757,Item,gendustry,item.gendustry.mutagen.can,net.bdew.gendustry.mutagen.ItemMutagenCan
+15756,Item,gendustry,item.gendustry.mutagen.bucket,net.bdew.gendustry.fluids.ItemFluidBucket
+15757,Item,gendustry,item.gendustry.mutagen.can,net.bdew.gendustry.fluids.ItemFluidCan
 15758,Item,gendustry,item.gendustry.GeneSample,net.bdew.gendustry.items.GeneSample
 15759,Item,gendustry,item.gendustry.GeneTemplate,net.bdew.gendustry.items.GeneTemplate
 15760,Item,gendustry,item.gendustry.apiary.upgrade,net.bdew.gendustry.machines.apiary.upgrades.ItemApiaryUpgrade
@@ -3004,6 +3006,12 @@ ID,Block/Item,Mod,Unlocalised name,Class
 15768,Item,gendustry,item.gendustry.Labware,net.bdew.lib.items.SimpleItem
 15769,Item,gendustry,item.gendustry.Waste,net.bdew.lib.items.SimpleItem
 15770,Item,gendustry,item.gendustry.GeneSampleBlank,net.bdew.lib.items.SimpleItem
+15771,Item,gendustry,item.gendustry.scoop,net.bdew.gendustry.items.IndustrialScoop
+15772,Item,gendustry,item.gendustry.EnvProcessor,net.bdew.lib.items.SimpleItem
+15773,Item,gendustry,item.gendustry.liquiddna.bucket,net.bdew.gendustry.fluids.ItemFluidBucket
+15774,Item,gendustry,item.gendustry.liquiddna.can,net.bdew.gendustry.fluids.ItemFluidCan
+15775,Item,gendustry,item.gendustry.protein.bucket,net.bdew.gendustry.fluids.ItemFluidBucket
+15776,Item,gendustry,item.gendustry.protein.can,net.bdew.gendustry.fluids.ItemFluidCan
 15956,Item,flatsigns,item.sponge.wipe,myrathi.flatsigns.item.ItemSpongeWipe
 16279,Item,ProjRed|Core,item.projectred.core.wiredebugger,mrtjp.projectred.core.ItemWireDebugger
 16286,Item,ProjRed|Integration,item.projectred.integration.gate,mrtjp.projectred.integration.ItemPartGate
@@ -3360,6 +3368,7 @@ ID,Block/Item,Mod,Unlocalised name,Class
 19978,Item,ExtraTiC,item.default.toughbind,glassmaker.extratic.parts.Part
 19979,Item,ExtraTiC,item.default.toughrod,glassmaker.extratic.parts.Part
 19981,Item,ExtraTiC,item.metal.item.19725,glassmaker.extratic.metals.MetalItem
+19982,Item,ExtraTiC,item.extratic.bucket,glassmaker.extratic.metals.MoltenMetalBucketItem
 19991,Item,ExtraTiC,item.default.frypan.head,glassmaker.extratic.parts.Part
 19992,Item,ExtraTiC,item.default.excavator.head,glassmaker.extratic.parts.Part
 19993,Item,ExtraTiC,item.default.crossbar,glassmaker.extratic.parts.Part
@@ -3445,7 +3454,6 @@ ID,Block/Item,Mod,Unlocalised name,Class
 20899,Item,minechem,item.minechem.itemChemistJournal,pixlepix.minechem.common.items.ItemChemistJournal
 20905,Item,minechem,item.minechem.itempill,pixlepix.minechem.common.items.ItemPills
 20906,Item,minechem,item.Polytool,pixlepix.minechem.common.polytool.ItemPolytool
-20916,Item,minechem,item.name.chemistryUpgrade,pixlepix.minechem.computercraft.ItemChemistryUpgrade
 21256,Item,MineFactoryReloaded,item.mfr.syringe.health,powercrystals.minefactoryreloaded.item.ItemSyringeHealth
 21257,Item,MineFactoryReloaded,item.mfr.syringe.growth,powercrystals.minefactoryreloaded.item.ItemSyringeGrowth
 21258,Item,MineFactoryReloaded,item.mfr.rubber.raw,powercrystals.minefactoryreloaded.item.ItemFactory
@@ -4332,6 +4340,7 @@ ID,Block/Item,Mod,Unlocalised name,Class
 28837,Item,HardcoreEnderExpansion,item.enderCompendium,chylex.hee.item.ItemEnderCompendium
 28838,Item,HardcoreEnderExpansion,item.knowledgeFragment,chylex.hee.item.ItemKnowledgeFragment
 28839,Item,HardcoreEnderExpansion,item.minionContainer,chylex.hee.item.ItemMinionContainer
+29255,Item,Enchiridion,item.items,enchiridion.ItemEnchiridion
 29256,Item,Mariculture,item.materials,mariculture.core.items.ItemMaterial
 29257,Item,Mariculture,item.craftingItems,mariculture.core.items.ItemCrafting
 29258,Item,Mariculture,item.bait,mariculture.fishery.items.ItemBait
@@ -4376,10 +4385,11 @@ ID,Block/Item,Mod,Unlocalised name,Class
 29320,Item,Mariculture,item.hammer,mariculture.core.items.ItemHammer
 29321,Item,Mariculture,item.worked,mariculture.core.items.ItemWorked
 29322,Item,Mariculture,item.batteryCopper,mariculture.core.items.ItemBattery
-29323,Item,Mariculture,item.guide,mariculture.core.items.ItemGuide
+29323,Item,Mariculture,item.guide,mariculture.plugins.enchiridion.ItemGuide
 29324,Item,Mariculture,item.ladle,mariculture.core.items.ItemFluidStorage
 29325,Item,Mariculture,item.mobMagnet,mariculture.magic.ItemMobMagnet
 29326,Item,Mariculture,item.titaniumBucket,mariculture.core.items.ItemFluidStorage
+29327,Item,Mariculture,item.chalk,mariculture.factory.items.ItemChalk
 29361,Item,Mariculture,item.titanium.arrow.head,mariculture.plugins.PluginTConstruct.TitaniumPart
 29362,Item,Mariculture,item.titanium.axe.head,mariculture.plugins.PluginTConstruct.TitaniumPart
 29363,Item,Mariculture,item.titanium.battlesign.head,mariculture.plugins.PluginTConstruct.TitaniumPart
