@@ -2017,11 +2017,12 @@ ID,Block/Item,Mod,Unlocalised name,Class
 5000,Item,RedstonePasteMod,item.stickyComparator,fyber.redstonepastemod.ItemStickyComparator
 5001,Item,RedstonePasteMod,item.stickyRepeater,fyber.redstonepastemod.ItemStickyRepeater
 5254,Item,Growthcraft|Cellar,item.grc.chievItemDummy,growthcraft.cellar.ItemChievDummy
+5255,Item,ComputerCraft,item.ccpocketcomputer,dan200.computercraft.shared.pocket.items.ItemPocketComputer
 5256,Item,ComputerCraft,item.ccdisk,dan200.computercraft.shared.media.items.ItemDiskLegacy
 5257,Item,ComputerCraft,item.ccdisk,dan200.computercraft.shared.media.items.ItemDiskExpanded
 5258,Item,ComputerCraft,item.ccprintout,dan200.computercraft.shared.media.items.ItemPrintout
 5259,Item,ComputerCraft,item.ccprogramdisk,dan200.computercraft.shared.media.items.ItemTreasureDisk
-5260,Item,ComputerCraft,item.ccpocketcomputer,dan200.computercraft.shared.pocket.items.ItemPocketComputer
+5260,Item,Forestry,item.ingotTin,forestry.core.items.ItemForestry
 5261,Item,Forestry,item.ingotBronze,forestry.core.items.ItemForestry
 5263,Item,Forestry,item.wrench,forestry.core.items.ItemWrench
 5264,Item,Forestry,item.gearBronze,forestry.core.items.ItemForestry
