@@ -1,6 +1,6 @@
 <version>
   <pack>
-    <version>2-DEV-117</version>
+    <version>2-DEV-118</version>
     <minecraft>1.6.4</minecraft>
     <memory>2048</memory>
     <permgen>256</permgen>
@@ -355,8 +355,8 @@
     <mod url="packs/ResonantRise/files/2-STABLE2/liquid-xp-57.1.2.jar" file="liquid-xp-57.1.2.jar" md5="74b3a1edae1362578f4141e9fd1d5e1e" download="server"
          name="Liquid XP" depends="ImmibisCore"  type="mods"
          version="57.1.2" website="http://www.minecraftforum.net/topic/1001131-162-immibiss-mods-smp-now-with-857-less-version-numbers-in-this-title/" description="Advanced use of XP for auto-enchanting."  />
-    <mod url="packs/ResonantRise/files/2.8/LogisticsPipes-MC1.6.4-0.7.4.dev.121.jar" file="LogisticsPipes-MC1.6.4-0.7.4.dev.121.jar" md5="f7145ca8a1d95463b4f9b2a6c57185a6" download="server" 
-         name="Logistics Pipes" type="mods" version="0.7.4.dev.121"
+    <mod url="packs/ResonantRise/files/2.8/LogisticsPipes-MC1.6.4-0.7.4.dev.125.jar" file="LogisticsPipes-MC1.6.4-0.7.4.dev.125.jar" md5="1378fdca3190bc6f6e7d265bf8af2184" download="server" 
+         name="Logistics Pipes" type="mods" version="0.7.4.dev.125"
          website="http://www.minecraftforum.net/topic/1831791-152buildcraft-logistics-pipes/" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=HMEH9HF4Q2RFJ"
          description="Even more amazing pipes." />
     <mod name="Mad Science" version="1.00.98"
@@ -416,8 +416,8 @@
          donation="http://profmobius.blogspot.fr/"
          description="The doctor's toolkit."
          optional="yes" />
-    <mod url="packs/ResonantRise/files/2.8/ModularPowersuits-1.6.4-0.10.0-103.jar" file="ModularPowersuits-1.6.4-0.10.0-103.jar" md5="461db8d53540f5e9df7bc4652409813a" download="server" 
-         name="Modular Powersuits" type="mods" version="0.10.0-103"
+    <mod url="packs/ResonantRise/files/2.8/ModularPowersuits-1.6.4-0.10.0-100.jar" file="ModularPowersuits-1.6.4-0.10.0-100.jar" md5="1bb44bf7856068fa12f0db8af04d26f5" download="server" 
+         name="Modular Powersuits" type="mods" version="0.10.0-100"
          website="http://www.machinemuse.net"
          description="Jarvis not included." />
     <mod url="packs/ResonantRise/files/2.6/powersuitaddons-1.6.4-884.jar" file="powersuitaddons-1.6.4-884.jar" md5="23f9bace54fc9b776473cc5ccb7f57b6" download="server"
@@ -450,8 +450,8 @@
     <mod url="packs/ResonantRise/files/2.6/NotEnoughKeys-1.6.4-0.0.4.jar" file="NotEnoughKeys-1.6.4-0.0.4.jar" md5="1b9f6f8785e38d50bbfff129dbf90ec2" download="server"
          name="Not Enough Keys" type="mods"
          version="0.0.4" website="http://www.minecraftforum.net/topic/2189371-" description="Critical keybinding configuration improvements."  />
-    <mod url="packs/ResonantRise/files/2.8/Numina-1.6.2-0.1.2-59.jar" file="Numina-1.6.2-0.1.2-59.jar" md5="831db6848584e7ce2bb0255f0364d492" download="server" 
-         name="Numina" type="mods" version="0.1.2-59"
+    <mod url="packs/ResonantRise/files/2.8/Numina-1.6.2-0.1.2-57.jar" file="Numina-1.6.2-0.1.2-57.jar" md5="fdd0a02085331e7736d683414e12187d" download="server" 
+         name="Numina" type="mods" version="0.1.2-57"
          website="http://www.machinemuse.net"
          description="MachineMuse's new API for her mods" />
     <mod url="packs/ResonantRise/files/2-STABLE/obsidiplates-1.6.2-universal-2.0.0.15.jar" file="obsidiplates-1.6.2-universal-2.0.0.15.jar" md5="c64ea8742cd60ef359d36bb84d4b10a5" download="server"
@@ -736,29 +736,29 @@
 		<!-- Power Settings -->
 	<mod name="Game Mode: Make Powergen Fun" version="n/a"
 		 url="packs/ResonantRise/files/config-switches/power_fun_2.8.0.0.zip" file="power_fun_2.8.0.0.zip" md5="0521ce807be9bd178584600c53c5a49c" download="server" 
-		 type="extract" extractto="root" optional="no" selected="yes" group="PowerMode"
+		 type="extract" extractto="root" optional="no" selected="yes"
 		 website="http://resonant-rise.com"
-		 description="Fun power mode incresaes the output of reactors by 5-11x. Build a reactor and stop worrying!" />
+		 description="Fun power mode increases the output of reactors by 5-11x. Build a reactor and stop worrying!" />
 	<mod name="Game Mode: Make Powergen Fair" version="n/a"
 		 url="packs/ResonantRise/files/config-switches/power_fair_2.8.0.0.zip" file="power_fair_2.8.0.0.zip" md5="cf14b43040ff8b2e9f7e71b0e5908b93" download="server" 
-		 type="extract" extractto="root" optional="yes" selected="no" group="PowerMode"
+		 type="extract" extractto="root" optional="yes" selected="no"
 		 website="http://resonant-rise.com"
 		 description="Standard power settings." />
 		 
 		<!-- Oregen Settings -->
 	<mod name="Game Mode: Make Oregen Plentiful" version="n/a"
 		 url="packs/ResonantRise/files/config-switches/oregen_plentiful_2.8.0.0.zip" file="oregen_plentiful_2.8.0.0.zip" md5="174179a2918328da62ffba13aa7046ca" download="server" 
-		 type="extract" extractto="root" optional="no" selected="yes" group="OreMode"
+		 type="extract" extractto="root" optional="no" selected="yes"
 		 website="http://resonant-rise.com"
 		 description="Standard ore generation designed to be accomodating to novices (and fun)!" />
 	<mod name="Game Mode: Make Oregen Scarce" version="n/a"
 		 url="packs/ResonantRise/files/config-switches/oregen_scarce_2.8.0.0.zip" file="oregen_scarce_2.8.0.0.zip" md5="68503caeddb674321229eb1278676b95" download="server" 
-		 type="extract" extractto="root" optional="yes" selected="no" group="OreMode"
+		 type="extract" extractto="root" optional="yes" selected="no"
 		 website="http://resonant-rise.com"
 		 description="Ore generation is slashed by half for those who want more of a challenge." />
 	<mod name="Game Mode: Make Oregen Painful" version="n/a"
 		 url="packs/ResonantRise/files/config-switches/oregen_painful_2.8.0.0.zip" file="oregen_painful_2.8.0.0.zip" md5="440c581fb2ccc6ad3ecd3573315e8ce7" download="server" 
-		 type="extract" extractto="root" optional="yes" selected="no" group="OreMode"
+		 type="extract" extractto="root" optional="yes" selected="no"
 		 website="http://resonant-rise.com"
 		 description="Ore generation is slashed by half AND Copper, Tin and Gold are moved; for people who hate themselves." />
 		 
