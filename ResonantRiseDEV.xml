@@ -425,7 +425,7 @@
          website="http://www.minecraftforum.net/topic/2016680-162164-"
          description="Originally by PowerCrystals"
          fileprefix="00000_" />
-    <mod version="1.2.0" url="packs/ResonantRise/files/2.8/MobiusCore_1.2.0.jar" file="MobiusCore_1.2.0.jar" md5="70eb20174ff3ed6ce277035bdcaa808c" download="server" 
+    <mod url="packs/ResonantRise/files/2.8/MobiusCore_1.2.0.jar" file="MobiusCore_1.2.0.jar" md5="70eb20174ff3ed6ce277035bdcaa808c" download="server" 
          name="Mobius Core" type="mods" version="1.2.0"
          website="http://www.minecraftforum.net/topic/2104497-"
          donation="http://profmobius.blogspot.fr/"
@@ -497,7 +497,7 @@
 	<mod url="packs/ResonantRise/files/2-STABLE2/OpenPeripheralCore-0.3.3.jar" file="OpenPeripheralCore-0.3.3.jar" md5="0441edc6fad9d5a6a11c903df77934fe" download="server" 
          name="OpenPeripheral Core" version="0.3.3"
          website="http://www.openperipheral.info/" description="Open source improved ComputerCraft peripherals. Includes the beloved AR goggles." type="mods" />
-	<mod version="1.2.1" url="packs/ResonantRise/files/2.8/Opis_1.2.1.zip" file="Opis_1.2.1.zip" md5="84ba665595d9415081b3dec6bea471a2" download="server" 
+	<mod url="packs/ResonantRise/files/2.8/Opis_1.2.1.zip" file="Opis_1.2.1.zip" md5="84ba665595d9415081b3dec6bea471a2" download="server" 
          name="Opis" type="mods" group="Cartographer" depends="Mobius Core" version="1.2.1"
          website="http://www.minecraftforum.net/topic/2104497-"
          donation="http://profmobius.blogspot.fr/"
@@ -691,7 +691,7 @@
 		 type="mods"
 		 website="http://www.minecraftforum.net/topic/1747810-"
 		 authors="AUTOMATIC_MAIDEN" description="Adds a vending block that lets you sell items." />
-	<mod version="1.5.2" url="packs/ResonantRise/files/2.8/Waila_1.5.2.zip" file="Waila_1.5.2.zip" md5="e726fd142961520830155620f2190033" download="server" 
+	<mod url="packs/ResonantRise/files/2.8/Waila_1.5.2.zip" file="Waila_1.5.2.zip" md5="e726fd142961520830155620f2190033" download="server" 
          name="Waila" type="mods" version="1.5.2" fileprefix="00000_"
          website="http://www.minecraftforum.net/topic/1846244-152-waila-134-block-and-mod-info-ingame/"
          donation="http://profmobius.blogspot.fr/"
@@ -762,7 +762,7 @@
          depends="Buildcraft"/>
 	<mod url="http://www.minecraftforum.net/topic/2468149-"
          md5="FB48D6FDFFFC6D158863AF4A280689AA"
-         file="Technomancy%200.3.2.zip"
+         file="Technomancy 0.3.2.zip"
          download="browser"
          name="Technomancy"
          type="mods" optional="yes"
