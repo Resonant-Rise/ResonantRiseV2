@@ -1,6 +1,6 @@
 <version>
   <pack>
-    <version>2.8.1.0-EXP-MAIN</version>
+    <version>2.8.1.1-EXP-MAIN</version>
     <minecraft>1.6.4</minecraft>
     <memory>2048</memory>
     <permgen>256</permgen>
@@ -262,8 +262,8 @@
          website="http://forum.feed-the-beast.com/threads/myrathis-mod-compendium.18505/"
          description="Signs on every surface."
          />
-    <mod name="Forbidden Magic" version="pr0.332"
-		 url="packs/ResonantRise/files/2.8/ForbiddenMagic pr0.332.jar" file="ForbiddenMagic pr0.332.jar" md5="4475c349769d966ad8aab0bd8e3457f1" download="server" 
+    <mod name="Forbidden Magic" version="pr0.333"
+		 url="packs/ResonantRise/files/2.8/ForbiddenMagic pr0.333.jar" file="ForbiddenMagic pr0.333.jar" md5="dfad59a73fcfe43359a3ef56deb36be6" download="server" 
 		 type="mods"
 		 website="http://www.minecraftforum.net/topic/2305054-"
 		 description="Magic on the shadier side of the street for Thaumcraft!" />
@@ -370,8 +370,8 @@
     <mod url="packs/ResonantRise/files/2-STABLE2/liquid-xp-57.1.2.jar" file="liquid-xp-57.1.2.jar" md5="74b3a1edae1362578f4141e9fd1d5e1e" download="server"
          name="Liquid XP" depends="ImmibisCore"  type="mods"
          version="57.1.2" website="http://www.minecraftforum.net/topic/1001131-162-immibiss-mods-smp-now-with-857-less-version-numbers-in-this-title/" description="Advanced use of XP for auto-enchanting."  />
-    <mod url="packs/ResonantRise/files/2.8/LogisticsPipes-MC1.6.4-0.7.4.dev.128.jar" file="LogisticsPipes-MC1.6.4-0.7.4.dev.128.jar" md5="d682277973e9cfc9f63edccf8ab85939" download="server" 
-         name="Logistics Pipes" type="mods" version="0.7.4.dev.128"
+    <mod url="packs/ResonantRise/files/2.8/LogisticsPipes-MC1.6.4-0.7.4.dev.129.jar" file="LogisticsPipes-MC1.6.4-0.7.4.dev.129.jar" md5="c8d1d25ada1cf5bd8b3fa8993f40753a" download="server" 
+         name="Logistics Pipes" type="mods" version="0.7.4.dev.129"
          website="http://www.minecraftforum.net/topic/1831791-152buildcraft-logistics-pipes/" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=HMEH9HF4Q2RFJ"
          description="Even more amazing pipes." />
     <mod name="Mad Science" version="1.00.141"
@@ -431,8 +431,8 @@
          donation="http://profmobius.blogspot.fr/"
          description="The doctor's toolkit."
          optional="yes" />
-    <mod url="packs/ResonantRise/files/2.8/ModularPowersuits-1.6.4-0.10.0-113.jar" file="ModularPowersuits-1.6.4-0.10.0-113.jar" md5="94818e97e92fb49584a9905b40edf168" download="server" 
-         name="Modular Powersuits" type="mods" version="0.10.0-113"
+    <mod url="packs/ResonantRise/files/2.8/ModularPowersuits-1.6.4-0.10.0-100.jar" file="ModularPowersuits-1.6.4-0.10.0-100.jar" md5="1bb44bf7856068fa12f0db8af04d26f5" download="server" 
+         name="Modular Powersuits" type="mods" version="0.10.0-100"
          website="http://www.machinemuse.net"
          description="Jarvis not included." />
     <mod url="packs/ResonantRise/files/2.6/powersuitaddons-1.6.4-884.jar" file="powersuitaddons-1.6.4-884.jar" md5="23f9bace54fc9b776473cc5ccb7f57b6" download="server"
@@ -465,8 +465,8 @@
     <mod url="packs/ResonantRise/files/2.6/NotEnoughKeys-1.6.4-0.0.4.jar" file="NotEnoughKeys-1.6.4-0.0.4.jar" md5="1b9f6f8785e38d50bbfff129dbf90ec2" download="server"
          name="Not Enough Keys" type="mods"
          version="0.0.4" website="http://www.minecraftforum.net/topic/2189371-" description="Critical keybinding configuration improvements."  />
-    <mod url="packs/ResonantRise/files/2.8/numina-0.3.0.78.jar" file="numina-0.3.0.78.jar" md5="31f36b1bd8488e57cea4173e36a412fe" download="server"
-         name="Numina" type="mods" version="0.3.0.78"
+    <mod url="packs/ResonantRise/files/2.8/Numina-1.6.2-0.1.2-57.jar" file="Numina-1.6.2-0.1.2-57.jar" md5="fdd0a02085331e7736d683414e12187d" download="server" 
+         name="Numina" type="mods" version="0.1.2-57"
          website="http://www.machinemuse.net"
          description="MachineMuse's new API for her mods" />
     <mod url="packs/ResonantRise/files/2-STABLE/obsidiplates-1.6.2-universal-2.0.0.15.jar" file="obsidiplates-1.6.2-universal-2.0.0.15.jar" md5="c64ea8742cd60ef359d36bb84d4b10a5" download="server"
@@ -576,11 +576,6 @@
 		 name="Rock Crusher Metal Dusts Add-On" version="0.0.6d" type="mods"
 		 website="http://www.minecraftforum.net/topic/2030952-" authors="wha-ha-ha"
 		 description="Make the Rock Crusher slightly less terrible." />
-	<mod name="Rotatable Blocks" version="build-2"
-		 url="packs/ResonantRise/files/2.8/rotateableblocks-164-build-2.jar" file="rotateableblocks-164-build-2.jar" md5="0fddac1e68e4a11c5342d325895eac9c" download="server"
-		 type="mods"
-		 website="http://www.minecraftforum.net/topic/2534809-"
-		 description="Spin your textures right around like a record, etc." />
 	<mod url="packs/ResonantRise/files/2-STABLE/RRUtility-1.0.3.jar" file="RRUtility-1.0.3.jar" md5="befb49cdfaeb40a2dacc9f4a2b830f66" download="server"
          name="RRUtility" type="mods" version="1.0.3" website="http://www.resonant-rise.com" description="Our recipe manipulator mod. Use with care."  />
     <mod url="packs/ResonantRise/files/2.8/simple-recycling-57.2.0.jar" file="simple-recycling-57.2.0.jar" md5="1a7a0eb31e94c8b6dd4e95ad66028b2c" download="server" 
