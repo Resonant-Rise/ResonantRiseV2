@@ -1,6 +1,6 @@
 <version>
   <pack>
-    <version>2.8.1.2-EXP-MAIN</version>
+    <version>2.8.2.0-EXP-MAIN</version>
     <minecraft>1.6.4</minecraft>
     <memory>2048</memory>
     <permgen>256</permgen>
@@ -89,8 +89,8 @@
          name="AutoUtils [Chisel Libs]" type="mods" version="1.0.1"
          website="http://www.minecraftforum.net/topic/1749374-" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=NS64FL5ZXYG3N&amp;lc=RU&amp;item_name=I%20write%20mods%20for%20minecraft&amp;item_number=minecraft&amp;currency_code=USD&amp;bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted"
          description="Chisel Util Mod" />
-    <mod url="packs/ResonantRise/files/2-STABLE2/backpack-1.27.34-1.6.x.jar" file="backpack-1.27.34-1.6.x.jar" md5="b7c847583ce5f2d7117a2d04c60edc8c" download="server" 
-         name="Backpacks" version="1.27.34" type="mods"
+    <mod url="packs/ResonantRise/files/2.8/backpack-1.28.37-1.6.x.jar" file="backpack-1.28.37-1.6.x.jar" md5="59b768ea73762cd15df1c746308ff2f9" download="server"
+         name="Backpacks" version="1.28.37" type="mods"
          website="http://www.minecraftforum.net/topic/1492661-15x-16x-backpacks-v-11213/" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=CCEHF29WUSQVJ"
          description="Baggy leather in your inventory." />
 	<mod url="packs/ResonantRise/files/2.8/bdlib-mc164-1.2.0.38.jar" file="bdlib-mc164-1.2.0.38.jar" md5="e272418c7ca409d3564692e9053e10c3" download="server" 
@@ -148,7 +148,12 @@
     <mod url="packs/ResonantRise/files/2-STABLE/CCTransport-1.0.1.jar" file="CCTransport-1.0.1.jar" md5="afd7267ba8d5c275fe3b586c886894d6" download="server"
          name="CCTransport" type="mods"  version="1.0.1" website="http://www.computercraft.info/forums2/index.php?/topic/15384-cctransport-v101-inventory-management-add-on-for-openperipherals/"
          description="Automate all the things with lua" />
-    <mod url="packs/ResonantRise/files/2.6/ChickenChunks 1.3.3.4.jar" file="ChickenChunks 1.3.3.4.jar" md5="7029bffe7b251c028098834ab61ee344" download="server" 
+    <mod name="Charlotte's Utilities" version="0.2.2"
+		 url="packs/ResonantRise/files/2.8/CharlottesUtilities-0.2.2.zip" file="CharlottesUtilities-0.2.2.zip" md5="f6d7da0f2f502b3071b66b111b7b40e2" download="server"
+		 type="mods"
+		 website="http://www.minecraftforum.net/topic/2546260-"  authors="Sharshar"
+		 description="Layout guides and prospecting!" />
+	<mod url="packs/ResonantRise/files/2.6/ChickenChunks 1.3.3.4.jar" file="ChickenChunks 1.3.3.4.jar" md5="7029bffe7b251c028098834ab61ee344" download="server" 
 		 name="ChickenChunks" version="1.3.3.4" type="mods"
 		 website="http://www.minecraftforum.net/topic/909223-"
 		 donation="http://www.chickenbones.craftsaddle.org/Pages/donate.php" authors="ChickenBones"
@@ -201,6 +206,11 @@
          name="Dimensional Anchors" type="mods" version="57.1.96"
          website="http://www.minecraftforum.net/topic/1001131-162-immibiss-mods-smp-now-with-857-less-version-numbers-in-this-title/"
          description="Immibis's chunk loaders. Preferred."  />
+	<mod name="EiraIRC" version="mc1.6.4-v1.6.2"
+		 url="packs/ResonantRise/files/2.8/EiraIRC-mc1.6.4-v1.6.2.jar" file="EiraIRC-mc1.6.4-v1.6.2.jar" md5="bb471e4b0c7cbb08fedd20cff243773d" download="server"
+		 type="mods" optional="yes"
+		 website="http://www.minecraftforum.net/topic/1964989-" authors="blay09"
+		 description="An IRC Connector that works both on clients and servers independently, with some neat special features." />
 	<mod url="packs/ResonantRise/files/2-STABLE2/EmasherResource-1.2.3.4.zip" file="EmasherResource-1.2.3.4.zip" md5="25723b6d2f636ac5d0a1b3359d282ad8" download="server" 
          name="EmasherResource" type="mods" version="1.2.3.4"
          website="http://emashersmods.wikispaces.com"
@@ -271,10 +281,6 @@
          name="Forestry" type="mods"  version="2.3.1.1"
          website="http://forestry.sengir.net/wiki.new/" donation="http://forestry.sengir.net/wiki.new/doku.php?id=main:downloads#donations"
          description="Bees, Trees, and Automate-ables."  />
-    <mod url="packs/ResonantRise/files/2-STABLE/forgeirc-1.6.2-cpwbuild2.jar" file="forgeirc-1.6.2-cpwbuild2.jar" md5="1ec01792f4c40ada5b1761262ea25fdd" download="server"
-         name="ForgeIRC" optional="yes" recommended="no" selected="no" type="mods" version="1.6.2-cpwbuild2"
-         website="http://www.minecraftforum.net/topic/1475847-"
-         description="ForgeIRC returns!" />
     <mod name="Galacticraft Core" version="2.0.11.978"
          url="packs/ResonantRise/files/2.8/Galacticraft-1.6.4-2.0.11.978.jar" file="Galacticraft-1.6.4-2.0.11.978.jar" md5="f68a0335d3aa28078ab2d14244d84aae" download="server" 
          type="mods"
@@ -563,17 +569,17 @@
          version="1.5.1"
          website="http://minecraft.curseforge.com/mc-mods/redstone-paste/" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=XD2DPUTDZEW6U"
          description="Pastey." />
-    <mod url="packs/ResonantRise/files/2.6/Reliquary-1.1.2b.jar" file="Reliquary-1.1.2b.jar" md5="d46ce2bcaa99091f8bc550795d6c18ee" download="server" 
+    <mod name="Refined Relocation" version="1.0.0"
+		 url="packs/ResonantRise/files/2.8/RefinedRelocation-1.6.4-1.0.0.jar" file="RefinedRelocation-1.6.4-1.0.0.jar" md5="c0dceca88e5e46cb73ca894835bc5be6" download="server"
+		 type="mods"
+		 website="http://www.minecraftforum.net/topic/2210752-" authors="Dynious"
+		 description="Logistics for the timid novice." />
+	<mod url="packs/ResonantRise/files/2.6/Reliquary-1.1.2b.jar" file="Reliquary-1.1.2b.jar" md5="d46ce2bcaa99091f8bc550795d6c18ee" download="server" 
          name="Reliquary"  type="mods" version="1.1.2b"
          website="https://github.com/TrainerGuy22/Reliquary"
          description="Xenophobic legacies in a compelling collection."  />
-    <mod url="packs/ResonantRise/files/2.6/RemoteIO-universal-1.6.4-1.11.jar" file="RemoteIO-universal-1.6.4-1.11.jar" md5="37794b9ada73c7ee03b0214e92caa4f0" download="server" 
-         name="Remote IO" version="1.11" type="mods"
-         website="http://www.minecraftforum.net/topic/2038242-"
-         donation="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=K78KZ37HLU4X2&amp;lc=US&amp;item_name=dmillerw%27s%20Mods&amp;currency_code=USD&amp;bn=PP%2dDonationsBF%3abtn_donate_SM%2egif%3aNonHosted" authors="dmillerw"
-                 description="The Remote IO&apos;s can be linked to any block with an inventory... imagine this: four separate quarries all outputting into a unique Remote IO linked to a single chest. Gone are the days of pipes! You are also able to link the Remote IO to machines and even use them with fluids! " />
-	<mod url="packs/ResonantRise/files/2.6/rcDusts-0.0.6d.zip" file="rcDusts-0.0.6d.zip" md5="809f22811df064620ad2ce47f9bff62b" download="server"
-		 name="Rock Crusher Metal Dusts Add-On" version="0.0.6d" type="mods"
+    <mod url="packs/ResonantRise/files/2.6/rcDusts-0.0.6d.zip" file="rcDusts-0.0.6d.zip" md5="809f22811df064620ad2ce47f9bff62b" download="server"
+		 name="Rock Crusher Metal Dusts Add-On" version="0.0.6d" type="mods" depends="Railcraft" optional="yes"
 		 website="http://www.minecraftforum.net/topic/2030952-" authors="wha-ha-ha"
 		 description="Make the Rock Crusher slightly less terrible." />
 	<mod url="packs/ResonantRise/files/2-STABLE/RRUtility-1.0.3.jar" file="RRUtility-1.0.3.jar" md5="befb49cdfaeb40a2dacc9f4a2b830f66" download="server"
@@ -582,6 +588,11 @@
          name="Simple Recycling" type="mods" version="57.2.0"
          website="http://www.minecraftforum.net/topic/1001131-"
          description="Greg-free and easy." />
+	<mod name="Simply Jetpacks" version="0.1.1"
+		 url="packs/ResonantRise/files/2.8/SimplyJetpacks-0.1.1.jar" file="SimplyJetpacks-0.1.1.jar" md5="4974af813b951b6bfc7ce89a4b8202fd" download="server"
+		 type="mods"
+		 website="http://www.minecraftforum.net/topic/2548594-" authors="tonius11"
+		 description="Jetpacks for Thermal Expansion." />
 	<mod url="packs/ResonantRise/files/2-STABLE/slick-util.jar" file="slick-util.jar" md5="0b9db0b296b5eb1df8d11eb30dc87b8f" download="server"
          name="Slick Util [MPS]" type="mods" version="?"
          website="http://www.machinemuse.net"
@@ -725,10 +736,6 @@
          version="3.4_01"
          website="http://www.minecraftforum.net/topic/482147-"
          description="Multiple minimap options ahoy!" />
-	<mod url="packs/ResonantRise/files/2-STABLE/1.6.4_TabbyChat_1.10.00.litemod" file="1.6.4_TabbyChat_1.10.00.litemod" md5="3f0fcb6f395045f1510140489658fddf" download="server"
-         name="TabbyChat" type="mods" server="no" version="1.10.00"
-         website="http://www.minecraftforum.net/topic/1540451-" donation="http://www.minecraftforum.net/topic/1540451-"
-         description="Minecraft chat customisation at long last!" />
 	<mod name="TiC Tooltips" version="1.1.2"
 		 url="packs/ResonantRise/files/2.8/TiCTooltips-mc1.6.4-1.1.2.jar" file="TiCTooltips-mc1.6.4-1.1.2.jar" md5="b21af6f5f518f88541655eaef335d47e" download="server" 
 		 type="mods" server="no"
