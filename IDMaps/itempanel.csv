@@ -1,1 +1,196 @@
 Item ID,Item meta,Has NBT,Display Name
+3,0,false,Dirt
+181,0,false,Dried Dirt
+188,0,false,Hardened Dirt
+194,0,false,Purified Dirt
+198,0,false,Mixed Dirt
+199,4,false,Dirty Cobblestone
+975,7,false,DirtChest 9000!
+1476,5,false,Blue Slimedirt
+1476,6,false,block.slime.soil.dirt.name
+2506,8,false,Compressed Dirt
+2506,9,false,Double Compressed Dirt
+2506,10,false,Triple Compressed Dirt
+2506,11,false,Quadruple Compressed Dirt
+2525,0,true,Molten Dirt Drum
+2839,1,false,Dirt
+2839,2,false,Dirt
+2839,3,false,Dirt
+2839,4,false,Dirt
+2839,5,false,Dirt
+2839,6,false,Dirt
+2839,7,false,Dirt
+2839,8,false,Dirt
+2839,9,false,Dirt
+2839,10,false,Dirt
+2839,11,false,Dirt
+2839,12,false,Dirt
+2839,13,false,Dirt
+3451,3,false,Dirt
+3668,7,false,DirtChest9001
+3987,0,false,Fertilized Dirt
+9290,0,false,Dirty Iron Gravel
+9290,1,false,Dirty Gold Gravel
+9290,2,false,Dirty Lead Gravel
+9290,3,false,Dirty Tin Gravel
+9290,4,false,Dirty Copper Gravel
+9290,6,false,Dirty Silver Gravel
+9290,7,false,Dirty Aluminum Gravel
+9290,8,false,Dirty Cobalt Gravel
+9290,9,false,Dirty Ardite Gravel
+9290,10,false,Dirty Dark Iron Gravel
+10273,0,true,Dried Dirt Pipe Jacket
+10273,0,true,Hardened Dirt Pipe Jacket
+10273,0,true,Purified Dirt Pipe Jacket
+10273,0,true,Dirt Pipe Jacket
+10273,0,true,Triple Compressed Dirt Pipe Jacket
+10273,0,true,Quadruple Compressed Dirt Pipe Jacket
+10273,0,true,Compressed Dirt Pipe Jacket
+10273,0,true,Double Compressed Dirt Pipe Jacket
+10273,0,true,Mixed Dirt Pipe Jacket
+10273,0,true,Dirty Cobblestone Pipe Jacket
+10273,1,true,Dried Dirt Fence
+10273,1,true,Hardened Dirt Fence
+10273,1,true,Purified Dirt Fence
+10273,1,true,Dirt Fence
+10273,1,true,Triple Compressed Dirt Fence
+10273,1,true,Quadruple Compressed Dirt Fence
+10273,1,true,Compressed Dirt Fence
+10273,1,true,Double Compressed Dirt Fence
+10273,1,true,Mixed Dirt Fence
+10273,1,true,Dirty Cobblestone Fence
+11476,0,false,Dirty Iron Dust
+11476,1,false,Dirty Gold Dust
+11476,2,false,Dirty Osmium Dust
+11476,3,false,Dirty Copper Dust
+11476,4,false,Dirty Tin Dust
+11476,5,false,Dirty Silver Dust
+11476,6,false,Dirty Obsidian Dust
+11476,7,false,Dirty Lead Dust
+13758,0,false,Crated Dirt
+19397,0,true,Facade: Dried Dirt
+19397,0,true,Facade: Hardened Dirt
+19397,0,true,Facade: Purified Dirt
+19397,0,true,Facade: Blue Slimedirt
+19397,0,true,Facade: Dirt
+21553,0,false,Dirty Syringe
+25131,1,true,Dried Dirt Cover
+25131,1,true,Hardened Dirt Cover
+25131,1,true,Purified Dirt Cover
+25131,1,true,Dirt Cover
+25131,1,true,Triple Compressed Dirt Cover
+25131,1,true,Quadruple Compressed Dirt Cover
+25131,1,true,Compressed Dirt Cover
+25131,1,true,Double Compressed Dirt Cover
+25131,1,true,Mixed Dirt Cover
+25131,1,true,Dirty Cobblestone Cover
+25131,2,true,Dried Dirt Panel
+25131,2,true,Hardened Dirt Panel
+25131,2,true,Purified Dirt Panel
+25131,2,true,Dirt Panel
+25131,2,true,Triple Compressed Dirt Panel
+25131,2,true,Quadruple Compressed Dirt Panel
+25131,2,true,Compressed Dirt Panel
+25131,2,true,Double Compressed Dirt Panel
+25131,2,true,Mixed Dirt Panel
+25131,2,true,Dirty Cobblestone Panel
+25131,4,true,Dried Dirt Slab
+25131,4,true,Hardened Dirt Slab
+25131,4,true,Purified Dirt Slab
+25131,4,true,Dirt Slab
+25131,4,true,Triple Compressed Dirt Slab
+25131,4,true,Quadruple Compressed Dirt Slab
+25131,4,true,Compressed Dirt Slab
+25131,4,true,Double Compressed Dirt Slab
+25131,4,true,Mixed Dirt Slab
+25131,4,true,Dirty Cobblestone Slab
+25131,257,true,Hollow Dried Dirt Cover
+25131,257,true,Hollow Hardened Dirt Cover
+25131,257,true,Hollow Purified Dirt Cover
+25131,257,true,Hollow Dirt Cover
+25131,257,true,Hollow Triple Compressed Dirt Cover
+25131,257,true,Hollow Quadruple Compressed Dirt Cover
+25131,257,true,Hollow Compressed Dirt Cover
+25131,257,true,Hollow Double Compressed Dirt Cover
+25131,257,true,Hollow Mixed Dirt Cover
+25131,257,true,Hollow Dirty Cobblestone Cover
+25131,258,true,Hollow Dried Dirt Panel
+25131,258,true,Hollow Hardened Dirt Panel
+25131,258,true,Hollow Purified Dirt Panel
+25131,258,true,Hollow Dirt Panel
+25131,258,true,Hollow Triple Compressed Dirt Panel
+25131,258,true,Hollow Quadruple Compressed Dirt Panel
+25131,258,true,Hollow Compressed Dirt Panel
+25131,258,true,Hollow Double Compressed Dirt Panel
+25131,258,true,Hollow Mixed Dirt Panel
+25131,258,true,Hollow Dirty Cobblestone Panel
+25131,260,true,Hollow Dried Dirt Slab
+25131,260,true,Hollow Hardened Dirt Slab
+25131,260,true,Hollow Purified Dirt Slab
+25131,260,true,Hollow Dirt Slab
+25131,260,true,Hollow Triple Compressed Dirt Slab
+25131,260,true,Hollow Quadruple Compressed Dirt Slab
+25131,260,true,Hollow Compressed Dirt Slab
+25131,260,true,Hollow Double Compressed Dirt Slab
+25131,260,true,Hollow Mixed Dirt Slab
+25131,260,true,Hollow Dirty Cobblestone Slab
+25131,513,true,Dried Dirt Nook
+25131,513,true,Hardened Dirt Nook
+25131,513,true,Purified Dirt Nook
+25131,513,true,Dirt Nook
+25131,513,true,Triple Compressed Dirt Nook
+25131,513,true,Quadruple Compressed Dirt Nook
+25131,513,true,Compressed Dirt Nook
+25131,513,true,Double Compressed Dirt Nook
+25131,513,true,Mixed Dirt Nook
+25131,513,true,Dirty Cobblestone Nook
+25131,514,true,Dried Dirt Corner
+25131,514,true,Hardened Dirt Corner
+25131,514,true,Purified Dirt Corner
+25131,514,true,Dirt Corner
+25131,514,true,Triple Compressed Dirt Corner
+25131,514,true,Quadruple Compressed Dirt Corner
+25131,514,true,Compressed Dirt Corner
+25131,514,true,Double Compressed Dirt Corner
+25131,514,true,Mixed Dirt Corner
+25131,514,true,Dirty Cobblestone Corner
+25131,516,true,Dried Dirt Notch
+25131,516,true,Hardened Dirt Notch
+25131,516,true,Purified Dirt Notch
+25131,516,true,Dirt Notch
+25131,516,true,Triple Compressed Dirt Notch
+25131,516,true,Quadruple Compressed Dirt Notch
+25131,516,true,Compressed Dirt Notch
+25131,516,true,Double Compressed Dirt Notch
+25131,516,true,Mixed Dirt Notch
+25131,516,true,Dirty Cobblestone Notch
+25131,769,true,Dried Dirt Strip
+25131,769,true,Hardened Dirt Strip
+25131,769,true,Purified Dirt Strip
+25131,769,true,Dirt Strip
+25131,769,true,Triple Compressed Dirt Strip
+25131,769,true,Quadruple Compressed Dirt Strip
+25131,769,true,Compressed Dirt Strip
+25131,769,true,Double Compressed Dirt Strip
+25131,769,true,Mixed Dirt Strip
+25131,769,true,Dirty Cobblestone Strip
+25131,770,true,Dried Dirt Post
+25131,770,true,Hardened Dirt Post
+25131,770,true,Purified Dirt Post
+25131,770,true,Dirt Post
+25131,770,true,Triple Compressed Dirt Post
+25131,770,true,Quadruple Compressed Dirt Post
+25131,770,true,Compressed Dirt Post
+25131,770,true,Double Compressed Dirt Post
+25131,770,true,Mixed Dirt Post
+25131,770,true,Dirty Cobblestone Post
+25131,772,true,Dried Dirt Pillar
+25131,772,true,Hardened Dirt Pillar
+25131,772,true,Purified Dirt Pillar
+25131,772,true,Dirt Pillar
+25131,772,true,Triple Compressed Dirt Pillar
+25131,772,true,Quadruple Compressed Dirt Pillar
+25131,772,true,Compressed Dirt Pillar
+25131,772,true,Double Compressed Dirt Pillar
+25131,772,true,Mixed Dirt Pillar
+25131,772,true,Dirty Cobblestone Pillar
