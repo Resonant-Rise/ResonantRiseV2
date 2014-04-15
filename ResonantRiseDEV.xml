@@ -1,6 +1,6 @@
 <version>
   <pack>
-    <version>2-DEV-126</version>
+    <version>2-DEV-127</version>
     <minecraft>1.6.4</minecraft>
     <memory>2048</memory>
     <permgen>256</permgen>
@@ -801,7 +801,7 @@
 	
 		<!-- Special Mode Configs -->
 	<mod name="EiraIRC Client Config" version="n/a"
-		 url="packs/ResonantRise/files/config-switches/eira_client_2.8.3.1.zip" file="eira_client_2.8.3.1.zip" md5="f98f307578ae65af118142ac95b460be" download="server" 
+		 url="packs/ResonantRise/files/config-switches/eira_client_2.8.3.1.zip" file="eira_client_2.8.3.1.zip" md5="2ffd49cb67a834d81a8020a31984d07e" download="server"
 		 type="extract" extractto="root" client="yes" server="no"
 		 website="http://resonant-rise.com"
 		 description="Client-specific configs for EiraIRC." />
