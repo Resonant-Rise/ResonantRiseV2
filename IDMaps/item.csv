@@ -596,6 +596,9 @@ ID,Block/Item,Mod,Unlocalised name,Class
 1228,Block,ComputerCraft,tile.ccturtle,dan200.computercraft.shared.turtle.blocks.BlockTurtle
 1229,Block,ComputerCraft,tile.cccable,dan200.computercraft.shared.peripheral.common.BlockCable
 1230,Block,ComputerCraft,tile.ccturtle,dan200.computercraft.shared.turtle.blocks.BlockTurtle
+1250,Block,JAKJ_RedstoneInMotion,tile.JAKJ_RedstoneInMotion_CarriageDrive,me.planetguy.remaininmotion.CarriageDrive
+1251,Block,JAKJ_RedstoneInMotion,tile.JAKJ_RedstoneInMotion_Carriage,me.planetguy.remaininmotion.Carriage
+1252,Block,JAKJ_RedstoneInMotion,tile.JAKJ_RedstoneInMotion_Spectre,me.planetguy.remaininmotion.Spectre
 1275,Block,Mystcraft,tile.myst.bookstand,com.xcompwiz.mystcraft.block.BlockBookstand
 1276,Block,Mystcraft,tile.myst.crystal,com.xcompwiz.mystcraft.block.BlockCrystal
 1277,Block,Mystcraft,tile.myst.lectern,com.xcompwiz.mystcraft.block.BlockLectern
@@ -2343,6 +2346,8 @@ ID,Block/Item,Mod,Unlocalised name,Class
 7472,Item,Growthcraft|Grapes,item.grc.boozeBucket,growthcraft.api.cellar.ItemBoozeBucket
 7473,Item,Growthcraft|Grapes,item.grc.grapes,growthcraft.grapes.ItemGrapes
 7475,Item,Growthcraft,item.grc.rope,growthcraft.core.item.ItemRope
+7476,Item,Growthcraft|Bamboo,item.grc.bambooShootFood,growthcraft.bamboo.ItemBambooShoot
+7477,Item,Growthcraft|Bamboo,item.grc.bambooCoal,growthcraft.bamboo.ItemBambooCoal
 7493,Item,EnderStorage,item.enderpouch,codechicken.enderstorage.storage.item.ItemEnderPouch
 7500,Item,JABBA,item.item.upgrade.structural.generic,mcp.mobius.betterbarrels.common.items.upgrades.ItemUpgradeStructural
 7501,Item,JABBA,item.upgrade.side.generic,mcp.mobius.betterbarrels.common.items.upgrades.ItemUpgradeSide
@@ -4036,6 +4041,8 @@ ID,Block/Item,Mod,Unlocalised name,Class
 22572,Item,BiblioWoodsForestry,item.seatBack,jds.bibliocraft.forestrywood.items.ItemSeatBackF3
 22573,Item,BiblioWoodsForestry,item.seatBack,jds.bibliocraft.forestrywood.items.ItemSeatBackF4
 22574,Item,BiblioWoodsForestry,item.seatBack,jds.bibliocraft.forestrywood.items.ItemSeatBackF5
+23356,Item,JAKJ_RedstoneInMotion,item.JAKJ_RedstoneInMotion_SimpleItemSet,me.planetguy.remaininmotion.SimpleItemSet
+23357,Item,JAKJ_RedstoneInMotion,item.JAKJ_RedstoneInMotion_ToolItemSet,me.planetguy.remaininmotion.ToolItemSet
 23776,Item,EnhancedPortals3,item.wrench,uk.co.shadeddimensions.ep3.item.ItemWrench
 23777,Item,EnhancedPortals3,item.glasses,uk.co.shadeddimensions.ep3.item.ItemGoggles
 23778,Item,EnhancedPortals3,item.nanobrush,uk.co.shadeddimensions.ep3.item.ItemPaintbrush
