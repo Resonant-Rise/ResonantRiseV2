@@ -24,3 +24,7 @@ staff = 22262,1,4,10
 fullCell = 2705,1,4,2
 divSigil = 10266,1,0,40
 mBloodOrb = 17294,1,0,40
+
+tomeEnder = 20490,1,10,2
+tomeNature = 20490,1,9,10
+tomeLife = 20490,1,8,10
