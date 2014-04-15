@@ -1818,23 +1818,6 @@ ID,Block/Item,Mod,Unlocalised name,Class
 3759,Block,magicalcrops,tile.mCropOil,magicalcrops.magicCrops.mCropOil
 3760,Block,magicalcrops,tile.mCropThaumcraftShard,magicalcrops.magicCrops.mCropThaumcraftShard
 3761,Block,magicalcrops,tile.mCropUranium,magicalcrops.magicCrops.mCropUranium
-3765,Block,AtomicScience,tile.atomicscience:reactorCell,calclavia.lib.content.module.BlockDummy
-3766,Block,AtomicScience,tile.atomicscience:plasmaHeater,atomicscience.fusion.BlockPlasmaHeater
-3767,Block,AtomicScience,tile.atomicscience:electricTurbine,atomicscience.process.turbine.BlockElectricTurbine
-3768,Block,AtomicScience,tile.atomicscience:radioactive,calclavia.lib.prefab.block.BlockRadioactive
-3769,Block,AtomicScience,tile.atomicscience:centrifuge,atomicscience.process.fission.BlockCentrifuge
-3772,Block,AtomicScience,tile.atomicscience:nuclearBoiler,atomicscience.process.fission.BlockNuclearBoiler
-3774,Block,AtomicScience,tile.atomicscience:controlRod,calclavia.lib.content.module.BlockDummy
-3775,Block,AtomicScience,tile.atomicscience:thermometer,calclavia.lib.content.module.BlockDummy
-3777,Block,AtomicScience,tile.atomicscience:plasma,calclavia.lib.content.module.BlockDummy
-3778,Block,AtomicScience,tile.atomicscience:electromagnet,calclavia.lib.content.module.BlockDummy
-3779,Block,AtomicScience,tile.atomicscience:chemicalExtractor,atomicscience.process.BlockChemicalExtractor
-3780,Block,AtomicScience,tile.atomicscience:siren,calclavia.lib.content.module.BlockDummy
-3782,Block,AtomicScience,tile.atomicscience:funnel,calclavia.lib.content.module.BlockDummy
-3783,Block,AtomicScience,tile.atomicscience:accelerator,atomicscience.particle.accelerator.BlockAccelerator
-3785,Block,AtomicScience,tile.atomicscience:fulmination,calclavia.lib.content.module.BlockDummy
-3786,Block,AtomicScience,tile.atomicscience:quantumAssembler,calclavia.lib.content.module.BlockDummy
-3788,Block,AtomicScience,tile.atomicscience:toxicWaste,atomicscience.fission.reactor.BlockToxicWaste
 3790,Block,minechem,tile.minechem.uraniumOre,pixlepix.minechem.common.blocks.OreUranium
 3802,Block,minechem,tile.minechem.blockMicroscope,pixlepix.minechem.common.blocks.BlockMicroscope
 3803,Block,minechem,tile.blockChemicalDecomposer,pixlepix.minechem.common.blocks.BlockDecomposer
@@ -1848,7 +1831,6 @@ ID,Block/Item,Mod,Unlocalised name,Class
 3812,Block,minechem-particlephysics,tile.Infinite Emitter,pixlepix.minechem.particlephysics.blocks.InfiniteEmitter
 3818,Block,minechem-particlephysics,tile.Emitter,pixlepix.minechem.particlephysics.blocks.Emitter
 3819,Block,minechem-particlephysics,tile.Polarized Glass,pixlepix.minechem.particlephysics.blocks.PolarizedGlass
-3830,Block,AtomicScience,tile.atomicscience:uraniumOre,atomicscience.fission.BlockUraniumOre
 3901,Block,HardcoreEnderExpansion,tile.templeEndPortal,chylex.hee.block.BlockTempleEndPortal
 3902,Block,HardcoreEnderExpansion,tile.mobSpawner,chylex.hee.block.BlockCustomSpawner
 3903,Block,HardcoreEnderExpansion,tile.laserBeam,chylex.hee.block.BlockLaserBeam
@@ -3078,21 +3060,6 @@ ID,Block/Item,Mod,Unlocalised name,Class
 13810,Item,Forestry,item.cratedCoal,forestry.core.items.ItemCrated
 13811,Item,Forestry,item.cratedSeeds,forestry.core.items.ItemCrated
 13812,Item,Forestry,item.cratedSaplings,forestry.core.items.ItemCrated
-14020,Item,AtomicScience,item.atomicscience:hazmatBoots,atomicscience.process.ItemHazmat
-14021,Item,AtomicScience,item.atomicscience:hazmatLeggings,atomicscience.process.ItemHazmat
-14022,Item,AtomicScience,item.atomicscience:hazmatBody,atomicscience.process.ItemHazmat
-14023,Item,AtomicScience,item.atomicscience:hazmatMask,atomicscience.process.ItemHazmat
-14025,Item,AtomicScience,item.atomicscience:cellEmpty,net.minecraft.item.Item
-14027,Item,AtomicScience,item.atomicscience:rodFissileFuel,atomicscience.fission.ItemFissileFuel
-14029,Item,AtomicScience,item.atomicscience:darkMatter,atomicscience.particle.accelerator.ItemDarkMatter
-14030,Item,AtomicScience,item.atomicscience:antimatter,atomicscience.particle.fulmination.ItemAntimatter
-14032,Item,AtomicScience,item.atomicscience:yellowcake,atomicscience.fission.ItemRadioactive
-14033,Item,AtomicScience,item.atomicscience:uranium,atomicscience.fission.ItemUranium
-14035,Item,AtomicScience,item.atomicscience:cellDeuterium,atomicscience.base.ItemCell
-14037,Item,AtomicScience,item.atomicscience:rodBreederFuel,atomicscience.fission.ItemBreederFuel
-14038,Item,AtomicScience,item.atomicscience:cellWater,atomicscience.base.ItemCell
-14039,Item,AtomicScience,item.atomicscience:bucketToxicWaste,net.minecraft.item.ItemBucket
-14040,Item,AtomicScience,item.atomicscience:cellTritium,atomicscience.base.ItemCell
 14226,Item,CalclaviaCore,item.calclavia:screwdriver,calclavia.components.ItemScrewdriver
 14230,Item,CalclaviaCore,item.calclavia:circuitBasic,calclavia.components.ItemBase
 14231,Item,CalclaviaCore,item.calclavia:circuitAdvanced,calclavia.components.ItemBase
