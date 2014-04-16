@@ -5,7 +5,7 @@ ID,Block/Item,Mod,Unlocalised name,Class
 4,Block,Minecraft,tile.stonebrick,net.minecraft.block.Block
 5,Block,Minecraft,tile.wood,net.minecraft.block.BlockWood
 6,Block,Minecraft,tile.sapling,net.minecraft.block.BlockSapling
-7,Block,ThaumicTinkerer,tile.bedrock,vazkii.tinkerer.common.block.kami.BlockBedrockKAMI
+7,Block,Minecraft,tile.bedrock,net.minecraft.block.Block
 8,Block,Minecraft,tile.water,net.minecraft.block.BlockFlowing
 9,Block,Minecraft,tile.water,net.minecraft.block.BlockStationary
 10,Block,Minecraft,tile.lava,net.minecraft.block.BlockFlowing
@@ -1735,6 +1735,8 @@ ID,Block/Item,Mod,Unlocalised name,Class
 3558,Block,SuperCraftingFrame,tile.CraftingFrame,edgarallen.scf.content.BlockCraftingFrame
 3559,Block,SuperCraftingFrame,tile.SuperItemFrame,edgarallen.scf.content.BlockSuperItemFrame
 3560,Block,charlotteUtilities,tile.blockLayout,com.thecelerystick.minecraft.charlotte.utilities.blocks.BlockLayout
+3562,Block,charlotteUtilities,tile.blockColouredPowder,com.thecelerystick.minecraft.charlotte.utilities.blocks.BlockCondensedColouredPowder
+3563,Block,charlotteUtilities,tile.powderColoured,com.thecelerystick.minecraft.charlotte.utilities.blocks.BlockColouredPowder
 3580,Block,OpenComputers,tile.null,li.cil.oc.common.block.SimpleDelegator
 3581,Block,OpenComputers,tile.null,li.cil.oc.common.block.SimpleRedstoneDelegator
 3582,Block,OpenComputers,tile.null,li.cil.oc.common.block.SpecialDelegator
@@ -2094,7 +2096,6 @@ ID,Block/Item,Mod,Unlocalised name,Class
 5101,Item,charlotteUtilities,item.prospectorIron,com.thecelerystick.minecraft.charlotte.utilities.items.ItemProspectorIron
 5102,Item,charlotteUtilities,item.prospectorDiamond,com.thecelerystick.minecraft.charlotte.utilities.items.ItemProspectorDiamond
 5103,Item,charlotteUtilities,item.prospectorHardenedDiamond,com.thecelerystick.minecraft.charlotte.utilities.items.ItemProspectorHardenedDiamond
-5104,Item,charlotteUtilities,item.powderColoured,com.thecelerystick.minecraft.charlotte.utilities.items.ItemPowderColoured
 5254,Item,Growthcraft|Cellar,item.grc.chievItemDummy,growthcraft.cellar.ItemChievDummy
 5255,Item,ComputerCraft,item.ccpocketcomputer,dan200.computercraft.shared.pocket.items.ItemPocketComputer
 5256,Item,ComputerCraft,item.ccdisk,dan200.computercraft.shared.media.items.ItemDiskLegacy
