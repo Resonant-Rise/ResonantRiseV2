@@ -277,13 +277,13 @@
          name="Forestry" type="mods"  version="2.3.1.1"
          website="http://forestry.sengir.net/wiki.new/" donation="http://forestry.sengir.net/wiki.new/doku.php?id=main:downloads#donations"
          description="Bees, Trees, and Automate-ables."  />
-    <mod name="Galacticraft Core" version="2.0.11.978"
-         url="packs/ResonantRise/files/2.8/Galacticraft-1.6.4-2.0.11.978.jar" file="Galacticraft-1.6.4-2.0.11.978.jar" md5="f68a0335d3aa28078ab2d14244d84aae" download="server" 
+    <mod name="Galacticraft Core" version="2.0.12.1010"
+         url="packs/ResonantRise/files/2.8/Galacticraft-1.6.4-2.0.12.1010.jar" file="Galacticraft-1.6.4-2.0.12.1010.jar" md5="5d6f7c9c662207f8832faffdf00baebe" download="server" 
          type="mods"
          website="http://www.micdoodle8.com/mods/galacticraft" donation="http://www.micdoodle8.com/" authors="micdoodle8"
          description="An advanced space travel mod for Minecraft 1.6" />
-    <mod name="Galacticraft Mars" version="2.0.11.978"
-         url="packs/ResonantRise/files/2.8/Galacticraft-Planets-1.6.4-2.0.11.978.jar" file="Galacticraft-Planets-1.6.4-2.0.11.978.jar" md5="5c8eed3db5801cca577d7ddc66aa4908" download="server" 
+    <mod name="Galacticraft Mars" version="2.0.12.1010"
+         url="packs/ResonantRise/files/2.8/Galacticraft-Planets-1.6.4-2.0.12.1010.jar" file="Galacticraft-Planets-1.6.4-2.0.12.1010.jar" md5="07bcd703283b20ba7231c19f87810538" download="server"
          type="mods"
          website="http://www.micdoodle8.com/mods/galacticraft" donation="http://www.micdoodle8.com/" authors="micdoodle8"
          description="Mars addon for Galacticraft." />
@@ -412,8 +412,8 @@
          name="MFFS" type="mods" version="3.6.2.66" depends="Calclavia Core" optional="yes" recommended="no"
          website="http://www.minecraftforum.net/topic/1703498-" donation="http://universalelectricity.com/mffs/"
          description="Calclavia's Forcefield System." />
-    <mod name="Micdoodle8 Core" version="2.0.11.978"
-         url="packs/ResonantRise/files/2.8/MicdoodleCore-1.6.4-2.0.11.978.jar" file="MicdoodleCore-1.6.4-2.0.11.978.jar" md5="f71b952c19bf869d739cc46e1c2068a2" download="server" 
+    <mod name="Micdoodle8 Core" version="2.0.12.1010"
+         url="packs/ResonantRise/files/2.8/MicdoodleCore-1.6.4-2.0.12.1010.jar" file="MicdoodleCore-1.6.4-2.0.12.1010.jar" md5="2d5d73465411dfbeb5cf7e2f756ca1fc" download="server" 
          type="mods"
          website="http://www.micdoodle8.com/" donation="http://www.micdoodle8.com/" authors="micdoodle8"
          description="Galacticraft libraries!" />
