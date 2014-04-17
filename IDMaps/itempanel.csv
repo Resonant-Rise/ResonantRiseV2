@@ -1,1 +1,1124 @@
 Item ID,Item meta,Has NBT,Display Name
+15,0,false,Iron Ore
+42,0,false,Block of Iron
+101,0,false,Iron Bars
+256,0,false,Iron Shovel
+257,0,false,Iron Pickaxe
+258,0,false,Iron Axe
+265,0,false,Iron Ingot
+267,0,false,Iron Sword
+292,0,false,Iron Hoe
+306,0,false,Iron Helmet
+307,0,false,Iron Chestplate
+308,0,false,Iron Leggings
+309,0,false,Iron Boots
+330,0,false,Iron Door
+383,99,false,Spawn Iron Golem
+417,0,false,Iron Horse Armor
+452,0,false,Iron Tank Wall
+452,1,false,Iron Tank Gauge
+452,2,false,Iron Tank Valve
+463,2,false,Iron Wall
+464,5,false,Iron Stairs
+465,5,false,Iron Slab
+500,14,false,Iron Construction Block
+975,0,false,Iron Chest
+975,1,false,Gold Chest
+975,2,false,Diamond Chest
+975,3,false,Copper Chest
+975,4,false,Silver Chest
+975,5,false,Crystal Chest
+975,6,false,Obsidian Chest
+975,7,false,DirtChest 9000!
+1002,3,false,Block of Dark Iron
+1004,0,false,Dark Iron Ore
+1011,3,false,Nether Iron Ore
+1012,2,false,Nether Pig Iron Ore
+1128,0,false,Iron Inlay
+1467,4,false,Fancy Iron Brick
+1481,4,false,Iron Brick
+1485,8,false,Iron Oreberry Bush
+1488,0,false,Iron Gravel Ore
+1628,3,false,Environmental Spell Modifier
+1700,3,false,Iron Bricks
+1700,7,false,tile.Metallurgy:Vanilla/IronBricks.7.name
+1700,14,false,tile.Metallurgy:Vanilla/IronBricks.14.name
+1700,15,false,tile.Metallurgy:Vanilla/IronBricks.15.name
+1703,1,false,Shadow Iron Ore name
+1703,14,false,Shadow Iron Block name
+1704,11,false,Shadow Iron Brick name
+1706,1,false,Deep Iron Ore name
+1707,1,false,Deep Iron Block name
+1708,1,false,Deep Iron Brick name
+1710,3,false,Iron Crusher
+1711,2,false,Iron Furnace
+1712,1,false,Shadow Iron Smelter
+1713,1,false,Deep Iron Abstractor
+1719,2,false,Iron Ladder
+1724,1,false,Deep Iron Pylon
+2026,0,false,tile.mod_SRM.SecretIronDoorBlock.name
+2285,0,false,Molten Shadow Iron
+2295,0,false,Molten Deep Iron
+2517,0,false,Iron Spike
+2525,0,true,Molten Iron Drum
+2525,0,true,Molten Deep Iron Drum
+2525,0,true,Iron Drum
+2525,0,true,Minechem chemical: iron (iii) oxide Drum
+2525,0,true,Pig Iron Drum
+2525,0,true,Molten Shadow Iron Drum
+2788,15,false,Glass
+2790,1,false,Block of Iron
+2790,2,false,Block of Iron
+2790,3,false,Block of Iron
+2790,4,false,Block of Iron
+2790,5,false,Block of Iron
+2790,6,false,Block of Iron
+2790,7,false,Block of Iron
+2790,8,false,Block of Iron
+2790,9,false,Block of Iron
+2790,10,false,Block of Iron
+2790,11,false,Block of Iron
+2790,12,false,Block of Iron
+2790,13,false,Block of Iron
+2790,14,false,Block of Iron
+2790,15,false,Block of Iron
+2802,1,false,Iron Bars
+2802,2,false,Iron Bars
+2802,3,false,Iron Bars
+2802,4,false,Iron Bars
+2802,5,false,Iron Bars
+2802,6,false,Iron Bars
+2802,7,false,Iron Bars
+2802,8,false,Iron Bars
+2802,9,false,Iron Bars
+2804,10,false,Block of Gold
+2913,0,false,Iron Ore Gravel
+2913,1,false,Iron Ore Sand
+2913,2,false,Iron Ore Dust
+2928,0,false,Deep Iron Gravel
+2928,1,false,Deep Iron Sand
+2928,2,false,Deep Iron Dust
+2943,0,false,Shadow Iron Gravel
+2943,1,false,Shadow Iron Sand
+2943,2,false,Shadow Iron Dust
+3443,3,false,Iron Ore
+3668,0,false,Sorting Iron Chest
+3705,4,false,Wood Planks
+3706,4,false,Brick
+3707,4,false,Glowstone
+3708,4,false,Chiseled Brick
+3709,4,false,Stone Brick
+3710,4,false,Essence Glass
+3711,4,false,Essence Block
+3712,4,false,Essence Brick
+3755,0,false,Iron Crop
+3757,4,false,Arcane Fence
+4094,0,false,Molten Iron
+4362,8,false,Iron Dust
+4448,5,false,Ground Iron Ore
+4448,14,false,Impure Iron Dust
+4448,20,false,Pure Iron Dust
+4601,160,false,Minechem chemical: iron (iii) oxide Barrel
+4601,278,false,Iron Barrel
+4603,0,false,Iron Ring
+4700,160,false,Minechem chemical: iron (iii) oxide Spring Bucket
+4700,278,false,Iron Spring Bucket
+4707,4,false,Iron Essence
+4742,0,false,Iron Seeds
+5101,0,false,Iron Prospector
+5356,0,false,Iron Dust
+6304,0,true,Iron Chest (TileBox)
+6307,0,false,Iron Powder
+6307,64,false,Iron Chunk
+6307,321,false,Dart Iron
+6307,391,false,Light Gray Mob Chunk
+6856,16,false,Iron Nugget
+7500,1,false,Structural MK II (Iron Ingot)
+7794,0,false,Iron Nugget
+7797,0,false,Iron Plate
+7810,0,false,Iron Bore Head
+7900,2,false,Iron Dust
+8137,0,false,Iron Dagger
+8139,0,false,Iron Spear
+8141,0,false,Iron Bigsword
+8161,0,false,Heavy Iron Helmet
+8162,0,false,Heavy Iron Plate
+8163,0,false,Heavy Iron Pants
+8164,0,false,Heavy Iron Boots
+8460,1,true,Magmatic Florb (Molten Iron)
+8460,1,true,Magmatic Florb (Molten Deep Iron)
+8460,1,true,Magmatic Florb (Molten Shadow Iron)
+8464,0,false,Pulverized Iron
+8788,4,false,Conductive Iron
+8788,5,false,Pulsating Iron
+8792,1,false,Iron Powder
+8795,3,false,Pulsating Iron Nugget
+9263,0,false,Wrath Igniter (Going Away!)
+9264,0,false,Dark Iron Ingot
+9290,0,false,Dirty Iron Gravel
+9290,10,false,Dirty Dark Iron Gravel
+9291,0,false,Clean Iron Gravel
+9291,10,false,Clean Dark Iron Gravel
+9292,0,false,Reduced Iron Chunks
+9292,10,false,Reduced Dark Iron Chunks
+9293,0,false,Crystalline Iron
+9293,10,false,Crystalline Dark Iron
+9311,12,true,Iron Blue
+9313,13495,true,Iron Servo Grate
+9315,0,false,Dark Iron Sprocket
+10273,0,true,Iron Brick Pipe Jacket
+10273,0,true,Fancy Iron Brick Pipe Jacket
+10273,0,true,Fancy Iron Brick Pipe Jacket
+10273,0,true,Iron Brick Pipe Jacket
+10273,0,true,Deep Iron Block name Pipe Jacket
+10273,0,true,Deep Iron Brick name Pipe Jacket
+10273,0,true,Shadow Iron Block name Pipe Jacket
+10273,0,true,Shadow Iron Brick name Pipe Jacket
+10273,0,true,Block of Iron Pipe Jacket
+10273,0,true,Block of Dark Iron Pipe Jacket
+10273,0,true,Iron Bars Pipe Jacket
+10273,0,true,Iron Bars Pipe Jacket
+10273,0,true,Iron Bars Pipe Jacket
+10273,0,true,Iron Bars Pipe Jacket
+10273,0,true,Iron Bars Pipe Jacket
+10273,0,true,Iron Bars Pipe Jacket
+10273,0,true,Iron Bars Pipe Jacket
+10273,0,true,Iron Bars Pipe Jacket
+10273,0,true,Iron Bars Pipe Jacket
+10273,0,true,Iron Bars Pipe Jacket
+10273,0,true,Iron Bars Pipe Jacket
+10273,0,true,Iron Bars Pipe Jacket
+10273,0,true,Iron Bars Pipe Jacket
+10273,0,true,Iron Bars Pipe Jacket
+10273,0,true,Iron Bars Pipe Jacket
+10273,0,true,Iron Bars Pipe Jacket
+10273,0,true,Block of Iron Pipe Jacket
+10273,0,true,Block of Iron Pipe Jacket
+10273,0,true,Block of Iron Pipe Jacket
+10273,0,true,Block of Iron Pipe Jacket
+10273,0,true,Block of Iron Pipe Jacket
+10273,0,true,Block of Iron Pipe Jacket
+10273,0,true,Block of Iron Pipe Jacket
+10273,0,true,Block of Iron Pipe Jacket
+10273,0,true,Block of Iron Pipe Jacket
+10273,0,true,Block of Iron Pipe Jacket
+10273,0,true,Block of Iron Pipe Jacket
+10273,0,true,Block of Iron Pipe Jacket
+10273,0,true,Block of Iron Pipe Jacket
+10273,0,true,Block of Iron Pipe Jacket
+10273,0,true,Block of Iron Pipe Jacket
+10273,0,true,Block of Iron Pipe Jacket
+10273,0,true,Iron Construction Block Pipe Jacket
+10273,1,true,Iron Brick Fence
+10273,1,true,Fancy Iron Brick Fence
+10273,1,true,Fancy Iron Brick Fence
+10273,1,true,Iron Brick Fence
+10273,1,true,Deep Iron Block name Fence
+10273,1,true,Deep Iron Brick name Fence
+10273,1,true,Shadow Iron Block name Fence
+10273,1,true,Shadow Iron Brick name Fence
+10273,1,true,Block of Iron Fence
+10273,1,true,Block of Dark Iron Fence
+10273,1,true,Iron Bars Fence
+10273,1,true,Iron Bars Fence
+10273,1,true,Iron Bars Fence
+10273,1,true,Iron Bars Fence
+10273,1,true,Iron Bars Fence
+10273,1,true,Iron Bars Fence
+10273,1,true,Iron Bars Fence
+10273,1,true,Iron Bars Fence
+10273,1,true,Iron Bars Fence
+10273,1,true,Iron Bars Fence
+10273,1,true,Iron Bars Fence
+10273,1,true,Iron Bars Fence
+10273,1,true,Iron Bars Fence
+10273,1,true,Iron Bars Fence
+10273,1,true,Iron Bars Fence
+10273,1,true,Iron Bars Fence
+10273,1,true,Block of Iron Fence
+10273,1,true,Block of Iron Fence
+10273,1,true,Block of Iron Fence
+10273,1,true,Block of Iron Fence
+10273,1,true,Block of Iron Fence
+10273,1,true,Block of Iron Fence
+10273,1,true,Block of Iron Fence
+10273,1,true,Block of Iron Fence
+10273,1,true,Block of Iron Fence
+10273,1,true,Block of Iron Fence
+10273,1,true,Block of Iron Fence
+10273,1,true,Block of Iron Fence
+10273,1,true,Block of Iron Fence
+10273,1,true,Block of Iron Fence
+10273,1,true,Block of Iron Fence
+10273,1,true,Block of Iron Fence
+10273,1,true,Iron Construction Block Fence
+10457,0,false,Golden Iron Fluid Pipe
+10886,4,false,Dream Weaver of Iron Arm
+11460,0,false,Iron Dust
+11471,0,false,Enriched Iron
+11475,0,false,Iron Clump
+11476,0,false,Dirty Iron Dust
+11483,0,false,Iron Shard
+11489,0,false,Iron Crystal
+11708,0,false,Iron Paxel
+13213,6,false,Iron Grains
+13226,15,false,Iron Comb
+13369,0,false,Soldering Iron
+13370,3,false,Iron Electron Tube
+14276,19,false,Iron Nugget
+14276,34,false,Pig Iron Ingot
+14276,35,false,Pig Iron Platter
+14277,2,false,Iron Tool Rod
+14277,18,false,Pig Iron Tool Rod
+14278,2,false,Iron Shard
+14278,18,false,Pig Iron Shard
+14282,1,false,Stone Pickaxe Head
+14282,2,false,Iron Pickaxe Head
+14282,3,false,Flint Pickaxe Head
+14282,4,false,Cactus Pickaxe Head
+14282,5,false,Bone Pickaxe Head
+14282,13,false,Copper Pickaxe Head
+14282,18,false,Pig Iron Pickaxe Head
+14283,1,false,Stone Shovel Head
+14283,2,false,Iron Shovel Head
+14283,3,false,Flint Shovel Head
+14283,4,false,Cactus Shovel Head
+14283,5,false,Bone Shovel Head
+14283,13,false,Copper Shovel Head
+14283,18,false,Pig Iron Shovel Head
+14284,2,false,Iron Axe Head
+14284,18,false,Pig Iron Axe Head
+14286,2,false,Iron Sword Blade
+14286,18,false,Pig Iron Sword Blade
+14287,2,false,Iron Wide Guard
+14287,18,false,Pig Iron Wide Guard
+14288,2,false,Iron Hand Guard
+14288,18,false,Pig Iron Hand Guard
+14289,2,false,Iron Crossbar
+14289,18,false,Pig Iron Crossbar
+14290,2,false,Iron Binding
+14290,18,false,Pig Iron Binding
+14291,2,false,Iron Pan
+14291,18,false,Pig Iron Pan
+14292,2,false,Iron Sign Head
+14292,18,false,Pig Iron Sign Head
+14293,2,false,Iron Broad Axe Head
+14293,18,false,Pig Iron Broad Axe Head
+14294,2,false,Iron Knife Blade
+14294,18,false,Pig Iron Knife Blade
+14295,2,false,Iron Chisel Head
+14295,18,false,Pig Iron Chisel Head
+14296,2,false,Iron Scythe Head
+14296,18,false,Pig Iron Scythe Head
+14297,2,false,Iron Tough Binding
+14297,18,false,Pig Iron Tough Binding
+14298,2,false,Iron Tough Rod
+14298,18,false,Pig Iron Tough Rod
+14299,2,false,Iron Large Sword Blade
+14299,18,false,Pig Iron Large Sword Blade
+14300,2,false,Iron Large Plate
+14300,18,false,Pig Iron Large Plate
+14301,1,false,Stone Excavator Head
+14301,2,false,Iron Excavator Head
+14301,3,false,Flint Excavator Head
+14301,4,false,Cactus Excavator Head
+14301,5,false,Bone Excavator Head
+14301,13,false,Copper Excavator Head
+14301,18,false,Pig Iron Excavator Head
+14302,1,false,Stone Hammer Head
+14302,2,false,Iron Hammer Head
+14302,3,false,Flint Hammer Head
+14302,4,false,Cactus Hammer Head
+14302,5,false,Bone Hammer Head
+14302,13,false,Copper Hammer Head
+14302,18,false,Pig Iron Hammer Head
+14303,2,false,Iron Full Guard
+14305,2,false,Iron Arrowhead
+14305,18,false,Pig Iron Arrowhead
+14307,0,true,Iron Pickaxe
+14307,0,true,Pig Iron Pickaxe
+14307,0,true,Shadow Iron Pickaxe
+14307,0,true,Deep Iron Pickaxe
+14308,0,true,Iron Shovel
+14308,0,true,Pig Iron Shovel
+14308,0,true,Shadow Iron Shovel
+14308,0,true,Deep Iron Shovel
+14309,0,true,Iron Hatchet
+14309,0,true,Pig Iron Hatchet
+14309,0,true,Shadow Iron Hatchet
+14309,0,true,Deep Iron Hatchet
+14311,0,true,Iron Broadsword
+14311,0,true,Pig Iron Broadsword
+14311,0,true,Shadow Iron Broadsword
+14311,0,true,Deep Iron Broadsword
+14312,0,true,Iron Longsword
+14312,0,true,Pig Iron Longsword
+14312,0,true,Shadow Iron Longsword
+14312,0,true,Deep Iron Longsword
+14313,0,true,Iron Rapier
+14313,0,true,Pig Iron Rapier
+14313,0,true,Shadow Iron Rapier
+14313,0,true,Deep Iron Rapier
+14314,0,true,Iron Frying Pan
+14314,0,true,Pig Iron Frying Pan
+14314,0,true,Shadow Iron Frying Pan
+14314,0,true,Deep Iron Frying Pan
+14315,0,true,Iron Battlesign
+14315,0,true,Pig Iron Battlesign
+14315,0,true,Shadow Iron Battlesign
+14315,0,true,Deep Iron Battlesign
+14316,0,true,Iron Mattock
+14316,0,true,Pig Iron Mattock
+14316,0,true,Shadow Iron Mattock
+14316,0,true,Deep Iron Mattock
+14317,0,true,Iron Lumber Axe
+14317,0,true,Pig Iron Lumber Axe
+14317,0,true,Shadow Iron Lumber Axe
+14317,0,true,Deep Iron Lumber Axe
+14319,0,true,Iron Shortbow
+14319,0,true,Pig Iron Shortbow
+14319,0,true,Shadow Iron Shortbow
+14319,0,true,Deep Iron Shortbow
+14321,0,true,Iron Dagger
+14321,0,true,Pig Iron Dagger
+14321,0,true,Shadow Iron Dagger
+14321,0,true,Deep Iron Dagger
+14322,0,true,Iron Chisel
+14322,0,true,Pig Iron Chisel
+14322,0,true,Shadow Iron Chisel
+14322,0,true,Deep Iron Chisel
+14323,0,true,Iron Scythe
+14323,0,true,Pig Iron Scythe
+14323,0,true,Shadow Iron Scythe
+14323,0,true,Deep Iron Scythe
+14324,0,true,Iron Cleaver
+14324,0,true,Pig Iron Cleaver
+14324,0,true,Shadow Iron Cleaver
+14324,0,true,Deep Iron Cleaver
+14325,0,true,Iron Excavator
+14325,0,true,Pig Iron Excavator
+14325,0,true,Shadow Iron Excavator
+14325,0,true,Deep Iron Excavator
+14326,0,true,Iron Hammer
+14326,0,true,Pig Iron Hammer
+14326,0,true,Shadow Iron Hammer
+14326,0,true,Deep Iron Hammer
+14327,0,true,Iron Battleaxe
+14327,0,true,Pig Iron Battleaxe
+14327,0,true,Shadow Iron Battleaxe
+14327,0,true,Deep Iron Battleaxe
+14328,0,true,Iron Cutlass
+14328,0,true,Pig Iron Cutlass
+14328,0,true,Shadow Iron Cutlass
+14328,0,true,Deep Iron Cutlass
+14329,0,true,Iron Arrow
+14329,0,true,Pig Iron Arrow
+14329,0,true,Shadow Iron Arrow
+14329,0,true,Deep Iron Arrow
+14357,0,false,Molten Iron Bucket
+14357,26,false,Molten Pig Iron Bucket
+14360,0,false,Iron Oreberry
+16379,0,false,Iron Sickle
+16992,17,false,Iron Coil
+16992,40,false,Red Iron Compound
+17343,21,false,Environmental Core
+17750,11,false,Compressed Iron
+17808,0,false,Meteoric Iron Ingot
+17808,1,false,Compressed Meteoric Iron
+17809,0,false,Raw Meteoric Iron
+18266,0,true,Iron Capped Wooden Wand
+18267,0,false,Iron Cap
+18286,6,false,Iron Golem
+18288,6,false,Accessory: Iron Plating
+18299,0,false,Iron Arcane Key
+18362,0,false,Iron Nugget
+18362,16,false,Native Iron Cluster
+19008,0,false,Iron Hammer
+19029,0,false,Broken Iron Ore
+19030,0,false,Crushed Iron Ore
+19031,0,false,Pulverized Iron Ore
+19114,0,false,Deep Iron Gravel
+19114,1,false,Deep Iron Sand
+19114,2,false,Deep Iron Dust
+19129,0,false,Shadow Iron Gravel
+19129,1,false,Shadow Iron Sand
+19129,2,false,Shadow Iron Dust
+19358,0,false,Iron Gear
+19367,1,false,Iron AND Gate
+19367,2,false,Iron OR Gate
+19373,1,false,Redstone Iron Chipset
+19396,1,false,Autarchic Iron AND Gate
+19396,2,false,Autarchic Iron OR Gate
+19397,0,true,Facade: Iron Brick
+19397,0,true,Facade: Fancy Iron Brick
+19397,0,true,Facade: Iron Ore
+19397,0,true,Facade: Block of Iron
+19419,0,false,Iron Transport Pipe
+19439,0,false,Iron Fluid Pipe
+19459,0,false,Iron Kinesis Pipe
+19757,0,false,Iron to Gold Chest Upgrade
+19758,0,false,Gold to Diamond Chest Upgrade
+19759,0,false,Copper to Silver Chest Upgrade
+19760,0,false,Silver to Gold Chest Upgrade
+19761,0,false,Copper to Iron Chest Upgrade
+19762,0,false,Diamond to Crystal Chest Upgrade
+19763,0,false,Wood to Iron Chest Upgrade
+19764,0,false,Wood to Copper Chest Upgrade
+19765,0,false,Diamond to Obsidian Chest Upgrade
+19956,114,false,Shadow Iron Arrowhead
+19956,124,false,Deep Iron Arrowhead
+19957,114,false,Shadow Iron Axe Head
+19957,124,false,Deep Iron Axe Head
+19958,114,false,Shadow Iron Battle Sign
+19958,124,false,Deep Iron Battle Sign
+19959,114,false,Shadow Iron Binding
+19959,124,false,Deep Iron Binding
+19960,114,false,Shadow Iron Chisel Head
+19960,124,false,Deep Iron Chisel Head
+19961,114,false,Shadow Iron Chunk
+19961,124,false,Deep Iron Chunk
+19965,114,false,Shadow Iron Full Guard
+19965,124,false,Deep Iron Full Guard
+19966,104,false,Electrum Hammer Head
+19966,106,false,Silver Hammer Head
+19966,109,false,Ignatius Hammer Head
+19966,114,false,Shadow Iron Hammer Head
+19966,124,false,Deep Iron Hammer Head
+19966,129,false,Prometheum Hammer Head
+19966,135,false,Darkwood Hammer Head
+19966,137,false,Ghostwood Hammer Head
+19966,138,false,Nether Quartz Hammer Head
+19967,114,false,Shadow Iron Knife Blade
+19967,124,false,Deep Iron Knife Blade
+19968,114,false,Shadow Iron Large Guard
+19968,124,false,Deep Iron Large Guard
+19969,114,false,Shadow Iron Large Sword Blade
+19969,124,false,Deep Iron Large Sword Blade
+19970,114,false,Shadow Iron Large plate
+19970,124,false,Deep Iron Large plate
+19971,114,false,Shadow Iron Lumberaxe
+19971,124,false,Deep Iron Lumberaxe
+19972,114,false,Shadow Iron Medium Guard
+19972,124,false,Deep Iron Medium Guard
+19973,104,false,Electrum Pickaxe Head
+19973,106,false,Silver Pickaxe Head
+19973,109,false,Ignatius Pickaxe Head
+19973,114,false,Shadow Iron Pickaxe Head
+19973,124,false,Deep Iron Pickaxe Head
+19973,129,false,Prometheum Pickaxe Head
+19973,135,false,Darkwood Pickaxe Head
+19973,137,false,Ghostwood Pickaxe Head
+19973,138,false,Nether Quartz Pickaxe Head
+19974,114,false,Shadow Iron Scythe Head
+19974,124,false,Deep Iron Scythe Head
+19975,104,false,Electrum Shovel Head
+19975,106,false,Silver Shovel Head
+19975,109,false,Ignatius Shovel Head
+19975,114,false,Shadow Iron Shovel Head
+19975,124,false,Deep Iron Shovel Head
+19975,129,false,Prometheum Shovel Head
+19975,135,false,Darkwood Shovel Head
+19975,137,false,Ghostwood Shovel Head
+19975,138,false,Nether Quartz Shovel Head
+19976,114,false,Shadow Iron Sword Blade
+19976,124,false,Deep Iron Sword Blade
+19977,114,false,Shadow Iron Tool Rod
+19977,124,false,Deep Iron Tool Rod
+19978,114,false,Shadow Iron Toughbind
+19978,124,false,Deep Iron Toughbind
+19979,114,false,Shadow Iron Toughrod
+19979,124,false,Deep Iron Toughrod
+19982,0,true,Molten Deep Iron Bucket
+19982,0,true,Molten Shadow Iron Bucket
+19991,114,false,Shadow Iron Frypan Head
+19991,124,false,Deep Iron Frypan Head
+19992,104,false,Electrum Excavator Head
+19992,106,false,Silver Excavator Head
+19992,109,false,Ignatius Excavator Head
+19992,114,false,Shadow Iron Excavator Head
+19992,124,false,Deep Iron Excavator Head
+19992,129,false,Prometheum Excavator Head
+19992,135,false,Darkwood Excavator Head
+19992,137,false,Ghostwood Excavator Head
+19992,138,false,Nether Quartz Excavator Head
+19993,114,false,Shadow Iron Crossbar
+19993,124,false,Deep Iron Crossbar
+20466,3,true,Crystal Phylactery
+20892,25,false,Iron
+20893,36,false,Iron (III) Oxide
+21267,1,false,Upgrade (Iron)
+22339,0,false,Iron Scythe
+25131,1,true,Iron Brick Cover
+25131,1,true,Fancy Iron Brick Cover
+25131,1,true,Fancy Iron Brick Cover
+25131,1,true,Iron Brick Cover
+25131,1,true,Deep Iron Block name Cover
+25131,1,true,Deep Iron Brick name Cover
+25131,1,true,Shadow Iron Block name Cover
+25131,1,true,Shadow Iron Brick name Cover
+25131,1,true,Block of Iron Cover
+25131,1,true,Block of Dark Iron Cover
+25131,1,true,Iron Bars Cover
+25131,1,true,Iron Bars Cover
+25131,1,true,Iron Bars Cover
+25131,1,true,Iron Bars Cover
+25131,1,true,Iron Bars Cover
+25131,1,true,Iron Bars Cover
+25131,1,true,Iron Bars Cover
+25131,1,true,Iron Bars Cover
+25131,1,true,Iron Bars Cover
+25131,1,true,Iron Bars Cover
+25131,1,true,Iron Bars Cover
+25131,1,true,Iron Bars Cover
+25131,1,true,Iron Bars Cover
+25131,1,true,Iron Bars Cover
+25131,1,true,Iron Bars Cover
+25131,1,true,Iron Bars Cover
+25131,1,true,Block of Iron Cover
+25131,1,true,Block of Iron Cover
+25131,1,true,Block of Iron Cover
+25131,1,true,Block of Iron Cover
+25131,1,true,Block of Iron Cover
+25131,1,true,Block of Iron Cover
+25131,1,true,Block of Iron Cover
+25131,1,true,Block of Iron Cover
+25131,1,true,Block of Iron Cover
+25131,1,true,Block of Iron Cover
+25131,1,true,Block of Iron Cover
+25131,1,true,Block of Iron Cover
+25131,1,true,Block of Iron Cover
+25131,1,true,Block of Iron Cover
+25131,1,true,Block of Iron Cover
+25131,1,true,Block of Iron Cover
+25131,1,true,Iron Construction Block Cover
+25131,2,true,Iron Brick Panel
+25131,2,true,Fancy Iron Brick Panel
+25131,2,true,Fancy Iron Brick Panel
+25131,2,true,Iron Brick Panel
+25131,2,true,Deep Iron Block name Panel
+25131,2,true,Deep Iron Brick name Panel
+25131,2,true,Shadow Iron Block name Panel
+25131,2,true,Shadow Iron Brick name Panel
+25131,2,true,Block of Iron Panel
+25131,2,true,Block of Dark Iron Panel
+25131,2,true,Iron Bars Panel
+25131,2,true,Iron Bars Panel
+25131,2,true,Iron Bars Panel
+25131,2,true,Iron Bars Panel
+25131,2,true,Iron Bars Panel
+25131,2,true,Iron Bars Panel
+25131,2,true,Iron Bars Panel
+25131,2,true,Iron Bars Panel
+25131,2,true,Iron Bars Panel
+25131,2,true,Iron Bars Panel
+25131,2,true,Iron Bars Panel
+25131,2,true,Iron Bars Panel
+25131,2,true,Iron Bars Panel
+25131,2,true,Iron Bars Panel
+25131,2,true,Iron Bars Panel
+25131,2,true,Iron Bars Panel
+25131,2,true,Block of Iron Panel
+25131,2,true,Block of Iron Panel
+25131,2,true,Block of Iron Panel
+25131,2,true,Block of Iron Panel
+25131,2,true,Block of Iron Panel
+25131,2,true,Block of Iron Panel
+25131,2,true,Block of Iron Panel
+25131,2,true,Block of Iron Panel
+25131,2,true,Block of Iron Panel
+25131,2,true,Block of Iron Panel
+25131,2,true,Block of Iron Panel
+25131,2,true,Block of Iron Panel
+25131,2,true,Block of Iron Panel
+25131,2,true,Block of Iron Panel
+25131,2,true,Block of Iron Panel
+25131,2,true,Block of Iron Panel
+25131,2,true,Iron Construction Block Panel
+25131,4,true,Iron Brick Slab
+25131,4,true,Fancy Iron Brick Slab
+25131,4,true,Fancy Iron Brick Slab
+25131,4,true,Iron Brick Slab
+25131,4,true,Deep Iron Block name Slab
+25131,4,true,Deep Iron Brick name Slab
+25131,4,true,Shadow Iron Block name Slab
+25131,4,true,Shadow Iron Brick name Slab
+25131,4,true,Block of Iron Slab
+25131,4,true,Block of Dark Iron Slab
+25131,4,true,Iron Bars Slab
+25131,4,true,Iron Bars Slab
+25131,4,true,Iron Bars Slab
+25131,4,true,Iron Bars Slab
+25131,4,true,Iron Bars Slab
+25131,4,true,Iron Bars Slab
+25131,4,true,Iron Bars Slab
+25131,4,true,Iron Bars Slab
+25131,4,true,Iron Bars Slab
+25131,4,true,Iron Bars Slab
+25131,4,true,Iron Bars Slab
+25131,4,true,Iron Bars Slab
+25131,4,true,Iron Bars Slab
+25131,4,true,Iron Bars Slab
+25131,4,true,Iron Bars Slab
+25131,4,true,Iron Bars Slab
+25131,4,true,Block of Iron Slab
+25131,4,true,Block of Iron Slab
+25131,4,true,Block of Iron Slab
+25131,4,true,Block of Iron Slab
+25131,4,true,Block of Iron Slab
+25131,4,true,Block of Iron Slab
+25131,4,true,Block of Iron Slab
+25131,4,true,Block of Iron Slab
+25131,4,true,Block of Iron Slab
+25131,4,true,Block of Iron Slab
+25131,4,true,Block of Iron Slab
+25131,4,true,Block of Iron Slab
+25131,4,true,Block of Iron Slab
+25131,4,true,Block of Iron Slab
+25131,4,true,Block of Iron Slab
+25131,4,true,Block of Iron Slab
+25131,4,true,Iron Construction Block Slab
+25131,257,true,Hollow Iron Brick Cover
+25131,257,true,Hollow Fancy Iron Brick Cover
+25131,257,true,Hollow Fancy Iron Brick Cover
+25131,257,true,Hollow Iron Brick Cover
+25131,257,true,Hollow Deep Iron Block name Cover
+25131,257,true,Hollow Deep Iron Brick name Cover
+25131,257,true,Hollow Shadow Iron Block name Cover
+25131,257,true,Hollow Shadow Iron Brick name Cover
+25131,257,true,Hollow Block of Iron Cover
+25131,257,true,Hollow Block of Dark Iron Cover
+25131,257,true,Hollow Iron Bars Cover
+25131,257,true,Hollow Iron Bars Cover
+25131,257,true,Hollow Iron Bars Cover
+25131,257,true,Hollow Iron Bars Cover
+25131,257,true,Hollow Iron Bars Cover
+25131,257,true,Hollow Iron Bars Cover
+25131,257,true,Hollow Iron Bars Cover
+25131,257,true,Hollow Iron Bars Cover
+25131,257,true,Hollow Iron Bars Cover
+25131,257,true,Hollow Iron Bars Cover
+25131,257,true,Hollow Iron Bars Cover
+25131,257,true,Hollow Iron Bars Cover
+25131,257,true,Hollow Iron Bars Cover
+25131,257,true,Hollow Iron Bars Cover
+25131,257,true,Hollow Iron Bars Cover
+25131,257,true,Hollow Iron Bars Cover
+25131,257,true,Hollow Block of Iron Cover
+25131,257,true,Hollow Block of Iron Cover
+25131,257,true,Hollow Block of Iron Cover
+25131,257,true,Hollow Block of Iron Cover
+25131,257,true,Hollow Block of Iron Cover
+25131,257,true,Hollow Block of Iron Cover
+25131,257,true,Hollow Block of Iron Cover
+25131,257,true,Hollow Block of Iron Cover
+25131,257,true,Hollow Block of Iron Cover
+25131,257,true,Hollow Block of Iron Cover
+25131,257,true,Hollow Block of Iron Cover
+25131,257,true,Hollow Block of Iron Cover
+25131,257,true,Hollow Block of Iron Cover
+25131,257,true,Hollow Block of Iron Cover
+25131,257,true,Hollow Block of Iron Cover
+25131,257,true,Hollow Block of Iron Cover
+25131,257,true,Hollow Iron Construction Block Cover
+25131,258,true,Hollow Iron Brick Panel
+25131,258,true,Hollow Fancy Iron Brick Panel
+25131,258,true,Hollow Fancy Iron Brick Panel
+25131,258,true,Hollow Iron Brick Panel
+25131,258,true,Hollow Deep Iron Block name Panel
+25131,258,true,Hollow Deep Iron Brick name Panel
+25131,258,true,Hollow Shadow Iron Block name Panel
+25131,258,true,Hollow Shadow Iron Brick name Panel
+25131,258,true,Hollow Block of Iron Panel
+25131,258,true,Hollow Block of Dark Iron Panel
+25131,258,true,Hollow Iron Bars Panel
+25131,258,true,Hollow Iron Bars Panel
+25131,258,true,Hollow Iron Bars Panel
+25131,258,true,Hollow Iron Bars Panel
+25131,258,true,Hollow Iron Bars Panel
+25131,258,true,Hollow Iron Bars Panel
+25131,258,true,Hollow Iron Bars Panel
+25131,258,true,Hollow Iron Bars Panel
+25131,258,true,Hollow Iron Bars Panel
+25131,258,true,Hollow Iron Bars Panel
+25131,258,true,Hollow Iron Bars Panel
+25131,258,true,Hollow Iron Bars Panel
+25131,258,true,Hollow Iron Bars Panel
+25131,258,true,Hollow Iron Bars Panel
+25131,258,true,Hollow Iron Bars Panel
+25131,258,true,Hollow Iron Bars Panel
+25131,258,true,Hollow Block of Iron Panel
+25131,258,true,Hollow Block of Iron Panel
+25131,258,true,Hollow Block of Iron Panel
+25131,258,true,Hollow Block of Iron Panel
+25131,258,true,Hollow Block of Iron Panel
+25131,258,true,Hollow Block of Iron Panel
+25131,258,true,Hollow Block of Iron Panel
+25131,258,true,Hollow Block of Iron Panel
+25131,258,true,Hollow Block of Iron Panel
+25131,258,true,Hollow Block of Iron Panel
+25131,258,true,Hollow Block of Iron Panel
+25131,258,true,Hollow Block of Iron Panel
+25131,258,true,Hollow Block of Iron Panel
+25131,258,true,Hollow Block of Iron Panel
+25131,258,true,Hollow Block of Iron Panel
+25131,258,true,Hollow Block of Iron Panel
+25131,258,true,Hollow Iron Construction Block Panel
+25131,260,true,Hollow Iron Brick Slab
+25131,260,true,Hollow Fancy Iron Brick Slab
+25131,260,true,Hollow Fancy Iron Brick Slab
+25131,260,true,Hollow Iron Brick Slab
+25131,260,true,Hollow Deep Iron Block name Slab
+25131,260,true,Hollow Deep Iron Brick name Slab
+25131,260,true,Hollow Shadow Iron Block name Slab
+25131,260,true,Hollow Shadow Iron Brick name Slab
+25131,260,true,Hollow Block of Iron Slab
+25131,260,true,Hollow Block of Dark Iron Slab
+25131,260,true,Hollow Iron Bars Slab
+25131,260,true,Hollow Iron Bars Slab
+25131,260,true,Hollow Iron Bars Slab
+25131,260,true,Hollow Iron Bars Slab
+25131,260,true,Hollow Iron Bars Slab
+25131,260,true,Hollow Iron Bars Slab
+25131,260,true,Hollow Iron Bars Slab
+25131,260,true,Hollow Iron Bars Slab
+25131,260,true,Hollow Iron Bars Slab
+25131,260,true,Hollow Iron Bars Slab
+25131,260,true,Hollow Iron Bars Slab
+25131,260,true,Hollow Iron Bars Slab
+25131,260,true,Hollow Iron Bars Slab
+25131,260,true,Hollow Iron Bars Slab
+25131,260,true,Hollow Iron Bars Slab
+25131,260,true,Hollow Iron Bars Slab
+25131,260,true,Hollow Block of Iron Slab
+25131,260,true,Hollow Block of Iron Slab
+25131,260,true,Hollow Block of Iron Slab
+25131,260,true,Hollow Block of Iron Slab
+25131,260,true,Hollow Block of Iron Slab
+25131,260,true,Hollow Block of Iron Slab
+25131,260,true,Hollow Block of Iron Slab
+25131,260,true,Hollow Block of Iron Slab
+25131,260,true,Hollow Block of Iron Slab
+25131,260,true,Hollow Block of Iron Slab
+25131,260,true,Hollow Block of Iron Slab
+25131,260,true,Hollow Block of Iron Slab
+25131,260,true,Hollow Block of Iron Slab
+25131,260,true,Hollow Block of Iron Slab
+25131,260,true,Hollow Block of Iron Slab
+25131,260,true,Hollow Block of Iron Slab
+25131,260,true,Hollow Iron Construction Block Slab
+25131,513,true,Iron Brick Nook
+25131,513,true,Fancy Iron Brick Nook
+25131,513,true,Fancy Iron Brick Nook
+25131,513,true,Iron Brick Nook
+25131,513,true,Deep Iron Block name Nook
+25131,513,true,Deep Iron Brick name Nook
+25131,513,true,Shadow Iron Block name Nook
+25131,513,true,Shadow Iron Brick name Nook
+25131,513,true,Block of Iron Nook
+25131,513,true,Block of Dark Iron Nook
+25131,513,true,Iron Bars Nook
+25131,513,true,Iron Bars Nook
+25131,513,true,Iron Bars Nook
+25131,513,true,Iron Bars Nook
+25131,513,true,Iron Bars Nook
+25131,513,true,Iron Bars Nook
+25131,513,true,Iron Bars Nook
+25131,513,true,Iron Bars Nook
+25131,513,true,Iron Bars Nook
+25131,513,true,Iron Bars Nook
+25131,513,true,Iron Bars Nook
+25131,513,true,Iron Bars Nook
+25131,513,true,Iron Bars Nook
+25131,513,true,Iron Bars Nook
+25131,513,true,Iron Bars Nook
+25131,513,true,Iron Bars Nook
+25131,513,true,Block of Iron Nook
+25131,513,true,Block of Iron Nook
+25131,513,true,Block of Iron Nook
+25131,513,true,Block of Iron Nook
+25131,513,true,Block of Iron Nook
+25131,513,true,Block of Iron Nook
+25131,513,true,Block of Iron Nook
+25131,513,true,Block of Iron Nook
+25131,513,true,Block of Iron Nook
+25131,513,true,Block of Iron Nook
+25131,513,true,Block of Iron Nook
+25131,513,true,Block of Iron Nook
+25131,513,true,Block of Iron Nook
+25131,513,true,Block of Iron Nook
+25131,513,true,Block of Iron Nook
+25131,513,true,Block of Iron Nook
+25131,513,true,Iron Construction Block Nook
+25131,514,true,Iron Brick Corner
+25131,514,true,Fancy Iron Brick Corner
+25131,514,true,Fancy Iron Brick Corner
+25131,514,true,Iron Brick Corner
+25131,514,true,Deep Iron Block name Corner
+25131,514,true,Deep Iron Brick name Corner
+25131,514,true,Shadow Iron Block name Corner
+25131,514,true,Shadow Iron Brick name Corner
+25131,514,true,Block of Iron Corner
+25131,514,true,Block of Dark Iron Corner
+25131,514,true,Iron Bars Corner
+25131,514,true,Iron Bars Corner
+25131,514,true,Iron Bars Corner
+25131,514,true,Iron Bars Corner
+25131,514,true,Iron Bars Corner
+25131,514,true,Iron Bars Corner
+25131,514,true,Iron Bars Corner
+25131,514,true,Iron Bars Corner
+25131,514,true,Iron Bars Corner
+25131,514,true,Iron Bars Corner
+25131,514,true,Iron Bars Corner
+25131,514,true,Iron Bars Corner
+25131,514,true,Iron Bars Corner
+25131,514,true,Iron Bars Corner
+25131,514,true,Iron Bars Corner
+25131,514,true,Iron Bars Corner
+25131,514,true,Block of Iron Corner
+25131,514,true,Block of Iron Corner
+25131,514,true,Block of Iron Corner
+25131,514,true,Block of Iron Corner
+25131,514,true,Block of Iron Corner
+25131,514,true,Block of Iron Corner
+25131,514,true,Block of Iron Corner
+25131,514,true,Block of Iron Corner
+25131,514,true,Block of Iron Corner
+25131,514,true,Block of Iron Corner
+25131,514,true,Block of Iron Corner
+25131,514,true,Block of Iron Corner
+25131,514,true,Block of Iron Corner
+25131,514,true,Block of Iron Corner
+25131,514,true,Block of Iron Corner
+25131,514,true,Block of Iron Corner
+25131,514,true,Iron Construction Block Corner
+25131,516,true,Iron Brick Notch
+25131,516,true,Fancy Iron Brick Notch
+25131,516,true,Fancy Iron Brick Notch
+25131,516,true,Iron Brick Notch
+25131,516,true,Deep Iron Block name Notch
+25131,516,true,Deep Iron Brick name Notch
+25131,516,true,Shadow Iron Block name Notch
+25131,516,true,Shadow Iron Brick name Notch
+25131,516,true,Block of Iron Notch
+25131,516,true,Block of Dark Iron Notch
+25131,516,true,Iron Bars Notch
+25131,516,true,Iron Bars Notch
+25131,516,true,Iron Bars Notch
+25131,516,true,Iron Bars Notch
+25131,516,true,Iron Bars Notch
+25131,516,true,Iron Bars Notch
+25131,516,true,Iron Bars Notch
+25131,516,true,Iron Bars Notch
+25131,516,true,Iron Bars Notch
+25131,516,true,Iron Bars Notch
+25131,516,true,Iron Bars Notch
+25131,516,true,Iron Bars Notch
+25131,516,true,Iron Bars Notch
+25131,516,true,Iron Bars Notch
+25131,516,true,Iron Bars Notch
+25131,516,true,Iron Bars Notch
+25131,516,true,Block of Iron Notch
+25131,516,true,Block of Iron Notch
+25131,516,true,Block of Iron Notch
+25131,516,true,Block of Iron Notch
+25131,516,true,Block of Iron Notch
+25131,516,true,Block of Iron Notch
+25131,516,true,Block of Iron Notch
+25131,516,true,Block of Iron Notch
+25131,516,true,Block of Iron Notch
+25131,516,true,Block of Iron Notch
+25131,516,true,Block of Iron Notch
+25131,516,true,Block of Iron Notch
+25131,516,true,Block of Iron Notch
+25131,516,true,Block of Iron Notch
+25131,516,true,Block of Iron Notch
+25131,516,true,Block of Iron Notch
+25131,516,true,Iron Construction Block Notch
+25131,769,true,Iron Brick Strip
+25131,769,true,Fancy Iron Brick Strip
+25131,769,true,Fancy Iron Brick Strip
+25131,769,true,Iron Brick Strip
+25131,769,true,Deep Iron Block name Strip
+25131,769,true,Deep Iron Brick name Strip
+25131,769,true,Shadow Iron Block name Strip
+25131,769,true,Shadow Iron Brick name Strip
+25131,769,true,Block of Iron Strip
+25131,769,true,Block of Dark Iron Strip
+25131,769,true,Iron Bars Strip
+25131,769,true,Iron Bars Strip
+25131,769,true,Iron Bars Strip
+25131,769,true,Iron Bars Strip
+25131,769,true,Iron Bars Strip
+25131,769,true,Iron Bars Strip
+25131,769,true,Iron Bars Strip
+25131,769,true,Iron Bars Strip
+25131,769,true,Iron Bars Strip
+25131,769,true,Iron Bars Strip
+25131,769,true,Iron Bars Strip
+25131,769,true,Iron Bars Strip
+25131,769,true,Iron Bars Strip
+25131,769,true,Iron Bars Strip
+25131,769,true,Iron Bars Strip
+25131,769,true,Iron Bars Strip
+25131,769,true,Block of Iron Strip
+25131,769,true,Block of Iron Strip
+25131,769,true,Block of Iron Strip
+25131,769,true,Block of Iron Strip
+25131,769,true,Block of Iron Strip
+25131,769,true,Block of Iron Strip
+25131,769,true,Block of Iron Strip
+25131,769,true,Block of Iron Strip
+25131,769,true,Block of Iron Strip
+25131,769,true,Block of Iron Strip
+25131,769,true,Block of Iron Strip
+25131,769,true,Block of Iron Strip
+25131,769,true,Block of Iron Strip
+25131,769,true,Block of Iron Strip
+25131,769,true,Block of Iron Strip
+25131,769,true,Block of Iron Strip
+25131,769,true,Iron Construction Block Strip
+25131,770,true,Iron Brick Post
+25131,770,true,Fancy Iron Brick Post
+25131,770,true,Fancy Iron Brick Post
+25131,770,true,Iron Brick Post
+25131,770,true,Deep Iron Block name Post
+25131,770,true,Deep Iron Brick name Post
+25131,770,true,Shadow Iron Block name Post
+25131,770,true,Shadow Iron Brick name Post
+25131,770,true,Block of Iron Post
+25131,770,true,Block of Dark Iron Post
+25131,770,true,Iron Bars Post
+25131,770,true,Iron Bars Post
+25131,770,true,Iron Bars Post
+25131,770,true,Iron Bars Post
+25131,770,true,Iron Bars Post
+25131,770,true,Iron Bars Post
+25131,770,true,Iron Bars Post
+25131,770,true,Iron Bars Post
+25131,770,true,Iron Bars Post
+25131,770,true,Iron Bars Post
+25131,770,true,Iron Bars Post
+25131,770,true,Iron Bars Post
+25131,770,true,Iron Bars Post
+25131,770,true,Iron Bars Post
+25131,770,true,Iron Bars Post
+25131,770,true,Iron Bars Post
+25131,770,true,Block of Iron Post
+25131,770,true,Block of Iron Post
+25131,770,true,Block of Iron Post
+25131,770,true,Block of Iron Post
+25131,770,true,Block of Iron Post
+25131,770,true,Block of Iron Post
+25131,770,true,Block of Iron Post
+25131,770,true,Block of Iron Post
+25131,770,true,Block of Iron Post
+25131,770,true,Block of Iron Post
+25131,770,true,Block of Iron Post
+25131,770,true,Block of Iron Post
+25131,770,true,Block of Iron Post
+25131,770,true,Block of Iron Post
+25131,770,true,Block of Iron Post
+25131,770,true,Block of Iron Post
+25131,770,true,Iron Construction Block Post
+25131,772,true,Iron Brick Pillar
+25131,772,true,Fancy Iron Brick Pillar
+25131,772,true,Fancy Iron Brick Pillar
+25131,772,true,Iron Brick Pillar
+25131,772,true,Deep Iron Block name Pillar
+25131,772,true,Deep Iron Brick name Pillar
+25131,772,true,Shadow Iron Block name Pillar
+25131,772,true,Shadow Iron Brick name Pillar
+25131,772,true,Block of Iron Pillar
+25131,772,true,Block of Dark Iron Pillar
+25131,772,true,Iron Bars Pillar
+25131,772,true,Iron Bars Pillar
+25131,772,true,Iron Bars Pillar
+25131,772,true,Iron Bars Pillar
+25131,772,true,Iron Bars Pillar
+25131,772,true,Iron Bars Pillar
+25131,772,true,Iron Bars Pillar
+25131,772,true,Iron Bars Pillar
+25131,772,true,Iron Bars Pillar
+25131,772,true,Iron Bars Pillar
+25131,772,true,Iron Bars Pillar
+25131,772,true,Iron Bars Pillar
+25131,772,true,Iron Bars Pillar
+25131,772,true,Iron Bars Pillar
+25131,772,true,Iron Bars Pillar
+25131,772,true,Iron Bars Pillar
+25131,772,true,Block of Iron Pillar
+25131,772,true,Block of Iron Pillar
+25131,772,true,Block of Iron Pillar
+25131,772,true,Block of Iron Pillar
+25131,772,true,Block of Iron Pillar
+25131,772,true,Block of Iron Pillar
+25131,772,true,Block of Iron Pillar
+25131,772,true,Block of Iron Pillar
+25131,772,true,Block of Iron Pillar
+25131,772,true,Block of Iron Pillar
+25131,772,true,Block of Iron Pillar
+25131,772,true,Block of Iron Pillar
+25131,772,true,Block of Iron Pillar
+25131,772,true,Block of Iron Pillar
+25131,772,true,Block of Iron Pillar
+25131,772,true,Block of Iron Pillar
+25131,772,true,Iron Construction Block Pillar
+25133,0,false,Iron Saw
+26120,0,false,Iron Nugget
+26235,1,false,Deep Iron Orb
+27106,0,false,Deep Iron Dust name
+27107,0,false,Deep Iron Ingot name
+27108,0,false,Deep Iron Pickaxe name
+27109,0,false,Deep Iron Shovel name
+27110,0,false,Deep Iron Axe name
+27111,0,false,Deep Iron Hoe name
+27112,0,false,Deep Iron Sword name
+27113,0,false,Deep Iron Helmet name
+27114,0,false,Deep Iron Chestplate name
+27115,0,false,Deep Iron Legs name
+27116,0,false,Deep Iron Boots name
+27756,0,false,Shadow Iron Dust name
+27757,0,false,Shadow Iron Ingot name
+27758,0,false,Shadow Iron Pickaxe name
+27759,0,false,Shadow Iron Shovel name
+27760,0,false,Shadow Iron Axe name
+27761,0,false,Shadow Iron Hoe name
+27762,0,false,Shadow Iron Sword name
+27763,0,false,Shadow Iron Helmet name
+27764,0,false,Shadow Iron Chestplate name
+27765,0,false,Shadow Iron Legs name
+27766,0,false,Shadow Iron Boots name
+27973,0,false,Raw Ironwood Materials
+27974,0,false,Ironwood Ingot
+27975,0,true,Ironwood Helm
+27976,0,true,Ironwood Plate
+27977,0,true,Ironwood Legs
+27978,0,true,Ironwood Boots
+27979,0,true,Ironwood Sword
+27980,0,true,Ironwood Shovel
+27981,0,true,Ironwood Pick
+27982,0,true,Ironwood Axe
+27983,0,false,Ironwood Hoe
+29256,11,false,Unknown Ironic Dust
+29257,11,false,Iron Wheel
+29269,0,true,Black Pearl Ring
+29269,0,true,Blue Pearl Ring
+29269,0,true,Brown Pearl Ring
+29269,0,true,Gold Pearl Ring
+29269,0,true,Green Pearl Ring
+29269,0,true,Orange Pearl Ring
+29269,0,true,Pink Pearl Ring
+29269,0,true,Purple Pearl Ring
+29269,0,true,Red Pearl Ring
+29269,0,true,Silver Pearl Ring
+29269,0,true,White Pearl Ring
+29269,0,true,Yellow Pearl Ring
+29287,3,false,Bottle of Molten Iron
+29501,0,false,Secret Iron Door
+29997,42,true,Iron Drill
+29998,1,false,Iron Wheels
+29998,34,false,Iron Pane
+29998,35,false,Large Iron Pane
+29998,36,false,Huge Iron Pane
+29998,83,false,Iron Blade

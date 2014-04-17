@@ -56,7 +56,7 @@ ID,Block/Item,Mod,Unlocalised name,Class
 55,Block,Minecraft,tile.redstoneDust,net.minecraft.block.BlockRedstoneWire
 56,Block,Minecraft,tile.oreDiamond,net.minecraft.block.BlockOre
 57,Block,Minecraft,tile.blockDiamond,factorization.oreprocessing.BlockOreStorageShatterable
-58,Block,RandomThings,tile.workbench,lumien.randomthings.Blocks.BlockColoredWorkBench
+58,Block,Minecraft,tile.workbench,net.minecraft.block.BlockWorkbench
 59,Block,Minecraft,tile.crops,net.minecraft.block.BlockCrops
 60,Block,Minecraft,tile.farmland,net.minecraft.block.BlockFarmland
 61,Block,Minecraft,tile.furnace,net.minecraft.block.BlockFurnace
@@ -1862,6 +1862,11 @@ ID,Block/Item,Mod,Unlocalised name,Class
 3929,Block,HardcoreEnderExpansion,tile.soulCharm,chylex.hee.block.BlockSoulCharm
 3930,Block,HardcoreEnderExpansion,tile.stardustOre,chylex.hee.block.BlockStardustOre
 3931,Block,HardcoreEnderExpansion,tile.stardustPlaced,chylex.hee.block.BlockStardustPlaced
+3932,Block,HardcoreEnderExpansion,tile.null,chylex.hee.block.BlockCorruptedEnergy
+3933,Block,HardcoreEnderExpansion,tile.null,chylex.hee.block.BlockCorruptedEnergy
+3934,Block,HardcoreEnderExpansion,tile.decompositionTable,chylex.hee.block.BlockDecompositionTable
+3935,Block,HardcoreEnderExpansion,tile.energyCluster,chylex.hee.block.BlockEnergyCluster
+3936,Block,HardcoreEnderExpansion,tile.energyExtractionTable,chylex.hee.block.BlockEnergyExtractionTable
 3941,Block,Translocator,tile.translocator,codechicken.translocator.BlockTranslocator
 3942,Block,Translocator,tile.null,codechicken.translocator.BlockCraftingGrid
 3951,Block,totemic,tile.chlorophyllSolidifier,totemic_commons.pokefenn.block.BlockChlorophyllSolidifier
@@ -4742,7 +4747,6 @@ ID,Block/Item,Mod,Unlocalised name,Class
 28836,Item,HardcoreEnderExpansion,item.record,chylex.hee.item.ItemMusicDisk
 28837,Item,HardcoreEnderExpansion,item.enderCompendium,chylex.hee.item.ItemEnderCompendium
 28838,Item,HardcoreEnderExpansion,item.knowledgeFragment,chylex.hee.item.ItemKnowledgeFragment
-28839,Item,HardcoreEnderExpansion,item.minionContainer,chylex.hee.item.ItemMinionContainer
 29255,Item,Enchiridion,item.items,enchiridion.ItemEnchiridion
 29256,Item,Mariculture,item.materials,mariculture.core.items.ItemMaterial
 29257,Item,Mariculture,item.craftingItems,mariculture.core.items.ItemCrafting

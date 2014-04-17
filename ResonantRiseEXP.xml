@@ -1,6 +1,6 @@
 <version>
   <pack>
-    <version>2.8.3.2-RC-MAIN</version>
+    <version>2.8.3.3-RC-MAIN</version>
     <minecraft>1.6.4</minecraft>
     <memory>2048</memory>
     <permgen>256</permgen>
@@ -170,8 +170,8 @@
          website="http://teamcofh.com/"
          description="The hero's great legacy follows him."
          fileprefix="00002_" />
-    <mod url="packs/ResonantRise/files/2.8/ComputerCraft1.62.jar" file="ComputerCraft1.62.jar" md5="89933f3eeba83848d84637b736c51684" download="server"
-         name="ComputerCraft" type="mods"  version="1.62" website="http://computercraft.info/" donation="http://www.computercraft.info/donate/"
+    <mod url="packs/ResonantRise/files/2.8/ComputerCraft1.63.jar" file="ComputerCraft1.63.jar" md5="e0107b4a4e2acd92b7a6d6b750f20856" download="server"
+         name="ComputerCraft" type="mods"  version="1.63" website="http://computercraft.info/" donation="http://www.computercraft.info/donate/"
          description="Lua interpreters in a block." />
     <mod url="packs/ResonantRise/files/2.8/DartCraft Beta 0.2.18.jar" file="DartCraft Beta 0.2.18.jar" md5="30ae9f56c9a9582012147c024aa545ae" download="server"
          name="DartCraft" type="mods"  version="0.2.18"
@@ -331,8 +331,8 @@
 		 url="packs/ResonantRise/files/2.8/growthcraft-rice-1.6.4-2.0.5.zip" file="growthcraft-rice-1.6.4-2.0.5.zip" md5="bbbc1cb52da409299819f7298a123595" download="server" 
 		 website="http://www.minecraftforum.net/topic/1510394-"
 		 description="JAPANESE BEER." />
-	<mod url="packs/ResonantRise/files/2-STABLE2/HardcoreEnderExpansion_1.4.3a.zip" file="HardcoreEnderExpansion_1.4.3a.zip" md5="4a51f4d249ada5a69078be13460fcd07" download="server" 
-         name="Hardcore Ender Expansion" type="mods" version="1.4.3a"
+	<mod url="packs/ResonantRise/files/2.8/HardcoreEnderExpansion_1.5.zip" file="HardcoreEnderExpansion_1.5.zip" md5="1648dab9bc9378418a419983458b0f6d" download="server"
+         name="Hardcore Ender Expansion" type="mods" version="1.5"
          website="http://hardcore-enderdragon.wikia.com/wiki/Home"
          description="The Ender Dragon Is Not Happy With You."
          />
@@ -372,8 +372,8 @@
     <mod url="packs/ResonantRise/files/2-STABLE2/liquid-xp-57.1.2.jar" file="liquid-xp-57.1.2.jar" md5="74b3a1edae1362578f4141e9fd1d5e1e" download="server"
          name="Liquid XP" depends="ImmibisCore"  type="mods"
          version="57.1.2" website="http://www.minecraftforum.net/topic/1001131-162-immibiss-mods-smp-now-with-857-less-version-numbers-in-this-title/" description="Advanced use of XP for auto-enchanting."  />
-    <mod url="packs/ResonantRise/files/2.8/LogisticsPipes-MC1.6.4-0.7.4.dev.140.jar" file="LogisticsPipes-MC1.6.4-0.7.4.dev.140.jar" md5="68fd3b01d8be49d9f29fdcb5fbb08726" download="server" 
-         name="Logistics Pipes" type="mods" version="0.7.4.dev.140"
+    <mod url="packs/ResonantRise/files/2.8/LogisticsPipes-MC1.6.4-0.7.4.dev.141.jar" file="LogisticsPipes-MC1.6.4-0.7.4.dev.141.jar" md5="114d1278a048f7b7f45b6913c5295978" download="server"
+         name="Logistics Pipes" type="mods" version="0.7.4.dev.141"
          website="http://www.minecraftforum.net/topic/1831791-152buildcraft-logistics-pipes/" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=HMEH9HF4Q2RFJ"
          description="Even more amazing pipes." />
     <mod name="Mad Science" version="1.00.141"
@@ -570,8 +570,8 @@
          version="1.5.1"
          website="http://minecraft.curseforge.com/mc-mods/redstone-paste/" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=XD2DPUTDZEW6U"
          description="Pastey." />
-    <mod name="Refined Relocation" version="1.0.0"
-		 url="packs/ResonantRise/files/2.8/RefinedRelocation-1.6.4-1.0.0.jar" file="RefinedRelocation-1.6.4-1.0.0.jar" md5="c0dceca88e5e46cb73ca894835bc5be6" download="server"
+    <mod name="Refined Relocation" version="1.0.1"
+		 url="packs/ResonantRise/files/2.8/RefinedRelocation-1.6.4-1.0.1.jar" file="RefinedRelocation-1.6.4-1.0.1.jar" md5="6c7a3029e9c69c1fe33a0a75b74bfcbb" download="server" 
 		 type="mods"
 		 website="http://www.minecraftforum.net/topic/2210752-" authors="Dynious"
 		 description="Logistics for the timid novice." />
@@ -799,18 +799,6 @@
 		 website="http://resonant-rise.com"
 		 description="Ore generation is slashed by half AND Copper, Tin and Gold are moved; for people who hate themselves." />
 	
-		<!-- Special Mode Configs -->
-	<mod name="EiraIRC Client Config" version="n/a"
-		 url="packs/ResonantRise/files/config-switches/eira_client_2.8.3.1.zip" file="eira_client_2.8.3.1.zip" md5="2ffd49cb67a834d81a8020a31984d07e" download="server"
-		 type="extract" extractto="root" client="yes" server="no"
-		 website="http://resonant-rise.com"
-		 description="Client-specific configs for EiraIRC." />
-	<mod name="EiraIRC Server Config" version="n/a"
-		 url="packs/ResonantRise/files/config-switches/eira_server_2.8.3.1.zip" file="eira_server_2.8.3.1.zip" md5="2f5a8cb89b6a3b09656391230b930d3d" download="server"
-		 type="extract" extractto="root" client="no" server="yes"
-		 website="http://resonant-rise.com"
-		 description="Server-specific configs for EiraIRC." />
-
 		<!-- Special Mode Configs -->
 	<mod name="EiraIRC Client Config" version="n/a"
 		 url="packs/ResonantRise/files/config-switches/eira_client_2.8.3.1.zip" file="eira_client_2.8.3.1.zip" md5="2ffd49cb67a834d81a8020a31984d07e" download="server"
