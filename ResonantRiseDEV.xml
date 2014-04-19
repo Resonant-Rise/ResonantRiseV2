@@ -1,6 +1,6 @@
 <version>
   <pack>
-    <version>2-DEV-132</version>
+    <version>2-DEV-133</version>
     <minecraft>1.6.4</minecraft>
     <memory>2048</memory>
     <permgen>256</permgen>
@@ -113,8 +113,8 @@
          version="1.1"
          website="http://www.bibliocraftmod.com/?page_id=50#bibliowoods"
          description="More wood colors for furniture."  />
-    <mod url="packs/ResonantRise/files/2.8/BigReactors-0.3.1A.jar" file="BigReactors-0.3.1A.jar" md5="258187263f5435bd5658e35d3f713f0f" download="server"
-         name="Big Reactors" type="mods" version="0.3.1A" optional="yes"
+    <mod url="packs/ResonantRise/files/2.8/BigReactors-0.3.2A.jar" file="BigReactors-0.3.2A.jar" md5="32f34be2af53fce7286163d3b7b590e0" download="server"
+         name="Big Reactors" type="mods" version="0.3.2A" optional="yes"
          website="http://big-reactors.com/"
          description="Just in time for the 1.6.4 pack release! \o/" />
     <mod url="packs/ResonantRise/files/2.6/binnie-mods-1.8.0.jar" file="binnie-mods-1.8.0.jar" md5="67177d94f61104076432cf277631209a" download="server"
@@ -144,8 +144,8 @@
     <mod url="packs/ResonantRise/files/2-STABLE/CCTransport-1.0.1.jar" file="CCTransport-1.0.1.jar" md5="afd7267ba8d5c275fe3b586c886894d6" download="server"
          name="CCTransport" type="mods"  version="1.0.1" website="http://www.computercraft.info/forums2/index.php?/topic/15384-cctransport-v101-inventory-management-add-on-for-openperipherals/"
          description="Automate all the things with lua" />
-    <mod name="Charlotte's Utilities" version="0.3.0"
-		 url="packs/ResonantRise/files/2.8/CharlottesUtilities-0.3.0.zip" file="CharlottesUtilities-0.3.0.zip" md5="b80cbba52907fd8ec78538ef6d64270c" download="server" 
+    <mod name="Charlotte's Utilities" version="0.3.1"
+		 url="packs/ResonantRise/files/2.8/CharlottesUtilities-0.3.1.zip" file="CharlottesUtilities-0.3.1.zip" md5="8f7b6492dd6e8aaee6270386b6def4a1" download="server" 
 		 type="mods"
 		 website="http://www.minecraftforum.net/topic/2546260-"  authors="Sharshar"
 		 description="Layout guides and prospecting!" />
@@ -165,12 +165,12 @@
 	<mod url="packs/ResonantRise/files/2.6/CodeChickenCore 0.9.0.9.jar" file="CodeChickenCore 0.9.0.9.jar" md5="d8800f201da7fe01ba1f8127a9a568ff" download="server" 
          name="CodeChickenCore" type="mods"
          version="0.9.0.9" website="http://www.minecraftforum.net/topic/909223-147152-smp-chickenbones-mods/" donation="http://www.chickenbones.craftsaddle.org/Pages/donate.php" description="Core of Chickenbones mods" />
-    <mod url="packs/ResonantRise/files/2.6/CoFHCore-2.0.0.2.jar" file="CoFHCore-2.0.0.2.jar" md5="ade9ade85b385827f56de0432d290665" download="server"
-         name="CoFH Core" type="mods" version="2.0.0.2"
+    <mod url="packs/ResonantRise/files/2.8/CoFHCore-2.0.0.5.jar" file="CoFHCore-2.0.0.5.jar" md5="a3c5c440ecc89ff9b2d3ca777e44722b" download="server"
+         name="CoFH Core" type="mods" version="2.0.0.5"
          website="http://teamcofh.com/"
          description="The hero's great legacy follows him."
          fileprefix="00002_" />
-    <mod url="packs/ResonantRise/files/2.8/ComputerCraft1.63.jar" file="ComputerCraft1.63.jar" md5="e0107b4a4e2acd92b7a6d6b750f20856" download="server"
+    <mod url="packs/ResonantRise/files/2.8/ComputerCraft1.63.jar" file="ComputerCraft1.63.jar" md5="2ca246b9d88325e0a48ed26f7272c00d" download="server"
          name="ComputerCraft" type="mods"  version="1.63" website="http://computercraft.info/" donation="http://www.computercraft.info/donate/"
          description="Lua interpreters in a block." />
     <mod url="packs/ResonantRise/files/2.8/DartCraft Beta 0.2.18.jar" file="DartCraft Beta 0.2.18.jar" md5="30ae9f56c9a9582012147c024aa545ae" download="server"
@@ -360,8 +360,8 @@
          version="5.4.1.702"
          website="http://www.minecraftforum.net/topic/981855-15-and-up-forge-universalironchests-50-minecraft-15-update/"
          description="The Best Chest Upgrades" />
-    <mod url="packs/ResonantRise/files/2.8/JABBA_1.1.2c.zip" file="JABBA_1.1.2c.zip" md5="8f611797f0bbb61968f70b8effb41cd0" download="server" 
-         name="Jabba" type="mods" version="1.1.2c"
+    <mod url="packs/ResonantRise/files/2.8/JABBA_1.1.3.zip" file="JABBA_1.1.3.zip" md5="b6cbb7323baff9d3b9e47aafca222464" download="server" 
+         name="Jabba" type="mods" version="1.1.3"
          website="http://profmobius.blogspot.fr/2013/11/jabba-100.html"
          donation="http://profmobius.blogspot.fr/"
          description="Just a Better Barrel Addon." />
@@ -372,12 +372,12 @@
     <mod url="packs/ResonantRise/files/2-STABLE2/liquid-xp-57.1.2.jar" file="liquid-xp-57.1.2.jar" md5="74b3a1edae1362578f4141e9fd1d5e1e" download="server"
          name="Liquid XP" depends="ImmibisCore"  type="mods"
          version="57.1.2" website="http://www.minecraftforum.net/topic/1001131-162-immibiss-mods-smp-now-with-857-less-version-numbers-in-this-title/" description="Advanced use of XP for auto-enchanting."  />
-    <mod url="packs/ResonantRise/files/2.8/LogisticsPipes-MC1.6.4-0.7.4.dev.140.jar" file="LogisticsPipes-MC1.6.4-0.7.4.dev.140.jar" md5="68fd3b01d8be49d9f29fdcb5fbb08726" download="server"
-         name="Logistics Pipes" type="mods" version="0.7.4.dev.140"
+    <mod url="packs/ResonantRise/files/2.8/LogisticsPipes-MC1.6.4-0.7.4.dev.151.jar" file="LogisticsPipes-MC1.6.4-0.7.4.dev.151.jar" md5="c8a06d14cdb0c47e9e9a25a33bf4a829" download="server"
+         name="Logistics Pipes" type="mods" version="0.7.4.dev.151"
          website="http://www.minecraftforum.net/topic/1831791-152buildcraft-logistics-pipes/" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=HMEH9HF4Q2RFJ"
          description="Even more amazing pipes." />
-    <mod name="Mad Science" version="1.00.141"
-		 url="packs/ResonantRise/files/2.8/MadScience-MC1.6.4-F9.11.1.964_v1.00.141-universal.jar" file="MadScience-MC1.6.4-F9.11.1.964_v1.00.141-universal.jar" md5="fe13de02876f00d236caf55e3089c4b9" download="server" 
+    <mod name="Mad Science" version="1.00.150"
+		 url="packs/ResonantRise/files/2.8/MadScience-MC1.6.4-F9.11.1.964_v1.00.150-universal.jar" file="MadScience-MC1.6.4-F9.11.1.964_v1.00.150-universal.jar" md5="7c5886e0a024fc1cfafec9f1169bbd8a" download="server"
 		 type="mods"
 		 website="http://madsciencemod.com/"
 		 description="Universal Insanity." />
@@ -643,9 +643,9 @@
          website="http://www.minecraftforum.net/topic/2011841-" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=88PFJA73AEFFW&amp;lc=ZA&amp;currency_code=USD&amp;bn=PP%2dDonationsBF%3abtn_donate_LG%2egif%3aNonHosted"
          authors="Azanor" description="This one won't creep you out, kids."
          />
-	<mod url="packs/ResonantRise/files/2.8/ThaumicTinkerer-2.3-139.jar" file="ThaumicTinkerer-2.3-139.jar" md5="0b93dc6565cf1d26aa62a83c90d226d6" download="server" 
+	<mod url="packs/ResonantRise/files/2.8/ThaumicTinkerer-2.3-140.jar" file="ThaumicTinkerer-2.3-140.jar" md5="982d702b81ecd096091b6be61bfae087" download="server"
          name="Thaumic Tinkerer" type="mods"
-         version="2.3-139" depends="Thaumcraft 4"
+         version="2.3-140" depends="Thaumcraft 4"
          website="http://www.minecraftforum.net/topic/1813058-" description="Because Thaumcraft has a dearth of content."
          />
 	<mod url="packs/ResonantRise/files/2.6/ThaumicTinkererKAMI_j6.jar" file="ThaumicTinkererKAMI_j6.jar" md5="03bea04d5b4db84e77c027c3c5c21466" download="server"
@@ -653,8 +653,8 @@
          version="n/a" depends="Thaumic Tinkerer" optional="yes"
          website="http://www.minecraftforum.net/topic/1813058-" description="PHENOMENAL COSMIC POWER. Strictly optional."
          />
-    <mod url="packs/ResonantRise/files/2.6/ThermalExpansion-3.0.0.2.jar" file="ThermalExpansion-3.0.0.2.jar" md5="3dec4e88dfbb07b7c79f41d89a7faca5" download="server"
-         name="Thermal Expansion" type="mods" depends="CoFH Core" version="3.0.0.2"
+    <mod url="packs/ResonantRise/files/2.8/ThermalExpansion-3.0.0.5.jar" file="ThermalExpansion-3.0.0.5.jar" md5="27725d201ab39d497052c2f16aadbb5c" download="server" 
+         name="Thermal Expansion" type="mods" depends="CoFH Core" version="3.0.0.5"
          website="http://teamcofh.com/"
          description="The hero returns."
          fileprefix="ZZZZY_" />
@@ -829,7 +829,7 @@
 				 website="http://www.minecraftforum.net/topic/1119809-"
 				 description="Wark?" />
 		<mod name="Dynamic Lights" version="1.6.4"
-                 url="packs/ResonantRise/files/dev/DynamicLights_1.6.4.zip" file="DynamicLights_1.6.4.zip" md5="f40c3bd0b844585c5b5239fa08f35138" download="server" 
+                 url="packs/ResonantRise/files/dev/DynamicLights_1.6.4.jar" file="DynamicLights_1.6.4.jar" md5="d82d549fdc8c6380d7a319f0dad1d756" download="server" 
                  type="mods"
                  website="http://www.minecraftforum.net/topic/184426-" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=6T5E6P8L7N6L6" authors="AtomicStryker"
                  description="At long last, intuitive torch gameplay!" />
@@ -858,8 +858,8 @@
                  type="mods"
                  website="http://www.qcraft.org" authors="Daniel Ratcliffe,TeacherGaming LLC"
                  description="Quantum Mechanics meets Minecraft!" />
-		<mod name="Remain in Motion" version="1.0.3"
-				 url="packs/ResonantRise/files/dev/RemainInMotion_1.0.3.zip" file="RemainInMotion_1.0.3.zip" md5="b7328678b7e448c2f7b7e8a34c2ed24d" download="server"
+		<mod name="Remain in Motion" version="1.1.0"
+				 url="packs/ResonantRise/files/dev/RemainInMotion_1.1.0.zip" file="RemainInMotion_1.1.0.zip" md5="40ee2415e96d6f45d6e82daf23483515" download="server"
 				 type="mods"
 				 website="http://forums.technicpack.net/topic/59545-" authors="jakj, planetguy"
 				 description="The black arts of frames endure." />
