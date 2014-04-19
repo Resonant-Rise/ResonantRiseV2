@@ -1290,7 +1290,7 @@ ID,Block/Item,Mod,Unlocalised name,Class
 2706,Block,ThermalExpansion,tile.thermalexpansion.tank,thermalexpansion.block.tank.BlockTank
 2707,Block,ThermalExpansion,tile.thermalexpansion.strongbox,thermalexpansion.block.strongbox.BlockStrongbox
 2708,Block,ThermalExpansion,tile.thermalexpansion.conduit,thermalexpansion.block.conduit.BlockConduit
-2709,Block,ThermalExpansion,tile.thermalexpansion.tesseract,thermalexpansion.block.tesseract.BlockTesseract
+2709,Block,ThermalExpansion,tile.thermalexpansion.tesseract,thermalexpansion.block.ender.BlockTesseract
 2711,Block,ThermalExpansion,tile.thermalexpansion.lamp,thermalexpansion.block.lamp.BlockLamp
 2712,Block,ThermalExpansion,tile.thermalexpansion.storage,thermalexpansion.block.simple.BlockStorage
 2713,Block,ThermalExpansion,tile.thermalexpansion.glass,thermalexpansion.block.simple.BlockGlass
@@ -4049,6 +4049,7 @@ ID,Block/Item,Mod,Unlocalised name,Class
 22574,Item,BiblioWoodsForestry,item.seatBack,jds.bibliocraft.forestrywood.items.ItemSeatBackF5
 23356,Item,JAKJ_RedstoneInMotion,item.JAKJ_RedstoneInMotion_SimpleItemSet,me.planetguy.remaininmotion.SimpleItemSet
 23357,Item,JAKJ_RedstoneInMotion,item.JAKJ_RedstoneInMotion_ToolItemSet,me.planetguy.remaininmotion.ToolItemSet
+23358,Item,JAKJ_RedstoneInMotion,item.null,me.planetguy.remaininmotion.FMPCarriageItem
 23776,Item,EnhancedPortals3,item.wrench,uk.co.shadeddimensions.ep3.item.ItemWrench
 23777,Item,EnhancedPortals3,item.glasses,uk.co.shadeddimensions.ep3.item.ItemGoggles
 23778,Item,EnhancedPortals3,item.nanobrush,uk.co.shadeddimensions.ep3.item.ItemPaintbrush
