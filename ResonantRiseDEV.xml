@@ -806,7 +806,7 @@
 		 website="http://resonant-rise.com"
 		 description="Client-specific configs for EiraIRC." />
 	<mod name="EiraIRC Server Config" version="n/a"
-		 url="packs/ResonantRise/files/config-switches/eira_server_2.8.3.1.zip" file="eira_server_2.8.3.1.zip" md5="2f5a8cb89b6a3b09656391230b930d3d" download="server"
+		 url="packs/ResonantRise/files/config-switches/eira_server_2.8.3.3.zip" file="eira_server_2.8.3.3.zip" md5="aa7fef76ac41c40853066c1eff1a60ea" download="server"
 		 type="extract" extractto="root" client="no" server="yes"
 		 website="http://resonant-rise.com"
 		 description="Server-specific configs for EiraIRC." />
