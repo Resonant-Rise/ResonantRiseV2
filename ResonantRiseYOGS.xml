@@ -207,11 +207,6 @@
          name="Dimensional Anchors" type="mods" version="57.1.96"
          website="http://www.minecraftforum.net/topic/1001131-162-immibiss-mods-smp-now-with-857-less-version-numbers-in-this-title/"
          description="Immibis's chunk loaders. Preferred."  />
-	<mod name="Dynamic Lights" version="1.6.4"
-         url="packs/YogscastCompletePack/files/mods/DynamicLights_1.6.4.jar" file="DynamicLights_1.6.4.jar" md5="d82d549fdc8c6380d7a319f0dad1d756" download="server" 
-         type="mods" optional="yes"
-         website="http://www.minecraftforum.net/topic/184426-" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=6T5E6P8L7N6L6" authors="AtomicStryker"
-         description="At long last, intuitive torch gameplay!" />
 	<mod name="EiraIRC" version="mc1.6.4-v1.6.2"
 		 url="packs/YogscastCompletePack/files/mods/EiraIRC-mc1.6.4-v1.6.2.jar" file="EiraIRC-mc1.6.4-v1.6.2.jar" md5="bb471e4b0c7cbb08fedd20cff243773d" download="server"
 		 type="mods" optional="yes" selected="no" recommended="no"
@@ -753,7 +748,12 @@
          description="Thing!" />
 
     <!-- Client Only -->
-    <mod url="packs/YogscastCompletePack/files/mods/InventoryTweaks-1.57-dev-95.jar" file="InventoryTweaks-1.57-dev-95.jar" md5="4a2a605f4ff7274e004ebe3090f24cdb" download="server"
+    <mod name="Dynamic Lights" version="1.6.4"
+         url="packs/YogscastCompletePack/files/mods/DynamicLights_1.6.4.jar" file="DynamicLights_1.6.4.jar" md5="d82d549fdc8c6380d7a319f0dad1d756" download="server" 
+         type="mods" optional="yes" server="no"
+         website="http://www.minecraftforum.net/topic/184426-" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=6T5E6P8L7N6L6" authors="AtomicStryker"
+         description="At long last, intuitive torch gameplay!" />
+	<mod url="packs/YogscastCompletePack/files/mods/InventoryTweaks-1.57-dev-95.jar" file="InventoryTweaks-1.57-dev-95.jar" md5="4a2a605f4ff7274e004ebe3090f24cdb" download="server"
          name="Inventory Tweaks"  type="mods" server="no" optional="yes" recommended="yes" selected="yes" group="UI"
          version="1.5.7-dev-b95"
          website="http://www.minecraftforum.net/topic/1720872-"
