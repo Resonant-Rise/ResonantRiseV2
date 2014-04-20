@@ -84,8 +84,8 @@
 	<mod url="packs/ResonantRiseLite/files/LITE/CodeChickenCore 0.9.0.9.jar" file="CodeChickenCore 0.9.0.9.jar" md5="d8800f201da7fe01ba1f8127a9a568ff" download="server" 
          name="CodeChickenCore" type="mods"
          version="0.9.0.9" website="http://www.minecraftforum.net/topic/909223-147152-smp-chickenbones-mods/" donation="http://www.chickenbones.craftsaddle.org/Pages/donate.php" description="Core of Chickenbones mods" />
-    <mod url="packs/ResonantRiseLite/files/LITE/CoFHCore-2.0.0.5.jar" file="CoFHCore-2.0.0.5.jar" md5="a3c5c440ecc89ff9b2d3ca777e44722b" download="server"
-         name="CoFH Core" type="mods" version="2.0.0.5"
+    <mod url="packs/ResonantRiseLite/files/LITE/CoFHCore-2.0.0.2.jar" file="CoFHCore-2.0.0.2.jar" md5="ade9ade85b385827f56de0432d290665" download="server" 
+         name="CoFH Core" type="mods" version="2.0.0.2"
          website="http://teamcofh.com/"
          description="The hero's great legacy follows him."
          fileprefix="00002_" />
@@ -205,8 +205,8 @@
          version="1.5.1"
          website="http://minecraft.curseforge.com/mc-mods/redstone-paste/" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=XD2DPUTDZEW6U"
          description="Pastey." />
-	<mod url="packs/ResonantRiseLite/files/LITE/ThermalExpansion-3.0.0.5.jar" file="ThermalExpansion-3.0.0.5.jar" md5="27725d201ab39d497052c2f16aadbb5c" download="server"
-         name="Thermal Expansion" type="mods" depends="CoFH Core" version="3.0.0.5"
+	<mod url="packs/ResonantRiseLite/files/LITE/ThermalExpansion-3.0.0.2.jar" file="ThermalExpansion-3.0.0.2.jar" md5="3dec4e88dfbb07b7c79f41d89a7faca5" download="server" 
+         name="Thermal Expansion" type="mods" depends="CoFH Core" version="3.0.0.2"
          website="http://teamcofh.com/"
          description="The hero returns."
          fileprefix="ZZZZY_" />
