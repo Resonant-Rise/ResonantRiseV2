@@ -165,8 +165,8 @@
 	<mod url="packs/ResonantRise/files/2.6/CodeChickenCore 0.9.0.9.jar" file="CodeChickenCore 0.9.0.9.jar" md5="d8800f201da7fe01ba1f8127a9a568ff" download="server" 
          name="CodeChickenCore" type="mods"
          version="0.9.0.9" website="http://www.minecraftforum.net/topic/909223-147152-smp-chickenbones-mods/" donation="http://www.chickenbones.craftsaddle.org/Pages/donate.php" description="Core of Chickenbones mods" />
-    <mod url="packs/ResonantRise/files/2.8/CoFHCore-2.0.0.5.jar" file="CoFHCore-2.0.0.5.jar" md5="a3c5c440ecc89ff9b2d3ca777e44722b" download="server"
-         name="CoFH Core" type="mods" version="2.0.0.5"
+    <mod url="packs/ResonantRise/files/2.6/CoFHCore-2.0.0.2.jar" file="CoFHCore-2.0.0.2.jar" md5="ade9ade85b385827f56de0432d290665" download="server" 
+         name="CoFH Core" type="mods" version="2.0.0.2"
          website="http://teamcofh.com/"
          description="The hero's great legacy follows him."
          fileprefix="00002_" />
@@ -653,8 +653,8 @@
          version="n/a" depends="Thaumic Tinkerer" optional="yes"
          website="http://www.minecraftforum.net/topic/1813058-" description="PHENOMENAL COSMIC POWER. Strictly optional."
          />
-    <mod url="packs/ResonantRise/files/2.8/ThermalExpansion-3.0.0.5.jar" file="ThermalExpansion-3.0.0.5.jar" md5="27725d201ab39d497052c2f16aadbb5c" download="server" 
-         name="Thermal Expansion" type="mods" depends="CoFH Core" version="3.0.0.5"
+    <mod url="packs/ResonantRise/files/2.6/ThermalExpansion-3.0.0.2.jar" file="ThermalExpansion-3.0.0.2.jar" md5="3dec4e88dfbb07b7c79f41d89a7faca5" download="server" 
+         name="Thermal Expansion" type="mods" depends="CoFH Core" version="3.0.0.2"
          website="http://teamcofh.com/"
          description="The hero returns."
          fileprefix="ZZZZY_" />
