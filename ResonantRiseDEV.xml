@@ -830,7 +830,7 @@
 				 description="Wark?" />
 		<mod name="Dynamic Lights" version="1.6.4"
                  url="packs/ResonantRise/files/dev/DynamicLights_1.6.4.jar" file="DynamicLights_1.6.4.jar" md5="d82d549fdc8c6380d7a319f0dad1d756" download="server" 
-                 type="mods"
+                 type="mods" server="no"
                  website="http://www.minecraftforum.net/topic/184426-" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=6T5E6P8L7N6L6" authors="AtomicStryker"
                  description="At long last, intuitive torch gameplay!" />
         <mod name="Hats" version="2.1.5"
