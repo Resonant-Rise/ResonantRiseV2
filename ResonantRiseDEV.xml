@@ -1,6 +1,6 @@
 <version>
   <pack>
-    <version>2-DEV-134</version>
+    <version>2-DEV-135</version>
     <minecraft>1.6.4</minecraft>
     <memory>2048</memory>
     <permgen>256</permgen>
@@ -393,15 +393,15 @@
     <mod url="packs/ResonantRise/files/2.8/Mariculture-1.6.4-1.2.1e.jar" file="Mariculture-1.6.4-1.2.1e.jar" md5="c18a248e9a76b682018dbe626a99c96f" download="server" 
          name="Mariculture" version="1.2.1e"
          website="http://www.minecraftforum.net/topic/2049315-" description="If you're looking for me, look under the sea, because that is where you'll find me." type="mods" />
-    <mod url="packs/ResonantRise/files/2.8/Mekanism-6.1.0.38.jar" file="Mekanism-6.1.0.38.jar" md5="d3a0ce7d377e48c62bfddc4dc35fc8f7" download="server"
-         name="Mekanism" type="mods" version="6.1.0.38" website="http://universalelectricity.com/mekanism" donation="http://universalelectricity.com/mekanism"
+	<mod url="packs/ResonantRise/files/2.8/Mekanism-6.0.4.35.jar" file="Mekanism-6.0.4.35.jar" md5="c08a15758edd149b9991b092ab4e122a" download="server"
+         name="Mekanism" type="mods" version="6.0.4.35" website="http://universalelectricity.com/mekanism" donation="http://universalelectricity.com/mekanism"
 		 description="Osmium also cures light wounds."  />
-    <mod url="packs/ResonantRise/files/2.8/MekanismGenerators-6.1.0.38.jar" file="MekanismGenerators-6.1.0.38.jar" md5="cfd3fdd7003e5d556feb789ebb677d29" download="server"
-		 name="Mekanism Generators" type="mods" version="6.1.0.38"
+    <mod url="packs/ResonantRise/files/2.8/MekanismGenerators-6.0.4.35.jar" file="MekanismGenerators-6.0.4.35.jar" md5="0a7c659feff685b23d8b791a2ebd98e4" download="server" 
+		 name="Mekanism Generators" type="mods" version="6.0.4.35"
 		 depends="Mekanism"
 		 website="http://universalelectricity.com/mekanism" donation="http://universalelectricity.com/mekanism" description="Infinite water is infinite power!" />
-    <mod url="packs/ResonantRise/files/2.8/MekanismTools-6.1.0.38.jar" file="MekanismTools-6.1.0.38.jar" md5="eee8f14a4389da505a743ce4f327761e" download="server" 
-         name="Mekanism Tools" type="mods" version="6.1.0.38"
+    <mod url="packs/ResonantRise/files/2.8/MekanismTools-6.0.4.35.jar" file="MekanismTools-6.0.4.35.jar" md5="0071ad831ed2b3d0a737063b2bbd19cd" download="server"
+         name="Mekanism Tools" type="mods" version="6.0.4.35"
          depends="Mekanism"
 		 website="http://universalelectricity.com/mekanism" donation="http://universalelectricity.com/mekanism" description="Paxel perfect." />
     <mod url="packs/ResonantRise/files/2.6/Metallurgy-1.6.4-3.3.2.jar" file="Metallurgy-1.6.4-3.3.2.jar" md5="65d79483f757cc4170f25461e811e6a9" download="server"
