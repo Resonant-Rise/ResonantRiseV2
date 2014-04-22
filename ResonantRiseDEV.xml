@@ -1,6 +1,6 @@
 <version>
   <pack>
-    <version>2-DEV-135</version>
+    <version>2-DEV-136</version>
     <minecraft>1.6.4</minecraft>
     <memory>2048</memory>
     <permgen>256</permgen>
@@ -372,8 +372,8 @@
     <mod url="packs/ResonantRise/files/2-STABLE2/liquid-xp-57.1.2.jar" file="liquid-xp-57.1.2.jar" md5="74b3a1edae1362578f4141e9fd1d5e1e" download="server"
          name="Liquid XP" depends="ImmibisCore"  type="mods"
          version="57.1.2" website="http://www.minecraftforum.net/topic/1001131-162-immibiss-mods-smp-now-with-857-less-version-numbers-in-this-title/" description="Advanced use of XP for auto-enchanting."  />
-    <mod url="packs/ResonantRise/files/2.8/LogisticsPipes-MC1.6.4-0.7.4.dev.153.jar" file="LogisticsPipes-MC1.6.4-0.7.4.dev.153.jar" md5="18eb92421b6b14f1f89b6c695e4be424" download="server" 
-         name="Logistics Pipes" type="mods" version="0.7.4.dev.153"
+    <mod url="packs/ResonantRise/files/2.8/LogisticsPipes-MC1.6.4-0.7.4.dev.156.jar" file="LogisticsPipes-MC1.6.4-0.7.4.dev.156.jar" md5="d1e0af7938f494fb7b2eb83b1c7ad771" download="server" 
+         name="Logistics Pipes" type="mods" version="0.7.4.dev.156" optional="yes" recommended="no"
          website="http://www.minecraftforum.net/topic/1831791-152buildcraft-logistics-pipes/" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=HMEH9HF4Q2RFJ"
          description="Even more amazing pipes." />
     <mod name="Mad Science" version="1.00.154"
