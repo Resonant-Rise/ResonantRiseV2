@@ -1,6 +1,6 @@
 <version>
   <pack>
-    <version>2.8.3.7-RR-YOGS</version>
+    <version>2.8.3.8-RR-YOGS</version>
     <minecraft>1.6.4</minecraft>
     <memory>2048</memory>
     <permgen>256</permgen>
@@ -144,8 +144,8 @@
     <mod url="packs/YogscastCompletePack/files/mods/CCTransport-1.0.1.jar" file="CCTransport-1.0.1.jar" md5="afd7267ba8d5c275fe3b586c886894d6" download="server"
          name="CCTransport" type="mods"  version="1.0.1" website="http://www.computercraft.info/forums2/index.php?/topic/15384-cctransport-v101-inventory-management-add-on-for-openperipherals/"
          description="Automate all the things with lua" />
-    <mod name="Charlotte's Utilities" version="0.3.1"
-		 url="packs/YogscastCompletePack/files/mods/CharlottesUtilities-0.3.1.zip" file="CharlottesUtilities-0.3.1.zip" md5="8f7b6492dd6e8aaee6270386b6def4a1" download="server" 
+    <mod name="Charlotte's Utilities" version="0.5.0b"
+		 url="packs/YogscastCompletePack/files/mods/CharlottesUtilities-0.5.0b.zip" file="CharlottesUtilities-0.5.0b.zip" md5="df319a070312b94d92d2e8731f696379" download="server" 
 		 type="mods"
 		 website="http://www.minecraftforum.net/topic/2546260-"  authors="Sharshar"
 		 description="Layout guides and prospecting!" />
@@ -202,9 +202,9 @@
          name="Dimensional Anchors" type="mods" version="57.1.96"
          website="http://www.minecraftforum.net/topic/1001131-162-immibiss-mods-smp-now-with-857-less-version-numbers-in-this-title/"
          description="Immibis's chunk loaders. Preferred."  />
-	<mod name="EiraIRC" version="mc1.6.4-v1.6.2"
-		 url="packs/YogscastCompletePack/files/mods/EiraIRC-mc1.6.4-v1.6.2.jar" file="EiraIRC-mc1.6.4-v1.6.2.jar" md5="bb471e4b0c7cbb08fedd20cff243773d" download="server"
-		 type="mods" optional="yes" selected="no" recommended="no"
+	<mod name="EiraIRC" version="mc1.6.4-v1.6.3"
+		 url="packs/YogscastCompletePack/files/mods/eirairc-mc1.6.4-v1.6.3.jar" file="eirairc-mc1.6.4-v1.6.3.jar" md5="56418c20cfc9b55ce48ca633602d97a8" download="server" 
+		 type="mods" optional="yes"
 		 website="http://www.minecraftforum.net/topic/1964989-" authors="blay09"
 		 description="An IRC Connector that works both on clients and servers independently, with some neat special features." />
 	<mod url="packs/YogscastCompletePack/files/mods/EmasherResource-1.2.3.4.zip" file="EmasherResource-1.2.3.4.zip" md5="25723b6d2f636ac5d0a1b3359d282ad8" download="server" 
@@ -428,8 +428,8 @@
 		 type="mods"
 		 website="http://www.minecraftforum.net/topic/1886008-" authors="Stan Hebben"
 		 description="Modpack and server tool enabling the addition and removal of recipes" />
-	<mod url="packs/YogscastCompletePack/files/mods/MobiusCore_1.2.0.jar" file="MobiusCore_1.2.0.jar" md5="70eb20174ff3ed6ce277035bdcaa808c" download="server" 
-         name="Mobius Core" type="mods" version="1.2.0"
+	<mod  url="packs/YogscastCompletePack/files/mods/MobiusCore_1.2.1.jar" file="MobiusCore_1.2.1.jar" md5="eb582b71cc8aa22dd1b620b07c913eba" download="server"
+         name="Mobius Core" type="mods" version="1.2.1"
          website="http://www.minecraftforum.net/topic/2104497-"
          donation="http://profmobius.blogspot.fr/"
          description="The doctor's toolkit."
@@ -500,8 +500,8 @@
 	<mod url="packs/YogscastCompletePack/files/mods/OpenPeripheralCore-0.3.3-snapshot-118.jar" file="OpenPeripheralCore-0.3.3-snapshot-118.jar" md5="17047c247ead69b230c578a403202116" download="server" 
          name="OpenPeripheral Core" version="0.3.3-snap-118"
          website="http://www.openperipheral.info/" description="Open source improved ComputerCraft peripherals. Includes the beloved AR goggles." type="mods" />
-	<mod url="packs/YogscastCompletePack/files/mods/Opis_1.2.1.zip" file="Opis_1.2.1.zip" md5="84ba665595d9415081b3dec6bea471a2" download="server" 
-         name="Opis" type="mods" group="Cartographer" depends="Mobius Core" version="1.2.1"
+	<mod url="packs/YogscastCompletePack/files/mods/Opis_1.2.2.zip" file="Opis_1.2.2.zip" md5="0fd82027b3d17c80eef0003139828268" download="server"
+         name="Opis" type="mods" group="Cartographer" depends="Mobius Core" version="1.2.2"
          website="http://www.minecraftforum.net/topic/2104497-"
          donation="http://profmobius.blogspot.fr/"
          description="Opal Map Scanner. Server Doctor. Healer."
@@ -778,12 +778,12 @@
 	
 		<!-- Special Mode Configs -->
 	<mod name="EiraIRC Client Config" version="n/a"
-		 url="packs/YogscastCompletePack/files/config-switches/eira_client_2.8.3.1.zip" file="eira_client_2.8.3.1.zip" md5="2ffd49cb67a834d81a8020a31984d07e" download="server"
+		 url="packs/YogscastCompletePack/files/config-switches/eira_client_2.8.3.8.zip" file="eira_client_2.8.3.8.zip" md5="ff1dff09d30ff55409fe47eb1f18af5e" download="server"
 		 type="extract" extractto="root" client="yes" server="no"
 		 website="http://resonant-rise.com"
 		 description="Client-specific configs for EiraIRC." />
 	<mod name="EiraIRC Server Config" version="n/a"
-		 url="packs/YogscastCompletePack/files/config-switches/eira_server_2.8.3.3.zip" file="eira_server_2.8.3.3.zip" md5="aa7fef76ac41c40853066c1eff1a60ea" download="server"
+		 url="packs/YogscastCompletePack/files/config-switches/eira_server_2.8.3.8.zip" file="eira_server_2.8.3.8.zip" md5="632f7c55df4a50cecefdffd7906be5f7" download="server" 
 		 type="extract" extractto="root" client="no" server="yes"
 		 website="http://resonant-rise.com"
 		 description="Server-specific configs for EiraIRC." />
@@ -801,7 +801,7 @@
 				 description="Adding chargeable tools and more to Buildcraft" />
 		<mod name="Dynamic Lights" version="1.6.4"
                  url="packs/YogscastCompletePack/files/mods/DynamicLights_1.6.4.jar" file="DynamicLights_1.6.4.jar" md5="d82d549fdc8c6380d7a319f0dad1d756" download="server" 
-                 type="mods" server="no" optional="yes"
+                 type="mods" server="no" recommended="no" optional="yes"
                  website="http://www.minecraftforum.net/topic/184426-" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=6T5E6P8L7N6L6" authors="AtomicStryker"
                  description="At long last, intuitive torch gameplay!" />
         <mod name="Hats" version="2.1.5"

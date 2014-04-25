@@ -1,6 +1,6 @@
 <version>
   <pack>
-    <version>2.8.3.7-RR-LITE</version>
+    <version>2.8.3.8-RR-LITE</version>
     <minecraft>1.6.4</minecraft>
     <memory>2048</memory>
     <permgen>256</permgen>
@@ -72,8 +72,8 @@
          name="Carpenter's Blocks" type="mods" version="2.0.8"
          website="http://www.minecraftforum.net/topic/1790919-" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=YGAB8YNHMQPLQ&amp;lc=US&amp;item_name=Minecraft%20Modding&amp;currency_code=USD&amp;bn=PP%2dDonationsBF%3abtn_donate_SM%2egif%3aNonHosted"
          description="Angles!" />
-	<mod name="Charlotte's Utilities" version="0.3.1"
-		 url="packs/ResonantRiseLite/files/LITE/CharlottesUtilities-0.3.1.zip" file="CharlottesUtilities-0.3.1.zip" md5="8f7b6492dd6e8aaee6270386b6def4a1" download="server"
+    <mod name="Charlotte's Utilities" version="0.5.0b"
+		 url="packs/ResonantRiseLite/files/LITE/CharlottesUtilities-0.5.0b.zip" file="CharlottesUtilities-0.5.0b.zip" md5="df319a070312b94d92d2e8731f696379" download="server" 
 		 type="mods"
 		 website="http://www.minecraftforum.net/topic/2546260-"  authors="Sharshar"
 		 description="Layout guides and prospecting!" />
@@ -144,12 +144,12 @@
 		 type="mods"
 		 website="http://www.minecraftforum.net/topic/1886008-" authors="Stan Hebben"
 		 description="Modpack and server tool enabling the addition and removal of recipes" />
-    <mod url="packs/ResonantRiseLite/files/LITE/MobiusCore_1.2.0.jar" file="MobiusCore_1.2.0.jar" md5="70eb20174ff3ed6ce277035bdcaa808c" download="server"
-         name="Mobius Core" type="mods" version="1.2.0"
+	<mod  url="packs/ResonantRiseLite/files/LITE/MobiusCore_1.2.1.jar" file="MobiusCore_1.2.1.jar" md5="eb582b71cc8aa22dd1b620b07c913eba" download="server"
+         name="Mobius Core" type="mods" version="1.2.1"
          website="http://www.minecraftforum.net/topic/2104497-"
          donation="http://profmobius.blogspot.fr/"
          description="The doctor's toolkit."
-         optional="yes" />
+         optional="yes" recommended="no" />
     <mod url="packs/ResonantRiseLite/files/LITE/Natura_mc1.6.X_2.1.14.jar" file="Natura_mc1.6.X_2.1.14.jar" md5="0b0712e9741829681964e5ab682c74f1" download="server"
          name="Natura"  type="mods"
          version="2.1.14" website="http://www.minecraftforum.net/topic/1753754-15xnatura/" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=56Q7K92KRPW2N&amp;lc=US&amp;item_name=Tinkers%20Construct&amp;bn=PP%2dDonationsBF%3abtn_donate_LG%2egif%3aNonHosted" description="Just enough worldgen to make vanilla worth living."  />
@@ -176,8 +176,8 @@
          name="OpenModsLib" type="mods" version="0.4-snap-184"
          website="http://openmods.info/"
          description="A new coremod for Open Mods!" />
-    <mod url="packs/ResonantRiseLite/files/LITE/Opis_1.2.1.zip" file="Opis_1.2.1.zip" md5="84ba665595d9415081b3dec6bea471a2" download="server"
-         name="Opis" type="mods" group="Cartographer" depends="Mobius Core" version="1.2.1"
+	<mod url="packs/ResonantRiseLite/files/LITE/Opis_1.2.2.zip" file="Opis_1.2.2.zip" md5="0fd82027b3d17c80eef0003139828268" download="server"
+         name="Opis" type="mods" group="Cartographer" depends="Mobius Core" version="1.2.2"
          website="http://www.minecraftforum.net/topic/2104497-"
          donation="http://profmobius.blogspot.fr/"
          description="Opal Map Scanner. Server Doctor. Healer."
@@ -303,12 +303,12 @@
 		 
 		<!-- Special Mode Configs -->
 	<mod name="EiraIRC Client Config" version="n/a"
-		 url="packs/ResonantRiseLite/files/config-switches/eira_client_2.8.3.1.zip" file="eira_client_2.8.3.1.zip" md5="2ffd49cb67a834d81a8020a31984d07e" download="server" 
+		 url="packs/ResonantRiseLite/files/config-switches/eira_client_2.8.3.8.zip" file="eira_client_2.8.3.8.zip" md5="ff1dff09d30ff55409fe47eb1f18af5e" download="server"
 		 type="extract" extractto="root" client="yes" server="no"
 		 website="http://resonant-rise.com"
 		 description="Client-specific configs for EiraIRC." />
 	<mod name="EiraIRC Server Config" version="n/a"
-		 url="packs/ResonantRiseLite/files/config-switches/eira_server_2.8.3.3.zip" file="eira_server_2.8.3.3.zip" md5="aa7fef76ac41c40853066c1eff1a60ea" download="server" 
+		 url="packs/ResonantRiseLite/files/config-switches/eira_server_2.8.3.8.zip" file="eira_server_2.8.3.8.zip" md5="632f7c55df4a50cecefdffd7906be5f7" download="server" 
 		 type="extract" extractto="root" client="no" server="yes"
 		 website="http://resonant-rise.com"
 		 description="Server-specific configs for EiraIRC." />
