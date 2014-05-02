@@ -325,6 +325,7 @@ circuit.mfr.max.4 = Maximum (4-Input)
 circuit.mfr.min.2 = Minimum (2-Input)
 circuit.mfr.min.3 = Minimum (3-Input)
 circuit.mfr.min.4 = Minimum (4-Input)
+circuit.mfr.multiplier = Multiplier
 circuit.mfr.multipulse = Multipulse
 circuit.mfr.mux.16.analog = Mux (15-Input, Analog)
 circuit.mfr.mux.4 = Mux (4-Input)
