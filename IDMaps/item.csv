@@ -468,6 +468,7 @@ ID,Block/Item,Mod,Unlocalised name,Class
 803,Block,QuantumCraft,tile.orequantum,dan200.quantum.shared.BlockQuantumOre
 804,Block,QuantumCraft,tile.orequantum,dan200.quantum.shared.BlockQuantumOre
 805,Block,QuantumCraft,tile.quantumportal,dan200.quantum.shared.BlockQuantumPortal
+890,Block,HardcoreQuesting,tile.hqmItemBarrel,hardcorequesting.blocks.BlockDelivery
 900,Block,AppliedEnergistics,tile.null,appeng.common.base.AppEngMultiBlock
 901,Block,AppliedEnergistics,tile.null,appeng.common.base.AppEngMultiBlock
 902,Block,AppliedEnergistics,tile.null,appeng.common.base.AppEngMultiBlock
@@ -2756,6 +2757,7 @@ ID,Block/Item,Mod,Unlocalised name,Class
 11488,Item,Mekanism,item.BrineBucket,mekanism.common.item.ItemMekanism
 11489,Item,Mekanism,item.null,mekanism.common.item.ItemCrystal
 11490,Item,Mekanism,item.WalkieTalkie,mekanism.common.item.ItemWalkieTalkie
+11493,Item,JAKJ_RedstoneInMotion_HollowCarriages,item.JAKJ_RedstoneInMotion:hollowCarriage,me.planetguy.remaininmotion.fmp.FMPCarriageItem
 11553,Item,Mekanism,item.ArmoredJetpack,mekanism.common.item.ItemJetpack
 11554,Item,Mekanism,item.FreeRunners,mekanism.common.item.ItemFreeRunners
 11556,Item,MekanismGenerators,item.SolarPanel,mekanism.common.item.ItemMekanism
@@ -4060,7 +4062,6 @@ ID,Block/Item,Mod,Unlocalised name,Class
 22574,Item,BiblioWoodsForestry,item.seatBack,jds.bibliocraft.forestrywood.items.ItemSeatBackF5
 23356,Item,JAKJ_RedstoneInMotion,item.JAKJ_RedstoneInMotion_SimpleItemSet,me.planetguy.remaininmotion.SimpleItemSet
 23357,Item,JAKJ_RedstoneInMotion,item.JAKJ_RedstoneInMotion_ToolItemSet,me.planetguy.remaininmotion.ToolItemSet
-23358,Item,JAKJ_RedstoneInMotion,item.null,me.planetguy.remaininmotion.FMPCarriageItem
 23776,Item,EnhancedPortals3,item.wrench,uk.co.shadeddimensions.ep3.item.ItemWrench
 23777,Item,EnhancedPortals3,item.glasses,uk.co.shadeddimensions.ep3.item.ItemGoggles
 23778,Item,EnhancedPortals3,item.nanobrush,uk.co.shadeddimensions.ep3.item.ItemPaintbrush
@@ -4707,6 +4708,9 @@ ID,Block/Item,Mod,Unlocalised name,Class
 28328,Item,xreliquary,item.wraithEye,xreliquary.items.ItemWraithEye
 28330,Item,xreliquary,item.voidSatchel,xreliquary.items.ItemVoidSatchel
 28336,Item,xreliquary,item.emptyVoidTear,xreliquary.items.ItemEmptyVoidTear
+28500,Item,HardcoreQuesting,item.bags,hardcorequesting.items.ItemBag
+28501,Item,HardcoreQuesting,item.hearts,hardcorequesting.items.ItemHeart
+28502,Item,HardcoreQuesting,item.hqmQuestBook,hardcorequesting.items.ItemQuestBook
 28777,Item,HardcoreEnderExpansion,item.gemFragment,chylex.hee.item.ItemGemFragment
 28781,Item,HardcoreEnderExpansion,item.dragonEssence,chylex.hee.item.ItemEssence
 28782,Item,HardcoreEnderExpansion,item.achievementLorePagesIcon,net.minecraft.item.Item
