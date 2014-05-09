@@ -1,0 +1,42 @@
+{
+    "features": {
+        "reportsBlacklist": {
+            "value": []
+        },
+        "haltOnDangerousFiles": {
+            "value": false
+        },
+        "responseBlacklist": {
+            "value": []
+        }
+    },
+    "debug": {
+        "crashOnStartup": {
+            "value": false
+        },
+        "dontSend": {
+            "value": false
+        },
+        "pingOnInitialReport": {
+            "value": false
+        }
+    },
+    "data": {
+        "scanOnly": {
+            "value": false
+        },
+        "tags": {
+            "value": []
+        }
+    },
+    "gui": {
+        "mainScreenExtraLine": {
+            "comment": "Enables extra line in main menu screen under buttons (if true, only note button will be displayed)",
+            "value": true
+        },
+        "mainScreenNotes": {
+            "comment": "Enables OpenEye additions to main menu screen",
+            "value": true
+        }
+    }
+}
