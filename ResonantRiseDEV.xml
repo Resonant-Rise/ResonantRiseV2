@@ -24,8 +24,8 @@
     <!-- Forge and MCPC -->
     <mod url="packs/ResonantRise/files/forgelibs/forge-1.6.4-9.11.1.965-universal.jar" file="forge-1.6.4-9.11.1.965-universal.jar" md5="02efbef58dbd39fccead94777b611fce" download="server"
          name="Forge" type="forge" version="9.11.1.965" website="http://www.minecraftforge.com" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=Z5MLLA62HSUM2" description="The Core." />
-    <mod url="packs/ResonantRise/files/forgelibs/mcpc-plus-1.6.4-R2.1-forge965-B259.jar" file="mcpc-plus-1.6.4-R2.1-forge965-B259.jar" md5="3932a7e0f2b0ec29006ba18ec2e4600c" download="server" 
-         name="MCPC+" type="mcpc" version="B259"
+    <mod url="packs/ResonantRise/files/forgelibs/mcpc-plus-1.6.4-R2.1-forge965-B262.jar" file="mcpc-plus-1.6.4-R2.1-forge965-B262.jar" md5="5b35eba13f7a1df4ca998a8d4257270b" download="server" 
+         name="MCPC+" type="mcpc" version="B262"
          website="http://ci.md-5.net/job/MCPC-Plus/"
          description="Server superweapon!"
          optional="yes" client="no" recommended="no" />
