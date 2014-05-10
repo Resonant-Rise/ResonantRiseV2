@@ -1,6 +1,6 @@
 <version>
   <pack>
-    <version>2.8.3.10-RR-LITE</version>
+    <version>2.8.4.0-RR-LITE</version>
     <minecraft>1.6.4</minecraft>
     <memory>2048</memory>
     <permgen>256</permgen>
@@ -72,8 +72,8 @@
          name="Carpenter's Blocks" type="mods" version="2.0.8"
          website="http://www.minecraftforum.net/topic/1790919-" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=YGAB8YNHMQPLQ&amp;lc=US&amp;item_name=Minecraft%20Modding&amp;currency_code=USD&amp;bn=PP%2dDonationsBF%3abtn_donate_SM%2egif%3aNonHosted"
          description="Angles!" />
-    <mod name="Charlotte's Utilities" version="0.5.1"
-		 url="packs/ResonantRiseLite/files/LITE/CharlottesUtilities-0.5.1.zip" file="CharlottesUtilities-0.5.1.zip" md5="d59452594dbb69fb4f120c9cc53b78de" download="server" 
+    <mod name="Charlotte's Utilities" version="0.6.0"
+		 url="packs/ResonantRiseLite/files/LITE/CharlottesUtilities-0.6.0.zip" file="CharlottesUtilities-0.6.0.zip" md5="a7f2ffefec313439637c57739cb2872a" download="server" 
 		 type="mods"
 		 website="http://www.minecraftforum.net/topic/2546260-"  authors="Sharshar"
 		 description="Layout guides and prospecting!" />
@@ -168,12 +168,17 @@
     <mod url="packs/ResonantRiseLite/files/LITE/NotEnoughKeys-1.6.4-0.0.4.jar" file="NotEnoughKeys-1.6.4-0.0.4.jar" md5="1b9f6f8785e38d50bbfff129dbf90ec2" download="server"
          name="Not Enough Keys" type="mods"
          version="0.0.4" website="http://www.minecraftforum.net/topic/2189371-" description="Critical keybinding configuration improvements."  />
-    <mod url="packs/ResonantRiseLite/files/LITE/OpenBlocks-1.2.7-snapshot-364.jar" file="OpenBlocks-1.2.7-snapshot-364.jar" md5="49d4f2e0adc484edebc01701cc1da504" download="server"
-         name="OpenBlocks" type="mods" version="1.2.7-snap-364"
+    <mod url="packs/ResonantRiseLite/files/LITE/OpenBlocks-1.6.4-1.2.8-snapshot-379.jar" file="OpenBlocks-1.6.4-1.2.8-snapshot-379.jar" md5="6074d8134de3614cb77c0a4d25bdf6d8" download="server" 
+         name="OpenBlocks" type="mods" version="1.2.8-snap-379"
          website="http://openmods.info/"
          description="An amazing open source mode that does amazing things." />
-	<mod url="packs/ResonantRiseLite/files/LITE/OpenModsLib-0.4-snapshot-184.jar" file="OpenModsLib-0.4-snapshot-184.jar" md5="d54fbd0f6c5f4592407ef4e4b7f04961" download="server" 
-         name="OpenModsLib" type="mods" version="0.4-snap-184"
+	<mod name="OpenEye" version="0.2.1-snap-78"
+		 url="packs/ResonantRiseLite/files/LITE/OpenEye-0.2-1.6.4-snapshot-78.jar" file="OpenEye-0.2-1.6.4-snapshot-78.jar" md5="8400ec85e25f87a4c4a86632dd9399cf" download="server"
+		 type="mods"
+		 website="http://openmods.info"
+		 description="Issue tracker to help us find bugs faster (and assign blame correctly)!" />
+	<mod url="packs/ResonantRiseLite/files/LITE/OpenModsLib-1.6.4-0.4-snapshot-196.jar" file="OpenModsLib-1.6.4-0.4-snapshot-196.jar" md5="d45d29f452c60196bacccc128bf30e14" download="server" 
+         name="OpenModsLib" type="mods" version="0.4-snap-196"
          website="http://openmods.info/"
          description="A new coremod for Open Mods!" />
 	<mod url="packs/ResonantRiseLite/files/LITE/Opis_1.2.2.zip" file="Opis_1.2.2.zip" md5="0fd82027b3d17c80eef0003139828268" download="server"
@@ -205,19 +210,24 @@
          version="1.5.1"
          website="http://minecraft.curseforge.com/mc-mods/redstone-paste/" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=XD2DPUTDZEW6U"
          description="Pastey." />
+	<mod name="Refined Relocation" version="1.0.4a"
+		 url="packs/ResonantRiseLite/files/LITE/RefinedRelocation-1.6.4-1.0.4a.jar" file="RefinedRelocation-1.6.4-1.0.4a.jar" md5="b807413cb238a964d9c1230ff22caa35" download="server" 
+		 type="mods"
+		 website="http://www.minecraftforum.net/topic/2210752-" authors="Dynious"
+		 description="Logistics for the timid novice." />
 	<mod name="Simply Jetpacks" version="0.1.4.1"
 		 url="packs/ResonantRiseLite/files/LITE/SimplyJetpacks-0.1.4.1.jar" file="SimplyJetpacks-0.1.4.1.jar" md5="b1df0ddc48e3dfa4b22c5af1dc9f7639" download="server" 
 		 type="mods"
 		 website="http://www.minecraftforum.net/topic/2548594-" authors="tonius11"
 		 description="Jetpacks for Thermal Expansion." />
-	<mod url="packs/ResonantRiseLite/files/LITE/ThermalExpansion-3.0.0.6.jar" file="ThermalExpansion-3.0.0.6.jar" md5="672b89c6af01df3f6aadeb670a8ed86b" download="server" 
-         name="Thermal Expansion" type="mods" depends="CoFH Core" version="3.0.0.6"
+	<mod url="packs/ResonantRiseLite/files/LITE/ThermalExpansion-3.0.0.7.jar" file="ThermalExpansion-3.0.0.7.jar" md5="37470408cb00cb58915615676e6c2207" download="server" 
+         name="Thermal Expansion" type="mods" depends="CoFH Core" version="3.0.0.7"
          website="http://teamcofh.com/"
          description="The hero returns."
          fileprefix="ZZZZY_" />
-    <mod url="packs/ResonantRiseLite/files/LITE/TConstruct_mc1.6.4_1.5.5.5.jar" file="TConstruct_mc1.6.4_1.5.5.5.jar" md5="32f93a22a264b5a8be559977ce7e4e82" download="server" 
+    <mod url="packs/ResonantRiseLite/files/LITE/TConstruct_mc1.6.4_1.5.5.7.jar" file="TConstruct_mc1.6.4_1.5.5.7.jar" md5="b30654109bfa51bbe732ec4c58ebc8bf" download="server" 
          name="Tinker's Construct"  type="mods"
-         version="1.5.5.5"
+         version="1.5.5.7"
          website="http://www.minecraftforum.net/topic/1659892-15xtinkers-construct/" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=56Q7K92KRPW2N&amp;lc=US&amp;item_name=Tinkers%20Construct&amp;bn=PP%2dDonationsBF%3abtn_donate_LG%2egif%3aNonHosted"
          description="Dat Glass, Dem Tools" />
     <mod url="packs/ResonantRiseLite/files/LITE/TMechworks_mc1.6.4_0.1.6.jar" file="TMechworks_mc1.6.4_0.1.6.jar" md5="52b8cf82577bb9e391eb8bc1da7dd2d0" download="server" 
@@ -323,7 +333,7 @@
 		 website="http://resonant-rise.com"
 		 description="Server-specific configs for EiraIRC." />
 	<mod name="MineTweaker Server Patch" version="n/a"
-		 url="packs/ResonantRiseLite/files/config-switches/minetweaker_default_2.8.3.9.zip" file="minetweaker_default_2.8.3.9.zip" md5="6c5f9a87b882d5b005578ea2317ead2a" download="server" 
+		 url="packs/ResonantRiseLite/files/config-switches/minetweaker_default_2.8.3.11.zip" file="minetweaker_default_2.8.3.11.zip" md5="26a60ce402dd297acadd4511f8220c7a" download="server" 
 		 type="extract" extractto="root" client="no" server="yes"
 		 website="http://resonant-rise.com"
 		 description="This correctly applies the MineTweaker changes to servers." />
