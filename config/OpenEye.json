@@ -27,7 +27,7 @@
             "value": 20
         },
         "tags": {
-            "value": []
+            "value": ["RR 2-DEV-142", "RR 2.8.4.1"]
         }
     },
     "gui": {
