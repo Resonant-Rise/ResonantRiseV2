@@ -1,0 +1,43 @@
+{
+    "features": {
+        "reportsBlacklist": {
+            "value": []
+        },
+        "responseBlacklist": {
+            "value": []
+        }
+    },
+    "debug": {
+        "crashOnStartup": {
+            "value": false
+        },
+        "dontSend": {
+            "value": false
+        },
+        "pingOnInitialReport": {
+            "value": false
+        }
+    },
+    "data": {
+        "scanOnly": {
+            "value": false
+        },
+        "sentCrashReportsLimit": {
+            "comment": "Maximum number of crash reports from single category sent per single run",
+            "value": 20
+        },
+        "tags": {
+            "value": ["RR 2-DEV-142", "RR 2.8.4.1"]
+        }
+    },
+    "gui": {
+        "mainScreenExtraLine": {
+            "comment": "Enables extra line in main menu screen under buttons (if true, only note button will be displayed)",
+            "value": true
+        },
+        "mainScreenNotes": {
+            "comment": "Enables OpenEye additions to main menu screen",
+            "value": true
+        }
+    }
+}
