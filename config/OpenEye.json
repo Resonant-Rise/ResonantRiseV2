@@ -3,9 +3,6 @@
         "reportsBlacklist": {
             "value": []
         },
-        "haltOnDangerousFiles": {
-            "value": false
-        },
         "responseBlacklist": {
             "value": []
         }
@@ -24,6 +21,10 @@
     "data": {
         "scanOnly": {
             "value": false
+        },
+        "sentCrashReportsLimit": {
+            "comment": "Maximum number of crash reports from single category sent per single run",
+            "value": 20
         },
         "tags": {
             "value": []

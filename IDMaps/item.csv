@@ -604,9 +604,11 @@ ID,Block/Item,Mod,Unlocalised name,Class
 1276,Block,Mystcraft,tile.myst.crystal,com.xcompwiz.mystcraft.block.BlockCrystal
 1277,Block,Mystcraft,tile.myst.lectern,com.xcompwiz.mystcraft.block.BlockLectern
 1278,Block,Mystcraft,tile.myst.linkmodifier,com.xcompwiz.mystcraft.block.BlockLinkModifier
+1279,Block,Mystcraft,tile.myst.linkportal,com.xcompwiz.mystcraft.block.BlockLinkPortal
 1280,Block,Mystcraft,tile.myst.receptacle,com.xcompwiz.mystcraft.block.BlockBookReceptacle
 1281,Block,Mystcraft,tile.myst.starfissure,com.xcompwiz.mystcraft.block.BlockStarFissure
 1282,Block,Mystcraft,tile.myst.unstable,com.xcompwiz.mystcraft.block.BlockDecay
+1283,Block,Mystcraft,tile.myst.writing_desk,com.xcompwiz.mystcraft.block.BlockWritingDesk
 1284,Block,Mystcraft,tile.myst.inkmixer,com.xcompwiz.mystcraft.block.BlockInkMixer
 1285,Block,Mystcraft,tile.myst.bookbinder,com.xcompwiz.mystcraft.block.BlockBookBinder
 1286,Block,Mystcraft,tile.myst.fluid,com.xcompwiz.mystcraft.block.BlockFluidMyst
