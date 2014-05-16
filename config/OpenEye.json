@@ -20,6 +20,7 @@
     },
     "data": {
         "scanOnly": {
+            "comment": "Send only information about files and crashes - no analytics",
             "value": false
         },
         "sentCrashReportsLimit": {
@@ -27,7 +28,10 @@
             "value": 20
         },
         "tags": {
-            "value": ["RR 2-DEV-142", "RR 2.8.4.1"]
+            "value": [
+                "RR 2-DEV-143",
+                "RR 2.8.5.0"
+            ]
         }
     },
     "gui": {
