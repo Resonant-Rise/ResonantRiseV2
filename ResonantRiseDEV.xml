@@ -1,6 +1,6 @@
 <version>
   <pack>
-    <version>2-DEV-143</version>
+    <version>2-DEV-144</version>
     <minecraft>1.6.4</minecraft>
     <memory>2048</memory>
     <permgen>256</permgen>
@@ -160,7 +160,7 @@
          description="Basically the best decorative mod ever." />
 	<mod name="Chocolate Quest" version="2.091"
 		 url="packs/ResonantRise/files/2-STABLE2/BetterDungeons2091.zip" file="BetterDungeons2091.zip" md5="b7918aa5210ff6a317f9a3ded449f94a" download="server" 
-		 type="mods" website="http://www.minecraftforum.net/topic/746330-" authors="Chocolatin" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=marsalada_saladamar%40hotmail%2ecom&amp;lc=US&amp;no_note=0&amp;currency_code=USD&amp;bn=PP%2dDonationsBF%3abtn_donate_SM%2egif%3aNonHostedGuest" authors="Chocolatin"
+		 type="mods" website="http://www.minecraftforum.net/topic/746330-" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=marsalada_saladamar%40hotmail%2ecom&amp;lc=US&amp;no_note=0&amp;currency_code=USD&amp;bn=PP%2dDonationsBF%3abtn_donate_SM%2egif%3aNonHostedGuest" authors="Chocolatin"
 		 description="The star of the RR 2.7 show! Finally some real adventures!" />
 	<mod url="packs/ResonantRise/files/2.6/CodeChickenCore 0.9.0.9.jar" file="CodeChickenCore 0.9.0.9.jar" md5="d8800f201da7fe01ba1f8127a9a568ff" download="server" 
          name="CodeChickenCore" type="mods"
@@ -280,12 +280,12 @@
     <mod name="Galacticraft Core" version="2.0.12.1010"
          url="packs/ResonantRise/files/2.8/Galacticraft-1.6.4-2.0.12.1010.jar" file="Galacticraft-1.6.4-2.0.12.1010.jar" md5="5d6f7c9c662207f8832faffdf00baebe" download="server" 
          type="mods"
-         website="http://www.micdoodle8.com/mods/galacticraft" authors="micdoodle8" donation="http://www.micdoodle8.com/" authors="micdoodle8"
+         website="http://www.micdoodle8.com/mods/galacticraft" donation="http://www.micdoodle8.com/" authors="micdoodle8"
          description="An advanced space travel mod for Minecraft 1.6" />
     <mod name="Galacticraft Mars" version="2.0.12.1010"
          url="packs/ResonantRise/files/2.8/Galacticraft-Planets-1.6.4-2.0.12.1010.jar" file="Galacticraft-Planets-1.6.4-2.0.12.1010.jar" md5="07bcd703283b20ba7231c19f87810538" download="server"
          type="mods"
-         website="http://www.micdoodle8.com/mods/galacticraft" authors="micdoodle8" donation="http://www.micdoodle8.com/" authors="micdoodle8"
+         website="http://www.micdoodle8.com/mods/galacticraft" donation="http://www.micdoodle8.com/" authors="micdoodle8"
          description="Mars addon for Galacticraft." />
 	<mod url="packs/ResonantRise/files/2.6/GasCraft-2.0.4.3.zip" file="GasCraft-2.0.4.3.zip" md5="d40441f39af2a8cb6ae708804c94ca16" download="server" 
          name="GasCraft" type="mods" version="2.0.4.3"
@@ -297,7 +297,7 @@
          description="The new darling of the Buildcraft fan scene." />
     <mod url="packs/ResonantRise/files/2.6/GravityGun2.0.0.zip" file="GravityGun2.0.0.zip" md5="befe475831348a070dc5dd45de4dd94f" download="server"
 		 name="GraviGun" version="2.0.0"  type="mods" optional="yes"
-		 website="http://ichun.us/mods/gravity-gun/" authors="iChun" donation="http://pitchinbox.com/redirect.php?id=5757827081" authors="iChun"
+		 website="http://ichun.us/mods/gravity-gun/" donation="http://pitchinbox.com/redirect.php?id=5757827081" authors="iChun"
 		 description="Adds the HL2 Gravity Gun to Minecraft" />
 	<mod url="packs/ResonantRise/files/2.6/GregsLighting-1.9.1-mc1.6.4.jar" file="GregsLighting-1.9.1-mc1.6.4.jar" md5="344f0d30e56e544ec793a905cb616558" download="server"
 		 name="Greg&apos;s Lighting" version="1.9.1" type="mods"
@@ -769,10 +769,10 @@
 
 
     <!-- Remote Downloads (General) -->
-    <mod url="http://adf.ly/e4k6f"
+    <mod url="http://minecraft.curseforge.com/mc-mods/51195-railcraft/files/775935/download"
          md5="83C9166BEDF370B7CB393ECA8A8C9C7F"
          file="Railcraft_1.6.4-8.4.0.0.jar"
-         download="browser"
+         download="direct"
          name="Railcraft"
          type="mods" optional="yes"
          version="8.4.0.0"
@@ -787,29 +787,29 @@
         <!-- One mode MUST be a default. -->
 		<!-- Power Settings -->
 	<mod name="Game Mode: Make Powergen Fun" version="n/a"
-		 url="packs/ResonantRise/files/config-switches/power_fun_2.8.0.0.zip" file="power_fun_2.8.0.0.zip" md5="0521ce807be9bd178584600c53c5a49c" download="server" 
+		 url="packs/ResonantRise/files/config-switches/power_fun_2.8.5.0.zip" file="power_fun_2.8.5.0.zip" md5="edcce71f7d6b9fe71bb053e64d40bb29" download="server" 
 		 type="extract" extractto="root" optional="no" selected="yes" recommended="yes"
 		 website="http://resonant-rise.com"
 		 description="Fun power mode increases the output of reactors by 5-11x. Build a reactor and stop worrying!" />
 	<mod name="Game Mode: Make Powergen Fair" version="n/a"
-		 url="packs/ResonantRise/files/config-switches/power_fair_2.8.0.0.zip" file="power_fair_2.8.0.0.zip" md5="cf14b43040ff8b2e9f7e71b0e5908b93" download="server" 
+		 url="packs/ResonantRise/files/config-switches/power_fair_2.8.5.0.zip" file="power_fair_2.8.5.0.zip" md5="6b4c02bceb2113d31bd762d42e515e85" download="server" 
 		 type="extract" extractto="root" optional="yes" selected="no" recommended="no"
 		 website="http://resonant-rise.com"
 		 description="Standard power settings." />
 		 
 		<!-- Oregen Settings -->
 	<mod name="Game Mode: Make Oregen Plentiful" version="n/a"
-		 url="packs/ResonantRise/files/config-switches/oregen_plentiful_2.8.3.9.zip" file="oregen_plentiful_2.8.3.9.zip" md5="0b20a3023c74c36672c53863976ed62d" download="server" 
+		 url="packs/ResonantRise/files/config-switches/oregen_plentiful_2.8.5.0.zip" file="oregen_plentiful_2.8.5.0.zip" md5="151fe4156ebc3f2cb5a033f6350f5c28" download="server" 
 		 type="extract" extractto="root" optional="no" selected="yes" recommended="yes"
 		 website="http://resonant-rise.com"
 		 description="Standard ore generation designed to be accomodating to novices (and fun)!" />
 	<mod name="Game Mode: Make Oregen Scarce" version="n/a"
-		 url="packs/ResonantRise/files/config-switches/oregen_scarce_2.8.3.9.zip" file="oregen_scarce_2.8.3.9.zip" md5="286692e3be5aff85d2b1e7675e559e6c" download="server" 
+		 url="packs/ResonantRise/files/config-switches/oregen_scarce_2.8.5.0.zip" file="oregen_scarce_2.8.5.0.zip" md5="8824d63d06f9a36aacdaa2f7b6a9aced" download="server" 
 		 type="extract" extractto="root" optional="yes" selected="no" recommended="no"
 		 website="http://resonant-rise.com"
 		 description="Ore generation is slashed by half for those who want more of a challenge." />
 	<mod name="Game Mode: Make Oregen Painful" version="n/a"
-		 url="packs/ResonantRise/files/config-switches/oregen_painful_2.8.3.9.zip" file="oregen_painful_2.8.3.9.zip" md5="2082311dbfb4daf8688282b394bf52a4" download="server" 
+		 url="packs/ResonantRise/files/config-switches/oregen_painful_2.8.5.0.zip" file="oregen_painful_2.8.5.0.zip" md5="af67d38c9cc3ae17691254f43c78cbe6" download="server"  
 		 type="extract" extractto="root" optional="yes" selected="no" recommended="no"
 		 website="http://resonant-rise.com"
 		 description="Ore generation is slashed by half AND Copper, Tin and Gold are moved; for people who hate themselves." />
@@ -826,7 +826,7 @@
 		 website="http://resonant-rise.com"
 		 description="Server-specific configs for EiraIRC." />
 	<mod name="MineTweaker Server Patch" version="n/a"
-		 url="packs/ResonantRise/files/config-switches/minetweaker_default_2.8.3.11.zip" file="minetweaker_default_2.8.3.11.zip" md5="26a60ce402dd297acadd4511f8220c7a" download="server" 
+		 url="packs/ResonantRise/files/config-switches/minetweaker_default_2.8.5.0.zip" file="minetweaker_default_2.8.5.0.zip" md5="853c51ad4d830553684d5ccc32d5f32f" download="server" 
 		 type="extract" extractto="root" client="no" server="yes"
 		 website="http://resonant-rise.com"
 		 description="This correctly applies the MineTweaker changes to servers." />
