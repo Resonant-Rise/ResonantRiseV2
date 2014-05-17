@@ -1,6 +1,6 @@
 <version>
   <pack>
-    <version>2.8.5.0-RR-YOGS</version>
+    <version>2.8.5.1-RR-YOGS</version>
     <minecraft>1.6.4</minecraft>
     <memory>2048</memory>
     <permgen>256</permgen>
@@ -390,8 +390,8 @@
          name="Magic Bees" type="mods" version="2.1.12"
          website="http://www.minecraftforum.net/topic/1627856-magic-bees-magic-themed-bees-for-forestry-the-successor-to-thaumicbees/" authors="MysteriousAges"
          description="Bees in the trap." />
-    <mod url="packs/YogscastCompletePack/files/mods/Mariculture-1.6.4-1.2.2b.jar" file="Mariculture-1.6.4-1.2.2b.jar" md5="044e8058fafed72b644587d805f3e298" download="server"
-         name="Mariculture" version="1.2.2b"
+    <mod url="packs/YogscastCompletePack/files/mods/Mariculture-1.6.4-1.2.2c.jar" file="Mariculture-1.6.4-1.2.2c.jar" md5="79657844bc8b3fa3703300b654e75ef0" download="server" 
+         name="Mariculture" version="1.2.2c"
          website="http://www.minecraftforum.net/topic/2049315-" authors="joshie" description="If you're looking for me, look under the sea, because that is where you'll find me." type="mods" />
 	<mod url="packs/YogscastCompletePack/files/mods/Mekanism-6.0.4.35.jar" file="Mekanism-6.0.4.35.jar" md5="c08a15758edd149b9991b092ab4e122a" download="server"
          name="Mekanism" type="mods" version="6.0.4.35" website="http://universalelectricity.com/mekanism" authors="aidancbrady" donation="http://universalelectricity.com/mekanism"
@@ -575,8 +575,8 @@
          version="1.5.1"
          website="http://minecraft.curseforge.com/mc-mods/redstone-paste/" authors="FyberOptic" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=XD2DPUTDZEW6U"
          description="Pastey." />
-    <mod name="Refined Relocation" version="1.0.4d"
-		 url="packs/YogscastCompletePack/files/mods/RefinedRelocation-1.6.4-1.0.4d.jar" file="RefinedRelocation-1.6.4-1.0.4d.jar" md5="3f3a0b20af326d6950a8c15f669dd266" download="server"
+    <mod name="Refined Relocation" version="1.0.4e"
+		 url="packs/YogscastCompletePack/files/mods/RefinedRelocation-1.6.4-1.0.4e.jar" file="RefinedRelocation-1.6.4-1.0.4e.jar" md5="87ea9b34b451e7358c9214dc65680872" download="server" 
 		 type="mods"
 		 website="http://www.minecraftforum.net/topic/2210752-" authors="Dynious"
 		 description="Logistics for the timid novice." />
@@ -819,11 +819,6 @@
                  type="mods" server="no"
                  website="http://www.minecraftforum.net/topic/184426-" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=6T5E6P8L7N6L6" authors="AtomicStryker"
                  description="At long last, intuitive torch gameplay!" />
-        <mod name="Hardcore Questing Mode" version="3.3.1"
-				 url="packs/YogscastCompletePack/files/mods/HQM_-_Party_Hard__3.3.1_.zip" file="HQM_-_Party_Hard__3.3.1_.zip" md5="6315d01657bc0aca19a0ddfde6d97675" download="server"
-				 type="mods"
-				 website="http://minecraft.curseforge.com/mc-mods/hardcore-questing-mode/" authors="lorddusk, Newcastlegeek, Vswe"
-				 description="Custom quests for Minecraft!" />
 		<mod name="Hats" version="2.1.6"
 				 url="packs/YogscastCompletePack/files/mods/Hats2.1.6.zip" file="Hats2.1.6.zip" md5="1eaa44a5283eceb5ae2849e49dd906ac" download="server"
                  type="mods"
