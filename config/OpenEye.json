@@ -8,13 +8,16 @@
         }
     },
     "debug": {
-        "crashOnStartup": {
-            "value": false
-        },
         "dontSend": {
             "value": false
         },
         "pingOnInitialReport": {
+            "value": false
+        },
+        "crashOnStartup": {
+            "value": false
+        },
+        "debugSanitizer": {
             "value": false
         }
     },
@@ -29,8 +32,8 @@
         },
         "tags": {
             "value": [
-                "RR 2-DEV-145",
-                "RR 2.8.5.1"
+                "RR 2-DEV-146",
+                "RR 2.8.6.0-indev"
             ]
         }
     },
