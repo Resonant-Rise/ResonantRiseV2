@@ -1,6 +1,6 @@
 <version>
   <pack>
-    <version>2-DEV-146</version>
+    <version>2-DEV-147</version>
     <minecraft>1.6.4</minecraft>
     <memory>2048</memory>
     <permgen>256</permgen>
@@ -376,8 +376,8 @@
     <mod url="packs/ResonantRise/files/2-STABLE2/liquid-xp-57.1.2.jar" file="liquid-xp-57.1.2.jar" md5="74b3a1edae1362578f4141e9fd1d5e1e" download="server"
          name="Liquid XP" depends="ImmibisCore"  type="mods"
          version="57.1.2" website="http://www.minecraftforum.net/topic/1001131-162-immibiss-mods-smp-now-with-857-less-version-numbers-in-this-title/" authors="immibis" description="Advanced use of XP for auto-enchanting."  />
-    <mod url="packs/ResonantRise/files/2.8/LogisticsPipes-MC1.6.4-0.7.4.dev.209.jar" file="LogisticsPipes-MC1.6.4-0.7.4.dev.209.jar" md5="db477955e29d3d6292af0c3ffeb7c075" download="server" 
-         name="Logistics Pipes" type="mods" version="0.7.4.dev.209" optional="yes" recommended="no"
+    <mod url="packs/ResonantRise/files/2.8/LogisticsPipes-MC1.6.4-0.7.4.dev.216.jar" file="LogisticsPipes-MC1.6.4-0.7.4.dev.216.jar" md5="995303608ee064a8223d19478496128d" download="server" 
+         name="Logistics Pipes" type="mods" version="0.7.4.dev.216" optional="yes" recommended="no"
          website="http://www.minecraftforum.net/topic/1831791-152buildcraft-logistics-pipes/" authors="theZorro266" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=HMEH9HF4Q2RFJ"
          description="Even more amazing pipes." />
     <mod name="Mad Science" version="1.00.154"
@@ -394,8 +394,8 @@
          name="Magic Bees" type="mods" version="2.1.12"
          website="http://www.minecraftforum.net/topic/1627856-magic-bees-magic-themed-bees-for-forestry-the-successor-to-thaumicbees/" authors="MysteriousAges"
          description="Bees in the trap." />
-    <mod url="packs/ResonantRise/files/2.8/Mariculture-1.6.4-1.2.2c.jar" file="Mariculture-1.6.4-1.2.2c.jar" md5="79657844bc8b3fa3703300b654e75ef0" download="server"
-         name="Mariculture" version="1.2.2c"
+    <mod url="packs/ResonantRise/files/2.8/Mariculture-1.6.4-1.2.2d.jar" file="Mariculture-1.6.4-1.2.2d.jar" md5="60b53c4a1c7b50030cf1b99d4b811380" download="server" 
+         name="Mariculture" version="1.2.2d"
          website="http://www.minecraftforum.net/topic/2049315-" authors="joshie" description="If you're looking for me, look under the sea, because that is where you'll find me." type="mods" />
 	<mod url="packs/ResonantRise/files/2.8/Mekanism-6.0.4.43.jar" file="Mekanism-6.0.4.43.jar" md5="fdf5e4fb5f7025e6b6b18f8432915935" download="server" 
          name="Mekanism" type="mods" version="6.0.4.43" website="http://universalelectricity.com/mekanism" authors="aidancbrady" donation="http://universalelectricity.com/mekanism"
@@ -421,8 +421,8 @@
          type="mods"
          website="http://www.micdoodle8.com/" donation="http://www.micdoodle8.com/" authors="micdoodle8"
          description="Galacticraft libraries!" />
-	<mod name="MineChem" version="5.0.5-Dev4"
-		 url="packs/ResonantRise/files/2.8/Minechem-5.0.5-Dev4.jar" file="Minechem-5.0.5-Dev4.jar" md5="7870c90678aa0434bb2286e3f71c60fc" download="server"
+	<mod name="MineChem" version="5.0.5-Dev5"
+		 url="packs/ResonantRise/files/2.8/MineChem-5.0.5-Dev5.jar" file="MineChem-5.0.5-Dev5.jar" md5="80970eeae0bcb2e3b6a049a0d558e3d8" download="server" 
 		 type="mods"
 		 website="http://www.minechemmod.com/joomla/" authors="pixlepix, jakimfett"
 		 description="Chemical industry in Minecraft!" />
@@ -442,8 +442,8 @@
          donation="http://profmobius.blogspot.fr/"
          description="The doctor's toolkit."
          optional="yes" recommended="no" />
-    <mod url="packs/ResonantRise/files/2.8/ModularPowersuits-1.6.4-0.10.0-100.jar" file="ModularPowersuits-1.6.4-0.10.0-100.jar" md5="1bb44bf7856068fa12f0db8af04d26f5" download="server" 
-         name="Modular Powersuits" type="mods" version="0.10.0-100"
+    <mod url="packs/ResonantRise/files/2.8/ModularPowersuits-1.6.4-0.10.0-118.jar" file="ModularPowersuits-1.6.4-0.10.0-118.jar" md5="d7a8e441729cef65614bba79c9724236" download="server"
+         name="Modular Powersuits" type="mods" version="0.10.0-118"
          website="http://www.machinemuse.net" authors="MachineMuse"
          description="Jarvis not included." />
     <mod url="packs/ResonantRise/files/2.8/powersuitaddons-1.6.4-887.jar" file="powersuitaddons-1.6.4-887.jar" md5="a3a638d058eebb3900b19ef612392525" download="server" 
@@ -476,8 +476,8 @@
     <mod url="packs/ResonantRise/files/2.6/NotEnoughKeys-1.6.4-0.0.4.jar" file="NotEnoughKeys-1.6.4-0.0.4.jar" md5="1b9f6f8785e38d50bbfff129dbf90ec2" download="server"
          name="Not Enough Keys" type="mods"
          version="0.0.4" website="http://www.minecraftforum.net/topic/2189371-" authors="Mr. okushama" description="Critical keybinding configuration improvements."  />
-    <mod url="packs/ResonantRise/files/2.8/Numina-1.6.2-0.1.2-57.jar" file="Numina-1.6.2-0.1.2-57.jar" md5="fdd0a02085331e7736d683414e12187d" download="server" 
-         name="Numina" type="mods" version="0.1.2-57"
+    <mod url="packs/ResonantRise/files/2.8/numina-0.3.0.80.jar" file="numina-0.3.0.80.jar" md5="07ac446032eda972ebfe20f3038c0503" download="server"
+         name="Numina" type="mods" version="0.3.0.80"
          website="http://www.machinemuse.net" authors="MachineMuse"
          description="MachineMuse's new API for her mods" />
     <mod url="packs/ResonantRise/files/2-STABLE/obsidiplates-1.6.2-universal-2.0.0.15.jar" file="obsidiplates-1.6.2-universal-2.0.0.15.jar" md5="c64ea8742cd60ef359d36bb84d4b10a5" download="server"
@@ -524,7 +524,12 @@
 		 type="mods"
 		 website="http://www.minecraftforum.net/topic/1580364-" authors="EXTER6"
 		 description="Where was this when we were in BETA?!" />
-    <mod url="packs/ResonantRise/files/2.8/PluginsforForestry-1.6.4-3.2.30-hotfix.jar" file="PluginsforForestry-1.6.4-3.2.30-hotfix.jar" md5="2e707afa16e35138d3c41a2111639c4a" download="server"
+   	<mod name="Particle Physics" version="1.0.1.13"
+		 url="packs/ResonantRise/files/2.8/ParticlePhysics-1.0.1.13.jar" file="ParticlePhysics-1.0.1.13.jar" md5="4e6f23c12ca5e3b9d3e82b67ca6e7932" download="server" 
+		 type="mods"
+		 website="http://www.minechemmod.com/joomla/" authors="jakimfett"
+		 description="Chemical collision in Minecraft!" />
+	<mod url="packs/ResonantRise/files/2.8/PluginsforForestry-1.6.4-3.2.30-hotfix.jar" file="PluginsforForestry-1.6.4-3.2.30-hotfix.jar" md5="2e707afa16e35138d3c41a2111639c4a" download="server"
          name="Plugins for Forestry" type="mods" version="3.2.30-hotfix"
          website="http://www.minecraftforum.net/topic/1253666-152forge-denoflions-mods-threads-condensed/" authors="denoflions" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=INpureProjects%40gmail%2ecom&amp;lc=US&amp;item_name=denoflions%20mods&amp;currency_code=USD&amp;bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted"
          description="UI and content improvements for forestry." />
@@ -596,8 +601,8 @@
          name="Simple Recycling" type="mods" version="57.2.0"
          website="http://www.minecraftforum.net/topic/1001131-" authors="immibis"
          description="Greg-free and easy." />
-	<mod name="Simply Jetpacks" version="0.1.4.1"
-		 url="packs/ResonantRise/files/2.8/SimplyJetpacks-0.1.4.1.jar" file="SimplyJetpacks-0.1.4.1.jar" md5="b1df0ddc48e3dfa4b22c5af1dc9f7639" download="server" 
+	<mod name="Simply Jetpacks" version="0.2.0.1"
+		 url="packs/ResonantRise/files/2.8/SimplyJetpacks-0.2.0.1.jar" file="SimplyJetpacks-0.2.0.1.jar" md5="1b362338e870ee48b92b3e679372b666" download="server" 
 		 type="mods"
 		 website="http://www.minecraftforum.net/topic/2548594-" authors="tonius11"
 		 description="Jetpacks for Thermal Expansion." />
@@ -848,8 +853,8 @@
 				 type="mods"
 				 website="" authors="lorddusk, Newcastlegeek, Vswe"
 				 description="Custom quests for Minecraft!" />
-		<mod name="Hats" version="2.1.6"
-				 url="packs/ResonantRise/files/dev/Hats2.1.6.zip" file="Hats2.1.6.zip" md5="1eaa44a5283eceb5ae2849e49dd906ac" download="server"
+		<mod name="Hats" version="2.1.8"
+				 url="packs/ResonantRise/files/dev/Hats2.1.8.zip" file="Hats2.1.8.zip" md5="21982830153b53a12d5d970baeca226c" download="server" 
                  type="mods"
                  website="http://ichun.us/mods/hats/" donation="http://pitchinbox.com/redirect.php?id=5757827081" authors="iChun"
                  description="Adds a bunch of hats, as wells as the ability to add more, into Minecraft" />

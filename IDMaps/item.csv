@@ -1834,20 +1834,20 @@ ID,Block/Item,Mod,Unlocalised name,Class
 3759,Block,magicalcrops,tile.mCropOil,magicalcrops.magicCrops.mCropOil
 3760,Block,magicalcrops,tile.mCropThaumcraftShard,magicalcrops.magicCrops.mCropThaumcraftShard
 3761,Block,magicalcrops,tile.mCropUranium,magicalcrops.magicCrops.mCropUranium
-3790,Block,minechem,tile.minechem.uraniumOre,pixlepix.minechem.common.blocks.OreUranium
-3802,Block,minechem,tile.minechem.blockMicroscope,pixlepix.minechem.common.blocks.BlockMicroscope
-3803,Block,minechem,tile.blockChemicalDecomposer,pixlepix.minechem.common.blocks.BlockDecomposer
-3804,Block,minechem,tile.minechem.blockSynthesis,pixlepix.minechem.common.blocks.BlockSynthesis
-3805,Block,minechem,tile.minechem.blockBlueprintProjector,pixlepix.minechem.common.blocks.BlockBlueprintProjector
-3806,Block,minechem,tile.block.minechemGhostBlock,pixlepix.minechem.common.blocks.BlockGhostBlock
-3807,Block,minechem,tile.minechem.blockFusion,pixlepix.minechem.common.blocks.BlockFusion
-3808,Block,minechem,tile.minechem.blockChemicalStorage,pixlepix.minechem.common.blocks.BlockChemicalStorage
-3810,Block,minechem-particlephysics,tile.Series Receptor,pixlepix.minechem.particlephysics.blocks.SeriesReceptor
-3811,Block,minechem-particlephysics,tile.Control Glass,pixlepix.minechem.particlephysics.blocks.ControlGlass
-3812,Block,minechem-particlephysics,tile.Infinite Emitter,pixlepix.minechem.particlephysics.blocks.InfiniteEmitter
-3818,Block,minechem-particlephysics,tile.Emitter,pixlepix.minechem.particlephysics.blocks.Emitter
-3819,Block,minechem-particlephysics,tile.Polarized Glass,pixlepix.minechem.particlephysics.blocks.PolarizedGlass
-3821,Block,minechem,tile.container.leadedchest,pixlepix.minechem.common.blocks.BlockLeadedChest
+3790,Block,minechem,tile.minechem.uraniumOre,minechem.block.uranium.BlockUraniumOre
+3802,Block,minechem,tile.minechem.blockMicroscope,minechem.tileentity.microscope.MicroscopeBlock
+3803,Block,minechem,tile.blockChemicalDecomposer,minechem.tileentity.decomposer.DecomposerBlock
+3804,Block,minechem,tile.minechem.blockSynthesis,minechem.tileentity.synthesis.SynthesisBlock
+3805,Block,minechem,tile.minechem.blockBlueprintProjector,minechem.tileentity.blueprintprojector.BlueprintProjectorBlock
+3806,Block,minechem,tile.block.minechemGhostBlock,minechem.tileentity.multiblock.ghostblock.GhostBlock
+3807,Block,minechem,tile.minechem.blockFusion,minechem.tileentity.multiblock.fusion.FusionBlock
+3808,Block,minechem,tile.minechem.blockChemicalStorage,minechem.tileentity.chemicalstorage.ChemicalStorageBlock
+3810,Block,particlephysics,tile.SeriesReceptor,particlephysics.blocks.SeriesReceptor
+3811,Block,particlephysics,tile.ControlGlass,particlephysics.blocks.ControlGlass
+3812,Block,particlephysics,tile.InfiniteEmitter,particlephysics.blocks.InfiniteEmitter
+3818,Block,particlephysics,tile.Emitter,particlephysics.blocks.Emitter
+3819,Block,particlephysics,tile.PolarizedGlass,particlephysics.blocks.PolarizedGlass
+3821,Block,minechem,tile.container.leadedchest,minechem.tileentity.leadedchest.LeadedChestBlock
 3901,Block,HardcoreEnderExpansion,tile.templeEndPortal,chylex.hee.block.BlockTempleEndPortal
 3902,Block,HardcoreEnderExpansion,tile.mobSpawner,chylex.hee.block.BlockCustomSpawner
 3903,Block,HardcoreEnderExpansion,tile.laserBeam,chylex.hee.block.BlockLaserBeam
@@ -2506,7 +2506,11 @@ ID,Block/Item,Mod,Unlocalised name,Class
 8322,Item,simplyjetpacks,item.simplyjetpacks.jetpackTier2,tonius.simplyjetpacks.item.ItemSJJetpack
 8323,Item,simplyjetpacks,item.simplyjetpacks.jetpackTier3,tonius.simplyjetpacks.item.ItemSJJetpack
 8324,Item,simplyjetpacks,item.simplyjetpacks.jetpackTier4,tonius.simplyjetpacks.item.ItemSJJetpack
-8325,Item,simplyjetpacks,item.simplyjetpacks.metaItem1,tonius.simplyjetpacks.item.ItemSJSimpleMeta
+8325,Item,simplyjetpacks,item.simplyjetpacks.metaItem1,tonius.simplyjetpacks.item.ItemSJMeta1
+8330,Item,simplyjetpacks,item.simplyjetpacks.jetpackArmoredTier1,tonius.simplyjetpacks.item.ItemSJJetpackArmored
+8331,Item,simplyjetpacks,item.simplyjetpacks.jetpackArmoredTier2,tonius.simplyjetpacks.item.ItemSJJetpackArmored
+8332,Item,simplyjetpacks,item.simplyjetpacks.jetpackArmoredTier3,tonius.simplyjetpacks.item.ItemSJJetpackArmored
+8333,Item,simplyjetpacks,item.simplyjetpacks.jetpackArmoredTier4,tonius.simplyjetpacks.item.ItemSJJetpackArmored
 8457,Item,ThermalExpansion,item.thermalexpansion.tool,thermalexpansion.item.tool.ItemWrench
 8458,Item,ThermalExpansion,item.thermalexpansion.tool,thermalexpansion.item.tool.ItemMultimeter
 8459,Item,ThermalExpansion,item.thermalexpansion.bucket,thermalexpansion.item.tool.ItemBucket
@@ -3847,15 +3851,14 @@ ID,Block/Item,Mod,Unlocalised name,Class
 20473,Item,arsmagica2,item.arsmagica2:cowhorn,am2.items.ItemHellCowHorn
 20476,Item,arsmagica2,item.arsmagica2:keystoneDoor,am2.items.ItemKeystoneDoor
 20506,Item,arsmagica2,item.arsmagica2:mana_potion_bundle,am2.items.ItemManaPotionBundle
-20892,Item,minechem,item.minechem.itemElement,pixlepix.minechem.common.items.ItemElement
-20893,Item,minechem,item.minechem.itemMolecule,pixlepix.minechem.common.items.ItemMolecule
-20894,Item,minechem,item.minechem.itemLens,pixlepix.minechem.common.items.ItemLens
-20895,Item,minechem,item.minechem.itemAtomicManipulator,pixlepix.minechem.common.items.ItemAtomicManipulator
-20896,Item,minechem,item.name.fusionStar,pixlepix.minechem.common.items.ItemFusionStar
-20897,Item,minechem,item.minechem.itemBlueprint,pixlepix.minechem.common.items.ItemBlueprint
-20899,Item,minechem,item.minechem.itemChemistJournal,pixlepix.minechem.common.items.ItemChemistJournal
-20905,Item,minechem,item.minechem.itempill,pixlepix.minechem.common.items.ItemPills
-20906,Item,minechem,item.Polytool,pixlepix.minechem.common.polytool.ItemPolytool
+20892,Item,minechem,item.minechem.itemElement,minechem.item.element.ElementItem
+20893,Item,minechem,item.minechem.itemMolecule,minechem.item.molecule.MoleculeItem
+20894,Item,minechem,item.minechem.itemLens,minechem.item.ItemLens
+20895,Item,minechem,item.minechem.itemAtomicManipulator,minechem.item.ItemAtomicManipulator
+20896,Item,minechem,item.minechem.itemFusionStar,minechem.item.fusionstar.FusionStarItem
+20897,Item,minechem,item.minechem.itemBlueprint,minechem.item.blueprint.ItemBlueprint
+20899,Item,minechem,item.minechem.itemChemistJournal,minechem.item.chemistjournal.ChemistJournalItem
+20906,Item,minechem,item.Polytool,minechem.item.polytool.PolytoolItem
 21256,Item,MineFactoryReloaded,item.mfr.syringe.health,powercrystals.minefactoryreloaded.item.ItemSyringeHealth
 21257,Item,MineFactoryReloaded,item.mfr.syringe.growth,powercrystals.minefactoryreloaded.item.ItemSyringeGrowth
 21258,Item,MineFactoryReloaded,item.mfr.rubber.raw,powercrystals.minefactoryreloaded.item.ItemFactory
