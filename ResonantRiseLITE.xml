@@ -1,6 +1,6 @@
 <version>
   <pack>
-    <version>2.8.5.1-RR-LITE</version>
+    <version>2.8.6.0-RR-LITE</version>
     <minecraft>1.6.4</minecraft>
     <memory>2048</memory>
     <permgen>256</permgen>
@@ -61,18 +61,18 @@
          name="Binnie's Mods" type="mods" version="1.8.0"
          website="http://www.minecraftforum.net/topic/1324321-" authors="Binnie" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=KQWXKT6KK7SH4"
          description="Extensions for Forestry" />
-    <mod url="packs/ResonantRiseLite/files/LITE/Blood Magic v1.0.1d.zip" file="Blood Magic v1.0.1d.zip" md5="7236cef547ca30c071b04820f371fa40" download="server" 
-         name="Blood Magic" type="mods" website="http://www.minecraftforum.net/topic/1899223-" authors="WayOfTime" version="1.0.1d" description="Alphonse, not nose piercing."/>
+    <mod url="packs/ResonantRiseLite/files/LITE/Blood Magic v1.0.1e.zip" file="Blood Magic v1.0.1e.zip" md5="bb2653553a247a7870c29c43707e42ee" download="server" 
+         name="Blood Magic" type="mods" website="http://www.minecraftforum.net/topic/1899223-" authors="WayOfTime" version="1.0.1e" description="Alphonse, not nose piercing."/>
 	<mod url="packs/ResonantRiseLite/files/LITE/buildcraft-A-1.6.4-4.2.2.jar" file="buildcraft-A-1.6.4-4.2.2.jar" md5="3d2b0dad2291f1c0bb0c5b8c96303b68" download="server"
          name="Buildcraft" type="mods"  version="4.2.2"
          website="http://www.mod-buildcraft.com/" authors="SpaceToad, Krapht, SirSengir, CovertJaguar" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=KQWXKT6KK7SH4"
          description="Burning oil forever." />
-	<mod url="packs/ResonantRiseLite/files/LITE/Carpenters Blocks v2.0.8 - MC 1.6.zip" file="Carpenters Blocks v2.0.8 - MC 1.6.zip" md5="d47676f5081f03503006efbf32c8f089" download="server" 
-         name="Carpenter's Blocks" type="mods" version="2.0.8"
+	<mod url="packs/ResonantRiseLite/files/LITE/Carpenters Blocks v2.1.0 - MC 1.6.zip" file="Carpenters Blocks v2.1.0 - MC 1.6.zip" md5="1003cbbea391326c83a26bcadb62ecb4" download="server" 
+         name="Carpenter's Blocks" type="mods" version="2.1.0"
          website="http://www.minecraftforum.net/topic/1790919-" authors="Mineshopper" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=YGAB8YNHMQPLQ&amp;lc=US&amp;item_name=Minecraft%20Modding&amp;currency_code=USD&amp;bn=PP%2dDonationsBF%3abtn_donate_SM%2egif%3aNonHosted"
          description="Angles!" />
-    <mod name="Charlotte's Utilities" version="0.6.0"
-		 url="packs/ResonantRiseLite/files/LITE/CharlottesUtilities-0.6.0.zip" file="CharlottesUtilities-0.6.0.zip" md5="a7f2ffefec313439637c57739cb2872a" download="server" 
+    <mod name="Charlotte's Utilities" version="0.7.0"
+		 url="packs/ResonantRiseLite/files/LITE/CharlottesUtilities-0.7.0.zip" file="CharlottesUtilities-0.7.0.zip" md5="16543f55e94bead6665dd074f1a1cc75" download="server" 
 		 type="mods"
 		 website="http://www.minecraftforum.net/topic/2546260-"  authors="Sharshar"
 		 description="Layout guides and prospecting!" />
@@ -137,15 +137,15 @@
          website="http://profmobius.blogspot.fr/2013/11/jabba-100.html" authors="ProfMobius"
          donation="http://profmobius.blogspot.fr/"
          description="Just a Better Barrel Addon." />
-	<mod url="packs/ResonantRiseLite/files/LITE/Mekanism-6.0.4.35.jar" file="Mekanism-6.0.4.35.jar" md5="c08a15758edd149b9991b092ab4e122a" download="server"
-         name="Mekanism" type="mods" version="6.0.4.35" website="http://universalelectricity.com/mekanism" authors="aidancbrady" donation="http://universalelectricity.com/mekanism"
+	<mod url="packs/ResonantRiseLite/files/LITE/Mekanism-6.0.4.43.jar" file="Mekanism-6.0.4.43.jar" md5="fdf5e4fb5f7025e6b6b18f8432915935" download="server" 
+         name="Mekanism" type="mods" version="6.0.4.43" website="http://universalelectricity.com/mekanism" authors="aidancbrady" donation="http://universalelectricity.com/mekanism"
 		 description="Osmium also cures light wounds."  />
-    <mod url="packs/ResonantRiseLite/files/LITE/MekanismGenerators-6.0.4.35.jar" file="MekanismGenerators-6.0.4.35.jar" md5="0a7c659feff685b23d8b791a2ebd98e4" download="server" 
-		 name="Mekanism Generators" type="mods" version="6.0.4.35"
+    <mod url="packs/ResonantRiseLite/files/LITE/MekanismGenerators-6.0.4.43.jar" file="MekanismGenerators-6.0.4.43.jar" md5="ee6bc19e7ddc8f1963fd9cc6ed9e3e49" download="server" 
+		 name="Mekanism Generators" type="mods" version="6.0.4.43"
 		 depends="Mekanism"
 		 website="http://universalelectricity.com/mekanism" donation="http://universalelectricity.com/mekanism" authors="aidancbrady" description="Infinite water is infinite power!" />
-    <mod url="packs/ResonantRiseLite/files/LITE/MekanismTools-6.0.4.35.jar" file="MekanismTools-6.0.4.35.jar" md5="0071ad831ed2b3d0a737063b2bbd19cd" download="server"
-         name="Mekanism Tools" type="mods" version="6.0.4.35"
+    <mod url="packs/ResonantRiseLite/files/LITE/MekanismTools-6.0.4.43.jar" file="MekanismTools-6.0.4.43.jar" md5="5f8cecdadae0cc4160087705cd28758c" download="server" 
+         name="Mekanism Tools" type="mods" version="6.0.4.43"
          depends="Mekanism"
 		 website="http://universalelectricity.com/mekanism" donation="http://universalelectricity.com/mekanism" authors="aidancbrady" description="Paxel perfect." />
 	<mod url="packs/ResonantRiseLite/files/LITE/MineFactoryReloaded-2.7.9-final.jar" file="MineFactoryReloaded-2.7.9-final.jar" md5="65f2499d749c18f8e9ca3b9cd0576da0" download="server" 
@@ -186,17 +186,17 @@
          name="Obsidiplates" type="mods"  version="2.0.0.15"
          website="http://forum.feed-the-beast.com/threads/myrathis-mod-compendium.18505/" authors="Myrathi"
          description="Improved pressure plates. Creepers will never open your door again."  />
-    <mod url="packs/ResonantRiseLite/files/LITE/OpenBlocks-1.6.4-1.2.8-snapshot-387.jar" file="OpenBlocks-1.6.4-1.2.8-snapshot-387.jar" md5="331ffb7cdac4227dc5cb2ebbae3084e5" download="server" 
-         name="OpenBlocks" type="mods" version="1.2.8-snap-387"
+    <mod url="packs/ResonantRiseLite/files/LITE/OpenBlocks-1.2.8.jar" file="OpenBlocks-1.2.8.jar" md5="551c6b2418ba4c38e2203996e14d82cb" download="server" 
+         name="OpenBlocks" type="mods" version="1.2.8"
          website="http://openmods.info/" authors="Mikee, boq, OpenMods Team"
          description="An amazing open source mode that does amazing things." />
-	<mod name="OpenEye" version="0.4-snap-107"
-		 url="packs/ResonantRiseLite/files/LITE/OpenEye-0.4-1.6.4-snapshot-107.jar" file="OpenEye-0.4-1.6.4-snapshot-107.jar" md5="63c31a6a7c0466e959715ffe71373cbc" download="server" 
+	<mod name="OpenEye" version="0.5"
+		 url="packs/ResonantRiseLite/files/LITE/OpenEye-0.5-1.6.4.jar" file="OpenEye-0.5-1.6.4.jar" md5="22ef0386ca89c3d584a03f14d4a8bef7" download="server"
 		 type="mods" optional="yes" recommended="yes" selected="yes"
 		 website="http://openmods.info" authors="Mikee, boq, OpenMods Team"
 		 description="Issue tracker to help us find bugs faster (and assign blame correctly)!" />
-	<mod url="packs/ResonantRiseLite/files/LITE/OpenModsLib-1.6.4-0.4-snapshot-197.jar" file="OpenModsLib-1.6.4-0.4-snapshot-197.jar" md5="6b86167cd0500621acc594ac46365518" download="server" 
-         name="OpenModsLib" type="mods" version="0.4-snap-197"
+	<mod url="packs/ResonantRiseLite/files/LITE/OpenModsLib-0.5.jar" file="OpenModsLib-0.5.jar" md5="644a4ee36e40012f2aae3e3bebc60c90" download="server" 
+         name="OpenModsLib" type="mods" version="0.5"
          website="http://openmods.info/" authors="Mikee, boq, OpenMods Team"
          description="A new coremod for Open Mods!" />
 	<mod url="packs/ResonantRiseLite/files/LITE/Opis_1.2.2.zip" file="Opis_1.2.2.zip" md5="0fd82027b3d17c80eef0003139828268" download="server"
@@ -233,8 +233,8 @@
 		 type="mods"
 		 website="http://www.minecraftforum.net/topic/2210752-" authors="Dynious"
 		 description="Logistics for the timid novice." />
-	<mod name="Simply Jetpacks" version="0.1.4.1"
-		 url="packs/ResonantRiseLite/files/LITE/SimplyJetpacks-0.1.4.1.jar" file="SimplyJetpacks-0.1.4.1.jar" md5="b1df0ddc48e3dfa4b22c5af1dc9f7639" download="server" 
+	<mod name="Simply Jetpacks" version="0.2.0.1"
+		 url="packs/ResonantRiseLite/files/LITE/SimplyJetpacks-0.2.0.1.jar" file="SimplyJetpacks-0.2.0.1.jar" md5="1b362338e870ee48b92b3e679372b666" download="server" 
 		 type="mods"
 		 website="http://www.minecraftforum.net/topic/2548594-" authors="tonius11"
 		 description="Jetpacks for Thermal Expansion." />
@@ -261,8 +261,8 @@
          website="http://www.minecraftforum.net/topic/1846244-152-waila-134-block-and-mod-info-ingame/" authors="ProfMobius"
          donation="http://profmobius.blogspot.fr/"
          description="What am I looking at?" />
-    <mod url="packs/ResonantRiseLite/files/LITE/witchery-1.6.4-0.18.3.zip" file="witchery-1.6.4-0.18.3.zip" md5="842085677148019e82608da25cfda10a" download="server"
-         name="Witchery" type="mods" version="0.18.3"
+    <mod url="packs/ResonantRiseLite/files/LITE/witchery-1.6.4-0.18.4.zip" file="witchery-1.6.4-0.18.4.zip" md5="1538996132c89cab541599ba302154c9" download="server" 
+         name="Witchery" type="mods" version="0.18.4"
          website="https://sites.google.com/site/witcherymod/home" authors="Emoniph" description="More magic with a witch's bent!"
          />
 
@@ -316,7 +316,7 @@
          file="Railcraft_1.6.4-8.4.0.0.jar"
          download="direct"
          name="Railcraft"
-         type="mods" optional="yes"
+         type="mods" optional="no"
          version="8.4.0.0"
          website="http://www.railcraft.info/"
 		 authors="CovertJaguar"
