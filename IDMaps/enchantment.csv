@@ -11,9 +11,9 @@ ID,Unlocalised name,Type,Min Level,Max Level,Class
 9,enchantment.Potassium Cyanide Coated,weapon,1,10,minechem.potion.PotionEnchantmentCoated
 10,enchantment.Methamphetamine Coated,weapon,1,10,minechem.potion.PotionEnchantmentCoated
 11,enchantment.Psilocybin Coated,weapon,1,10,minechem.potion.PotionEnchantmentCoated
-12,enchantment.Alanine (amino acid) Coated,weapon,1,10,minechem.potion.PotionEnchantmentCoated
-13,enchantment.Glycine (amino acid) Coated,weapon,1,10,minechem.potion.PotionEnchantmentCoated
-14,enchantment.Serine  (amino acid) Coated,weapon,1,10,minechem.potion.PotionEnchantmentCoated
+12,enchantment.Alanine Coated,weapon,1,10,minechem.potion.PotionEnchantmentCoated
+13,enchantment.Glycine Coated,weapon,1,10,minechem.potion.PotionEnchantmentCoated
+14,enchantment.Serine Coated,weapon,1,10,minechem.potion.PotionEnchantmentCoated
 15,enchantment.Mescaline Coated,weapon,1,10,minechem.potion.PotionEnchantmentCoated
 16,enchantment.damage.all,weapon,1,5,net.minecraft.enchantment.EnchantmentDamage
 17,enchantment.damage.undead,weapon,1,5,net.minecraft.enchantment.EnchantmentDamage
@@ -29,16 +29,16 @@ ID,Unlocalised name,Type,Min Level,Max Level,Class
 27,enchantment.Penicillin Coated,weapon,1,10,minechem.potion.PotionEnchantmentCoated
 28,enchantment.Testosterone Coated,weapon,1,10,minechem.potion.PotionEnchantmentCoated
 29,enchantment.Fingolimod Coated,weapon,1,10,minechem.potion.PotionEnchantmentCoated
-30,enchantment.Arginine (amino acid) Coated,weapon,1,10,minechem.potion.PotionEnchantmentCoated
+30,enchantment.Arginine Coated,weapon,1,10,minechem.potion.PotionEnchantmentCoated
 31,enchantment.Shikimic Acid Coated,weapon,1,10,minechem.potion.PotionEnchantmentCoated
 32,enchantment.digging,digger,1,5,net.minecraft.enchantment.EnchantmentDigging
 33,enchantment.untouching,digger,1,1,net.minecraft.enchantment.EnchantmentUntouching
 34,enchantment.durability,digger,1,3,net.minecraft.enchantment.EnchantmentDurability
 35,enchantment.lootBonusDigger,digger,1,3,net.minecraft.enchantment.EnchantmentLootBonus
 36,enchantment.Aspirin Coated,weapon,1,10,minechem.potion.PotionEnchantmentCoated
-37,enchantment.Mycotoxin Coated,weapon,1,10,minechem.potion.PotionEnchantmentCoated
+37,enchantment.T-2 Mycotoxin Coated,weapon,1,10,minechem.potion.PotionEnchantmentCoated
 38,enchantment.Nodularin Coated,weapon,1,10,minechem.potion.PotionEnchantmentCoated
-39,enchantment.TTX (Tetrodotoxin) Coated,weapon,1,10,minechem.potion.PotionEnchantmentCoated
+39,enchantment.Tetrodotoxin Coated,weapon,1,10,minechem.potion.PotionEnchantmentCoated
 40,enchantment.THC Coated,weapon,1,10,minechem.potion.PotionEnchantmentCoated
 41,enchantment.Phosgene Coated,weapon,1,10,minechem.potion.PotionEnchantmentCoated
 42,enchantment.Diphenhydramine Coated,weapon,1,10,minechem.potion.PotionEnchantmentCoated
@@ -51,12 +51,12 @@ ID,Unlocalised name,Type,Min Level,Max Level,Class
 49,enchantment.arrowKnockback,bow,1,2,net.minecraft.enchantment.EnchantmentArrowKnockback
 50,enchantment.arrowFire,bow,1,1,net.minecraft.enchantment.EnchantmentArrowFire
 51,enchantment.arrowInfinite,bow,1,1,net.minecraft.enchantment.EnchantmentArrowInfinite
-52,enchantment.Cocaine HCL Coated,weapon,1,10,minechem.potion.PotionEnchantmentCoated
+52,enchantment.Cocaine Hydrochloride Coated,weapon,1,10,minechem.potion.PotionEnchantmentCoated
 53,enchantment.Methylene Blue Coated,weapon,1,10,minechem.potion.PotionEnchantmentCoated
 54,enchantment.Methyl Alcohol Coated,weapon,1,10,minechem.potion.PotionEnchantmentCoated
 55,enchantment.Radium Chloride Coated,weapon,1,10,minechem.potion.PotionEnchantmentCoated
 56,enchantment.Caulerpenyne Coated,weapon,1,10,minechem.potion.PotionEnchantmentCoated
-57,enchantment.L-hyoscyamine Coated,weapon,1,10,minechem.potion.PotionEnchantmentCoated
+57,enchantment.Hyoscyamine Coated,weapon,1,10,minechem.potion.PotionEnchantmentCoated
 66,enchantment.cluster,digger,1,4,com.spiteful.forbidden.enchantments.EnchantmentCluster
 67,enchantment.pigbane,weapon,1,5,com.spiteful.forbidden.enchantments.EnchantmentPigBane
 68,enchantment.greedy,weapon,1,1,com.spiteful.forbidden.enchantments.EnchantmentGreedy
