@@ -1,6 +1,6 @@
 <version>
   <pack>
-    <version>2.8.6.0-RR-LITE</version>
+    <version>2.8.7.1-RR-LITE</version>
     <minecraft>1.6.4</minecraft>
     <memory>2048</memory>
     <permgen>256</permgen>
@@ -24,10 +24,10 @@
     <!-- Forge and MCPC -->
     <mod url="packs/ResonantRiseLite/files/forgelibs/forge-1.6.4-9.11.1.965-universal.jar" file="forge-1.6.4-9.11.1.965-universal.jar" md5="02efbef58dbd39fccead94777b611fce" download="server"
          name="Forge" type="forge" version="9.11.1.965" authors="LexManos, cpw and the many, many contributors!" website="http://www.minecraftforge.com" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=Z5MLLA62HSUM2" description="The Core." />
-    <mod url="packs/ResonantRiseLite/files/forgelibs/mcpc-plus-1.6.4-R2.1-forge965-B262.jar" file="mcpc-plus-1.6.4-R2.1-forge965-B262.jar" md5="5b35eba13f7a1df4ca998a8d4257270b" download="server" 
-         name="MCPC+" type="mcpc" version="B262"
+    <mod url="packs/ResonantRiseLite/files/forgelibs/mcpc-plus-1.6.4-R2.1-forge965-B269.jar" file="mcpc-plus-1.6.4-R2.1-forge965-B269.jar" md5="2b5fe107c0e412c02a0e8c1c143c50e4" download="server"
+         name="Cauldron [formerly MCPC+]" type="mcpc" version="B269"
          website="http://ci.md-5.net/job/MCPC-Plus/" authors="MCPC Team"
-         description="Server superweapon!"
+         description="Server superweapon! Hopefully not leaking your megahertz everywhere."
          optional="yes" client="no" recommended="no" />
 	
 	<!-- Dependencies (as classed by ATL) -->
@@ -45,6 +45,11 @@
 	<mod url="packs/ResonantRiseLite/files/deps/denLibFiles.zip" file="denLibFiles.zip" md5="40bc48b1c3c81a51bcb27b03e5bc5e32" download="server"
          name="denLib Utils" type="extract" extractto="root" version="n/a"
 		 website="http://www.minecraftforum.net/topic/1253666-152forge-denoflions-mods-threads-condensed/" description="Because waiting five seconds is for suckers."  />
+ 	<mod name="Java 7 Checker" version="n/a"
+		 url="packs/ResonantRiseLite/files/deps/Java7Checker.zip" file="Java7Checker.zip" md5="77c1c8a47aec076a807082e733460b74" download="server"
+		 type="mods"
+		 website="http://hardcore-enderdragon.wikia.com/wiki/Home" authors="chylex"
+		 description="Checks for Java 7. Should hopefully help with the fact that 90% of our bug reports are people trying to use Java 6." />
 	
 	
     <!-- Mods (Alphabetized) -->
@@ -88,8 +93,8 @@
          website="http://teamcofh.com/" authors="KingLemming, Team CoFH"
          description="The hero's great legacy follows him."
          fileprefix="00002_" />
-    <mod url="packs/ResonantRiseLite/files/LITE/DartCraft Beta 0.2.18.jar" file="DartCraft Beta 0.2.18.jar" md5="30ae9f56c9a9582012147c024aa545ae" download="server"
-         name="DartCraft" type="mods"  version="0.2.18"
+    <mod url="packs/ResonantRiseLite/files/LITE/DartCraft Beta 0.2.19v4.jar" file="DartCraft Beta 0.2.19v4.jar" md5="2db7627111e153235f1c3d9f945c03c5" download="server"
+         name="DartCraft" type="mods"  version="0.2.19v4"
          website="http://www.minecraftforum.net/topic/1686840-151-152-dartcraft-beta-0118/" authors="BlueDart"
          description="Convenience is king."
          fileprefix="00001_" />
@@ -106,8 +111,8 @@
 		 type="mods" optional="yes" recommended="no"
 		 website="http://www.minecraftforum.net/topic/1964989-" authors="blay09"
 		 description="An IRC Connector that works both on clients and servers independently, with some neat special features." />
-    <mod url="packs/ResonantRiseLite/files/LITE/EnhancedPortals-1.6.4-3.0.0b5e.jar" file="EnhancedPortals-1.6.4-3.0.0b5e.jar" md5="d29f2f0dd37222bf79ad154cbd0a0551" download="server" 
-         name="EnhancedPortals 3" type="mods" version="3.0.0b5e"
+    <mod url="packs/ResonantRiseLite/files/LITE/EnhancedPortals_1.6.4-universal-3.0.0b-final2.jar" file="EnhancedPortals_1.6.4-universal-3.0.0b-final2.jar" md5="6a096ce4a05de600d990b3c6290d8b15" download="server"
+         name="EnhancedPortals 3" type="mods" version="3.0.0b-final2"
          website="http://www.minecraftforum.net/topic/2143651-" authors="Alz454"
          description="Custom teleportation that looks fancier!" />
     <mod url="packs/ResonantRiseLite/files/LITE/extrautils-1.0.3c.zip" file="extrautils-1.0.3c.zip" md5="9eb5200ff895be6b95c62a26ba7d9a53" download="server"
@@ -137,15 +142,15 @@
          website="http://profmobius.blogspot.fr/2013/11/jabba-100.html" authors="ProfMobius"
          donation="http://profmobius.blogspot.fr/"
          description="Just a Better Barrel Addon." />
-	<mod url="packs/ResonantRiseLite/files/LITE/Mekanism-6.0.4.43.jar" file="Mekanism-6.0.4.43.jar" md5="fdf5e4fb5f7025e6b6b18f8432915935" download="server" 
-         name="Mekanism" type="mods" version="6.0.4.43" website="http://universalelectricity.com/mekanism" authors="aidancbrady" donation="http://universalelectricity.com/mekanism"
+	<mod url="packs/ResonantRiseLite/files/LITE/Mekanism-6.0.4.44.jar" file="Mekanism-6.0.4.44.jar" md5="472c3b5bc3510f3bba0f3cb1b71fcb50" download="server" 
+         name="Mekanism" type="mods" version="6.0.4.44" website="http://universalelectricity.com/mekanism" authors="aidancbrady" donation="http://universalelectricity.com/mekanism"
 		 description="Osmium also cures light wounds."  />
-    <mod url="packs/ResonantRiseLite/files/LITE/MekanismGenerators-6.0.4.43.jar" file="MekanismGenerators-6.0.4.43.jar" md5="ee6bc19e7ddc8f1963fd9cc6ed9e3e49" download="server" 
-		 name="Mekanism Generators" type="mods" version="6.0.4.43"
+    <mod url="packs/ResonantRiseLite/files/LITE/MekanismGenerators-6.0.4.44.jar" file="MekanismGenerators-6.0.4.44.jar" md5="f3773c7d5184fd3f564e2234a1297b56" download="server" 
+		 name="Mekanism Generators" type="mods" version="6.0.4.44"
 		 depends="Mekanism"
 		 website="http://universalelectricity.com/mekanism" donation="http://universalelectricity.com/mekanism" authors="aidancbrady" description="Infinite water is infinite power!" />
-    <mod url="packs/ResonantRiseLite/files/LITE/MekanismTools-6.0.4.43.jar" file="MekanismTools-6.0.4.43.jar" md5="5f8cecdadae0cc4160087705cd28758c" download="server" 
-         name="Mekanism Tools" type="mods" version="6.0.4.43"
+    <mod url="packs/ResonantRiseLite/files/LITE/MekanismTools-6.0.4.44.jar" file="MekanismTools-6.0.4.44.jar" md5="fc104a84b88ee73a62846f8ff85f9d2b" download="server" 
+         name="Mekanism Tools" type="mods" version="6.0.4.44"
          depends="Mekanism"
 		 website="http://universalelectricity.com/mekanism" donation="http://universalelectricity.com/mekanism" authors="aidancbrady" description="Paxel perfect." />
 	<mod url="packs/ResonantRiseLite/files/LITE/MineFactoryReloaded-2.7.9-final.jar" file="MineFactoryReloaded-2.7.9-final.jar" md5="65f2499d749c18f8e9ca3b9cd0576da0" download="server" 
@@ -233,8 +238,8 @@
 		 type="mods"
 		 website="http://www.minecraftforum.net/topic/2210752-" authors="Dynious"
 		 description="Logistics for the timid novice." />
-	<mod name="Simply Jetpacks" version="0.2.0.1"
-		 url="packs/ResonantRiseLite/files/LITE/SimplyJetpacks-0.2.0.1.jar" file="SimplyJetpacks-0.2.0.1.jar" md5="1b362338e870ee48b92b3e679372b666" download="server" 
+	<mod name="Simply Jetpacks" version="0.3.0.0"
+		 url="packs/ResonantRiseLite/files/LITE/SimplyJetpacks-0.3.0.0.jar" file="SimplyJetpacks-0.3.0.0.jar" md5="83010cc454d0ddd4e36d3cb405bec125" download="server" 
 		 type="mods"
 		 website="http://www.minecraftforum.net/topic/2548594-" authors="tonius11"
 		 description="Jetpacks for Thermal Expansion." />
@@ -353,7 +358,7 @@
 		 website="http://resonant-rise.com"
 		 description="Server-specific configs for EiraIRC." />
 	<mod name="MineTweaker Server Patch" version="n/a"
-		 url="packs/ResonantRiseLite/files/config-switches/minetweaker_default_2.8.5.0.zip" file="minetweaker_default_2.8.5.0.zip" md5="853c51ad4d830553684d5ccc32d5f32f" download="server" 
+		 url="packs/ResonantRiseLite/files/config-switches/minetweaker_default_2.8.7.0.zip" file="minetweaker_default_2.8.7.0.zip" md5="6d6ce1b6f32962f18de04df224598972" download="server" 
 		 type="extract" extractto="root" client="no" server="yes"
 		 website="http://resonant-rise.com"
 		 description="This correctly applies the MineTweaker changes to servers." />
