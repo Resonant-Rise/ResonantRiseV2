@@ -1,0 +1,109 @@
+# Configuration file
+
+####################
+# block
+####################
+
+block {
+    I:Crafting=1356
+    I:Decoration=1352
+    I:DimensionalBridgeStabilizer=1353
+    I:Frame=1354
+    I:Portal=1355
+}
+
+
+####################
+# item
+####################
+
+item {
+    I:EntityCard=23525
+    I:Glasses=23521
+    I:HandheldScanner=23526
+    I:InPlaceUpgrade=23529
+    I:LocationCard=23523
+    I:Manual=23530
+    I:MiscItems=23527
+    I:Paintbrush=23522
+    I:PortalModule=23528
+    I:Synchronizer=23524
+    I:Wrench=23520
+}
+
+
+####################
+# misc
+####################
+
+misc {
+    B:ForceShowFrameOverlays=false
+    B:UseAlternateGlyphs=false
+}
+
+
+####################
+# mobs
+####################
+
+mobs {
+    I:CreeperID=1
+    I:EndermanID=0
+}
+
+
+####################
+# overrides
+####################
+
+overrides {
+    B:CustomNetherPortals=false
+    B:DisableNetherParticles=false
+    B:DisableNetherSounds=false
+    B:DisableParticles=false
+    B:DisablePortalSounds=false
+    B:DisableSounds=false
+    B:StopPigmenFromSpawningAtPortals=false
+}
+
+
+####################
+# portal
+####################
+
+portal {
+    B:FasterPortalCooldown=false
+    B:PortalsDestroyBlocks=true
+}
+
+
+####################
+# power
+####################
+
+power {
+    I:PowerMultiplier=1
+    B:RequirePower=true
+}
+
+
+####################
+# recipes
+####################
+
+recipes {
+    B:DisableTERecipes=false
+    B:DisableVanillaRecipes=false
+}
+
+
+####################
+# world
+####################
+
+world {
+    I:DimensionID=-10
+    I:WastelandID=50
+}
+
+
