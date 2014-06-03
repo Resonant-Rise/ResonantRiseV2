@@ -1,6 +1,0 @@
-{
-	"ID": "COOLANT",
-	"Fluids": [
-		{ "ID": "water", "Rarity": 1.0 }
-	]
-}
