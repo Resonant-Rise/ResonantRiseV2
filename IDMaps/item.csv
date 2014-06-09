@@ -820,6 +820,9 @@ ID,Block/Item,Mod,Unlocalised name,Class
 1730,Block,Metallurgy3Machines,tile.Metallurgy:machines/enchanter/Enchanter,rebelkeithy.mods.metallurgy.machines.enchanter.BlockMetallurgyEnchantmentTable
 1753,Block,MagicBees,tile.effectJar,magicbees.block.BlockEffectJar
 1754,Block,MagicBees,tile.hive,magicbees.block.BlockHive
+1837,Block,witchery,tile.witcheryTormentPortal,com.emoniph.witchery.blocks.BlockTormentPortal
+1838,Block,witchery,tile.witcheryRefillingChest,com.emoniph.witchery.blocks.BlockRefillingChest
+1839,Block,witchery,tile.witcheryForce,com.emoniph.witchery.blocks.BlockForce
 1840,Block,witchery,tile.witchery.wormwood,com.emoniph.witchery.blocks.BlockWitchCrop
 1841,Block,witchery,tile.witchery.witchsladder,com.emoniph.witchery.blocks.BlockFetish
 1842,Block,witchery,tile.witchery.trent,com.emoniph.witchery.blocks.BlockFetish
@@ -3249,6 +3252,8 @@ ID,Block/Item,Mod,Unlocalised name,Class
 15776,Item,gendustry,item.gendustry.protein.can,net.bdew.gendustry.fluids.ItemFluidCan
 15777,Item,gendustry,item.gendustry.HoneyComb,net.bdew.gendustry.custom.CustomHoneyComb
 15778,Item,gendustry,item.gendustry.HoneyDrop,net.bdew.gendustry.custom.CustomHoneyDrop
+15779,Item,gendustry,item.gendustry.EjectCover,net.bdew.gendustry.items.EjectCover
+15780,Item,gendustry,item.gendustry.ImportCover,net.bdew.gendustry.items.ImportCover
 15956,Item,flatsigns,item.sponge.wipe,myrathi.flatsigns.item.ItemSpongeWipe
 16279,Item,ProjRed|Core,item.projectred.core.wiredebugger,mrtjp.projectred.core.ItemWireDebugger
 16286,Item,ProjRed|Integration,item.projectred.integration.gate,mrtjp.projectred.integration.ItemPartGate
