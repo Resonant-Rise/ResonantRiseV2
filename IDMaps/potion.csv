@@ -76,4 +76,4 @@ ID,Unlocalised name,Class
 131,potion.toxin,icbm.explosion.potion.PoisonToxin
 132,potion.virus,icbm.explosion.potion.PoisonContagion
 133,potion.frostBite,icbm.explosion.potion.PoisonFrostBite
-288,Delirium,minechem.potion.PotionProvider
+256,Delirium,minechem.potion.PotionProvider
