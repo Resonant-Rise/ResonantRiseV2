@@ -520,6 +520,8 @@ ID,Block/Item,Mod,Unlocalised name,Class
 859,Block,ResonantInduction|Atomic,tile.resonantinduction:quantumAssembler,resonant.lib.content.module.BlockDummy
 860,Block,ResonantInduction|Atomic,tile.resonantinduction:toxicWaste,resonantinduction.atomic.fission.reactor.BlockToxicWaste
 890,Block,HardcoreQuesting,tile.hqmItemBarrel,hardcorequesting.blocks.BlockDelivery
+891,Block,HardcoreQuesting,tile.hqmQuestPortal,hardcorequesting.blocks.BlockPortal
+892,Block,HardcoreQuesting,tile.hqmQuestTracker,hardcorequesting.blocks.BlockTracker
 900,Block,AppliedEnergistics,tile.null,appeng.common.base.AppEngMultiBlock
 901,Block,AppliedEnergistics,tile.null,appeng.common.base.AppEngMultiBlock
 902,Block,AppliedEnergistics,tile.null,appeng.common.base.AppEngMultiBlock
@@ -871,6 +873,9 @@ ID,Block/Item,Mod,Unlocalised name,Class
 1730,Block,Metallurgy3Machines,tile.Metallurgy:machines/enchanter/Enchanter,rebelkeithy.mods.metallurgy.machines.enchanter.BlockMetallurgyEnchantmentTable
 1753,Block,MagicBees,tile.effectJar,magicbees.block.BlockEffectJar
 1754,Block,MagicBees,tile.hive,magicbees.block.BlockHive
+1834,Block,witchery,tile.witchery.mindrake,com.emoniph.witchery.blocks.BlockWitchCrop
+1835,Block,witchery,tile.witchery.decurseteleport,com.emoniph.witchery.blocks.BlockAreaMarker
+1836,Block,witchery,tile.witchery.decursedirected,com.emoniph.witchery.blocks.BlockAreaMarker
 1837,Block,witchery,tile.witcheryTormentPortal,com.emoniph.witchery.blocks.BlockTormentPortal
 1838,Block,witchery,tile.witcheryRefillingChest,com.emoniph.witchery.blocks.BlockRefillingChest
 1839,Block,witchery,tile.witcheryForce,com.emoniph.witchery.blocks.BlockForce
@@ -2775,6 +2780,7 @@ ID,Block/Item,Mod,Unlocalised name,Class
 10921,Item,witchery,item.witchery.deathsrobe,com.emoniph.witchery.item.ItemDeathsClothes
 10922,Item,witchery,item.witchery.deathsfeet,com.emoniph.witchery.item.ItemDeathsClothes
 10923,Item,witchery,item.witchery.deathshand,com.emoniph.witchery.item.ItemDeathsHand
+10924,Item,witchery,item.witchery.seedsmindrake,com.emoniph.witchery.item.ItemWitchSeeds
 11387,Item,MFFS,item.mffs:remoteController,mffs.item.ItemRemoteController
 11388,Item,MFFS,item.mffs:focusMatrix,mffs.base.ItemMFFS
 11389,Item,MFFS,item.mffs:modeCube,mffs.item.mode.ItemModeCube
