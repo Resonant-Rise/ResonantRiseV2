@@ -1836,6 +1836,8 @@ ID,Block/Item,Mod,Unlocalised name,Class
 3667,Block,RefinedRelocation,tile.sortingConnector,com.dynious.refinedrelocation.block.BlockSortingConnector
 3668,Block,RefinedRelocation,tile.sortingIronChest,com.dynious.refinedrelocation.block.BlockSortingIronChest
 3669,Block,RefinedRelocation,tile.powerLimiter,com.dynious.refinedrelocation.block.BlockPowerLimiter
+3671,Item,RefinedRelocation,item.relocator,com.dynious.refinedrelocation.part.ItemPartRelocator
+3672,Block,RefinedRelocation,tile.sortingPreciousChest,com.dynious.refinedrelocation.block.BlockSortingPreciousChest
 3701,Block,magicalcrops,tile.BlockInfusedClay,magicalcrops.blocks.BlockInfusedClay
 3702,Block,magicalcrops,tile.BlockLightBlock,magicalcrops.blocks.BlockLightBlock
 3703,Block,magicalcrops,tile.BlockInfusedWool,magicalcrops.blocks.BlockInfusedWool
@@ -2295,6 +2297,14 @@ ID,Block/Item,Mod,Unlocalised name,Class
 6054,Item,cfm,item.itempresentred,com.mrcrayfish.furniture.items.ItemPresent
 6055,Item,cfm,item.itempresentgreen,com.mrcrayfish.furniture.items.ItemPresent
 6056,Item,cfm,item.itemtree,com.mrcrayfish.furniture.items.ItemFurniturePlacer
+6059,Item,cfm,item.itemToilet,com.mrcrayfish.furniture.items.ItemFurniturePlacer
+6060,Item,cfm,item.itembasin,com.mrcrayfish.furniture.items.ItemFurniturePlacer
+6061,Item,cfm,item.itemwallcabient,com.mrcrayfish.furniture.items.ItemFurniturePlacer
+6062,Item,cfm,item.itembath,com.mrcrayfish.furniture.items.ItemBath
+6063,Item,cfm,item.itemshower,com.mrcrayfish.furniture.items.ItemFurniturePlacer
+6067,Item,cfm,item.itembin,com.mrcrayfish.furniture.items.ItemFurniturePlacer
+6068,Item,cfm,item.itemshowerhead,com.mrcrayfish.furniture.items.ItemFurniturePlacer
+6069,Item,cfm,item.itemcrayfish,net.minecraft.item.Item
 6256,Item,DartCraft,item.gemForce,bluedart.item.DartItem
 6257,Item,DartCraft,item.ingotForce,bluedart.item.DartItem
 6258,Item,DartCraft,item.goldenPower,bluedart.item.DartItem
@@ -2362,6 +2372,7 @@ ID,Block/Item,Mod,Unlocalised name,Class
 6600,Item,RefinedRelocation,item.linker,com.dynious.refinedrelocation.item.ItemLinker
 6601,Item,RefinedRelocation,item.playerRelocator,com.dynious.refinedrelocation.item.ItemPlayerRelocator
 6602,Item,RefinedRelocation,item.sortingUpgrade,com.dynious.refinedrelocation.item.ItemSortingUpgrade
+6603,Item,RefinedRelocation,item.relocatorModule,com.dynious.refinedrelocation.item.ItemRelocatorModule
 6740,Item,RandomThings,item.portableEnderPorter,lumien.randomthings.Items.ItemPortableEnderPorter
 6741,Item,RandomThings,item.whiteStone,lumien.randomthings.Items.ItemWhiteStone
 6742,Item,RandomThings,item.blockMover,lumien.randomthings.Items.ItemBlockMover
