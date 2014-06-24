@@ -1,6 +1,6 @@
 <version>
   <pack>
-    <version>2-DEV-154</version>
+    <version>2-DEV-155</version>
     <minecraft>1.6.4</minecraft>
     <memory>2048</memory>
     <permgen>256</permgen>
@@ -852,10 +852,10 @@
                  type="mods" server="no" optional="yes" recommended="yes"
                  website="http://www.minecraftforum.net/topic/184426-" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=6T5E6P8L7N6L6" authors="AtomicStryker"
                  description="At long last, intuitive torch gameplay!" />
-        <mod name="Hardcore Questing Mode" version="4.0.4"
-				 url="packs/ResonantRise/files/dev/HQM - The Journey (4.0.4).zip" file="HQM - The Journey (4.0.4).zip" md5="cb3b9d10ad87b2df69ee6217ff2ef153" download="server" 
+        <mod name="Hardcore Questing Mode" version="4.0.5"
+				 url="packs/ResonantRise/files/dev/HQM - The Journey (4.0.5).zip" file="HQM - The Journey (4.0.5).zip" md5="7a85476a3a8d59e58c94f14c4b01a4fa" download="server" 
 				 type="mods"
-				 website="" authors="lorddusk, Newcastlegeek, Vswe"
+				 website="http://minecraft.curseforge.com/mc-mods/77027-hardcore-questing-mode" authors="lorddusk, Newcastlegeek, Vswe"
 				 description="Custom quests for Minecraft!" />
 		<mod name="Hats" version="2.1.8"
 				 url="packs/ResonantRise/files/dev/Hats2.1.8.zip" file="Hats2.1.8.zip" md5="21982830153b53a12d5d970baeca226c" download="server" 
