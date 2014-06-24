@@ -1,6 +1,6 @@
 <version>
   <pack>
-    <version>2.8.7.3-RR-LITE</version>
+    <version>2.8.7.4-RR-LITE</version>
     <minecraft>1.6.4</minecraft>
     <memory>2048</memory>
     <permgen>256</permgen>
@@ -72,8 +72,8 @@
          name="Buildcraft" type="mods"  version="4.2.2"
          website="http://www.mod-buildcraft.com/" authors="SpaceToad, Krapht, SirSengir, CovertJaguar" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=KQWXKT6KK7SH4"
          description="Burning oil forever." />
-	<mod url="packs/ResonantRiseLite/files/LITE/Carpenters Blocks v2.1.0 - MC 1.6.zip" file="Carpenters Blocks v2.1.0 - MC 1.6.zip" md5="1003cbbea391326c83a26bcadb62ecb4" download="server" 
-         name="Carpenter's Blocks" type="mods" version="2.1.0"
+	<mod url="packs/ResonantRiseLite/files/LITE/Carpenters Blocks v2.1.2 - MC 1.6.zip" file="Carpenters Blocks v2.1.2 - MC 1.6.zip" md5="5ce4d53b7231d22f74f0213eece986dd" download="server" 
+         name="Carpenter's Blocks" type="mods" version="2.1.2"
          website="http://www.minecraftforum.net/topic/1790919-" authors="Mineshopper" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=YGAB8YNHMQPLQ&amp;lc=US&amp;item_name=Minecraft%20Modding&amp;currency_code=USD&amp;bn=PP%2dDonationsBF%3abtn_donate_SM%2egif%3aNonHosted"
          description="Angles!" />
     <mod name="Charlotte's Utilities" version="0.7.0"
@@ -137,8 +137,8 @@
          name="Forestry" type="mods"  version="2.3.1.1"
          website="http://forestry.sengir.net/wiki.new/" authors="SirSengir, MysteriousAges" donation="http://forestry.sengir.net/wiki.new/doku.php?id=main:downloads#donations"
          description="Bees, Trees, and Automate-ables."  />
-    <mod url="packs/ResonantRiseLite/files/LITE/JABBA_1.1.3.zip" file="JABBA_1.1.3.zip" md5="b6cbb7323baff9d3b9e47aafca222464" download="server" 
-         name="Jabba" type="mods" version="1.1.3"
+    <mod url="packs/ResonantRiseLite/files/LITE/JABBA_1.1.4.zip" file="JABBA_1.1.4.zip" md5="a3b8d75f6d6dc384475cc2bc0353e69f" download="server" 
+         name="Jabba" type="mods" version="1.1.4"
          website="http://profmobius.blogspot.fr/2013/11/jabba-100.html" authors="ProfMobius"
          donation="http://profmobius.blogspot.fr/"
          description="Just a Better Barrel Addon." />
@@ -191,17 +191,17 @@
          name="Obsidiplates" type="mods"  version="2.0.0.15"
          website="http://forum.feed-the-beast.com/threads/myrathis-mod-compendium.18505/" authors="Myrathi"
          description="Improved pressure plates. Creepers will never open your door again."  />
-    <mod url="packs/ResonantRiseLite/files/LITE/OpenBlocks-1.2.8.jar" file="OpenBlocks-1.2.8.jar" md5="551c6b2418ba4c38e2203996e14d82cb" download="server" 
-         name="OpenBlocks" type="mods" version="1.2.8"
+    <mod url="packs/ResonantRiseLite/files/LITE/OpenBlocks-1.2.9.jar" file="OpenBlocks-1.2.9.jar" md5="a7f3422784f6c39c7eb1a32407f42754" download="server" 
+         name="OpenBlocks" type="mods" version="1.2.9"
          website="http://openmods.info/" authors="Mikee, boq, OpenMods Team"
          description="An amazing open source mode that does amazing things." />
-	<mod name="OpenEye" version="0.5"
-		 url="packs/ResonantRiseLite/files/LITE/OpenEye-0.5-1.6.4.jar" file="OpenEye-0.5-1.6.4.jar" md5="22ef0386ca89c3d584a03f14d4a8bef7" download="server"
+	<mod name="OpenEye" version="0.6"
+		 url="packs/ResonantRiseLite/files/LITE/OpenEye-0.6-1.6.4.jar" file="OpenEye-0.6-1.6.4.jar" md5="0b7348c65071d426eae8d383702fb0fa" download="server" 
 		 type="mods" optional="yes" recommended="yes" selected="yes"
 		 website="http://openmods.info" authors="Mikee, boq, OpenMods Team"
 		 description="Issue tracker to help us find bugs faster (and assign blame correctly)!" />
-	<mod url="packs/ResonantRiseLite/files/LITE/OpenModsLib-0.5.jar" file="OpenModsLib-0.5.jar" md5="644a4ee36e40012f2aae3e3bebc60c90" download="server" 
-         name="OpenModsLib" type="mods" version="0.5"
+	<mod url="packs/ResonantRiseLite/files/LITE/OpenModsLib-0.5.1.jar" file="OpenModsLib-0.5.1.jar" md5="c480594b88e34140221718a0982a9719" download="server" 
+         name="OpenModsLib" type="mods" version="0.5.1"
          website="http://openmods.info/" authors="Mikee, boq, OpenMods Team"
          description="A new coremod for Open Mods!" />
 	<mod url="packs/ResonantRiseLite/files/LITE/Opis_1.2.2.zip" file="Opis_1.2.2.zip" md5="0fd82027b3d17c80eef0003139828268" download="server"
@@ -233,8 +233,8 @@
          version="1.5.1"
          website="http://minecraft.curseforge.com/mc-mods/redstone-paste/" authors="FyberOptic" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=XD2DPUTDZEW6U"
          description="Pastey." />
-    <mod name="Refined Relocation" version="1.0.4e"
-		 url="packs/ResonantRiseLite/files/LITE/RefinedRelocation-1.6.4-1.0.4e.jar" file="RefinedRelocation-1.6.4-1.0.4e.jar" md5="87ea9b34b451e7358c9214dc65680872" download="server" 
+    <mod name="Refined Relocation" version="1.0.5a"
+		 url="packs/ResonantRiseLite/files/LITE/RefinedRelocation-1.6.4-1.0.5a.jar" file="RefinedRelocation-1.6.4-1.0.5a.jar" md5="36ff160a4613f623b3fbd5978e8a9397" download="server" 
 		 type="mods"
 		 website="http://www.minecraftforum.net/topic/2210752-" authors="Dynious"
 		 description="Logistics for the timid novice." />
@@ -266,8 +266,8 @@
          website="http://www.minecraftforum.net/topic/1846244-152-waila-134-block-and-mod-info-ingame/" authors="ProfMobius"
          donation="http://profmobius.blogspot.fr/"
          description="What am I looking at?" />
-    <mod url="packs/ResonantRiseLite/files/LITE/witchery-1.6.4-0.19.1.zip" file="witchery-1.6.4-0.19.1.zip" md5="884d405a594d677075a62b700db8c477" download="server" 
-         name="Witchery" type="mods" version="0.19.1"
+    <mod url="packs/ResonantRiseLite/files/LITE/witchery-1.6.4-0.19.2.zip" file="witchery-1.6.4-0.19.2.zip" md5="915a0a95e38273aeffb8a6e33db9c4a8" download="server"
+         name="Witchery" type="mods" version="0.19.2"
          website="https://sites.google.com/site/witcherymod/home" authors="Emoniph" description="More magic with a witch's bent!"
          />
 
@@ -296,8 +296,8 @@
          version="3.4_01"
          website="http://www.minecraftforum.net/topic/482147-" authors="ReiFNSK"
          description="Multiple minimap options ahoy!" />
-	<mod name="TiC Tooltips" version="1.1.6"
-		 url="packs/ResonantRiseLite/files/CLIENT/TiCTooltips-mc1.6.4-1.1.6.jar" file="TiCTooltips-mc1.6.4-1.1.6.jar" md5="1bab57e74ff16e9b0471b236f5fe6bdf" download="server" 
+	<mod name="TiC Tooltips" version="1.1.7"
+		 url="packs/ResonantRiseLite/files/CLIENT/TiCTooltips-mc1.6.4-1.1.7.jar" file="TiCTooltips-mc1.6.4-1.1.7.jar" md5="ec9473d79a01ebb24e479f8d434e8247" download="server"
 		 type="mods" server="no"
 		 website="http://www.minecraftforum.net/topic/2509840-" authors="squeek502"
 		 description="The tooltips you've always wanted for your fancy tools!" />
