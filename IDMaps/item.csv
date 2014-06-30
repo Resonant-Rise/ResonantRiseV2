@@ -1372,6 +1372,7 @@ ID,Block/Item,Mod,Unlocalised name,Class
 2720,Block,ThermalExpansion,tile.thermalexpansion.fluid.cryotheum,thermalexpansion.fluid.BlockFluidCryotheum
 2722,Block,ThermalExpansion,tile.thermalexpansion.fluid.coal,thermalexpansion.fluid.BlockFluidCoal
 2730,Block,Redstone Arsenal,tile.redstonearsenal.storage,redstonearsenal.block.BlockStorage
+2735,Block,redstonearmory,tile.redstonearmory.enderium.gelid,main.redstonearmory.blocks.BlockIngotStorage
 2740,Block,BigReactors,tile.brOre,erogenousbeef.bigreactors.common.block.BlockBROre
 2741,Block,BigReactors,tile.yelloriumFuelRod,erogenousbeef.bigreactors.common.multiblock.block.BlockFuelRod
 2742,Block,BigReactors,tile.blockReactorPart,erogenousbeef.bigreactors.common.multiblock.block.BlockReactorPart
@@ -2373,6 +2374,7 @@ ID,Block/Item,Mod,Unlocalised name,Class
 6601,Item,RefinedRelocation,item.playerRelocator,com.dynious.refinedrelocation.item.ItemPlayerRelocator
 6602,Item,RefinedRelocation,item.sortingUpgrade,com.dynious.refinedrelocation.item.ItemSortingUpgrade
 6603,Item,RefinedRelocation,item.relocatorModule,com.dynious.refinedrelocation.item.ItemRelocatorModule
+6604,Item,RefinedRelocation,item.toolbox,com.dynious.refinedrelocation.item.ItemToolBox
 6740,Item,RandomThings,item.portableEnderPorter,lumien.randomthings.Items.ItemPortableEnderPorter
 6741,Item,RandomThings,item.whiteStone,lumien.randomthings.Items.ItemWhiteStone
 6742,Item,RandomThings,item.blockMover,lumien.randomthings.Items.ItemBlockMover
@@ -2387,6 +2389,7 @@ ID,Block/Item,Mod,Unlocalised name,Class
 6751,Item,RandomThings,item.filter,lumien.randomthings.Items.ItemFilter
 6752,Item,RandomThings,item.rtFlask,lumien.randomthings.Items.ItemFlask
 6856,Item,OpenComputers,oc:item,li.cil.oc.common.item.Delegator
+7118,Item,LogisticsPipes|Main,item.pipeController,logisticspipes.items.ItemPipeController
 7119,Item,LogisticsPipes|Main,item.brokenItem,logisticspipes.items.LogisticsBrokenItem
 7120,Item,LogisticsPipes|Main,item.logisticsFluidContainer,logisticspipes.items.LogisticsFluidContainer
 7121,Item,LogisticsPipes|Main,item.upgradeManagerItem,logisticspipes.items.LogisticsItem
@@ -2635,6 +2638,13 @@ ID,Block/Item,Mod,Unlocalised name,Class
 8761,Item,Redstone Arsenal,item.redstonearsenal.tool.pickaxe,redstonearsenal.item.tool.ItemPickaxeRF
 8762,Item,Redstone Arsenal,item.redstonearsenal.tool.axe,redstonearsenal.item.tool.ItemAxeRF
 8763,Item,Redstone Arsenal,item.redstonearsenal.tool.sickle,redstonearsenal.item.tool.ItemSickleRF
+8770,Item,redstonearmory,item.redstonearmory.material.gelidenderium,main.redstonearmory.items.ItemGelidEnderiumMaterials
+8771,Item,redstonearmory,item.redstonearmory.tool.gelidenderium.axe,main.redstonearmory.items.tools.ItemGelidEnderiumAxe
+8772,Item,redstonearmory,item.redstonearmory.tool.gelidenderium.battlewrench,main.redstonearmory.items.tools.ItemGelidEnderiumBattleWrench
+8773,Item,redstonearmory,item.redstonearmory.tool.gelidenderium.pickaxe,main.redstonearmory.items.tools.ItemGelidEnderiumPickaxe
+8774,Item,redstonearmory,item.redstonearmory.tool.gelidenderium.shovel,main.redstonearmory.items.tools.ItemGelidEnderiumShovel
+8775,Item,redstonearmory,item.redstonearmory.tool.gelidenderium.sickle,main.redstonearmory.items.tools.ItemGelidEnderiumSickle
+8776,Item,redstonearmory,item.redstonearmory.tool.gelidenderium.sword,main.redstonearmory.items.tools.ItemGelidEnderiumSword
 8781,Item,EnderIO,item.enderio.itemEnderface,crazypants.enderio.enderface.ItemEnderface
 8782,Item,EnderIO,item.enderio.itemConduitFacade,crazypants.enderio.conduit.facade.ItemConduitFacade
 8783,Item,EnderIO,item.enderIO:itemRedstoneConduit,crazypants.enderio.conduit.redstone.ItemRedstoneConduit
