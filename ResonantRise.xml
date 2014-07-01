@@ -1,6 +1,6 @@
 <version>
   <pack>
-    <version>2.8.7.4-RR-MAIN</version>
+    <version>2.8.7.5-RR-MAIN</version>
     <minecraft>1.6.4</minecraft>
     <memory>2048</memory>
     <permgen>256</permgen>
@@ -118,8 +118,8 @@
          version="1.1"
          website="http://www.bibliocraftmod.com/?page_id=50#bibliowoods" authors="Nuchaz"
          description="More wood colors for furniture."  />
-    <mod url="packs/ResonantRise/files/2.8/BigReactors-0.3.3A.jar" file="BigReactors-0.3.3A.jar" md5="83b6e888aea9dc3f484d6f985210cc5c" download="server" 
-         name="Big Reactors" type="mods" version="0.3.3A" optional="yes"
+    <mod url="packs/ResonantRise/files/2.8/BigReactors-0.3.4A2.jar" file="BigReactors-0.3.4A2.jar" md5="3a1651f3f1456d1ebddb1a2db444f6c0" download="server"
+         name="Big Reactors" type="mods" version="0.3.4A2" optional="yes"
          website="http://big-reactors.com/" authors="ErogenousBeef"
          description="Just in time for the 1.6.4 pack release! \o/" />
     <mod url="packs/ResonantRise/files/2.6/binnie-mods-1.8.0.jar" file="binnie-mods-1.8.0.jar" md5="67177d94f61104076432cf277631209a" download="server"
@@ -268,8 +268,8 @@
          website="http://forum.feed-the-beast.com/threads/myrathis-mod-compendium.18505/" authors="Myrathi"
          description="Signs on every surface."
          />
-    <mod name="Forbidden Magic" version="pr0.34"
-		 url="packs/ResonantRise/files/2.8/ForbiddenMagic pr0.34.jar" file="ForbiddenMagic pr0.34.jar" md5="af562ac8961867d9610a89f9a92f3a61" download="server" 
+    <mod name="Forbidden Magic" version="pr0.35a"
+		 url="packs/ResonantRise/files/2.8/ForbiddenMagic pr0.35a.jar" file="ForbiddenMagic pr0.35a.jar" md5="76ea15062c7b410f33739dedc9e5e7a6" download="server" 
 		 type="mods"
 		 website="http://www.minecraftforum.net/topic/2305054-" authors="SpitefulFox"
 		 description="Magic on the shadier side of the street for Thaumcraft!" />
@@ -277,13 +277,13 @@
          name="Forestry" type="mods"  version="2.3.1.1"
          website="http://forestry.sengir.net/wiki.new/" authors="SirSengir, MysteriousAges" donation="http://forestry.sengir.net/wiki.new/doku.php?id=main:downloads#donations"
          description="Bees, Trees, and Automate-ables."  />
-    <mod name="Galacticraft Core" version="2.0.13.1063"
-         url="packs/ResonantRise/files/2.8/Galacticraft-1.6.4-2.0.13.1063.jar" file="Galacticraft-1.6.4-2.0.13.1063.jar" md5="434ce2fceecf970b8981a358f71bc3dc" download="server" 
+    <mod name="Galacticraft Core" version="2.0.14.1084"
+         url="packs/ResonantRise/files/2.8/Galacticraft-1.6.4-2.0.14.1084.jar" file="Galacticraft-1.6.4-2.0.14.1084.jar" md5="9995c729e6989625acdee0b651c3f6a0" download="server"
          type="mods"
          website="http://www.micdoodle8.com/mods/galacticraft" donation="http://www.micdoodle8.com/" authors="micdoodle8"
          description="An advanced space travel mod for Minecraft 1.6" />
-    <mod name="Galacticraft Mars" version="2.0.13.1063"
-         url="packs/ResonantRise/files/2.8/Galacticraft-Planets-1.6.4-2.0.13.1063.jar" file="Galacticraft-Planets-1.6.4-2.0.13.1063.jar" md5="4da772de8619df383a385bc156445906" download="server" 
+    <mod name="Galacticraft Mars" version="2.0.14.1084"
+         url="packs/ResonantRise/files/2.8/Galacticraft-Planets-1.6.4-2.0.14.1084.jar" file="Galacticraft-Planets-1.6.4-2.0.14.1084.jar" md5="0d59d475e3ff9008dd6d3e2cb3f40a2e" download="server"
          type="mods"
          website="http://www.micdoodle8.com/mods/galacticraft" donation="http://www.micdoodle8.com/" authors="micdoodle8"
          description="Mars addon for Galacticraft." />
@@ -376,8 +376,8 @@
     <mod url="packs/ResonantRise/files/2-STABLE2/liquid-xp-57.1.2.jar" file="liquid-xp-57.1.2.jar" md5="74b3a1edae1362578f4141e9fd1d5e1e" download="server"
          name="Liquid XP" depends="ImmibisCore"  type="mods"
          version="57.1.2" website="http://www.minecraftforum.net/topic/1001131-162-immibiss-mods-smp-now-with-857-less-version-numbers-in-this-title/" authors="immibis" description="Advanced use of XP for auto-enchanting."  />
-    <mod url="packs/ResonantRise/files/2.8/LogisticsPipes-MC1.6.4-0.7.4.dev.247.jar" file="LogisticsPipes-MC1.6.4-0.7.4.dev.247.jar" md5="646d7d9fc8efe478e30204b611252552" download="server" 
-         name="Logistics Pipes" type="mods" version="0.7.4.dev.247" optional="yes" recommended="no"
+    <mod url="packs/ResonantRise/files/2.8/LogisticsPipes-MC1.6.4-0.7.4.dev.271.jar" file="LogisticsPipes-MC1.6.4-0.7.4.dev.271.jar" md5="b194186877251c4ac937057c5f487bc5" download="server"
+         name="Logistics Pipes" type="mods" version="0.7.4.dev.271" optional="yes" recommended="no"
          website="http://www.minecraftforum.net/topic/1831791-152buildcraft-logistics-pipes/" authors="theZorro266" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=HMEH9HF4Q2RFJ"
          description="Even more amazing pipes." />
     <mod name="Mad Science" version="1.00.165"
@@ -412,8 +412,8 @@
          name="Metallurgy" type="mods" version="3.3.2"
          website="http://www.minecraftforum.net/topic/744918-15x162forgesmp-metallurgy-putting-the-mine-back-in-minecraft/" authors="RebelKeithy, Shadowclaimer, Team Metallurgy" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=Shadowclaimer2%40gmail%2ecom&amp;lc=US&amp;item_name=Metallurgy%20Software%EF%BF%BDcy_code=USD&amp;bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted"
          description="A bit of this, a bit of that." />
-    <mod name="Micdoodle8 Core" version="2.0.12.1063"
-         url="packs/ResonantRise/files/2.8/MicdoodleCore-1.6.4-2.0.13.1063.jar" file="MicdoodleCore-1.6.4-2.0.13.1063.jar" md5="76f078aa70c1a4c2b9747ffd54f8cacd" download="server" 
+    <mod name="Micdoodle8 Core" version="2.0.14.1084"
+         url="packs/ResonantRise/files/2.8/MicdoodleCore-1.6.4-2.0.14.1084.jar" file="MicdoodleCore-1.6.4-2.0.14.1084.jar" md5="d10694e8c31b369b19507eb4bd68a641" download="server" 
          type="mods"
          website="http://www.micdoodle8.com/" donation="http://www.micdoodle8.com/" authors="micdoodle8"
          description="Galacticraft libraries!" />
@@ -432,8 +432,8 @@
 		 type="mods"
 		 website="http://www.minecraftforum.net/topic/1886008-" authors="Stan Hebben"
 		 description="Modpack and server tool enabling the addition and removal of recipes" />
-	<mod  url="packs/ResonantRise/files/2.8/MobiusCore_1.2.1.jar" file="MobiusCore_1.2.1.jar" md5="eb582b71cc8aa22dd1b620b07c913eba" download="server"
-         name="Mobius Core" type="mods" version="1.2.1"
+	<mod url="packs/ResonantRise/files/2.8/MobiusCore_1.2.2_1.6.4.jar" file="MobiusCore_1.2.2_1.6.4.jar" md5="8516cba3bfcd7b1eb2ccce9a37ffbd9a" download="server" 
+         name="Mobius Core" type="mods" version="1.2.2"
          website="http://www.minecraftforum.net/topic/2104497-" authors="ProfMobius"
          donation="http://profmobius.blogspot.fr/"
          description="The doctor's toolkit."
@@ -493,8 +493,8 @@
 		 type="mods"
 		 website="http://www.minecraftforum.net/topic/2201440-" authors="Sangar"
 		 description="Companion interface extension for OpenComputers." />
-	<mod name="OpenComputers" version="1.2.13.379"
-		 url="packs/ResonantRise/files/2.8/OpenComputers-MC1.6.4-1.2.13.379-universal.jar" file="OpenComputers-MC1.6.4-1.2.13.379-universal.jar" md5="15187b0b664f81adf145899cf99a2b1f" download="server" 
+	<mod name="OpenComputers" version="1.2.13.381"
+		 url="packs/ResonantRise/files/2.8/OpenComputers-MC1.6.4-1.2.13.381-universal.jar" file="OpenComputers-MC1.6.4-1.2.13.381-universal.jar" md5="ec252328777cebbf4a1ddd11bac095bb" download="server"
 		 type="mods"
 		 website="http://www.minecraftforum.net/topic/2201440-" authors="Sangar"
 		 description="Computers for hipsters and bytecode leethaxxors." />
@@ -584,8 +584,8 @@
          version="1.5.1"
          website="http://minecraft.curseforge.com/mc-mods/redstone-paste/" authors="FyberOptic" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=XD2DPUTDZEW6U"
          description="Pastey." />
-    <mod name="Refined Relocation" version="1.0.5a"
-		 url="packs/ResonantRise/files/2.8/RefinedRelocation-1.6.4-1.0.5a.jar" file="RefinedRelocation-1.6.4-1.0.5a.jar" md5="36ff160a4613f623b3fbd5978e8a9397" download="server" 
+    <mod name="Refined Relocation" version="1.0.5c"
+		 url="packs/ResonantRise/files/2.8/RefinedRelocation-1.6.4-1.0.5c.jar" file="RefinedRelocation-1.6.4-1.0.5c.jar" md5="01df3a61d65ca651b35b5a30ebe70862" download="server" 
 		 type="mods"
 		 website="http://www.minecraftforum.net/topic/2210752-" authors="Dynious"
 		 description="Logistics for the timid novice." />
@@ -606,8 +606,8 @@
          name="Simple Recycling" type="mods" version="57.2.0"
          website="http://www.minecraftforum.net/topic/1001131-" authors="immibis"
          description="Greg-free and easy." />
-	<mod name="Simply Jetpacks" version="0.3.0.0"
-		 url="packs/ResonantRise/files/2.8/SimplyJetpacks-0.3.0.0.jar" file="SimplyJetpacks-0.3.0.0.jar" md5="83010cc454d0ddd4e36d3cb405bec125" download="server" 
+	<mod name="Simply Jetpacks" version="0.3.1.1"
+		 url="packs/ResonantRise/files/2.8/SimplyJetpacks-0.3.1.1.jar" file="SimplyJetpacks-0.3.1.1.jar" md5="59075b5df08b84c63d73670fa0968aec" download="server"
 		 type="mods"
 		 website="http://www.minecraftforum.net/topic/2548594-" authors="tonius11"
 		 description="Jetpacks for Thermal Expansion." />
@@ -758,8 +758,8 @@
          version="3.4_01"
          website="http://www.minecraftforum.net/topic/482147-" authors="ReiFNSK"
          description="Multiple minimap options ahoy!" />
-	<mod name="TiC Tooltips" version="1.1.7"
-		 url="packs/ResonantRise/files/2.8/TiCTooltips-mc1.6.4-1.1.7.jar" file="TiCTooltips-mc1.6.4-1.1.7.jar" md5="ec9473d79a01ebb24e479f8d434e8247" download="server"
+	<mod name="TiC Tooltips" version="1.1.8"
+		 url="packs/ResonantRise/files/2.8/TiCTooltips-mc1.6.4-1.1.8.jar" file="TiCTooltips-mc1.6.4-1.1.8.jar" md5="742279dc6533d98b2edf8610f3515b95" download="server"
 		 type="mods" server="no"
 		 website="http://www.minecraftforum.net/topic/2509840-" authors="squeek502"
 		 description="The tooltips you've always wanted for your fancy tools!" />
@@ -768,8 +768,8 @@
          version="1.6.4"
          website="http://www.minecraftforum.net/topic/1116564-" authors="MamiyaOtaru"
          description="Velo's minimap of choice! Some consider it cheaty." />
-	<mod name="Waila Harvestability" version="1.0.2"
-		 url="packs/ResonantRise/files/2.8/WailaHarvestability-mc1.6.4-1.0.2.jar" file="WailaHarvestability-mc1.6.4-1.0.2.jar" md5="71e98f2c65b1c216bc0ba3a14b36f76e" download="server" 
+	<mod name="Waila Harvestability" version="1.0.3"
+		 url="packs/ResonantRise/files/2.8/WailaHarvestability-mc1.6.4-1.0.3.jar" file="WailaHarvestability-mc1.6.4-1.0.3.jar" md5="c8a20bffb950dbc8c956f48700f03cd3" download="server" 
 		 type="mods" server="no"
 		 website="http://www.minecraftforum.net/topic/2620834-" authors="squeek502"
 		 description="Can I mine this right now?" />
@@ -839,7 +839,7 @@
 		 type="extract" extractto="root" client="no" server="yes"
 		 website="http://resonant-rise.com"
 		 description="This correctly applies the MineTweaker changes to servers." />
-
+	
 
 	
   </mods>
