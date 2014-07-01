@@ -872,9 +872,9 @@
 				 type="mods" depends="Resonant Engine" optional="yes" recommended="no"
 				 website="http://calclavia.com/calclavia-core/" authors="Calclavia, UE Team" donation="http://universalelectricity.com/"
 				 description="Blow things up in style. No longer guaranteed to legitimately destroy worlds!" />
-        <mod name="JAMI [WARNING: PERMS NOT YET ACQUIRED]" version="1.0.13.122"
+        <mod name="JAMI" version="1.0.13.122"
 				 url="packs/ResonantRise/files/dev/JAMI-1.6.4-1.0.13.122.jar" file="JAMI-1.6.4-1.0.13.122.jar" md5="edc196f4f9c31ac1bf62695c79bbb18b" download="server"
-				 type="mods" optional="yes" recommended="no"
+				 type="mods"
 				 website="http://www.minecraftforum.net/topic/2500690-" authors="Samtrion, Sscchhmueptfter"
 				 description="Jammy welding gun to make the pack's mods more interoperable as a whole." />
 		<mod name="Morph" version="0.7.1"
