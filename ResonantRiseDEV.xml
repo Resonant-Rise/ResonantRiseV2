@@ -427,7 +427,7 @@
 	<mod name="MineChem" version="5.0.5-RC1"
 		 url="packs/ResonantRise/files/2.8/MineChem-5.0.5-RC1.jar" file="MineChem-5.0.5-RC1.jar" md5="006b09901d59703f724316c996b37069" download="server" 
 		 type="mods"
-		 website="http://www.minechemmod.com/joomla/" authors="pixlepix, jakimfett"
+		 website="http://jakimfett.com/minecraft/minechem/" donation="http://www.patreon.com/jakimfett" authors="pixlepix, jakimfett"
 		 description="Chemical industry in Minecraft!" />
 	<mod url="packs/ResonantRise/files/2.8/MineFactoryReloaded-2.7.9-final.jar" file="MineFactoryReloaded-2.7.9-final.jar" md5="65f2499d749c18f8e9ca3b9cd0576da0" download="server" 
          name="MineFactory Reloaded [Skyboy Fork]" type="mods" version="2.7.9-final"
@@ -534,7 +534,7 @@
    	<mod name="Particle Physics" version="1.0.1.20"
 		 url="packs/ResonantRise/files/2.8/ParticlePhysics-1.0.1.20.jar" file="ParticlePhysics-1.0.1.20.jar" md5="f3cb256ea5d2ab6ee40aa4fd72125319" download="server" 
 		 type="mods"
-		 website="http://www.minechemmod.com/joomla/" authors="jakimfett"
+		 website="http://jakimfett.com/minecraft/minechem/" donation="http://www.patreon.com/jakimfett" authors="pixlepix, jakimfett"
 		 description="Chemical collision in Minecraft!" />
 	<mod url="packs/ResonantRise/files/2.8/PluginsforForestry-1.6.4-3.2.30-hotfix.jar" file="PluginsforForestry-1.6.4-3.2.30-hotfix.jar" md5="2e707afa16e35138d3c41a2111639c4a" download="server"
          name="Plugins for Forestry" type="mods" version="3.2.30-hotfix"
