@@ -21,13 +21,20 @@
   </libraries>
 
   <mods>
-    <!-- Forge and MCPC -->
+    <!-- Forge and Cauldron -->
     <mod url="packs/ResonantRiseLite/files/forgelibs/forge-1.6.4-9.11.1.965-universal.jar" file="forge-1.6.4-9.11.1.965-universal.jar" md5="02efbef58dbd39fccead94777b611fce" download="server"
          name="Forge" type="forge" version="9.11.1.965" authors="LexManos, cpw and the many, many contributors!" website="http://www.minecraftforge.com" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=Z5MLLA62HSUM2" description="The Core." />
-    <mod url="packs/ResonantRiseLite/files/forgelibs/mcpc-plus-1.6.4-R2.1-forge965-B269.jar" file="mcpc-plus-1.6.4-R2.1-forge965-B269.jar" md5="2b5fe107c0e412c02a0e8c1c143c50e4" download="server"
-         name="Cauldron [formerly MCPC+]" type="mcpc" version="B269"
-         website="http://ci.md-5.net/job/MCPC-Plus/" authors="MCPC Team"
+    <mod url="packs/ResonantRiseLite/files/forgelibs/cauldron-1.6.4-1.965.21.83-server.jar" file="cauldron-1.6.4-1.965.21.83-server.jar" md5="4eb22ba46a5ea02cd0874f0364b4b32f" download="server" 
+         name="Cauldron [formerly MCPC+]"  version="1.965.21.83"
+		 type="mcpc" depends="Cauldron Libs"
+         website="http://cauldron.minecraftforge.net/" authors="Cauldron Team"
          description="Server superweapon! Hopefully not leaking your megahertz everywhere."
+         optional="yes" client="no" recommended="no" />
+	<mod url="packs/ResonantRiseLite/files/forgelibs/cauldron_libs_1.965.21.83.zip" file="cauldron_libs_1.965.21.83.zip" md5="27e9d5527914e88a6a8ae58bbba33827" download="server" 
+         name="Cauldron Libs"  version="1.965.21.83"
+		 type="extract" extractto="root"
+         website="http://cauldron.minecraftforge.net/" authors="Cauldron Team(?)"
+         description="Mandatory libraries for Cauldron; it won't run without these!"
          optional="yes" client="no" recommended="no" />
 	
 	<!-- Dependencies (as classed by ATL) -->
