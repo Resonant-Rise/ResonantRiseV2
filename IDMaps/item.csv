@@ -597,10 +597,8 @@ ID,Block/Item,Mod,Unlocalised name,Class
 1110,Block,arsmagica2,tile.arsmagica2:arcanereconstructor,am2.blocks.BlockArcaneReconstructor
 1111,Block,arsmagica2,tile.arsmagica2:blockastralbarrier,am2.blocks.BlockAstralBarrier
 1112,Block,arsmagica2,tile.arsmagica2:aum,am2.blocks.AMFlower
-1113,Block,arsmagica2,tile.arsmagica2:blockcaster,am2.blocks.BlockCaster
 1114,Block,arsmagica2,tile.arsmagica2:blue_orchid,am2.blocks.AMFlower
 1115,Block,arsmagica2,tile.arsmagica2:calefactor,am2.blocks.BlockCalefactor
-1116,Block,arsmagica2,tile.arsmagica2:casterRune,am2.blocks.BlockCasterRune
 1117,Block,arsmagica2,tile.arsmagica2:altarOfCreation,am2.blocks.BlockCraftingAltar
 1120,Block,arsmagica2,tile.arsmagica2:particleEmitter,am2.blocks.BlockParticleEmitter
 1121,Block,arsmagica2,tile.arsmagica2:desert_nova,am2.blocks.BlockDesertNova
@@ -649,6 +647,8 @@ ID,Block/Item,Mod,Unlocalised name,Class
 1170,Block,arsmagica2,tile.arsmagica2:inertSpawner,am2.blocks.BlockInertSpawner
 1171,Block,arsmagica2,tile.arsmagica2:obelisk,am2.blocks.BlockEssenceGenerator
 1172,Block,arsmagica2,tile.arsmagica2:wizardChalk,am2.blocks.BlockWizardsChalk
+1173,Block,arsmagica2,tile.arsmagica2:arcane_deconstructor,am2.blocks.BlockArcaneDeconstructor
+1174,Block,arsmagica2,tile.arsmagica2:flicker_lure,am2.blocks.BlockFlickerLure
 1225,Block,ComputerCraft,tile.cccomputer,dan200.computercraft.shared.computer.blocks.BlockComputer
 1226,Block,ComputerCraft,tile.ccperipheral,dan200.computercraft.shared.peripheral.common.BlockPeripheral
 1227,Block,ComputerCraft,tile.ccturtle,dan200.computercraft.shared.turtle.blocks.BlockTurtle
@@ -845,6 +845,7 @@ ID,Block/Item,Mod,Unlocalised name,Class
 1669,Block,technom,tile.techno:bloodDynamo,democretes.blocks.dynamos.BlockBloodDynamo
 1670,Block,technom,tile.techno:processorTC,democretes.blocks.machines.BlockProcessor.BlockTCProcessor
 1671,Block,technom,tile.techno:processorBM,democretes.blocks.machines.BlockProcessor.BlockBMProcessor
+1672,Block,technom,tile.technom:eldritchConsumer,democretes.blocks.machines.BlockEldritchConsumer
 1681,Block,MFFS,tile.mffs:forceField,mffs.block.BlockForceField
 1682,Block,MFFS,tile.mffs:coercionDeriver,mffs.block.BlockCoercionDeriver
 1683,Block,MFFS,tile.mffs:fortronCapacitor,mffs.block.BlockFortronCapacitor
@@ -1818,7 +1819,7 @@ ID,Block/Item,Mod,Unlocalised name,Class
 3580,Block,OpenComputers,tile.null,li.cil.oc.common.block.SimpleDelegator
 3581,Block,OpenComputers,tile.null,li.cil.oc.common.block.SimpleRedstoneDelegator
 3582,Block,OpenComputers,tile.null,li.cil.oc.common.block.SpecialDelegator
-3583,Block,OpenComputers,tile.null,null
+3583,Block,OpenComputers,tile.null,li.cil.oc.common.block.SpecialRedstoneDelegator
 3600,Block,gendustry,tile.gendustry.mutagen,net.bdew.gendustry.fluids.BlockFluid
 3602,Block,gendustry,tile.gendustry.mutagen.producer,net.bdew.gendustry.machines.mproducer.BlockMutagenProducer
 3603,Block,gendustry,tile.gendustry.mutatron,net.bdew.gendustry.machines.mutatron.BlockMutatron
@@ -2393,7 +2394,7 @@ ID,Block/Item,Mod,Unlocalised name,Class
 6750,Item,RandomThings,item.itemCrafting,lumien.randomthings.Items.ItemCrafting
 6751,Item,RandomThings,item.filter,lumien.randomthings.Items.ItemFilter
 6752,Item,RandomThings,item.rtFlask,lumien.randomthings.Items.ItemFlask
-6856,Item,OpenComputers,oc:item,li.cil.oc.common.item.Delegator
+6856,Item,OpenComputers,oc:item,null
 7118,Item,LogisticsPipes|Main,item.pipeController,logisticspipes.items.ItemPipeController
 7119,Item,LogisticsPipes|Main,item.brokenItem,logisticspipes.items.LogisticsBrokenItem
 7120,Item,LogisticsPipes|Main,item.logisticsFluidContainer,logisticspipes.items.LogisticsFluidContainer
@@ -3523,13 +3524,13 @@ ID,Block/Item,Mod,Unlocalised name,Class
 17503,Item,technom,item.null,democretes.items.ItemPen
 17504,Item,technom,item.null,democretes.items.ItemWandCores
 17505,Item,technom,item.null,democretes.items.ItemBMMaterial
-17507,Item,technom,item.null,democretes.items.ItemProcessedOre.ItemProcessedCopper
-17508,Item,technom,item.null,democretes.items.ItemProcessedOre.ItemProcessedGold
-17509,Item,technom,item.null,democretes.items.ItemProcessedOre.ItemProcessedIron
-17510,Item,technom,item.null,democretes.items.ItemProcessedOre.ItemProcessedLead
-17511,Item,technom,item.null,democretes.items.ItemProcessedOre.ItemProcessedNickel
-17512,Item,technom,item.null,democretes.items.ItemProcessedOre.ItemProcessedSilver
-17513,Item,technom,item.null,democretes.items.ItemProcessedOre.ItemProcessedTin
+17507,Item,technom,item.null,democretes.items.ItemProcessedOre
+17508,Item,technom,item.null,democretes.items.ItemProcessedOre
+17509,Item,technom,item.null,democretes.items.ItemProcessedOre
+17510,Item,technom,item.null,democretes.items.ItemProcessedOre
+17511,Item,technom,item.null,democretes.items.ItemProcessedOre
+17512,Item,technom,item.null,democretes.items.ItemProcessedOre
+17513,Item,technom,item.null,democretes.items.ItemProcessedOre
 17586,Item,Backpack,item.backpack,backpack.item.ItemBackpack
 17587,Item,Backpack,item.boundLeather,backpack.item.ItemLeather
 17588,Item,Backpack,item.tannedLeather,backpack.item.ItemLeather
