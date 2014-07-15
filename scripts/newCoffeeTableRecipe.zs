@@ -1,10 +1,10 @@
 #Replaces the default recipe for the Coffee Table from Furniture Mod with a new one.
 
-cTable = item.itemcoffeetablewood;
+val cTable = <item.itemcoffeetablewood>;
 
-minetweaker.remove(cTable);
+recipes.remove(cTable);
 
-slab = oreDict.slabWood;
-plank = oreDict.plankWood;
+val slab = <ore:slabWood>;
+val plank = <ore:plankWood>;
 
 recipes.addShaped(cTable, [[plank, slab, plank], [plank, null, plank]]);
