@@ -1,6 +1,6 @@
 <version>
   <pack>
-    <version>2-DEV-158</version>
+    <version>2-DEV-159</version>
     <minecraft>1.6.4</minecraft>
     <memory>2048</memory>
     <permgen>256</permgen>
@@ -24,8 +24,8 @@
     <!-- Forge and Cauldron -->
     <mod url="packs/ResonantRise/files/forgelibs/forge-1.6.4-9.11.1.965-universal.jar" file="forge-1.6.4-9.11.1.965-universal.jar" md5="02efbef58dbd39fccead94777b611fce" download="server"
          name="Forge" type="forge" version="9.11.1.965" authors="LexManos, cpw and the many, many contributors!" website="http://www.minecraftforge.com" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=Z5MLLA62HSUM2" description="The Core." />
-    <mod url="packs/ResonantRise/files/forgelibs/cauldron-1.6.4-1.965.21.83-server.jar" file="cauldron-1.6.4-1.965.21.83-server.jar" md5="4eb22ba46a5ea02cd0874f0364b4b32f" download="server" 
-         name="Cauldron [formerly MCPC+]"  version="1.965.21.83"
+    <mod url="packs/ResonantRise/files/forgelibs/cauldron-1.6.4-1.965.21.89-server.jar" file="cauldron-1.6.4-1.965.21.89-server.jar" md5="11168e1df5a27d180a8dcddb4ef95051" download="server" 
+         name="Cauldron [formerly MCPC+]"  version="1.965.21.89"
 		 type="mcpc" depends="Cauldron Libs"
          website="http://cauldron.minecraftforge.net/" authors="Cauldron Team"
          description="Server superweapon! Hopefully not leaking your megahertz everywhere."
@@ -61,8 +61,8 @@
 	<mod url="packs/ResonantRise/files/2-STABLE/denLibFiles.zip" file="denLibFiles.zip" md5="40bc48b1c3c81a51bcb27b03e5bc5e32" download="server"
          name="denLib Utils" type="extract" extractto="root" version="n/a"
 		 website="http://www.minecraftforum.net/topic/1253666-152forge-denoflions-mods-threads-condensed/" description="Because waiting five seconds is for suckers."  />
-	<mod name="Java 7 Checker" version="n/a"
-		 url="packs/ResonantRise/files/deps/Java7Checker.zip" file="Java7Checker.zip" md5="77c1c8a47aec076a807082e733460b74" download="server"
+	<mod name="Java 7 Checker" version="1.1"
+		 url="packs/ResonantRise/files/forgelibs/Java7Checker  MC-1.6.4  v1.1.jar" file="Java7Checker  MC-1.6.4  v1.1.jar" md5="e5a34ec97f0c7a820ce20cdcaebeb517" download="server" 
 		 type="mods"
 		 website="http://hardcore-enderdragon.wikia.com/wiki/Home" authors="chylex"
 		 description="Checks for Java 7. Should hopefully help with the fact that 90% of our bug reports are people trying to use Java 6." />
@@ -83,14 +83,19 @@
 		 type="mods"
 		 website="http://www.minecraftforum.net/topic/2079654-" authors="LycaonX"
 		 description="High-end tweaks and additions for Thaumcraft!" />
+	<mod name="AnimationAPI" version="1.1.2"
+		 url="packs/ResonantRise/files/dev/AnimationAPI v1.1.2 mc1.6.4.zip" file="AnimationAPI v1.1.2 mc1.6.4.zip" md5="84d2b1fee291b4006283afa3bf25d18d" download="server" 
+		 type="mods"
+		 website="http://www.minecraftforum.net/topic/1850860-" authors="thehippomaster21"
+		 description="A supporting mod that allows modders to make animations more easily. Now required for Ars Magica 2." />
 	<mod url="packs/ResonantRise/files/2-STABLE/appeng-rv14-finale3-mc16x.jar" file="appeng-rv14-finale3-mc16x.jar" md5="d10ac60e48a192760e76c1de3b0c73ed" download="server"
          name="Applied Energistics" optional="no" type="mods"
          version="rv14-finale3"
          website="http://ae-mod.info/" donation="http://ae-mod.info/" authors="AlgorithmX2"
          description="Zwip." />
-    <mod url="packs/ResonantRise/files/dev/AM2_1.2.0.017.jar" file="AM2_1.2.0.017.jar" md5="100a247a99d1f3192907221a971c8ee7" download="server"
+    <mod url="packs/ResonantRise/files/2.8/AM2_1.2.0.019.jar" file="AM2_1.2.0.019.jar" md5="09c0e615069a8fecd2fd9f5ef63dd63b" download="server"
          name="Ars Magica 2 [by Mithion]" optional="no" type="mods"
-         version="1.2.0.017"
+         version="1.2.0.019"
          website="http://www.minecraftforum.net/topic/2028696-ars-magica-2-162164-" authors="Mithion" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=AX7QDYVEP7E2J&amp;lc=CA&amp;item_name=Qor%20Concept%20Entertainment&amp;item_number=Ars%20Magica&amp;currency_code=CAD&amp;bn=PP%2dDonationsBF%3abtn_donate_LG%2egif%3aNonHosted"
          description="This one might creep you out. A comprehensive magic system." />
 	<mod url="packs/ResonantRise/files/2-STABLE/autoutils-1.6.4-1.0.1.jar" file="autoutils-1.6.4-1.0.1.jar" md5="a1ba0914e3b6047906214f3b63ba59d6" download="server" 
@@ -249,8 +254,8 @@
 		 type="mods" optional="yes"
 		 website="http://www.minecraftforum.net/topic/1981778-" authors="Erasmus_Crowley"
 		 description="Helper mod mainly used for SkyBlock type maps to help with SkyBlock maps" />
-	<mod url="packs/ResonantRise/files/2.8/ExtraCells-1.6.9d.jar" file="ExtraCells-1.6.9d.jar" md5="a6024bbe22edc1e7f2e021f214817739" download="server"
-         name="Extra Cells" depends="Applied Energistics"  type="mods" version="1.6.9d"
+	<mod url="packs/ResonantRise/files/2.8/ExtraCells-1.6.9e.jar" file="ExtraCells-1.6.9e.jar" md5="54b649f109ef1a04be4c051beecf2a65" download="server"
+         name="Extra Cells" depends="Applied Energistics"  type="mods" version="1.6.9e"
          website="http://www.minecraftforum.net/topic/1801643-m3gas-extracells-appliedenergistics-add-on/" authors="M3gaFr3ak"
          description="A massive expansion to Applied Energistics. Store fluids and more."  />
     <mod url="packs/ResonantRise/files/2.8/ExtraTiC-1.6.4-0.8.3.jar" file="ExtraTiC-1.6.4-0.8.3.jar" md5="d2299960ffdb34853eee8a1a91145b4e" download="server"
@@ -322,8 +327,8 @@
 		 url="packs/ResonantRise/files/2.8/growthcraft-cellar-1.6.4-2.0.7.zip" file="growthcraft-cellar-1.6.4-2.0.7.zip" md5="28c16c2107cbcbf2cdf65d3bd6e794b4" download="server"
 		 website="http://www.minecraftforum.net/topic/1510394-" authors="Gwafu"
 		 description="BREW YOUR OWN BEER. Need I say more?" />
-	<mod name="GrowthCraft [Core]" version="2.0.6" type="mods"
-		 url="packs/ResonantRise/files/2.8/growthcraft-core-1.6.4-2.0.6.zip" file="growthcraft-core-1.6.4-2.0.6.zip" md5="b8b48c199c9042a7c4b804c9ab09af31" download="server"  
+	<mod name="GrowthCraft [Core]" version="2.0.6a" type="mods"
+		 url="packs/ResonantRise/files/2.8/growthcraft-core-1.6.4-2.0.6a.zip" file="growthcraft-core-1.6.4-2.0.6a.zip" md5="1910d664d1aafae2d05c5ecec25fc450" download="server" 
 		 website="http://www.minecraftforum.net/topic/1510394-" authors="Gwafu"
 		 description="Farmhouse core files." />
 	<mod name="GrowthCraft [Fishtrap]" version="2.0.6a" type="mods"
@@ -383,8 +388,8 @@
     <mod url="packs/ResonantRise/files/2-STABLE2/liquid-xp-57.1.2.jar" file="liquid-xp-57.1.2.jar" md5="74b3a1edae1362578f4141e9fd1d5e1e" download="server"
          name="Liquid XP" depends="ImmibisCore"  type="mods"
          version="57.1.2" website="http://www.minecraftforum.net/topic/1001131-162-immibiss-mods-smp-now-with-857-less-version-numbers-in-this-title/" authors="immibis" description="Advanced use of XP for auto-enchanting."  />
-    <mod url="packs/ResonantRise/files/2.8/LogisticsPipes-MC1.6.4-0.7.4.dev.271.jar" file="LogisticsPipes-MC1.6.4-0.7.4.dev.271.jar" md5="b194186877251c4ac937057c5f487bc5" download="server"
-         name="Logistics Pipes" type="mods" version="0.7.4.dev.271" optional="yes" recommended="no"
+    <mod url="packs/ResonantRise/files/2.8/LogisticsPipes-MC1.6.4-0.7.4.dev.291.jar" file="LogisticsPipes-MC1.6.4-0.7.4.dev.291.jar" md5="9fb89bf23e5f4bdeea396e9cb9de773e" download="server"
+         name="Logistics Pipes" type="mods" version="0.7.4.dev.291" optional="yes" recommended="no"
          website="http://www.minecraftforum.net/topic/1831791-152buildcraft-logistics-pipes/" authors="theZorro266" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=HMEH9HF4Q2RFJ"
          description="Even more amazing pipes." />
     <mod name="Mad Science" version="1.00.165"
@@ -434,8 +439,8 @@
          website="http://www.minecraftforum.net/topic/2016680-162164-" authors="powercrystals, skyboy"
          description="Probably the greatest autofarming mod ever created."
          fileprefix="00000_" />
-    <mod name="MineTweaker" version="3.0.1"
-		 url="packs/ResonantRise/files/dev/MineTweaker3-1.6.4-3.0.1.jar" file="MineTweaker3-1.6.4-3.0.1.jar" md5="9e0356b97d371f4255bb487472f4e345" download="server" 
+    <mod name="MineTweaker" version="3.0.5"
+		 url="packs/ResonantRise/files/2.8/MineTweaker3-1.6.4-3.0.5.jar" file="MineTweaker3-1.6.4-3.0.5.jar" md5="b9bbec0487a588f7ad0c26c3e7f486a8" download="server" 
 		 type="mods"
 		 website="http://www.minecraftforum.net/topic/1886008-" authors="Stan Hebben"
 		 description="Modpack and server tool enabling the addition and removal of recipes" />
@@ -495,13 +500,13 @@
          name="OpenBlocks" type="mods" version="1.2.9"
          website="http://openmods.info/" authors="Mikee, boq, OpenMods Team"
          description="An amazing open source mode that does amazing things." />
-	<mod name="OpenComponents" version="0.1.2.43"
-		 url="packs/ResonantRise/files/2.8/OpenComponents-MC1.6.4-0.1.2.43-universal.jar" file="OpenComponents-MC1.6.4-0.1.2.43-universal.jar" md5="9f991adb5bee1e61517961d8dcd5f7e9" download="server" 
+	<mod name="OpenComponents" version="0.2.0.46"
+		 url="packs/ResonantRise/files/2.8/OpenComponents-MC1.6.4-0.2.0.46-universal.jar" file="OpenComponents-MC1.6.4-0.2.0.46-universal.jar" md5="99be7970c553cce828d41fd0dbe10a56" download="server" 
 		 type="mods"
 		 website="http://www.minecraftforum.net/topic/2201440-" authors="Sangar"
 		 description="Companion interface extension for OpenComputers." />
-	<mod name="OpenComputers" version="1.2.13.381"
-		 url="packs/ResonantRise/files/2.8/OpenComputers-MC1.6.4-1.2.13.381-universal.jar" file="OpenComputers-MC1.6.4-1.2.13.381-universal.jar" md5="ec252328777cebbf4a1ddd11bac095bb" download="server"
+	<mod name="OpenComputers" version="1.3.1.516"
+		 url="packs/ResonantRise/files/2.8/OpenComputers-MC1.6.4-1.3.1.516-universal.jar" file="OpenComputers-MC1.6.4-1.3.1.516-universal.jar" md5="84481d7af321227b663803b458cbb734" download="server"
 		 type="mods"
 		 website="http://www.minecraftforum.net/topic/2201440-" authors="Sangar"
 		 description="Computers for hipsters and bytecode leethaxxors." />
@@ -591,8 +596,8 @@
          version="1.5.1"
          website="http://minecraft.curseforge.com/mc-mods/redstone-paste/" authors="FyberOptic" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=XD2DPUTDZEW6U"
          description="Pastey." />
-    <mod name="Refined Relocation" version="1.0.5c"
-		 url="packs/ResonantRise/files/2.8/RefinedRelocation-1.6.4-1.0.5c.jar" file="RefinedRelocation-1.6.4-1.0.5c.jar" md5="01df3a61d65ca651b35b5a30ebe70862" download="server" 
+    <mod name="Refined Relocation" version="1.0.5e"
+		 url="packs/ResonantRise/files/2.8/RefinedRelocation-1.6.4-1.0.5e.jar" file="RefinedRelocation-1.6.4-1.0.5e.jar" md5="7c6d91643d762052b44ca1c4cc0649c0" download="server"
 		 type="mods"
 		 website="http://www.minecraftforum.net/topic/2210752-" authors="Dynious"
 		 description="Logistics for the timid novice." />
@@ -654,13 +659,14 @@
 		 type="mods"
 		 website="http://forum.feed-the-beast.com/threads/myrathis-mod-compendium.18505/" authors="Myrathi"
 		 description="Switches provides alternative switch designs and lever/switch piston-activation." />
-	<mod url="packs/ResonantRise/files/2.8/Sync2.2.2.zip" file="Sync2.2.2.zip" md5="ed0861bb688a3d5e883145a8ab3bdae2" download="server"
-         name="Sync" version="2.2.2" optional="yes"
+	<mod url="packs/ResonantRise/files/2.8/Sync2.2.3.zip" file="Sync2.2.3.zip" md5="f64a3c7c5306ad1ca98d59528015200a" download="server"
+         name="Sync" version="2.2.3" optional="yes"
          type="mods"
          website="http://ichun.us/mods/sync/" donation="http://pitchinbox.com/redirect.php?id=5757827081" authors="iChun" description="This mod provides clones, or as we like to call it, 'shells'. These shells are basically a new individual, with their own inventory, experience level, and even gamemode." />
-	<mod name="Technomancy" version="0.5.1"
-		 url="packs/ResonantRise/files/2.8/Technomancy 0.5.1.zip" file="Technomancy 0.5.1.zip" md5="4c37cb5d72a6a5672edca0ab43ea7c28" download="server"         type="mods"
-         website="http://www.minecraftforum.net/topic/2468149-" authors="Democretes"
+	<mod name="Technomancy" version="0.8.0"
+		 url="packs/ResonantRise/files/2.8/1.6 Technomancy 0.8.0.jar" file="1.6 Technomancy 0.8.0.jar" md5="a01bd6fb45691ccd7d5e28d318f5a320" download="server" 
+		 type="mods"
+         website="http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2127441-" authors="Democretes, theflogat"
          description="Technical applications of magical resources."/>
 	<mod url="packs/ResonantRise/files/2-STABLE2/Thaumcraft4.1.0g.zip" file="Thaumcraft4.1.0g.zip" md5="9760bb78fc71eb7f449bf3c8ad8cfb34" download="server" 
          name="Thaumcraft 4" version="4.1.0g"
@@ -716,8 +722,8 @@
          name="Underground Biomes" type="mods" optional="yes" version="0.4.2c"
          website="http://www.minecraftforum.net/topic/1593704-" authors="Grom PE"
          description="Turn that featureless grey stone into a horde of difficult-to-sort stones!" />
-    <mod url="packs/ResonantRise/files/2.8/Universal-Electricity-3.1.0.114-core.jar" file="Universal-Electricity-3.1.0.114-core.jar" md5="655615f95d0d8ec2583f4731a1343d37" download="server" 
-         name="Universal Electricity API" type="mods" version="3.1.0.114"
+    <mod url="packs/ResonantRise/files/2.8/Universal-Electricity-3.1.0.115-core.jar" file="Universal-Electricity-3.1.0.115-core.jar" md5="aaeb4d0f065de65bc068c9276efb67d6" download="server" 
+         name="Universal Electricity API" type="mods" version="3.1.0.115"
          website="http://universalelectricity.com/" authors="Calclavia, tgame14, UE Team" donation="http://universalelectricity.com/"
          description="Base for all UE mods."
          fileprefix="00000_" />
@@ -765,8 +771,8 @@
          version="3.4_01"
          website="http://www.minecraftforum.net/topic/482147-" authors="ReiFNSK"
          description="Multiple minimap options ahoy!" />
-	<mod name="TiC Tooltips" version="1.1.8"
-		 url="packs/ResonantRise/files/2.8/TiCTooltips-mc1.6.4-1.1.8.jar" file="TiCTooltips-mc1.6.4-1.1.8.jar" md5="742279dc6533d98b2edf8610f3515b95" download="server"
+	<mod name="TiC Tooltips" version="1.1.8a"
+		 url="packs/ResonantRise/files/2.8/TiCTooltips-mc1.6.4-1.1.8a.jar" file="TiCTooltips-mc1.6.4-1.1.8a.jar" md5="2233dd23b5f76d7e44f6faa565497019" download="server"
 		 type="mods" server="no"
 		 website="http://www.minecraftforum.net/topic/2509840-" authors="squeek502"
 		 description="The tooltips you've always wanted for your fancy tools!" />
@@ -775,8 +781,8 @@
          version="1.6.4"
          website="http://www.minecraftforum.net/topic/1116564-" authors="MamiyaOtaru"
          description="Velo's minimap of choice! Some consider it cheaty." />
-	<mod name="Waila Harvestability" version="1.0.3"
-		 url="packs/ResonantRise/files/2.8/WailaHarvestability-mc1.6.4-1.0.3.jar" file="WailaHarvestability-mc1.6.4-1.0.3.jar" md5="c8a20bffb950dbc8c956f48700f03cd3" download="server" 
+	<mod name="Waila Harvestability" version="1.0.4"
+		 url="packs/ResonantRise/files/2.8/WailaHarvestability-mc1.6.4-1.0.4.jar" file="WailaHarvestability-mc1.6.4-1.0.4.jar" md5="1d4007aee35fc2ef0eaa6486045d9398" download="server" 
 		 type="mods" server="no"
 		 website="http://www.minecraftforum.net/topic/2620834-" authors="squeek502"
 		 description="Can I mine this right now?" />
@@ -785,14 +791,6 @@
 
 
     <!-- Remote Downloads (General) -->
-    <mod name="AnimationAPI" version="1.1.2"
-		 url="http://www.minecraftforum.net/topic/1850860-"
-		 file="AnimationAPI v1.1.2 mc1.6.4.zip"
-		 md5="84d2b1fee291b4006283afa3bf25d18d"
-		 download="browser"
-		 type="mods"
-		 website="http://www.minecraftforum.net/topic/1850860-" authors="thehippomaster21"
-		 description="A supporting mod that allows modders to make animations more easily. Now required for Ars Magica 2." />
 	<mod url="http://minecraft.curseforge.com/mc-mods/51195-railcraft/files/775935/download"
          md5="83C9166BEDF370B7CB393ECA8A8C9C7F"
          file="Railcraft_1.6.4-8.4.0.0.jar"
@@ -811,12 +809,12 @@
         <!-- One mode MUST be a default. -->
 		<!-- Power Settings -->
 	<mod name="Game Mode: Make Powergen Fun" version="n/a"
-		 url="packs/ResonantRise/files/config-switches/power_fun_2.8.5.0.zip" file="power_fun_2.8.5.0.zip" md5="edcce71f7d6b9fe71bb053e64d40bb29" download="server" 
+		 url="packs/ResonantRise/files/config-switches/power_fun_2.9.2.1.zip" file="power_fun_2.9.2.1.zip" md5="5ee6863a7ebca1a8812b2fd2d0439313" download="server" 
 		 type="extract" extractto="root" optional="no" selected="yes" recommended="yes"
 		 website="http://resonant-rise.com"
 		 description="Fun power mode increases the output of reactors by 5-11x. Build a reactor and stop worrying!" />
 	<mod name="Game Mode: Make Powergen Fair" version="n/a"
-		 url="packs/ResonantRise/files/config-switches/power_fair_2.8.5.0.zip" file="power_fair_2.8.5.0.zip" md5="6b4c02bceb2113d31bd762d42e515e85" download="server" 
+		 url="packs/ResonantRise/files/config-switches/power_fair_2.9.2.1.zip" file="power_fair_2.9.2.1.zip" md5="6981148cb630ab2a1947597e0e7c2b71" download="server"
 		 type="extract" extractto="root" optional="yes" selected="no" recommended="no"
 		 website="http://resonant-rise.com"
 		 description="Standard power settings." />
@@ -849,11 +847,6 @@
 		 type="extract" extractto="root" client="no" server="yes"
 		 website="http://resonant-rise.com"
 		 description="Server-specific configs for EiraIRC." />
-	<mod name="MineTweaker Server Patch" version="n/a"
-		 url="packs/ResonantRise/files/config-switches/minetweaker_default_2.8.7.3.zip" file="minetweaker_default_2.8.7.3.zip" md5="8c69de8e36f56894a1056126b0045be9" download="server" 
-		 type="extract" extractto="root" client="no" server="yes"
-		 website="http://resonant-rise.com"
-		 description="This correctly applies the MineTweaker changes to servers." />
 	
 	<!-- Dev-Only -->
 		<!-- Contains mods not intended for use in release builds, for reference and development purposes. -->
@@ -892,8 +885,8 @@
 				 type="mods"
 				 website="http://www.minecraftforum.net/topic/2500690-" authors="Samtrion, Sscchhmueptfter"
 				 description="Jammy welding gun to make the pack's mods more interoperable as a whole." />
-		<mod name="Morph" version="0.7.1"
-				 url="packs/ResonantRise/files/dev/Morph-Beta-0.7.1.zip" file="Morph-Beta-0.7.1.zip" md5="9271b81d01c7b80de3f1e89580902b1e" download="server"
+		<mod name="Morph" version="0.7.2"
+				 url="packs/ResonantRise/files/2.8/Morph-Beta-0.7.2.zip" file="Morph-Beta-0.7.2.zip" md5="1fc85ac98a349532b1a1a05e07077294" download="server"
 				 type="mods" optional="yes" recommended="no"
 				 website="http://ichun.us/" donation="http://pitchinbox.com/redirect.php?id=5757827081" authors="iChun"
 				 description="Morph mod, made for ModJam 2. Allows players to acquire the morph skill and turn into other mobs." />
