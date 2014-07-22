@@ -636,7 +636,7 @@
 		 description="Stone age fun and frolics." />
 	<mod name="Resonant Induction [Atomic]" version="0.3.1.369"
 		 url="packs/YogscastCompletePack/files/mods/Resonant-Induction-0.3.1.369-atomic.jar" file="Resonant-Induction-0.3.1.369-atomic.jar" md5="0fdef515c85b9f479b9f32f88639bf58" download="server" 
-		 type="mods" depends="Resonant Induction" optional="yes" selected="yes" recommended="yes"
+		 type="mods" depends="Resonant Induction" optional="no" selected="yes" recommended="yes"
 		 website="http://calclavia.com/calclavia-core/" authors="Calclavia, UE Team" donation="http://universalelectricity.com/"
 		 description="Who needs rocks when you have plasma and particle accelerators?" />
 	<mod name="Resonant Induction [Electrical]" version="0.3.1.369"
