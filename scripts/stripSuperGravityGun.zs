@@ -1,3 +1,3 @@
 #Removes the uncrafting recipe for the Supercharged Gravity Gun to close an exploit.
 
-minetweaker.remove(<15446:1>);
+recipes.remove(<item.GraviGun:1>);
