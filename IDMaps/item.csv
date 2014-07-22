@@ -2312,6 +2312,7 @@ ID,Block/Item,Mod,Unlocalised name,Class
 6067,Item,cfm,item.itembin,com.mrcrayfish.furniture.items.ItemFurniturePlacer
 6068,Item,cfm,item.itemshowerhead,com.mrcrayfish.furniture.items.ItemFurniturePlacer
 6069,Item,cfm,item.itemcrayfish,net.minecraft.item.Item
+6070,Item,cfm,item.itemmoney,net.minecraft.item.Item
 6256,Item,DartCraft,item.gemForce,bluedart.item.DartItem
 6257,Item,DartCraft,item.ingotForce,bluedart.item.DartItem
 6258,Item,DartCraft,item.goldenPower,bluedart.item.DartItem
