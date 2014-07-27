@@ -2014,7 +2014,6 @@ ID,Block/Item,Mod,Unlocalised name,Class
 4066,Block,eng_toolbox,tile.emasher_frame,emasher.sockets.pipes.BlockFrame
 4067,Block,eng_toolbox,tile.emasher_direction_changer,emasher.sockets.pipes.BlockDirectionChanger
 4068,Block,eng_toolbox,tile.emasher_mini_portal,emasher.sockets.pipes.BlockMiniPortal
-4069,Block,TrussMod,tile.TrussMod:BlockMovingStrip,rainwarrior.trussmod.BlockMovingStrip
 4070,Block,eng_toolbox,tile.modular_socket,emasher.sockets.BlockSocket
 4071,Block,eng_toolbox,tile.tempRS,emasher.sockets.BlockTempRS
 4072,Block,eng_toolbox,tile.paintedPlanks,emasher.sockets.BlockPaintedWood
@@ -2025,8 +2024,6 @@ ID,Block/Item,Mod,Unlocalised name,Class
 4077,Block,eng_toolbox,tile.energy_pipe,emasher.sockets.pipes.BlockEnergyPipe
 4078,Block,eng_toolbox,tile.emasher_MJ_adapter,emasher.sockets.pipes.BlockMJAdapter
 4079,Block,eng_toolbox,tile.emasher_EU_adapter,emasher.sockets.pipes.BlockEUAdapter
-4080,Block,TrussMod,tile.TrussMod:BlockMotor,rainwarrior.trussmod.BlockMotor
-4081,Block,TrussMod,tile.TrussMod:BlockFrame,rainwarrior.trussmod.BlockFrame
 4083,Block,SSR,tile.SoulCage,SoulSReborn.gameObjs.SoulCage
 4084,Block,HatStand,tile.wood,hats.addons.hatstand.common.block.BlockHatStand
 4085,Block,GregsLighting,tile.gcewing_lighting:floodlight,gcewing.lighting.BlockFloodlight

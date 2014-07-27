@@ -30,6 +30,36 @@ ID,Unlocalised name,Class
 30,potion.fluxtaint,thaumcraft.common.items.PotionFluxTaint
 32,potion.paralysis,biomesoplenty.potions.PotionParalysis
 33,potion.possession,biomesoplenty.potions.PotionPossession
+50,Water Breathing,am2.buffs.ArsMagicaPotion
+51,Flight,am2.buffs.ArsMagicaPotion
+52,Feather Fall,am2.buffs.ArsMagicaPotion
+53,Haste,am2.buffs.ArsMagicaPotion
+54,True Sight,am2.buffs.ArsMagicaPotion
+55,Regeneration,am2.buffs.ArsMagicaPotion
+56,Magic Shield,am2.buffs.ArsMagicaPotion
+57,Charmed,am2.buffs.ArsMagicaPotion
+58,Frost Slow,am2.buffs.ArsMagicaPotion
+59,Chrono Anchor,am2.buffs.ArsMagicaPotion
+60,Mana Regen,am2.buffs.ArsMagicaPotion
+61,Entangled,am2.buffs.ArsMagicaPotion
+62,Watery Grave,am2.buffs.ArsMagicaPotion
+63,Spell Reflect,am2.buffs.ArsMagicaPotion
+64,Silence,am2.buffs.ArsMagicaPotion
+65,Swift Swim,am2.buffs.ArsMagicaPotion
+66,Agility,am2.buffs.ArsMagicaPotion
+67,Leap,am2.buffs.ArsMagicaPotion
+68,Mana Boost,am2.buffs.ArsMagicaPotion
+69,Astral Distortion,am2.buffs.ArsMagicaPotion
+70,Mana Shield,am2.buffs.ArsMagicaPotion
+71,Fury,am2.buffs.ArsMagicaPotion
+72,Scramble Synapses,am2.buffs.ArsMagicaPotion
+73,Illuminated,am2.buffs.ArsMagicaPotion
+74,Greater Mana Restoration,am2.buffs.ManaPotion
+75,Epic Mana Restoration,am2.buffs.ManaPotion
+76,Legendary Mana Restoration,am2.buffs.ManaPotion
+77,Gravity Well,am2.buffs.ArsMagicaPotion
+78,Levitation,am2.buffs.ArsMagicaPotion
+79,Clarity,am2.buffs.ArsMagicaPotion
 80,rtImbue.imbuePoison,lumien.randomthings.PotionEffects.ImbuePoison
 81,rtImbue.imbueWeakness,lumien.randomthings.PotionEffects.ImbueWeakness
 82,rtImbue.imbueWither,lumien.randomthings.PotionEffects.ImbueWither
@@ -45,35 +75,4 @@ ID,Unlocalised name,Class
 109,Fire Fuse,WayofTime.alchemicalWizardry.common.PotionFireFuse
 110,grc.potion.tipsy,growthcraft.cellar.potion.PotionCellar
 111,Planar Binding,WayofTime.alchemicalWizardry.common.PotionPlanarBinding
-256,Water Breathing,am2.buffs.ArsMagicaPotion
-257,Flight,am2.buffs.ArsMagicaPotion
-258,Feather Fall,am2.buffs.ArsMagicaPotion
-259,Haste,am2.buffs.ArsMagicaPotion
-260,True Sight,am2.buffs.ArsMagicaPotion
-261,Regeneration,am2.buffs.ArsMagicaPotion
-262,Magic Shield,am2.buffs.ArsMagicaPotion
-263,Charmed,am2.buffs.ArsMagicaPotion
-264,Frost Slow,am2.buffs.ArsMagicaPotion
-265,Chrono Anchor,am2.buffs.ArsMagicaPotion
-266,Mana Regen,am2.buffs.ArsMagicaPotion
-267,Entangled,am2.buffs.ArsMagicaPotion
-268,Watery Grave,am2.buffs.ArsMagicaPotion
-269,Spell Reflect,am2.buffs.ArsMagicaPotion
-270,Silence,am2.buffs.ArsMagicaPotion
-271,Swift Swim,am2.buffs.ArsMagicaPotion
-272,Agility,am2.buffs.ArsMagicaPotion
-273,Leap,am2.buffs.ArsMagicaPotion
-274,Mana Boost,am2.buffs.ArsMagicaPotion
-275,Astral Distortion,am2.buffs.ArsMagicaPotion
-276,Mana Shield,am2.buffs.ArsMagicaPotion
-277,Fury,am2.buffs.ArsMagicaPotion
-278,Scramble Synapses,am2.buffs.ArsMagicaPotion
-279,Illuminated,am2.buffs.ArsMagicaPotion
-280,Greater Mana Restoration,am2.buffs.ManaPotion
-281,Epic Mana Restoration,am2.buffs.ManaPotion
-282,Legendary Mana Restoration,am2.buffs.ManaPotion
-283,Gravity Well,am2.buffs.ArsMagicaPotion
-284,Levitation,am2.buffs.ArsMagicaPotion
-285,Clarity,am2.buffs.ArsMagicaPotion
-286,Shrunken,am2.buffs.ArsMagicaPotion
-320,Delirium,minechem.potion.PotionProvider
+256,Delirium,minechem.potion.PotionProvider
