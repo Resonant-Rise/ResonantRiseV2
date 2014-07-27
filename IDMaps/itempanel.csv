@@ -1,1 +1,136 @@
 Item ID,Item meta,Has NBT,Display Name
+52,3,false,Monster Spawner
+3880,0,false,Sulfur Ore
+3881,0,false,Glass Pressure Plate
+3882,0,false,Glass Button
+3883,0,false,Proximity Detector
+3884,0,false,Spikes
+3884,1,false,Poison Spikes
+3884,2,false,Flammable Spikes
+3885,0,false,Camouflage
+3886,0,false,Concrete
+3886,1,false,Compact Concrete
+3886,2,false,Reinforced Concrete
+3887,0,false,Reinforced Glass
+3888,0,false,Reinforced Rail
+3889,0,true,Gun Turret
+3889,0,true,Laser Turret
+3889,0,true,Crossbow Turret
+3889,0,true,Railgun
+3889,0,true,Anti-Aircraft Turret
+3890,0,false,Turret Platform
+3891,0,false,Condensed Explosives
+3891,1,false,Shrapnel Explosives
+3891,2,false,Incendiary Explosives
+3891,3,false,Debilitation Explosives
+3891,4,false,Chemical Explosives
+3891,5,false,Anvil Explosives
+3891,6,false,Repulsive Explosives
+3891,7,false,Attractive Explosives
+3891,8,false,Fragmentation Explosives
+3891,9,false,Contagious Explosives
+3891,10,false,Sonic Explosives
+3891,11,false,Breaching Explosives
+3891,12,false,Rejuvenation Explosives
+3891,13,false,Thermobaric Explosives
+3891,14,false,S-Mine
+3891,15,false,Nuclear Explosives
+3891,16,false,EMP Explosives
+3891,17,false,Exothermic Explosives
+3891,18,false,Endothermic Explosives
+3891,19,false,Anti-Gravitational Explosives
+3891,20,false,Ender Explosives
+3891,21,false,Hypersonic Explosives
+3891,22,false,Antimatter Explosives
+3891,23,false,Red Matter Explosives
+3892,0,false,Launcher Platform T1
+3892,1,false,Launcher Platform T2
+3892,2,false,Launcher Platform T3
+3892,3,false,Launcher Control Panel T1
+3892,4,false,Launcher Control Panel T2
+3892,5,false,Launcher Control Panel T3
+3892,6,false,Launcher Support Frame T1
+3892,7,false,Launcher Support Frame T2
+3892,8,false,Launcher Support Frame T3
+3892,9,false,Radar Station
+3892,10,false,EMP Tower
+3892,11,false,Cruise Launcher
+3892,12,false,Missile Coordinator
+3893,0,false,Missile Assembler
+19501,0,false,Tactical Interface
+19502,0,false,Shell Casing
+19502,1,false,20mm Shell
+19502,2,false,Railgun Slug
+19502,3,false,Antimatter Slug
+19502,4,false,Creative Ammo
+19503,0,false,Targeting Range Upgrade
+19503,1,false,Shell Collector
+19503,2,false,Weapon Silencer
+19503,3,false,Targeting CPU
+19504,0,false,Conventional Missile
+19504,1,false,Shrapnel Missile
+19504,2,false,Incendiary Missile
+19504,3,false,Debilitation Missile
+19504,4,false,Chemical Missile
+19504,5,false,Anvil Missile
+19504,6,false,Repulsive Missile
+19504,7,false,Attractive Missile
+19504,8,false,Fragmentation Missile
+19504,9,false,Contagious Missile
+19504,10,false,Sonic Missile
+19504,11,false,Breaching Missile
+19504,12,false,Rejuvenation Missile
+19504,13,false,Thermobaric Missile
+19504,15,false,Nuclear Missile
+19504,16,false,EMP Missile
+19504,17,false,Exothermic Missile
+19504,18,false,Endothermic Missile
+19504,19,false,Anti-Gravitational Missile
+19504,20,false,Ender Missile
+19504,21,false,Hypersonic Missile
+19504,22,false,Antimatter Missile
+19504,23,false,Red Matter Missile
+19504,24,false,Missile Module
+19504,25,false,Homing Missile
+19504,26,false,Anti-ballistic Missile
+19504,27,false,Cluster Missile
+19504,28,false,Nuclear Cluster Missile
+19505,100,true,Defuser
+19505,0,true,Defuser
+19506,100,true,Radar Gun
+19506,0,true,Radar Gun
+19507,100,true,Remote Detonator
+19507,0,true,Remote Detonator
+19508,100,true,Laser Designator
+19508,0,true,Laser Designator
+19509,100,true,Rocket Launcher
+19509,0,true,Rocket Launcher
+19510,0,false,Conventional Grenade
+19510,1,false,Shrapnel Grenade
+19510,2,false,Incendiary Grenade
+19510,3,false,Debilitation Grenade
+19510,4,false,Chemical Grenade
+19510,5,false,Anvil Grenade
+19510,6,false,Repulsive Grenade
+19510,7,false,Attractive Grenade
+19511,0,false,Explosive Cart
+19511,1,false,Shrapnel Minecart
+19511,2,false,Incendiary Minecart
+19511,3,false,Debilitation Minecart
+19511,4,false,Chemical Minecart
+19511,5,false,Anvil Minecart
+19511,6,false,Repulsive Minecart
+19511,7,false,Attractive Minecart
+19511,8,false,Fragmentation Minecart
+19511,9,false,Contagious Minecart
+19511,10,false,Sonic Minecart
+19511,11,false,Breaching Minecart
+19511,12,false,Rejuvenation Minecart
+19511,13,false,Thermobaric Minecart
+19512,100,true,Signal Disrupter
+19512,0,true,Signal Disrupter
+19513,0,false,Antidote
+19514,1,false,Saltpeter
+19515,0,false,Poison Powder
+19516,100,true,Tracker
+19516,0,true,Tracker
