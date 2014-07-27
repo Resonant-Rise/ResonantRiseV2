@@ -1,6 +1,6 @@
 <version>
   <pack>
-    <version>2.9.2.2-RR-MAIN</version>
+    <version>2.9.2.3-RR-MAIN</version>
     <minecraft>1.6.4</minecraft>
     <memory>2048</memory>
     <permgen>256</permgen>
@@ -88,9 +88,9 @@
          version="rv14-finale3"
          website="http://ae-mod.info/" donation="http://ae-mod.info/" authors="AlgorithmX2"
          description="Zwip." />
-    <mod url="packs/ResonantRise/files/mods/AM2_1.2.0.021.jar" file="AM2_1.2.0.021.jar" md5="05b121d6954bce0b171c7aad64264ea0" download="server" 
+    <mod url="packs/ResonantRise/files/mods/AM2_1.2.0.022.jar" file="AM2_1.2.0.022.jar" md5="6ddf3b0bdb0d97772907decf26f063e4" download="server" 
          name="Ars Magica 2 [by Mithion]" optional="no" type="mods"
-         version="1.2.0.021"
+         version="1.2.0.022"
          website="http://www.minecraftforum.net/topic/2028696-ars-magica-2-162164-" authors="Mithion" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=AX7QDYVEP7E2J&amp;lc=CA&amp;item_name=Qor%20Concept%20Entertainment&amp;item_number=Ars%20Magica&amp;currency_code=CAD&amp;bn=PP%2dDonationsBF%3abtn_donate_LG%2egif%3aNonHosted"
          description="This one might creep you out. A comprehensive magic system." />
 	<mod url="packs/ResonantRise/files/mods/autoutils-1.6.4-1.0.1.jar" file="autoutils-1.6.4-1.0.1.jar" md5="a1ba0914e3b6047906214f3b63ba59d6" download="server" 
@@ -626,12 +626,12 @@
          description="Base for all Calclavia team mods."  />
 	<mod name="Resonant Induction" version="0.3.1.369"
 		 url="packs/ResonantRise/files/mods/Resonant-Induction-0.3.1.369-Resonant-Induction Core.jar" file="Resonant-Induction-0.3.1.369-Resonant-Induction Core.jar" md5="bbdad17416ba3628b5e4e30cd361566a" download="server" 
-		 type="mods" depends="Resonant Engine"
+		 type="mods" depends="Resonant Engine" optional="yes"
 		 website="http://calclavia.com/calclavia-core/" authors="Calclavia, UE Team" donation="http://universalelectricity.com/"
 		 description="The bulwark of electricity of the universal persuasion." />
 	<mod name="Resonant Induction [Archaic]" version="0.3.1.369"
 		 url="packs/ResonantRise/files/mods/Resonant-Induction-0.3.1.369-archaic.jar" file="Resonant-Induction-0.3.1.369-archaic.jar" md5="d2af1067a272d7632924d7878f7e017c" download="server" 
-		 type="mods" depends="Resonant Induction"
+		 type="mods" depends="Resonant Induction" optional="yes"
 		 website="http://calclavia.com/calclavia-core/" authors="Calclavia, UE Team" donation="http://universalelectricity.com/"
 		 description="Stone age fun and frolics." />
 	<mod name="Resonant Induction [Atomic]" version="0.3.1.369"
@@ -641,12 +641,12 @@
 		 description="Who needs rocks when you have plasma and particle accelerators?" />
 	<mod name="Resonant Induction [Electrical]" version="0.3.1.369"
 		 url="packs/ResonantRise/files/mods/Resonant-Induction-0.3.1.369-electrical.jar" file="Resonant-Induction-0.3.1.369-electrical.jar" md5="0e697efdfac2ad509fdd6f16fd51f6d0" download="server" 
-		 type="mods" depends="Resonant Induction"
+		 type="mods" depends="Resonant Induction" optional="yes"
 		 website="http://calclavia.com/calclavia-core/" authors="Calclavia, UE Team" donation="http://universalelectricity.com/"
 		 description="Tesla coil shenanigans." />
 	<mod name="Resonant Induction [Mechanical]" version="0.3.1.369"
 		 url="packs/ResonantRise/files/mods/Resonant-Induction-0.3.1.369-mechanical.jar" file="Resonant-Induction-0.3.1.369-mechanical.jar" md5="786ac28def7e1f7b9b86377c01fb0b16" download="server"
-		 type="mods" depends="Resonant Induction"
+		 type="mods" depends="Resonant Induction" optional="yes"
 		 website="http://calclavia.com/calclavia-core/" authors="Calclavia, UE Team" donation="http://universalelectricity.com/"
 		 description="Good times with gears." />
 	<mod url="packs/ResonantRise/files/mods/rcDusts-0.0.6d.zip" file="rcDusts-0.0.6d.zip" md5="809f22811df064620ad2ce47f9bff62b" download="server"
