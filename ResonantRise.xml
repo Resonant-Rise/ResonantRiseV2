@@ -626,7 +626,7 @@
          description="Base for all Calclavia team mods."  />
 	<mod name="Resonant Induction" version="0.3.1.369"
 		 url="packs/ResonantRise/files/mods/Resonant-Induction-0.3.1.369-Resonant-Induction Core.jar" file="Resonant-Induction-0.3.1.369-Resonant-Induction Core.jar" md5="bbdad17416ba3628b5e4e30cd361566a" download="server" 
-		 type="mods" depends="Resonant Engine" optional="yes"
+		 type="mods" depends="Resonant Engine" optional="yes" selected="yes" recommended="yes"
 		 website="http://calclavia.com/calclavia-core/" authors="Calclavia, UE Team" donation="http://universalelectricity.com/"
 		 description="The bulwark of electricity of the universal persuasion." />
 	<mod name="Resonant Induction [Archaic]" version="0.3.1.369"
