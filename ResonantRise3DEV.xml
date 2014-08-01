@@ -1,6 +1,6 @@
 <version>
     <pack>
-        <version>3-DEV-004</version>
+        <version>3-DEV-005</version>
         <minecraft>1.7.10</minecraft>
         <memory>2048</memory>
         <permgen>256</permgen>
@@ -256,7 +256,7 @@
 
         <mod name="Waila" version="1.5.3" authors="ProfMobius" optional="yes" url="packs/ResonantRise/files/3.x/Waila-1.5.3_1.7.10.jar" file="Waila-1.5.3_1.7.10.jar" md5="187285fe5abd467e55c90151d1fc9fc7" download="server" type="mods" website="http://minecraft.curseforge.com/mc-mods/73488-waila/files" description="Waila (What Am I Looking At) is a UI improvement mod aimed at providing block information directly ingame, without the need of opening an UI." />
 
-        <mod authors="squeek502" description="Can I mine this right now?" optional="yes" download="server" file="WailaHarvestability-mc1.6.4-1.0.4.jar" md5="1d4007aee35fc2ef0eaa6486045d9398" name="Waila Harvestability" server="no" type="mods" url="packs/ResonantRise/files/3.x/WailaHarvestability-mc1.6.4-1.0.4.jar"  version="1.0.4" website="http://www.minecraftforum.net/topic/2620834-"/>
+        <mod authors="squeek502" description="Can I mine this right now?" optional="yes" download="server" file="WailaHarvestability-mc1.7.x-1.0.4.jar" md5="9fa9da38782e5f039eb716871b78eaf8" name="Waila Harvestability" server="no" type="mods" url="packs/ResonantRise/files/3.x/WailaHarvestability-mc1.7.x-1.0.4.jar"   version="1.0.4" website="http://www.minecraftforum.net/topic/2620834-"/>
 
         <!-- Remote Downloads (General) -->
 
