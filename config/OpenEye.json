@@ -23,7 +23,7 @@
             "value": false
         },
         "tags": {
-            "value": []
+            "value": ["RR UNRELEASED BUILD", "RR 3-DEV-005"]
         },
         "sentCrashReportsLimit": {
             "comment": "Maximum number of crash reports from single category sent per single run",

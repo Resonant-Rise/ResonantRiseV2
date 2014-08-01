@@ -24,3 +24,21 @@ ID,Unlocalised name,Class
 23,potion.saturation,net.minecraft.potion.PotionHealth
 31,potion.paralysis,biomesoplenty.common.potions.PotionParalysis
 32,potion.possession,biomesoplenty.common.potions.PotionPossession
+80,imbue.poison,lumien.randomthings.Potions.PotionImbue
+81,imbue.weakness,lumien.randomthings.Potions.PotionImbue
+82,imbue.wither,lumien.randomthings.Potions.PotionImbue
+83,imbue.experience,lumien.randomthings.Potions.PotionImbue
+84,imbue.fire,lumien.randomthings.Potions.PotionImbue
+85,imbue.spectre,lumien.randomthings.Potions.PotionImbue
+100,Drowning,WayofTime.alchemicalWizardry.common.potion.PotionDrowning
+101,Boost,WayofTime.alchemicalWizardry.common.potion.PotionBoost
+102,Whirlwind,WayofTime.alchemicalWizardry.common.potion.PotionProjectileProtect
+103,Inhibit,WayofTime.alchemicalWizardry.common.potion.PotionInhibit
+104,Flight,WayofTime.alchemicalWizardry.common.potion.PotionFlight
+105,Reciprocation,WayofTime.alchemicalWizardry.common.potion.PotionReciprocation
+106,Flame Cloak,WayofTime.alchemicalWizardry.common.potion.PotionFlameCloak
+107,Ice Cloak,WayofTime.alchemicalWizardry.common.potion.PotionIceCloak
+108,Heavy Heart,WayofTime.alchemicalWizardry.common.potion.PotionHeavyHeart
+109,Fire Fuse,WayofTime.alchemicalWizardry.common.potion.PotionFireFuse
+110,grc.potion.tipsy,growthcraft.cellar.potion.PotionCellar
+111,Planar Binding,WayofTime.alchemicalWizardry.common.potion.PotionPlanarBinding
