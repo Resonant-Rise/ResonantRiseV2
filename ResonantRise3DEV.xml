@@ -1,6 +1,6 @@
 <version>
     <pack>
-        <version>3-DEV-002</version>
+        <version>3-DEV-004</version>
         <minecraft>1.7.10</minecraft>
         <memory>2048</memory>
         <permgen>256</permgen>
@@ -36,7 +36,7 @@
        
         <mod authors="Eloraam,FlowerChild,Hawkye,MALfunction84,Scokeev9,SpaceToad,LexManos,cpw" description="Minecraft Forge is a modding API used by alot of mods." donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=Z5MLLA62HSUM2" download="server" version="10.13.0.1187" url="packs/ResonantRise/files/forgelibs/forge-1.7.10-10.13.0.1187-universal.jar" file="forge-1.7.10-10.13.0.1187-universal.jar" md5="952b91abbcfa4691d218617cac40f3ba" name="Minecraft Forge" type="forge" website="http://www.minecraftforge.net/forum/"/>
        
-        <mod description="Forge with bukkit support" download="server" file="cauldron-1.7.10-1.1187.01.127-server.jar" md5="36aca765ff41a4c418053d1e68045a20" name="" type="mods" url="packs/ResonantRise/files/forgelibs/cauldron-1.7.10-1.1187.01.127-server.jar" version="1.1187.01.127" website=""/>
+        <mod description="Forge with bukkit support" download="server" file="cauldron-1.7.10-1.1187.01.127-server.jar" md5="36aca765ff41a4c418053d1e68045a20" name="Cauldron" type="mods" url="packs/ResonantRise/files/forgelibs/cauldron-1.7.10-1.1187.01.127-server.jar" version="1.1187.01.127" website=""/>
        
         <mod authors="Cauldron Team(?)" client="no" description="Mandatory libraries for Cauldron; it won't run without these!" download="server" extractto="root" file="cauldron_libs-1.1187.01.127.zip" md5="274df3ed22ad08345a0aa725ddcabba6" name="Cauldron Libs" optional="yes" recommended="no" type="extract" url="packs/ResonantRise/files/forgelibs/cauldron_libs-1.1187.01.127.zip" version="1.1187.01.127" website="http://cauldron.minecraftforge.net/"/>
         <!-- Dependencies (as classed by ATL) -->
